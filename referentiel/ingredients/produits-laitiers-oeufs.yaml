@@ -5,31 +5,32 @@
 famille: produits-laitiers-oeufs
 ingredients:
   - {id: produit_laitier, nom: produit laitier, allergenes: [lait], alias_fr: [produits laitiers, laitage, laitages], alias_en: [dairy, dairy products]}
-  - {id: lait, nom: lait, parent: produit_laitier, alias_fr: [lait entier, lait demi-écrémé, lait écrémé, lait de vache], alias_en: [milk, whole milk]}
+  - {id: lait, nom: lait, parent: produit_laitier, alias_fr: [lait entier, lait demi-écrémé, lait écrémé, lait de vache], alias_en: [milk, whole milk], ciqual: 19041}
   - {id: creme, nom: crème, parent: produit_laitier, alias_en: [cream]}
-  - {id: creme_fraiche, nom: crème fraîche, parent: creme, alias_fr: [crème fraîche épaisse, crème épaisse, crème fraîche légère], alias_en: [crème fraîche, sour cream]}
-  - {id: creme_liquide, nom: crème liquide, parent: creme, alias_fr: [crème fleurette, crème entière liquide, crème semi-épaisse], alias_en: [heavy cream, whipping cream, single cream, double cream]}
-  - {id: beurre, nom: beurre, parent: produit_laitier, alias_fr: [beurre doux, beurre demi-sel, beurre salé, beurre fondu], alias_en: [butter]}
-  - {id: yaourt, nom: yaourt, parent: produit_laitier, alias_fr: [yaourts, yogourt, yaourt nature, yaourt grec], alias_en: [yogurt, yoghurt, greek yogurt]}
-  - {id: fromage_blanc, nom: fromage blanc, parent: produit_laitier, alias_fr: [faisselle, petit-suisse], alias_en: [fromage frais, quark]}
+  - {id: creme_fraiche, nom: crème fraîche, parent: creme, alias_fr: [crème fraîche épaisse, crème épaisse, crème fraîche légère], alias_en: [crème fraîche, sour cream], ciqual: 19410}
+  - {id: creme_liquide, nom: crème liquide, parent: creme, alias_fr: [crème fleurette, crème entière liquide, crème semi-épaisse], alias_en: [heavy cream, whipping cream, single cream, double cream], ciqual: 19415}
+  - {id: beurre, nom: beurre, parent: produit_laitier, alias_fr: [beurre doux, beurre demi-sel, beurre salé, beurre fondu], alias_en: [butter], ciqual: 16400}
+  - {id: yaourt, nom: yaourt, parent: produit_laitier, alias_fr: [yaourts, yogourt, yaourt nature, yaourt grec], alias_en: [yogurt, yoghurt, greek yogurt], ciqual: 19593}
+  - {id: fromage_blanc, nom: fromage blanc, parent: produit_laitier, alias_fr: [faisselle, petit-suisse], alias_en: [fromage frais, quark], ciqual: 19646}
 
   - {id: fromage, nom: fromage, parent: produit_laitier, alias_fr: [fromages], alias_en: [cheese]}
-  - {id: parmesan, nom: parmesan, parent: fromage, alias_fr: [parmigiano reggiano, parmesan râpé, grana padano], alias_en: [parmigiano, parmesan cheese], sensoriel: {odeur_forte: true}}
-  - {id: pecorino, nom: pecorino, parent: fromage, alias_fr: [pecorino romano], alias_en: [pecorino cheese], sensoriel: {odeur_forte: true}}
-  - {id: emmental, nom: emmental, parent: fromage, alias_fr: [emmenthal], alias_en: [emmental cheese, swiss cheese]}
-  - {id: comte, nom: comté, parent: fromage, alias_en: [comte cheese]}
-  - {id: gruyere, nom: gruyère, parent: fromage, alias_en: [gruyere cheese]}
-  - {id: mozzarella, nom: mozzarella, parent: fromage, alias_fr: [mozzarella di bufala, burrata], alias_en: [mozzarella cheese], sensoriel: {textures: [elastique]}}
-  - {id: cheddar, nom: cheddar, parent: fromage, alias_en: [cheddar cheese]}
-  - {id: chevre, nom: fromage de chèvre, parent: fromage, alias_fr: [chèvre, bûche de chèvre, crottin de chèvre, chèvre frais], alias_en: [goat cheese, goat's cheese], sensoriel: {odeur_forte: true}}
-  - {id: feta, nom: feta, parent: fromage, alias_fr: [féta], alias_en: [feta cheese]}
-  - {id: roquefort, nom: roquefort, parent: fromage, alias_fr: [bleu, bleu d'Auvergne, fourme d'Ambert, gorgonzola], alias_en: [blue cheese], sensoriel: {odeur_forte: true, piquant: 1}}
-  - {id: camembert, nom: camembert, parent: fromage, alias_fr: [brie], alias_en: [camembert cheese, brie cheese], sensoriel: {odeur_forte: true, textures: [cremeux]}}
-  - {id: reblochon, nom: reblochon, parent: fromage, alias_en: [reblochon cheese], sensoriel: {odeur_forte: true}}
-  - {id: ricotta, nom: ricotta, parent: fromage, alias_en: [ricotta cheese], sensoriel: {textures: [granuleux]}}
-  - {id: mascarpone, nom: mascarpone, parent: fromage, alias_en: [mascarpone cheese], sensoriel: {textures: [cremeux]}}
+  - {id: parmesan, nom: parmesan, parent: fromage, alias_fr: [parmigiano reggiano, parmesan râpé, grana padano], alias_en: [parmigiano, parmesan cheese], sensoriel: {odeur_forte: true}, ciqual: 12120}
+  - {id: pecorino, nom: pecorino, parent: fromage, alias_fr: [pecorino romano], alias_en: [pecorino cheese], sensoriel: {odeur_forte: true}, ciqual: 12122}
+  - {id: emmental, nom: emmental, parent: fromage, alias_fr: [emmenthal], alias_en: [emmental cheese, swiss cheese], ciqual: 12115}
+  - {id: comte, nom: comté, parent: fromage, alias_en: [comte cheese], ciqual: 12110}
+  - {id: gruyere, nom: gruyère, parent: fromage, alias_en: [gruyere cheese], ciqual: 12114}
+  - {id: mozzarella, nom: mozzarella, parent: fromage, alias_fr: [mozzarella di bufala, burrata], alias_en: [mozzarella cheese], sensoriel: {textures: [elastique]}, ciqual: 19590}
+  - {id: cheddar, nom: cheddar, parent: fromage, alias_en: [cheddar cheese], ciqual: 12726}
+  - {id: chevre, nom: fromage de chèvre, parent: fromage, alias_fr: [chèvre, bûche de chèvre, crottin de chèvre, chèvre frais], alias_en: [goat cheese, goat's cheese], sensoriel: {odeur_forte: true}, ciqual: 12812}
+  - {id: feta, nom: feta, parent: fromage, alias_fr: [féta], alias_en: [feta cheese], ciqual: 12066}
+  - {id: roquefort, nom: roquefort, parent: fromage, alias_fr: [bleu, bleu d'Auvergne, fourme d'Ambert, gorgonzola], alias_en: [blue cheese], sensoriel: {odeur_forte: true, piquant: 1}, ciqual: 12500}
+  - {id: camembert, nom: camembert, parent: fromage, alias_fr: [brie], alias_en: [camembert cheese, brie cheese], sensoriel: {odeur_forte: true, textures: [cremeux]}, ciqual: 12001}
+  - {id: reblochon, nom: reblochon, parent: fromage, alias_en: [reblochon cheese], sensoriel: {odeur_forte: true}, ciqual: 12045}
+  - {id: ricotta, nom: ricotta, parent: fromage, alias_en: [ricotta cheese], sensoriel: {textures: [granuleux]}, ciqual: 19585}
+  - {id: mascarpone, nom: mascarpone, parent: fromage, alias_en: [mascarpone cheese], sensoriel: {textures: [cremeux]}, ciqual: 19584}
   - id: fromage_rape
     nom: fromage râpé
+    ciqual: 12118
     parent: fromage
     alias_fr: [râpé, fromage râpé spécial gratin, mélange de fromages râpés]
     alias_en: [grated cheese, shredded cheese]
@@ -37,6 +38,6 @@ ingredients:
     composition_variable: true
     note: Sachet générique. Union des fromages courants et de l'antiagglomérant (fécule).
 
-  - {id: oeuf, nom: œuf, allergenes: [oeufs], alias_fr: [oeuf, œufs, oeufs, œuf entier, œuf de poule], alias_en: [egg, eggs]}
-  - {id: jaune_d_oeuf, nom: jaune d'œuf, parent: oeuf, alias_fr: [jaune d'oeuf, jaunes d'œufs, jaunes d'oeufs], alias_en: [egg yolk, egg yolks]}
-  - {id: blanc_d_oeuf, nom: blanc d'œuf, parent: oeuf, alias_fr: [blanc d'oeuf, blancs d'œufs, blancs d'oeufs], alias_en: [egg white, egg whites]}
+  - {id: oeuf, nom: œuf, allergenes: [oeufs], alias_fr: [oeuf, œufs, oeufs, œuf entier, œuf de poule], alias_en: [egg, eggs], ciqual: 22000}
+  - {id: jaune_d_oeuf, nom: jaune d'œuf, parent: oeuf, alias_fr: [jaune d'oeuf, jaunes d'œufs, jaunes d'oeufs], alias_en: [egg yolk, egg yolks], ciqual: 22002}
+  - {id: blanc_d_oeuf, nom: blanc d'œuf, parent: oeuf, alias_fr: [blanc d'oeuf, blancs d'œufs, blancs d'oeufs], alias_en: [egg white, egg whites], ciqual: 22001}

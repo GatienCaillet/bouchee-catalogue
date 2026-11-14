@@ -104,6 +104,18 @@ def charger_allergenes(dossier: Path = DOSSIER_REFERENTIEL) -> dict[str, str]:
     return {a["code"]: a["nom"] for a in brut["allergenes"]}
 
 
+FICHIER_CIQUAL = RACINE / "sources" / "ciqual2020" / "aliments.tsv"
+
+
+def charger_codes_ciqual(fichier: Path = FICHIER_CIQUAL) -> dict[str, str]:
+    """Codes et noms des aliments de la table CIQUAL 2020 (Anses, Licence Ouverte)."""
+    codes: dict[str, str] = {}
+    for ligne in fichier.read_text(encoding="utf-8").splitlines():
+        code, nom = ligne.split("\t", 1)
+        codes[code] = nom
+    return codes
+
+
 def lire_entrees(dossier: Path = DOSSIER_REFERENTIEL) -> list[Entree]:
     entrees: list[Entree] = []
     for chemin in sorted((dossier / "ingredients").glob("*.yaml")):
@@ -154,8 +166,15 @@ def _cycles(aretes: dict[str, list[str]]) -> list[list[str]]:
     return trouves
 
 
-def verifier_entrees(entrees: list[Entree], allergenes: dict[str, str]) -> list[Probleme]:
-    """Tous les contrôles du référentiel. Une erreur bloque la publication."""
+def verifier_entrees(
+    entrees: list[Entree],
+    allergenes: dict[str, str],
+    codes_ciqual: dict[str, str] | None = None,
+) -> list[Probleme]:
+    """Tous les contrôles du référentiel. Une erreur bloque la publication.
+
+    Si `codes_ciqual` est fourni, chaque code CIQUAL cité doit y figurer.
+    """
     problemes: list[Probleme] = []
 
     def erreur(e: Entree, message: str) -> None:
@@ -250,10 +269,21 @@ def verifier_entrees(entrees: list[Entree], allergenes: dict[str, str]) -> list[
             else:
                 noms[cle] = ident
 
-    # Avertissement global (un par ingrédient noierait la sortie) : codes CIQUAL à compléter
-    sans_ciqual = sum(1 for i, e in par_id.items() if not e.donnees.get("ciqual") and not _a_des_enfants(i, par_id))
+    # Codes CIQUAL : un code cité doit exister ; un code absent n'est qu'un avertissement
+    for ident, e in par_id.items():
+        code = e.donnees.get("ciqual")
+        if code is None:
+            continue
+        if isinstance(code, bool) or not isinstance(code, (int, str)) or not str(code).isdigit():
+            erreur(e, f"code CIQUAL mal formé : {code!r}")
+        elif codes_ciqual is not None and str(code) not in codes_ciqual:
+            erreur(e, f"code CIQUAL inconnu dans la table 2020 : {code}")
+    sans_ciqual = sorted(i for i, e in par_id.items() if e.donnees.get("ciqual") is None and not _a_des_enfants(i, par_id))
     if sans_ciqual:
-        problemes.append(Probleme("avertissement", f"{sans_ciqual} ingrédients sans code CIQUAL"))
+        problemes.append(Probleme(
+            "avertissement",
+            f"{len(sans_ciqual)} ingrédients sans code CIQUAL : {', '.join(sans_ciqual)}",
+        ))
     return problemes
 
 
@@ -330,7 +360,7 @@ def charger(dossier: Path = DOSSIER_REFERENTIEL) -> Referentiel:
     """Charge le référentiel ; lève ReferentielInvalide s'il contient la moindre erreur."""
     allergenes = charger_allergenes(dossier)
     entrees = lire_entrees(dossier)
-    erreurs = [p for p in verifier_entrees(entrees, allergenes) if p.niveau == "erreur"]
+    erreurs = [p for p in verifier_entrees(entrees, allergenes, charger_codes_ciqual()) if p.niveau == "erreur"]
     if erreurs:
         raise ReferentielInvalide(erreurs)
     return construire(entrees, allergenes)

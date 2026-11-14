@@ -4,14 +4,15 @@
 famille: condiments-sauces
 ingredients:
   - {id: condiment, nom: condiment, alias_fr: [condiments, assaisonnement], alias_en: [condiment, seasoning]}
-  - {id: sel, nom: sel, parent: condiment, alias_fr: [sel fin, gros sel, fleur de sel, sel de Guérande], alias_en: [salt, sea salt]}
-  - {id: sel_de_celeri, nom: sel de céleri, parent: condiment, alias_en: [celery salt], composants: [sel, graine_de_celeri]}
-  - {id: capre, nom: câpre, parent: condiment, alias_fr: [câpres], alias_en: [caper, capers]}
+  - {id: sel, nom: sel, parent: condiment, alias_fr: [sel fin, gros sel, fleur de sel, sel de Guérande], alias_en: [salt, sea salt], ciqual: 11017}
+  - {id: sel_de_celeri, nom: sel de céleri, parent: condiment, alias_en: [celery salt], composants: [sel, graine_de_celeri], ciqual: 11044}
+  - {id: capre, nom: câpre, parent: condiment, alias_fr: [câpres], alias_en: [caper, capers], ciqual: 11040}
 
   - {id: vinaigre, nom: vinaigre, parent: condiment, alias_en: [vinegar]}
-  - {id: vinaigre_blanc, nom: vinaigre blanc, parent: vinaigre, alias_fr: [vinaigre d'alcool, vinaigre cristal], alias_en: [white vinegar, distilled vinegar, spirit vinegar]}
+  - {id: vinaigre_blanc, nom: vinaigre blanc, parent: vinaigre, alias_fr: [vinaigre d'alcool, vinaigre cristal], alias_en: [white vinegar, distilled vinegar, spirit vinegar], ciqual: 11018}
   - id: vinaigre_de_vin
     nom: vinaigre de vin
+    ciqual: 11220
     parent: vinaigre
     alias_fr: [vinaigre de vin rouge, vinaigre de vin blanc, vinaigre de Xérès]
     alias_en: [wine vinegar, red wine vinegar, white wine vinegar, sherry vinegar]
@@ -20,6 +21,7 @@ ingredients:
     note: Contient en général des sulfites au-delà du seuil d'étiquetage.
   - id: vinaigre_balsamique
     nom: vinaigre balsamique
+    ciqual: 11091
     parent: vinaigre
     alias_fr: [balsamique, crème de balsamique]
     alias_en: [balsamic vinegar, balsamic glaze]
@@ -27,17 +29,19 @@ ingredients:
     composition_variable: true
   - id: vinaigre_de_cidre
     nom: vinaigre de cidre
+    ciqual: 11090
     parent: vinaigre
     alias_en: [cider vinegar, apple cider vinegar]
     allergenes: [sulfites]
     composition_variable: true
-  - {id: vinaigre_de_riz, nom: vinaigre de riz, parent: vinaigre, alias_en: [rice vinegar]}
-  - {id: vinaigre_de_malt, nom: vinaigre de malt, parent: vinaigre, alias_en: [malt vinegar], composants: [orge]}
+  - {id: vinaigre_de_riz, nom: vinaigre de riz, parent: vinaigre, alias_en: [rice vinegar], ciqual: 11018}
+  - {id: vinaigre_de_malt, nom: vinaigre de malt, parent: vinaigre, alias_en: [malt vinegar], composants: [orge], ciqual: 11018}
 
   - {id: sauce, nom: sauce, alias_fr: [sauces], alias_en: [sauce]}
-  - {id: sauce_soja, nom: sauce soja, parent: sauce, alias_fr: [sauce soja salée, sauce soja sucrée, shoyu], alias_en: [soy sauce, soya sauce], composants: [soja, ble, sel], sensoriel: {odeur_forte: true}}
+  - {id: sauce_soja, nom: sauce soja, parent: sauce, alias_fr: [sauce soja salée, sauce soja sucrée, shoyu], alias_en: [soy sauce, soya sauce], composants: [soja, ble, sel], sensoriel: {odeur_forte: true}, ciqual: 11104}
   - id: tamari
     nom: tamari
+    ciqual: 11104
     parent: sauce
     alias_fr: [sauce tamari]
     alias_en: [tamari sauce]
@@ -54,6 +58,7 @@ ingredients:
     note: Contient de l'anchois (poisson) et souvent du vinaigre de malt (orge, donc gluten).
   - id: nuoc_mam
     nom: nuoc-mâm
+    ciqual: 11194
     parent: sauce
     alias_fr: [nuoc mam, sauce de poisson]
     alias_en: [fish sauce]
@@ -61,6 +66,7 @@ ingredients:
     sensoriel: {odeur_forte: true}
   - id: ketchup
     nom: ketchup
+    ciqual: 11008
     parent: sauce
     alias_en: [tomato ketchup]
     composants: [tomate, vinaigre_blanc, sucre, sel, celeri_branche, oignon, ail]
@@ -68,6 +74,7 @@ ingredients:
     note: Certaines marques déclarent du céleri dans les extraits d'épices et d'herbes.
   - id: mayonnaise
     nom: mayonnaise
+    ciqual: 11054
     parent: sauce
     alias_fr: [mayo]
     alias_en: [mayo]
@@ -75,6 +82,7 @@ ingredients:
     composition_variable: true
   - id: pesto
     nom: pesto
+    ciqual: 11179
     parent: sauce
     alias_fr: [pesto vert, pesto alla genovese, pesto au basilic]
     alias_en: [basil pesto, pesto sauce]
@@ -88,9 +96,10 @@ ingredients:
     alias_en: [tomato sauce, passata, chopped tomatoes, crushed tomatoes]
     composants: [tomate, sel, sucre, huile_d_olive, oignon, ail, basilic]
     composition_variable: true
-  - {id: concentre_de_tomate, nom: concentré de tomate, parent: sauce, alias_fr: [double concentré de tomate], alias_en: [tomato paste, tomato puree], composants: [tomate, sel]}
+  - {id: concentre_de_tomate, nom: concentré de tomate, parent: sauce, alias_fr: [double concentré de tomate], alias_en: [tomato paste, tomato puree], composants: [tomate, sel], ciqual: 20268}
   - id: harissa
     nom: harissa
+    ciqual: 11112
     parent: sauce
     alias_en: [harissa paste]
     composants: [piment, ail, huile_de_tournesol, cumin, coriandre_graine, carvi, sel]
@@ -98,6 +107,7 @@ ingredients:
     sensoriel: {piquant: 3}
   - id: tapenade
     nom: tapenade
+    ciqual: 11043
     parent: sauce
     alias_fr: [tapenade noire, tapenade verte]
     alias_en: [olive tapenade]
@@ -105,15 +115,17 @@ ingredients:
     composition_variable: true
   - id: houmous
     nom: houmous
+    ciqual: 25621
     parent: sauce
     alias_fr: [hummus, houmos]
     alias_en: [hummus dip]
     composants: [pois_chiche, tahini, citron, ail, huile_d_olive, sel]
-  - {id: tamarin, nom: tamarin, parent: condiment, alias_fr: [pâte de tamarin], alias_en: [tamarind]}
+  - {id: tamarin, nom: tamarin, parent: condiment, alias_fr: [pâte de tamarin], alias_en: [tamarind], ciqual: 13080}
 
   - {id: bouillon, nom: bouillon, alias_fr: [bouillon cube, cube de bouillon, bouillon en poudre], alias_en: [stock, broth, stock cube]}
   - id: bouillon_de_volaille
     nom: bouillon de volaille
+    ciqual: 11174
     parent: bouillon
     alias_fr: [bouillon de poulet, cube de bouillon de volaille, fond de volaille]
     alias_en: [chicken stock, chicken broth, chicken stock cube]
@@ -122,6 +134,7 @@ ingredients:
     note: Union des cubes courants (céleri, farine de blé ou maltodextrine de blé, lactose selon les marques).
   - id: bouillon_de_legumes
     nom: bouillon de légumes
+    ciqual: 25948
     parent: bouillon
     alias_fr: [cube de bouillon de légumes]
     alias_en: [vegetable stock, vegetable broth]
@@ -129,6 +142,7 @@ ingredients:
     composition_variable: true
   - id: bouillon_de_boeuf
     nom: bouillon de bœuf
+    ciqual: 11001
     parent: bouillon
     alias_fr: [bouillon de boeuf, pot-au-feu en cube]
     alias_en: [beef stock, beef broth]
@@ -136,6 +150,7 @@ ingredients:
     composition_variable: true
   - id: fond_de_veau
     nom: fond de veau
+    ciqual: 11169
     parent: bouillon
     alias_fr: [fond brun]
     alias_en: [veal stock, demi-glace]
@@ -143,14 +158,15 @@ ingredients:
     composition_variable: true
 
   - {id: levure, nom: levure, alias_en: [yeast, raising agent]}
-  - {id: levure_boulangere, nom: levure de boulanger, parent: levure, alias_fr: [levure boulangère, levure sèche, levure fraîche, levure de boulangerie], alias_en: [baker's yeast, dried yeast, active dry yeast]}
+  - {id: levure_boulangere, nom: levure de boulanger, parent: levure, alias_fr: [levure boulangère, levure sèche, levure fraîche, levure de boulangerie], alias_en: [baker's yeast, dried yeast, active dry yeast], ciqual: 11045}
   - id: levure_chimique
     nom: levure chimique
+    ciqual: 11046
     parent: levure
     alias_fr: [poudre à lever, sachet de levure chimique]
     alias_en: [baking powder]
     composants: [bicarbonate_de_soude, amidon_de_ble, fecule_de_mais]
     composition_variable: true
     note: L'amidon de la poudre à lever est souvent du blé.
-  - {id: bicarbonate_de_soude, nom: bicarbonate de soude, parent: levure, alias_fr: [bicarbonate alimentaire, bicarbonate de sodium], alias_en: [baking soda, bicarbonate of soda]}
+  - {id: bicarbonate_de_soude, nom: bicarbonate de soude, parent: levure, alias_fr: [bicarbonate alimentaire, bicarbonate de sodium], alias_en: [baking soda, bicarbonate of soda], ciqual: 11507}
   - {id: extrait_de_levure, nom: extrait de levure, parent: levure, alias_en: [yeast extract], note: "À vérifier ; certains extraits de levure de bière proviennent de l'orge."}

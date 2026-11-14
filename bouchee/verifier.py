@@ -11,6 +11,7 @@ from collections import Counter
 from bouchee.referentiel import (
     DOSSIER_REFERENTIEL,
     charger_allergenes,
+    charger_codes_ciqual,
     construire,
     lire_entrees,
     verifier_entrees,
@@ -20,7 +21,7 @@ from bouchee.referentiel import (
 def main() -> int:
     allergenes = charger_allergenes(DOSSIER_REFERENTIEL)
     entrees = lire_entrees(DOSSIER_REFERENTIEL)
-    problemes = verifier_entrees(entrees, allergenes)
+    problemes = verifier_entrees(entrees, allergenes, charger_codes_ciqual())
     erreurs = [p for p in problemes if p.niveau == "erreur"]
     for p in problemes:
         print(p)
@@ -37,6 +38,8 @@ def main() -> int:
         )
         for famille, n in sorted(familles.items()):
             print(f"  {famille} : {n}")
+        avec_ciqual = sum(1 for i in ref.ingredients.values() if i.ciqual)
+        print(f"{avec_ciqual} ingrédients reliés à un aliment CIQUAL 2020")
 
     print(f"\n{len(erreurs)} erreur(s), {len(problemes) - len(erreurs)} avertissement(s)")
     return 1 if erreurs else 0

@@ -8,6 +8,7 @@ from bouchee.referentiel import (
     Entree,
     charger,
     charger_allergenes,
+    charger_codes_ciqual,
     lire_entrees,
     normaliser_nom,
     verifier_entrees,
@@ -22,7 +23,7 @@ def erreurs(*ingredients: dict[str, Any]) -> list[str]:
 
 
 def test_referentiel_reel_sans_erreur() -> None:
-    probs = [p for p in verifier_entrees(lire_entrees(), ALLERGENES) if p.niveau == "erreur"]
+    probs = [p for p in verifier_entrees(lire_entrees(), ALLERGENES, charger_codes_ciqual()) if p.niveau == "erreur"]
     assert probs == [], "\n".join(map(str, probs))
 
 
@@ -108,3 +109,25 @@ def test_sensoriel_invalide(sensoriel: dict[str, Any]) -> None:
 def test_normaliser_nom() -> None:
     assert normaliser_nom("  Œufs  Brouillés ") == "oeufs brouilles"
     assert normaliser_nom("pâtes") == normaliser_nom("PATES")
+
+
+def test_code_ciqual_inconnu() -> None:
+    entrees = [Entree("test.yaml", "test", {"id": "a", "nom": "a", "ciqual": 99999999})]
+    msgs = [p.message for p in verifier_entrees(entrees, ALLERGENES, {"20059": "Épinard, cru"})]
+    assert any("CIQUAL inconnu" in m for m in msgs)
+
+
+def test_code_ciqual_mal_forme() -> None:
+    assert any("mal formé" in m for m in erreurs({"id": "a", "nom": "a", "ciqual": "abc"}))
+
+
+def test_table_ciqual_complete() -> None:
+    codes = charger_codes_ciqual()
+    assert len(codes) == 3185
+    assert codes["20059"] == "Épinard, cru"
+
+
+def test_au_moins_90_pourcent_relies_a_ciqual() -> None:
+    ref = charger()
+    feuilles = [i for i in ref.ingredients.values() if not ref.enfants[i.id]]
+    assert sum(1 for i in feuilles if i.ciqual) / len(feuilles) >= 0.9

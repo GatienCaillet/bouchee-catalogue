@@ -3,22 +3,23 @@
 famille: herbes-epices
 ingredients:
   - {id: herbe_aromatique, nom: herbe aromatique, alias_fr: [herbes aromatiques, fines herbes, herbes fraîches], alias_en: [herbs, fresh herbs]}
-  - {id: basilic, nom: basilic, parent: herbe_aromatique, alias_fr: [feuilles de basilic, basilic frais], alias_en: [basil, fresh basil]}
-  - {id: persil, nom: persil, parent: herbe_aromatique, alias_fr: [persil plat, persil frisé], alias_en: [parsley, flat-leaf parsley]}
-  - {id: coriandre_feuille, nom: coriandre fraîche, parent: herbe_aromatique, alias_fr: [feuilles de coriandre, coriandre ciselée], alias_en: [cilantro, fresh coriander, coriander leaves], sensoriel: {odeur_forte: true}}
-  - {id: ciboulette, nom: ciboulette, parent: herbe_aromatique, alias_en: [chives]}
-  - {id: menthe, nom: menthe, parent: herbe_aromatique, alias_fr: [menthe fraîche, feuilles de menthe], alias_en: [mint, fresh mint]}
-  - {id: thym, nom: thym, parent: herbe_aromatique, alias_fr: [brin de thym, branche de thym], alias_en: [thyme]}
-  - {id: romarin, nom: romarin, parent: herbe_aromatique, alias_fr: [brin de romarin, branche de romarin], alias_en: [rosemary]}
-  - {id: laurier, nom: laurier, parent: herbe_aromatique, alias_fr: [feuille de laurier, feuilles de laurier], alias_en: [bay leaf, bay leaves]}
-  - {id: estragon, nom: estragon, parent: herbe_aromatique, alias_en: [tarragon]}
-  - {id: aneth, nom: aneth, parent: herbe_aromatique, alias_en: [dill]}
-  - {id: sauge, nom: sauge, parent: herbe_aromatique, alias_en: [sage]}
-  - {id: origan, nom: origan, parent: herbe_aromatique, alias_fr: [marjolaine], alias_en: [oregano, marjoram]}
-  - {id: cerfeuil, nom: cerfeuil, parent: herbe_aromatique, alias_en: [chervil]}
-  - {id: sarriette, nom: sarriette, parent: herbe_aromatique, alias_en: [savory]}
+  - {id: basilic, nom: basilic, parent: herbe_aromatique, alias_fr: [feuilles de basilic, basilic frais], alias_en: [basil, fresh basil], ciqual: 11033}
+  - {id: persil, nom: persil, parent: herbe_aromatique, alias_fr: [persil plat, persil frisé], alias_en: [parsley, flat-leaf parsley], ciqual: 11014}
+  - {id: coriandre_feuille, nom: coriandre fraîche, parent: herbe_aromatique, alias_fr: [feuilles de coriandre, coriandre ciselée], alias_en: [cilantro, fresh coriander, coriander leaves], sensoriel: {odeur_forte: true}, ciqual: 11094}
+  - {id: ciboulette, nom: ciboulette, parent: herbe_aromatique, alias_en: [chives], ciqual: 11003}
+  - {id: menthe, nom: menthe, parent: herbe_aromatique, alias_fr: [menthe fraîche, feuilles de menthe], alias_en: [mint, fresh mint], ciqual: 11027}
+  - {id: thym, nom: thym, parent: herbe_aromatique, alias_fr: [brin de thym, branche de thym], alias_en: [thyme], ciqual: 11070}
+  - {id: romarin, nom: romarin, parent: herbe_aromatique, alias_fr: [brin de romarin, branche de romarin], alias_en: [rosemary], ciqual: 11068}
+  - {id: laurier, nom: laurier, parent: herbe_aromatique, alias_fr: [feuille de laurier, feuilles de laurier], alias_en: [bay leaf, bay leaves], ciqual: 11053}
+  - {id: estragon, nom: estragon, parent: herbe_aromatique, alias_en: [tarragon], ciqual: 11092}
+  - {id: aneth, nom: aneth, parent: herbe_aromatique, alias_en: [dill], ciqual: 11093}
+  - {id: sauge, nom: sauge, parent: herbe_aromatique, alias_en: [sage], ciqual: 11069}
+  - {id: origan, nom: origan, parent: herbe_aromatique, alias_fr: [marjolaine], alias_en: [oregano, marjoram], ciqual: 11035}
+  - {id: cerfeuil, nom: cerfeuil, parent: herbe_aromatique, alias_en: [chervil], ciqual: 11002}
+  - {id: sarriette, nom: sarriette, parent: herbe_aromatique, alias_en: [savory], ciqual: 11062}
   - id: herbes_de_provence
     nom: herbes de Provence
+    ciqual: 11060
     parent: herbe_aromatique
     alias_en: [herbes de provence, provence herbs]
     composants: [thym, romarin, origan, sarriette, basilic]
@@ -32,25 +33,26 @@ ingredients:
     note: Le bouquet garni classique peut contenir une branche de céleri ou un vert de poireau.
 
   - {id: epice, nom: épice, alias_fr: [épices, mélange d'épices], alias_en: [spice, spices, spice mix]}
-  - {id: poivre, nom: poivre, parent: epice, alias_fr: [poivre noir, poivre blanc, poivre du moulin, poivre en grains, poivre moulu], alias_en: [black pepper, white pepper, ground pepper]}
-  - {id: cumin, nom: cumin, parent: epice, alias_fr: [cumin en poudre, graines de cumin], alias_en: [cumin, ground cumin]}
-  - {id: curcuma, nom: curcuma, parent: epice, alias_en: [turmeric]}
-  - {id: paprika, nom: paprika, parent: epice, alias_fr: [paprika fumé, paprika doux], alias_en: [smoked paprika, sweet paprika]}
+  - {id: poivre, nom: poivre, parent: epice, alias_fr: [poivre noir, poivre blanc, poivre du moulin, poivre en grains, poivre moulu], alias_en: [black pepper, white pepper, ground pepper], ciqual: 11015}
+  - {id: cumin, nom: cumin, parent: epice, alias_fr: [cumin en poudre, graines de cumin], alias_en: [cumin, ground cumin], ciqual: 11042}
+  - {id: curcuma, nom: curcuma, parent: epice, alias_en: [turmeric], ciqual: 11089}
+  - {id: paprika, nom: paprika, parent: epice, alias_fr: [paprika fumé, paprika doux], alias_en: [smoked paprika, sweet paprika], ciqual: 11049}
   - {id: piment_d_espelette, nom: piment d'Espelette, parent: epice, alias_en: [espelette pepper], sensoriel: {piquant: 1}}
-  - {id: piment_de_cayenne, nom: piment de Cayenne, parent: epice, alias_fr: [cayenne, piment en poudre, flocons de piment], alias_en: [cayenne pepper, chili powder, chilli flakes], sensoriel: {piquant: 3}}
-  - {id: cannelle, nom: cannelle, parent: epice, alias_fr: [bâton de cannelle, cannelle en poudre], alias_en: [cinnamon]}
-  - {id: muscade, nom: noix muscade, parent: epice, alias_fr: [muscade, noix de muscade], alias_en: [nutmeg], note: "Malgré son nom, n'est pas un fruit à coque au sens réglementaire."}
-  - {id: gingembre, nom: gingembre, parent: epice, alias_fr: [gingembre frais, gingembre en poudre], alias_en: [ginger, fresh ginger], sensoriel: {piquant: 2}}
-  - {id: clou_de_girofle, nom: clou de girofle, parent: epice, alias_fr: [clous de girofle], alias_en: [clove, cloves]}
-  - {id: cardamome, nom: cardamome, parent: epice, alias_en: [cardamom]}
-  - {id: coriandre_graine, nom: coriandre en grains, parent: epice, alias_fr: [graines de coriandre, coriandre moulue, coriandre en poudre], alias_en: [coriander seeds, ground coriander]}
-  - {id: fenugrec, nom: fenugrec, parent: epice, alias_en: [fenugreek], sensoriel: {amer: 1}}
-  - {id: carvi, nom: carvi, parent: epice, alias_en: [caraway]}
+  - {id: piment_de_cayenne, nom: piment de Cayenne, parent: epice, alias_fr: [cayenne, piment en poudre, flocons de piment], alias_en: [cayenne pepper, chili powder, chilli flakes], sensoriel: {piquant: 3}, ciqual: 11088}
+  - {id: cannelle, nom: cannelle, parent: epice, alias_fr: [bâton de cannelle, cannelle en poudre], alias_en: [cinnamon], ciqual: 11025}
+  - {id: muscade, nom: noix muscade, parent: epice, alias_fr: [muscade, noix de muscade], alias_en: [nutmeg], note: "Malgré son nom, n'est pas un fruit à coque au sens réglementaire.", ciqual: 11048}
+  - {id: gingembre, nom: gingembre, parent: epice, alias_fr: [gingembre frais, gingembre en poudre], alias_en: [ginger, fresh ginger], sensoriel: {piquant: 2}, ciqual: 11074}
+  - {id: clou_de_girofle, nom: clou de girofle, parent: epice, alias_fr: [clous de girofle], alias_en: [clove, cloves], ciqual: 11052}
+  - {id: cardamome, nom: cardamome, parent: epice, alias_en: [cardamom], ciqual: 11075}
+  - {id: coriandre_graine, nom: coriandre en grains, parent: epice, alias_fr: [graines de coriandre, coriandre moulue, coriandre en poudre], alias_en: [coriander seeds, ground coriander], ciqual: 11026}
+  - {id: fenugrec, nom: fenugrec, parent: epice, alias_en: [fenugreek], sensoriel: {amer: 1}, ciqual: 11077}
+  - {id: carvi, nom: carvi, parent: epice, alias_en: [caraway], ciqual: 11064}
   - {id: badiane, nom: badiane, parent: epice, alias_fr: [anis étoilé], alias_en: [star anise]}
-  - {id: vanille, nom: vanille, parent: epice, alias_fr: [gousse de vanille, extrait de vanille, sucre vanillé], alias_en: [vanilla, vanilla pod, vanilla extract]}
-  - {id: safran, nom: safran, parent: epice, alias_en: [saffron]}
+  - {id: vanille, nom: vanille, parent: epice, alias_fr: [gousse de vanille, extrait de vanille, sucre vanillé], alias_en: [vanilla, vanilla pod, vanilla extract], ciqual: 11057}
+  - {id: safran, nom: safran, parent: epice, alias_en: [saffron], ciqual: 11039}
   - id: curry
     nom: curry en poudre
+    ciqual: 11005
     parent: epice
     alias_fr: [curry, poudre de curry, curry doux, curry fort]
     alias_en: [curry powder]
@@ -69,6 +71,7 @@ ingredients:
   - {id: graine_de_moutarde, nom: graine de moutarde, parent: moutarde, alias_fr: [graines de moutarde], alias_en: [mustard seeds]}
   - id: moutarde_de_dijon
     nom: moutarde de Dijon
+    ciqual: 11013
     parent: moutarde
     alias_fr: [moutarde forte, moutarde à l'ancienne, moutarde en grains, moutarde douce]
     alias_en: [dijon mustard, wholegrain mustard]

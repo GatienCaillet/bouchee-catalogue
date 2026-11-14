@@ -5,37 +5,38 @@ ingredients:
   - {id: fruit, nom: fruit, alias_fr: [fruits], alias_en: [fruit, fruits]}
 
   - {id: agrume, nom: agrume, parent: fruit, alias_fr: [agrumes], alias_en: [citrus]}
-  - {id: citron, nom: citron, parent: agrume, alias_fr: [citrons, jus de citron, zeste de citron, citron jaune], alias_en: [lemon, lemon juice, lemon zest]}
-  - {id: citron_vert, nom: citron vert, parent: agrume, alias_fr: [citrons verts, jus de citron vert, lime], alias_en: [lime, lime juice]}
-  - {id: orange, nom: orange, parent: agrume, alias_fr: [oranges, jus d'orange, zeste d'orange], alias_en: [orange juice, orange zest]}
-  - {id: pamplemousse, nom: pamplemousse, parent: agrume, alias_en: [grapefruit], sensoriel: {amer: 2}}
+  - {id: citron, nom: citron, parent: agrume, alias_fr: [citrons, jus de citron, zeste de citron, citron jaune], alias_en: [lemon, lemon juice, lemon zest], ciqual: 13009}
+  - {id: citron_vert, nom: citron vert, parent: agrume, alias_fr: [citrons verts, jus de citron vert, lime], alias_en: [lime, lime juice], ciqual: 13067}
+  - {id: orange, nom: orange, parent: agrume, alias_fr: [oranges, jus d'orange, zeste d'orange], alias_en: [orange juice, orange zest], ciqual: 13034}
+  - {id: pamplemousse, nom: pamplemousse, parent: agrume, alias_en: [grapefruit], sensoriel: {amer: 2}, ciqual: 13040}
 
   - {id: fruit_rouge, nom: fruit rouge, parent: fruit, alias_fr: [fruits rouges], alias_en: [berries, red fruits]}
-  - {id: fraise, nom: fraise, parent: fruit_rouge, alias_fr: [fraises], alias_en: [strawberry, strawberries]}
-  - {id: framboise, nom: framboise, parent: fruit_rouge, alias_fr: [framboises], alias_en: [raspberry, raspberries]}
-  - {id: myrtille, nom: myrtille, parent: fruit_rouge, alias_fr: [myrtilles], alias_en: [blueberry, blueberries]}
-  - {id: cassis, nom: cassis, parent: fruit_rouge, alias_en: [blackcurrant]}
+  - {id: fraise, nom: fraise, parent: fruit_rouge, alias_fr: [fraises], alias_en: [strawberry, strawberries], ciqual: 13014}
+  - {id: framboise, nom: framboise, parent: fruit_rouge, alias_fr: [framboises], alias_en: [raspberry, raspberries], ciqual: 13015}
+  - {id: myrtille, nom: myrtille, parent: fruit_rouge, alias_fr: [myrtilles], alias_en: [blueberry, blueberries], ciqual: 13028}
+  - {id: cassis, nom: cassis, parent: fruit_rouge, alias_en: [blackcurrant], ciqual: 13007}
 
-  - {id: pomme, nom: pomme, parent: fruit, alias_fr: [pommes], alias_en: [apple, apples]}
-  - {id: poire, nom: poire, parent: fruit, alias_fr: [poires], alias_en: [pear, pears]}
-  - {id: banane, nom: banane, parent: fruit, alias_fr: [bananes], alias_en: [banana, bananas], sensoriel: {textures: [fondant]}}
-  - {id: abricot, nom: abricot, parent: fruit, alias_fr: [abricots], alias_en: [apricot, apricots]}
-  - {id: peche, nom: pêche, parent: fruit, alias_fr: [pêches, nectarine, brugnon], alias_en: [peach, nectarine]}
-  - {id: cerise, nom: cerise, parent: fruit, alias_fr: [cerises], alias_en: [cherry, cherries]}
-  - {id: raisin, nom: raisin, parent: fruit, alias_fr: [raisins, raisin blanc, raisin noir], alias_en: [grape, grapes]}
-  - {id: prune, nom: prune, parent: fruit, alias_fr: [prunes, mirabelle, quetsche], alias_en: [plum, plums]}
-  - {id: figue, nom: figue, parent: fruit, alias_fr: [figues], alias_en: [fig, figs], sensoriel: {textures: [granuleux]}}
-  - {id: mangue, nom: mangue, parent: fruit, alias_fr: [mangues], alias_en: [mango]}
-  - {id: ananas, nom: ananas, parent: fruit, alias_en: [pineapple]}
-  - {id: kiwi, nom: kiwi, parent: fruit, alias_fr: [kiwis], alias_en: [kiwifruit]}
-  - {id: melon, nom: melon, parent: fruit, alias_fr: [melons], alias_en: [cantaloupe]}
-  - {id: noix_de_coco, nom: noix de coco, parent: fruit, alias_fr: [coco, noix de coco râpée, coco râpée], alias_en: [coconut, desiccated coconut], note: "N'est pas un fruit à coque au sens du règlement (UE) 1169/2011."}
-  - {id: chataigne, nom: châtaigne, parent: fruit, alias_fr: [châtaignes, marron, marrons], alias_en: [chestnut, chestnuts], note: "N'est pas un fruit à coque au sens du règlement (UE) 1169/2011."}
-  - {id: olive, nom: olive, parent: fruit, alias_fr: [olives, olive noire, olive verte, olives noires, olives vertes], alias_en: [olives, black olive, green olive]}
+  - {id: pomme, nom: pomme, parent: fruit, alias_fr: [pommes], alias_en: [apple, apples], ciqual: 13039}
+  - {id: poire, nom: poire, parent: fruit, alias_fr: [poires], alias_en: [pear, pears], ciqual: 13037}
+  - {id: banane, nom: banane, parent: fruit, alias_fr: [bananes], alias_en: [banana, bananas], sensoriel: {textures: [fondant]}, ciqual: 13005}
+  - {id: abricot, nom: abricot, parent: fruit, alias_fr: [abricots], alias_en: [apricot, apricots], ciqual: 13000}
+  - {id: peche, nom: pêche, parent: fruit, alias_fr: [pêches, nectarine, brugnon], alias_en: [peach, nectarine], ciqual: 13043}
+  - {id: cerise, nom: cerise, parent: fruit, alias_fr: [cerises], alias_en: [cherry, cherries], ciqual: 13008}
+  - {id: raisin, nom: raisin, parent: fruit, alias_fr: [raisins, raisin blanc, raisin noir], alias_en: [grape, grapes], ciqual: 13112}
+  - {id: prune, nom: prune, parent: fruit, alias_fr: [prunes, mirabelle, quetsche], alias_en: [plum, plums], ciqual: 13100}
+  - {id: figue, nom: figue, parent: fruit, alias_fr: [figues], alias_en: [fig, figs], sensoriel: {textures: [granuleux]}, ciqual: 13012}
+  - {id: mangue, nom: mangue, parent: fruit, alias_fr: [mangues], alias_en: [mango], ciqual: 13025}
+  - {id: ananas, nom: ananas, parent: fruit, alias_en: [pineapple], ciqual: 13002}
+  - {id: kiwi, nom: kiwi, parent: fruit, alias_fr: [kiwis], alias_en: [kiwifruit], ciqual: 13021}
+  - {id: melon, nom: melon, parent: fruit, alias_fr: [melons], alias_en: [cantaloupe], ciqual: 13026}
+  - {id: noix_de_coco, nom: noix de coco, parent: fruit, alias_fr: [coco, noix de coco râpée, coco râpée], alias_en: [coconut, desiccated coconut], note: "N'est pas un fruit à coque au sens du règlement (UE) 1169/2011.", ciqual: 15007}
+  - {id: chataigne, nom: châtaigne, parent: fruit, alias_fr: [châtaignes, marron, marrons], alias_en: [chestnut, chestnuts], note: "N'est pas un fruit à coque au sens du règlement (UE) 1169/2011.", ciqual: 15024}
+  - {id: olive, nom: olive, parent: fruit, alias_fr: [olives, olive noire, olive verte, olives noires, olives vertes], alias_en: [olives, black olive, green olive], ciqual: 13184}
 
   - {id: fruit_sec, nom: fruit sec, parent: fruit, alias_fr: [fruits secs], alias_en: [dried fruit]}
   - id: raisin_sec
     nom: raisin sec
+    ciqual: 13046
     parent: fruit_sec
     alias_fr: [raisins secs, raisins de Corinthe]
     alias_en: [sultanas, dried grapes]
@@ -44,11 +45,12 @@ ingredients:
     note: Les raisins secs blonds sont souvent traités aux sulfites.
   - id: abricot_sec
     nom: abricot sec
+    ciqual: 13001
     parent: fruit_sec
     alias_fr: [abricots secs]
     alias_en: [dried apricot, dried apricots]
     allergenes: [sulfites]
     composition_variable: true
     note: Les abricots secs orangés sont le plus souvent traités aux sulfites.
-  - {id: pruneau, nom: pruneau, parent: fruit_sec, alias_fr: [pruneaux], alias_en: [dried plum, dried plums]}
-  - {id: datte, nom: datte, parent: fruit_sec, alias_fr: [dattes], alias_en: [date, dates]}
+  - {id: pruneau, nom: pruneau, parent: fruit_sec, alias_fr: [pruneaux], alias_en: [dried plum, dried plums], ciqual: 13042}
+  - {id: datte, nom: datte, parent: fruit_sec, alias_fr: [dattes], alias_en: [date, dates], ciqual: 13011}

@@ -4,23 +4,25 @@ famille: matieres-grasses
 ingredients:
   - {id: matiere_grasse, nom: matière grasse, alias_fr: [matières grasses], alias_en: [fat, cooking fat]}
   - {id: huile, nom: huile, parent: matiere_grasse, alias_en: [oil]}
-  - {id: huile_d_olive, nom: huile d'olive, parent: huile, alias_fr: [huile d'olive vierge extra, filet d'huile d'olive], alias_en: [olive oil, extra virgin olive oil]}
-  - {id: huile_de_tournesol, nom: huile de tournesol, parent: huile, alias_en: [sunflower oil]}
-  - {id: huile_de_colza, nom: huile de colza, parent: huile, alias_en: [rapeseed oil, canola oil]}
-  - {id: huile_de_palme, nom: huile de palme, parent: huile, alias_fr: [graisse de palme], alias_en: [palm oil, palm fat]}
-  - {id: huile_de_coco, nom: huile de coco, parent: huile, alias_fr: [graisse de coco], alias_en: [coconut oil], composants: [noix_de_coco]}
-  - {id: huile_de_pepins_de_raisin, nom: huile de pépins de raisin, parent: huile, alias_en: [grapeseed oil]}
-  - {id: huile_d_arachide, nom: huile d'arachide, parent: huile, alias_en: [peanut oil, groundnut oil], composants: [arachide]}
-  - {id: huile_de_sesame, nom: huile de sésame, parent: huile, alias_fr: [huile de sésame grillé], alias_en: [sesame oil, toasted sesame oil], composants: [graine_de_sesame]}
-  - {id: huile_de_noix, nom: huile de noix, parent: huile, alias_en: [walnut oil], composants: [noix]}
+  - {id: huile_d_olive, nom: huile d'olive, parent: huile, alias_fr: [huile d'olive vierge extra, filet d'huile d'olive], alias_en: [olive oil, extra virgin olive oil], ciqual: 17270}
+  - {id: huile_de_tournesol, nom: huile de tournesol, parent: huile, alias_en: [sunflower oil], ciqual: 17440}
+  - {id: huile_de_colza, nom: huile de colza, parent: huile, alias_en: [rapeseed oil, canola oil], ciqual: 17130}
+  - {id: huile_de_palme, nom: huile de palme, parent: huile, alias_fr: [graisse de palme], alias_en: [palm oil, palm fat], ciqual: 16129}
+  - {id: huile_de_coco, nom: huile de coco, parent: huile, alias_fr: [graisse de coco], alias_en: [coconut oil], composants: [noix_de_coco], ciqual: 16040}
+  - {id: huile_de_pepins_de_raisin, nom: huile de pépins de raisin, parent: huile, alias_en: [grapeseed oil], ciqual: 17350}
+  - {id: huile_d_arachide, nom: huile d'arachide, parent: huile, alias_en: [peanut oil, groundnut oil], composants: [arachide], ciqual: 17040}
+  - {id: huile_de_sesame, nom: huile de sésame, parent: huile, alias_fr: [huile de sésame grillé], alias_en: [sesame oil, toasted sesame oil], composants: [graine_de_sesame], ciqual: 17400}
+  - {id: huile_de_noix, nom: huile de noix, parent: huile, alias_en: [walnut oil], composants: [noix], ciqual: 17220}
   - id: huile_de_soja
     nom: huile de soja
+    ciqual: 17420
     parent: huile
     alias_en: [soybean oil, soy oil]
     composants: [soja]
     note: L'huile de soja entièrement raffinée est exemptée d'étiquetage ; on la garde liée au soja par prudence.
   - id: huile_vegetale
     nom: huile végétale
+    ciqual: 17001
     parent: huile
     alias_fr: [huile neutre, huile de friture]
     alias_en: [vegetable oil, neutral oil]
@@ -29,6 +31,7 @@ ingredients:
     note: Huile non précisée. Union des huiles courantes, arachide et soja compris. Préférer une huile précise dans les recettes.
   - id: margarine
     nom: margarine
+    ciqual: 16615
     parent: matiere_grasse
     alias_fr: [matière grasse végétale, matière grasse à tartiner]
     alias_en: [margarine spread]

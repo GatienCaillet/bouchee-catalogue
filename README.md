@@ -9,6 +9,7 @@ Catalogue de recettes et d'ingrédients de l'app Bouchée, publié en fichiers s
 - `bouchee/verifier.py` : contrôle du référentiel (parents et composants existants, allergènes valides, pas de cycle, pas d'alias ambigu).
 - `bouchee/validateur.py` : validateur strict (*fail-closed*), qui dit si une recette est compatible avec un profil de goûts.
 - `tests/cas/validateur.json` : cas pièges partagés avec le validateur TypeScript de l'app.
+- `sources/ciqual2020/` : codes et noms des aliments CIQUAL 2020 (Anses, Licence Ouverte), pour vérifier les codes du référentiel.
 - `public/` : fichiers publiés sur GitHub Pages.
 
 ## Commandes
@@ -23,7 +24,7 @@ GitHub Actions lance le contrôle et les tests à chaque commit ; une erreur blo
 
 ## À compléter
 
-- Codes CIQUAL 2020 et identifiants FoodOn des ingrédients.
+- Identifiants FoodOn des ingrédients ; codes CIQUAL des 17 ingrédients sans équivalent clair (liste affichée par `python -m bouchee.verifier`).
 - Double relecture humaine des allergènes (SPECIFICATIONS.md, section 3.5).
 - Attributs sensoriels : première estimation, à relire.
 
