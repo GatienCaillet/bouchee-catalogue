@@ -1,0 +1,86 @@
+# Légumes, champignons et tubercules.
+# Les attributs sensoriels sont une première estimation, à relire.
+famille: legumes
+ingredients:
+  - {id: legume, nom: légume, alias_fr: [légumes], alias_en: [vegetable, vegetables]}
+
+  # Légumes-feuilles
+  - {id: legume_feuille, nom: légume-feuille, parent: legume, alias_fr: [légumes-feuilles, légumes verts à feuilles], alias_en: [leafy greens]}
+  - {id: epinard, nom: épinard, parent: legume_feuille, alias_fr: [épinards, pousses d'épinard, jeunes pousses d'épinard], alias_en: [spinach, baby spinach], sensoriel: {amer: 1, textures: [fondant]}}
+  - {id: laitue, nom: laitue, parent: legume_feuille, alias_fr: [salade verte, batavia, sucrine, romaine, feuille de chêne], alias_en: [lettuce, romaine lettuce], sensoriel: {textures: [croquant]}}
+  - {id: roquette, nom: roquette, parent: legume_feuille, alias_en: [rocket, arugula], sensoriel: {amer: 1, piquant: 1}}
+  - {id: mache, nom: mâche, parent: legume_feuille, alias_en: [lamb's lettuce, corn salad]}
+  - {id: blette, nom: blette, parent: legume_feuille, alias_fr: [bette, blettes, côtes de blette], alias_en: [chard, swiss chard]}
+  - {id: endive, nom: endive, parent: legume_feuille, alias_fr: [endives, chicon], alias_en: [belgian endive, chicory], sensoriel: {amer: 2, textures: [croquant]}}
+  - {id: cresson, nom: cresson, parent: legume_feuille, alias_en: [watercress], sensoriel: {amer: 1, piquant: 1}}
+
+  # Choux
+  - {id: chou, nom: chou, parent: legume, alias_fr: [choux], alias_en: [cabbage family, brassica]}
+  - {id: chou_vert, nom: chou vert, parent: chou, alias_fr: [chou frisé, chou de milan, chou pommé], alias_en: [green cabbage, savoy cabbage], sensoriel: {odeur_forte: true}}
+  - {id: chou_rouge, nom: chou rouge, parent: chou, alias_en: [red cabbage], sensoriel: {textures: [croquant]}}
+  - {id: chou_fleur, nom: chou-fleur, parent: chou, alias_fr: [chou fleur], alias_en: [cauliflower], sensoriel: {odeur_forte: true}}
+  - {id: brocoli, nom: brocoli, parent: chou, alias_fr: [brocolis], alias_en: [broccoli], sensoriel: {amer: 1}}
+  - {id: chou_de_bruxelles, nom: chou de Bruxelles, parent: chou, alias_fr: [choux de Bruxelles], alias_en: [brussels sprouts], sensoriel: {amer: 2, odeur_forte: true}}
+  - {id: chou_kale, nom: chou kale, parent: chou, alias_fr: [kale], alias_en: [curly kale], sensoriel: {amer: 2, textures: [fibreux]}}
+
+  # Alliacées
+  - {id: allium, nom: alliacée, parent: legume, alias_fr: [alliacées], alias_en: [allium]}
+  - {id: ail, nom: ail, parent: allium, alias_fr: [gousse d'ail, gousses d'ail, ail frais], alias_en: [garlic, garlic clove], sensoriel: {piquant: 1, odeur_forte: true}}
+  - {id: oignon, nom: oignon, parent: allium, alias_fr: [oignons, oignon jaune, oignon blanc, oignon rouge], alias_en: [onion, yellow onion, red onion], sensoriel: {piquant: 1, odeur_forte: true}}
+  - {id: oignon_nouveau, nom: oignon nouveau, parent: allium, alias_fr: [oignon de printemps, oignons nouveaux, cébette], alias_en: [spring onion, scallion, green onion]}
+  - {id: echalote, nom: échalote, parent: allium, alias_fr: [échalotes], alias_en: [shallot], sensoriel: {odeur_forte: true}}
+  - {id: poireau, nom: poireau, parent: allium, alias_fr: [poireaux, blanc de poireau], alias_en: [leek], sensoriel: {textures: [fondant]}}
+
+  # Légumes-fruits
+  - {id: legume_fruit, nom: légume-fruit, parent: legume, alias_fr: [légumes-fruits, légumes du soleil], alias_en: [fruiting vegetables]}
+  - {id: tomate, nom: tomate, parent: legume_fruit, alias_fr: [tomates, tomate fraîche, tomates fraîches], alias_en: [tomato, tomatoes], sensoriel: {textures: [juteux]}}
+  - {id: tomate_cerise, nom: tomate cerise, parent: tomate, alias_fr: [tomates cerises], alias_en: [cherry tomato, cherry tomatoes]}
+  - {id: poivron, nom: poivron, parent: legume_fruit, alias_fr: [poivrons, poivron rouge, poivron vert, poivron jaune], alias_en: [bell pepper, sweet pepper, capsicum], sensoriel: {amer: 1, odeur_forte: true, textures: [croquant]}}
+  - {id: piment, nom: piment frais, parent: legume_fruit, alias_fr: [piment, piment rouge, piment vert, piment oiseau], alias_en: [chili, chilli, chili pepper], sensoriel: {piquant: 3}}
+  - {id: aubergine, nom: aubergine, parent: legume_fruit, alias_fr: [aubergines], alias_en: [eggplant, aubergine], sensoriel: {amer: 1, textures: [spongieux, fondant]}}
+  - {id: courgette, nom: courgette, parent: legume_fruit, alias_fr: [courgettes], alias_en: [zucchini, courgette], sensoriel: {textures: [fondant]}}
+  - {id: concombre, nom: concombre, parent: legume_fruit, alias_fr: [concombres], alias_en: [cucumber], sensoriel: {textures: [croquant, juteux]}}
+  - id: cornichon
+    nom: cornichon
+    parent: concombre
+    alias_fr: [cornichons]
+    alias_en: [gherkin, pickle]
+    composants: [vinaigre_blanc, sel, graine_de_moutarde]
+    composition_variable: true
+    note: Cornichon au vinaigre. Beaucoup de bocaux contiennent des graines de moutarde.
+  - {id: avocat, nom: avocat, parent: legume_fruit, alias_fr: [avocats], alias_en: [avocado], sensoriel: {textures: [cremeux]}}
+  - {id: courge, nom: courge, parent: legume_fruit, alias_fr: [courges], alias_en: [squash, winter squash]}
+  - {id: potiron, nom: potiron, parent: courge, alias_fr: [citrouille, potimarron], alias_en: [pumpkin, red kuri squash], sensoriel: {textures: [fondant]}}
+  - {id: butternut, nom: courge butternut, parent: courge, alias_fr: [butternut, doubeurre], alias_en: [butternut squash]}
+
+  # Légumes-racines et tubercules
+  - {id: legume_racine, nom: légume-racine, parent: legume, alias_fr: [légumes-racines, légumes racines], alias_en: [root vegetables]}
+  - {id: carotte, nom: carotte, parent: legume_racine, alias_fr: [carottes], alias_en: [carrot, carrots]}
+  - {id: navet, nom: navet, parent: legume_racine, alias_fr: [navets], alias_en: [turnip], sensoriel: {amer: 1, piquant: 1}}
+  - {id: radis, nom: radis, parent: legume_racine, alias_fr: [radis rose, radis noir], alias_en: [radish], sensoriel: {piquant: 1, textures: [croquant]}}
+  - {id: betterave, nom: betterave, parent: legume_racine, alias_fr: [betteraves, betterave rouge], alias_en: [beetroot, beet], sensoriel: {textures: [fondant]}}
+  - {id: panais, nom: panais, parent: legume_racine, alias_en: [parsnip]}
+  - {id: tubercule, nom: tubercule, parent: legume, alias_fr: [tubercules], alias_en: [tubers]}
+  - {id: pomme_de_terre, nom: pomme de terre, parent: tubercule, alias_fr: [pommes de terre, patate, patates, grenaille], alias_en: [potato, potatoes], sensoriel: {textures: [farineux, fondant]}}
+  - {id: fecule_de_pomme_de_terre, nom: fécule de pomme de terre, parent: pomme_de_terre, alias_fr: [fécule], alias_en: [potato starch]}
+  - {id: patate_douce, nom: patate douce, parent: tubercule, alias_fr: [patates douces], alias_en: [sweet potato]}
+  - {id: topinambour, nom: topinambour, parent: tubercule, alias_fr: [topinambours], alias_en: [jerusalem artichoke, sunchoke]}
+
+  # Céleri : tous ses usages portent l'allergène
+  - {id: celeri, nom: céleri, parent: legume, allergenes: [celeri], alias_en: [celery family]}
+  - {id: celeri_branche, nom: céleri branche, parent: celeri, alias_fr: [branche de céleri, branches de céleri, céleri en branche], alias_en: [celery, celery stalk], sensoriel: {odeur_forte: true, textures: [filandreux, croquant]}}
+  - {id: celeri_rave, nom: céleri-rave, parent: celeri, alias_fr: [céleri rave], alias_en: [celeriac, celery root], sensoriel: {odeur_forte: true}}
+  - {id: graine_de_celeri, nom: graine de céleri, parent: celeri, alias_fr: [graines de céleri], alias_en: [celery seed]}
+
+  # Autres légumes
+  - {id: legume_tige, nom: légume-tige, parent: legume, alias_fr: [légumes-tiges], alias_en: [stem vegetables]}
+  - {id: asperge, nom: asperge, parent: legume_tige, alias_fr: [asperges, asperge verte, asperge blanche], alias_en: [asparagus]}
+  - {id: fenouil, nom: fenouil, parent: legume_tige, alias_fr: [bulbe de fenouil], alias_en: [fennel, fennel bulb], sensoriel: {odeur_forte: true, textures: [croquant]}}
+  - {id: artichaut, nom: artichaut, parent: legume, alias_fr: [artichauts, cœur d'artichaut, fond d'artichaut], alias_en: [artichoke, artichoke heart], sensoriel: {amer: 1}}
+
+  # Champignons
+  - {id: champignon, nom: champignon, alias_fr: [champignons], alias_en: [mushroom, mushrooms], sensoriel: {textures: [elastique]}}
+  - {id: champignon_de_paris, nom: champignon de Paris, parent: champignon, alias_fr: [champignons de Paris, champignon blanc], alias_en: [button mushroom, white mushroom]}
+  - {id: cepe, nom: cèpe, parent: champignon, alias_fr: [cèpes, bolet], alias_en: [porcini, cep]}
+  - {id: girolle, nom: girolle, parent: champignon, alias_fr: [girolles, chanterelle], alias_en: [chanterelle mushroom]}
+  - {id: shiitake, nom: shiitake, parent: champignon, alias_fr: [shiitakés], alias_en: [shiitake mushroom]}

@@ -1,0 +1,156 @@
+# Sel, vinaigres, sauces, bouillons et levures.
+# Les sauces et bouillons du commerce suivent la règle fail-closed : union des composants
+# courants de toutes les marques connues. Une recette « maison » décrit ses ingrédients ligne par ligne.
+famille: condiments-sauces
+ingredients:
+  - {id: condiment, nom: condiment, alias_fr: [condiments, assaisonnement], alias_en: [condiment, seasoning]}
+  - {id: sel, nom: sel, parent: condiment, alias_fr: [sel fin, gros sel, fleur de sel, sel de Guérande], alias_en: [salt, sea salt]}
+  - {id: sel_de_celeri, nom: sel de céleri, parent: condiment, alias_en: [celery salt], composants: [sel, graine_de_celeri]}
+  - {id: capre, nom: câpre, parent: condiment, alias_fr: [câpres], alias_en: [caper, capers]}
+
+  - {id: vinaigre, nom: vinaigre, parent: condiment, alias_en: [vinegar]}
+  - {id: vinaigre_blanc, nom: vinaigre blanc, parent: vinaigre, alias_fr: [vinaigre d'alcool, vinaigre cristal], alias_en: [white vinegar, distilled vinegar, spirit vinegar]}
+  - id: vinaigre_de_vin
+    nom: vinaigre de vin
+    parent: vinaigre
+    alias_fr: [vinaigre de vin rouge, vinaigre de vin blanc, vinaigre de Xérès]
+    alias_en: [wine vinegar, red wine vinegar, white wine vinegar, sherry vinegar]
+    allergenes: [sulfites]
+    composition_variable: true
+    note: Contient en général des sulfites au-delà du seuil d'étiquetage.
+  - id: vinaigre_balsamique
+    nom: vinaigre balsamique
+    parent: vinaigre
+    alias_fr: [balsamique, crème de balsamique]
+    alias_en: [balsamic vinegar, balsamic glaze]
+    allergenes: [sulfites]
+    composition_variable: true
+  - id: vinaigre_de_cidre
+    nom: vinaigre de cidre
+    parent: vinaigre
+    alias_en: [cider vinegar, apple cider vinegar]
+    allergenes: [sulfites]
+    composition_variable: true
+  - {id: vinaigre_de_riz, nom: vinaigre de riz, parent: vinaigre, alias_en: [rice vinegar]}
+  - {id: vinaigre_de_malt, nom: vinaigre de malt, parent: vinaigre, alias_en: [malt vinegar], composants: [orge]}
+
+  - {id: sauce, nom: sauce, alias_fr: [sauces], alias_en: [sauce]}
+  - {id: sauce_soja, nom: sauce soja, parent: sauce, alias_fr: [sauce soja salée, sauce soja sucrée, shoyu], alias_en: [soy sauce, soya sauce], composants: [soja, ble, sel], sensoriel: {odeur_forte: true}}
+  - id: tamari
+    nom: tamari
+    parent: sauce
+    alias_fr: [sauce tamari]
+    alias_en: [tamari sauce]
+    composants: [soja, sel, ble]
+    composition_variable: true
+    note: Le tamari est souvent sans blé, mais pas toujours ; on retient l'union.
+  - id: sauce_worcestershire
+    nom: sauce Worcestershire
+    parent: sauce
+    alias_fr: [Worcestershire, sauce anglaise]
+    alias_en: [worcestershire sauce, worcester sauce]
+    composants: [vinaigre_de_malt, vinaigre_blanc, melasse, sucre, sel, anchois, tamarin, oignon, ail, clou_de_girofle, piment_de_cayenne]
+    composition_variable: true
+    note: Contient de l'anchois (poisson) et souvent du vinaigre de malt (orge, donc gluten).
+  - id: nuoc_mam
+    nom: nuoc-mâm
+    parent: sauce
+    alias_fr: [nuoc mam, sauce de poisson]
+    alias_en: [fish sauce]
+    composants: [anchois, sel, sucre]
+    sensoriel: {odeur_forte: true}
+  - id: ketchup
+    nom: ketchup
+    parent: sauce
+    alias_en: [tomato ketchup]
+    composants: [tomate, vinaigre_blanc, sucre, sel, celeri_branche, oignon, ail]
+    composition_variable: true
+    note: Certaines marques déclarent du céleri dans les extraits d'épices et d'herbes.
+  - id: mayonnaise
+    nom: mayonnaise
+    parent: sauce
+    alias_fr: [mayo]
+    alias_en: [mayo]
+    composants: [jaune_d_oeuf, oeuf, huile_de_colza, huile_de_tournesol, moutarde_de_dijon, vinaigre_de_vin, vinaigre_blanc, citron, sel, sucre]
+    composition_variable: true
+  - id: pesto
+    nom: pesto
+    parent: sauce
+    alias_fr: [pesto vert, pesto alla genovese, pesto au basilic]
+    alias_en: [basil pesto, pesto sauce]
+    composants: [basilic, huile_d_olive, huile_de_tournesol, parmesan, pecorino, pignon, noix_de_cajou, ail, sel, fecule_de_pomme_de_terre, lait]
+    composition_variable: true
+    note: Le pesto du commerce remplace souvent une partie des pignons par des noix de cajou, et peut contenir du lactose.
+  - id: sauce_tomate
+    nom: sauce tomate
+    parent: sauce
+    alias_fr: [coulis de tomate, purée de tomate, passata, tomates concassées, pulpe de tomate, tomates pelées]
+    alias_en: [tomato sauce, passata, chopped tomatoes, crushed tomatoes]
+    composants: [tomate, sel, sucre, huile_d_olive, oignon, ail, basilic]
+    composition_variable: true
+  - {id: concentre_de_tomate, nom: concentré de tomate, parent: sauce, alias_fr: [double concentré de tomate], alias_en: [tomato paste, tomato puree], composants: [tomate, sel]}
+  - id: harissa
+    nom: harissa
+    parent: sauce
+    alias_en: [harissa paste]
+    composants: [piment, ail, huile_de_tournesol, cumin, coriandre_graine, carvi, sel]
+    composition_variable: true
+    sensoriel: {piquant: 3}
+  - id: tapenade
+    nom: tapenade
+    parent: sauce
+    alias_fr: [tapenade noire, tapenade verte]
+    alias_en: [olive tapenade]
+    composants: [olive, capre, anchois, huile_d_olive, ail]
+    composition_variable: true
+  - id: houmous
+    nom: houmous
+    parent: sauce
+    alias_fr: [hummus, houmos]
+    alias_en: [hummus dip]
+    composants: [pois_chiche, tahini, citron, ail, huile_d_olive, sel]
+  - {id: tamarin, nom: tamarin, parent: condiment, alias_fr: [pâte de tamarin], alias_en: [tamarind]}
+
+  - {id: bouillon, nom: bouillon, alias_fr: [bouillon cube, cube de bouillon, bouillon en poudre], alias_en: [stock, broth, stock cube]}
+  - id: bouillon_de_volaille
+    nom: bouillon de volaille
+    parent: bouillon
+    alias_fr: [bouillon de poulet, cube de bouillon de volaille, fond de volaille]
+    alias_en: [chicken stock, chicken broth, chicken stock cube]
+    composants: [poulet, sel, celeri, oignon, carotte, poireau, persil, ail, farine_de_ble, lait, huile_de_palme, sucre, extrait_de_levure, curcuma, poivre]
+    composition_variable: true
+    note: Union des cubes courants (céleri, farine de blé ou maltodextrine de blé, lactose selon les marques).
+  - id: bouillon_de_legumes
+    nom: bouillon de légumes
+    parent: bouillon
+    alias_fr: [cube de bouillon de légumes]
+    alias_en: [vegetable stock, vegetable broth]
+    composants: [sel, celeri, oignon, carotte, poireau, persil, ail, farine_de_ble, lait, huile_de_palme, sucre, extrait_de_levure, curcuma, poivre]
+    composition_variable: true
+  - id: bouillon_de_boeuf
+    nom: bouillon de bœuf
+    parent: bouillon
+    alias_fr: [bouillon de boeuf, pot-au-feu en cube]
+    alias_en: [beef stock, beef broth]
+    composants: [boeuf, sel, celeri, oignon, carotte, poireau, farine_de_ble, lait, huile_de_palme, sucre, extrait_de_levure, poivre]
+    composition_variable: true
+  - id: fond_de_veau
+    nom: fond de veau
+    parent: bouillon
+    alias_fr: [fond brun]
+    alias_en: [veal stock, demi-glace]
+    composants: [veau, amidon_de_ble, farine_de_ble, fecule_de_pomme_de_terre, sel, oignon, carotte, celeri, tomate, vin_rouge, lait, huile_de_palme, extrait_de_levure, sucre]
+    composition_variable: true
+
+  - {id: levure, nom: levure, alias_en: [yeast, raising agent]}
+  - {id: levure_boulangere, nom: levure de boulanger, parent: levure, alias_fr: [levure boulangère, levure sèche, levure fraîche, levure de boulangerie], alias_en: [baker's yeast, dried yeast, active dry yeast]}
+  - id: levure_chimique
+    nom: levure chimique
+    parent: levure
+    alias_fr: [poudre à lever, sachet de levure chimique]
+    alias_en: [baking powder]
+    composants: [bicarbonate_de_soude, amidon_de_ble, fecule_de_mais]
+    composition_variable: true
+    note: L'amidon de la poudre à lever est souvent du blé.
+  - {id: bicarbonate_de_soude, nom: bicarbonate de soude, parent: levure, alias_fr: [bicarbonate alimentaire, bicarbonate de sodium], alias_en: [baking soda, bicarbonate of soda]}
+  - {id: extrait_de_levure, nom: extrait de levure, parent: levure, alias_en: [yeast extract], note: "À vérifier ; certains extraits de levure de bière proviennent de l'orge."}

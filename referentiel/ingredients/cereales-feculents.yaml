@@ -1,0 +1,102 @@
+# Céréales, farines, pâtes, pains et pâtes à tarte.
+# L'allergène gluten est porté par la catégorie cereale_a_gluten (blé, épeautre, seigle, orge, avoine).
+# Les produits composés citent des identifiants précis (farine_de_ble), pas la catégorie entière.
+famille: cereales-feculents
+ingredients:
+  - {id: cereale, nom: céréale, alias_fr: [céréales], alias_en: [cereal, grain, grains]}
+  - {id: cereale_a_gluten, nom: céréale à gluten, parent: cereale, allergenes: [gluten], alias_fr: [céréales à gluten], alias_en: [gluten grains]}
+
+  - {id: ble, nom: blé, parent: cereale_a_gluten, alias_fr: [grains de blé, blé tendre, ebly], alias_en: [wheat, wheat berries]}
+  - {id: farine_de_ble, nom: farine de blé, parent: ble, alias_fr: [farine, farine T45, farine T55, farine T65, farine complète, farine de blé complète], alias_en: [flour, wheat flour, plain flour, all-purpose flour]}
+  - {id: amidon_de_ble, nom: amidon de blé, parent: ble, alias_en: [wheat starch]}
+  - {id: semoule_de_ble, nom: semoule de blé, parent: ble, alias_fr: [semoule, semoule fine, semoule moyenne, couscous, graine de couscous, blé dur], alias_en: [semolina, couscous, durum wheat]}
+  - {id: boulgour, nom: boulgour, parent: ble, alias_fr: [bulgur, boulghour], alias_en: [bulgur wheat]}
+  - {id: epeautre, nom: épeautre, parent: ble, alias_fr: [petit épeautre, farine d'épeautre], alias_en: [spelt]}
+  - {id: seigle, nom: seigle, parent: cereale_a_gluten, alias_fr: [farine de seigle], alias_en: [rye, rye flour]}
+  - {id: orge, nom: orge, parent: cereale_a_gluten, alias_fr: [orge perlé, malt d'orge, malt], alias_en: [barley, pearl barley, malt]}
+  - {id: avoine, nom: avoine, parent: cereale_a_gluten, alias_fr: [flocons d'avoine, son d'avoine], alias_en: [oats, rolled oats, oatmeal], note: "L'avoine figure dans la liste réglementaire des céréales contenant du gluten."}
+
+  - {id: riz, nom: riz, parent: cereale, alias_fr: [riz blanc, riz basmati, riz thaï, riz complet, riz rond, riz arborio, riz à risotto], alias_en: [rice, basmati rice, jasmine rice, arborio rice]}
+  - {id: farine_de_riz, nom: farine de riz, parent: riz, alias_en: [rice flour]}
+  - {id: mais, nom: maïs, parent: cereale, alias_fr: [mais], alias_en: [corn, maize]}
+  - {id: mais_doux, nom: maïs doux, parent: mais, alias_fr: [maïs en grains, grains de maïs], alias_en: [sweetcorn, sweet corn]}
+  - {id: polenta, nom: polenta, parent: mais, alias_fr: [semoule de maïs], alias_en: [cornmeal]}
+  - {id: fecule_de_mais, nom: fécule de maïs, parent: mais, alias_fr: [maïzena, amidon de maïs], alias_en: [cornstarch, cornflour]}
+  - {id: sarrasin, nom: sarrasin, parent: cereale, alias_fr: [blé noir, farine de sarrasin], alias_en: [buckwheat, buckwheat flour], note: "Sans gluten, malgré le nom de blé noir."}
+  - {id: quinoa, nom: quinoa, parent: cereale, alias_en: [quinoa seeds]}
+
+  - {id: pates, nom: pâtes, alias_fr: [pâtes alimentaires], alias_en: [pasta]}
+  - id: pates_seches
+    nom: pâtes sèches
+    parent: pates
+    alias_fr: [spaghetti, spaghettis, penne, coquillettes, macaronis, fusilli, farfalle, tagliatelles sèches, linguine, rigatoni, torsades]
+    alias_en: [dried pasta, spaghetti pasta]
+    composants: [semoule_de_ble]
+    note: Pâtes de semoule de blé dur, sans œuf.
+  - id: pates_aux_oeufs
+    nom: pâtes aux œufs
+    parent: pates
+    alias_fr: [pâtes fraîches, tagliatelles, tagliatelles fraîches, lasagnes, feuilles de lasagne, ravioli, raviolis, gnocchi]
+    alias_en: [egg pasta, fresh pasta, lasagna sheets]
+    composants: [semoule_de_ble, farine_de_ble, oeuf, fecule_de_pomme_de_terre]
+    composition_variable: true
+    note: Pâtes fraîches et pâtes aux œufs. Les gnocchis sont rangés ici car ils mêlent pomme de terre, farine et souvent œuf.
+  - {id: nouilles_de_riz, nom: nouilles de riz, parent: pates, alias_fr: [vermicelles de riz], alias_en: [rice noodles, rice vermicelli], composants: [farine_de_riz]}
+  - id: nouilles_de_ble
+    nom: nouilles de blé
+    parent: pates
+    alias_fr: [nouilles chinoises, nouilles aux œufs, nouilles ramen, nouilles udon]
+    alias_en: [egg noodles, ramen noodles, udon noodles]
+    composants: [farine_de_ble, oeuf, sel]
+    composition_variable: true
+
+  - {id: pain, nom: pain, alias_fr: [baguette, pain de campagne, pain rassis, tranche de pain, tranches de pain, croûtons], alias_en: [bread, baguette], composants: [farine_de_ble, levure_boulangere, sel]}
+  - id: pain_de_mie
+    nom: pain de mie
+    alias_fr: [tranches de pain de mie, pain toast, pain burger, pain à hamburger]
+    alias_en: [sandwich bread, white bread, burger bun]
+    composants: [farine_de_ble, lait, beurre, sucre, sel, levure_boulangere, farine_de_soja, huile_de_colza, graine_de_sesame]
+    composition_variable: true
+    note: Union des pains de mie et pains burger courants (lait, farine de soja, graines de sésame sur les pains burger).
+  - id: chapelure
+    nom: chapelure
+    alias_fr: [panure, chapelure panko, panko]
+    alias_en: [breadcrumbs, panko]
+    composants: [farine_de_ble, levure_boulangere, sel, sucre, huile_de_tournesol]
+    composition_variable: true
+  - id: tortilla_de_ble
+    nom: tortilla de blé
+    alias_fr: [tortillas, galette de blé, wraps]
+    alias_en: [flour tortilla, wrap, wraps]
+    composants: [farine_de_ble, huile_de_colza, sel, levure_chimique]
+    composition_variable: true
+
+  - {id: pate_a_tarte, nom: pâte à tarte, alias_fr: [pâte à tarte du commerce, rouleau de pâte], alias_en: [pastry, pie crust]}
+  - id: pate_feuilletee
+    nom: pâte feuilletée
+    parent: pate_a_tarte
+    alias_fr: [pâte feuilletée pur beurre]
+    alias_en: [puff pastry]
+    composants: [farine_de_ble, beurre, huile_de_palme, huile_de_colza, sel, vinaigre_de_vin]
+    composition_variable: true
+    note: Union du pur beurre et des pâtes à la margarine (huiles végétales).
+  - id: pate_brisee
+    nom: pâte brisée
+    parent: pate_a_tarte
+    alias_en: [shortcrust pastry]
+    composants: [farine_de_ble, beurre, huile_de_palme, huile_de_colza, sel, alcool_ethylique]
+    composition_variable: true
+    note: Certaines pâtes du commerce contiennent de l'alcool éthylique comme conservateur.
+  - id: pate_sablee
+    nom: pâte sablée
+    parent: pate_a_tarte
+    alias_fr: [pâte sucrée]
+    alias_en: [sweet shortcrust pastry]
+    composants: [farine_de_ble, beurre, huile_de_palme, sucre, oeuf, sel, lait]
+    composition_variable: true
+  - id: pate_a_pizza
+    nom: pâte à pizza
+    parent: pate_a_tarte
+    alias_en: [pizza dough]
+    composants: [farine_de_ble, levure_boulangere, huile_d_olive, huile_de_colza, sel, sucre, alcool_ethylique]
+    composition_variable: true

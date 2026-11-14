@@ -1,0 +1,346 @@
+{
+  "description": "Cas pièges du validateur strict. Partagés entre le validateur Python (bouchee-catalogue) et le validateur TypeScript (bouchee-app). Chaque raison attendue doit figurer dans le résultat (comparaison sur les clés données). Une recette attendue compatible ne doit avoir aucune raison.",
+  "seuil_confiance": 0.9,
+  "cas": [
+    {
+      "id": "pesto-cache-le-parmesan",
+      "description": "Refuser le parmesan exclut le pesto, qui en contient.",
+      "profil": {"refus": ["parmesan"]},
+      "recette": {"lignes": [
+        {"texte": "250 g de spaghetti", "ingredients": ["pates_seches"], "confiance": 1},
+        {"texte": "3 c. à soupe de pesto", "ingredients": ["pesto"], "confiance": 0.97}
+      ]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ligne": 1, "ingredient": "parmesan"}]}
+    },
+    {
+      "id": "pesto-sans-refus",
+      "description": "Sans refus ni allergie, la même recette est compatible.",
+      "profil": {},
+      "recette": {"lignes": [
+        {"texte": "250 g de spaghetti", "ingredients": ["pates_seches"], "confiance": 1},
+        {"texte": "3 c. à soupe de pesto", "ingredients": ["pesto"], "confiance": 0.97}
+      ]},
+      "attendu": {"compatible": true}
+    },
+    {
+      "id": "pesto-refus-de-tous-les-fromages",
+      "description": "Refuser la famille fromage exclut le pesto par son parmesan.",
+      "profil": {"refus": ["fromage"]},
+      "recette": {"lignes": [{"texte": "pesto", "ingredients": ["pesto"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "fromage"}]}
+    },
+    {
+      "id": "pesto-et-fruits-a-coque",
+      "description": "Le pesto du commerce contient souvent des noix de cajou : exclu pour une allergie aux fruits à coque.",
+      "profil": {"allergies": ["fruits_a_coque"]},
+      "recette": {"lignes": [{"texte": "pesto", "ingredients": ["pesto"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "fruits_a_coque"}]}
+    },
+    {
+      "id": "pignon-n-est-pas-un-fruit-a-coque",
+      "description": "Le pignon est une graine, absente de la liste réglementaire des fruits à coque.",
+      "profil": {"allergies": ["fruits_a_coque"]},
+      "recette": {"lignes": [{"texte": "30 g de pignons de pin", "ingredients": ["pignon"], "confiance": 1}]},
+      "attendu": {"compatible": true}
+    },
+    {
+      "id": "bouillon-et-allergie-au-celeri",
+      "description": "Le bouillon de volaille du commerce contient du céleri.",
+      "profil": {"allergies": ["celeri"]},
+      "recette": {"lignes": [{"texte": "1 cube de bouillon de volaille", "ingredients": ["bouillon_de_volaille"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "celeri"}]}
+    },
+    {
+      "id": "bouillon-et-refus-du-celeri-rave",
+      "description": "Le bouillon cite la catégorie céleri : refuser une seule forme de céleri suffit à l'exclure.",
+      "profil": {"refus": ["celeri_rave"]},
+      "recette": {"lignes": [{"texte": "1 cube de bouillon de volaille", "ingredients": ["bouillon_de_volaille"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "celeri_rave"}]}
+    },
+    {
+      "id": "worcestershire-et-poisson",
+      "description": "La sauce Worcestershire contient de l'anchois.",
+      "profil": {"allergies": ["poissons"]},
+      "recette": {"lignes": [{"texte": "quelques gouttes de sauce Worcestershire", "ingredients": ["sauce_worcestershire"], "confiance": 0.95}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "poissons"}]}
+    },
+    {
+      "id": "worcestershire-et-refus-de-l-anchois",
+      "description": "Refuser l'anchois exclut la sauce Worcestershire.",
+      "profil": {"refus": ["anchois"]},
+      "recette": {"lignes": [{"texte": "sauce Worcestershire", "ingredients": ["sauce_worcestershire"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "anchois"}]}
+    },
+    {
+      "id": "worcestershire-et-gluten",
+      "description": "Le vinaigre de malt (orge) de la sauce Worcestershire contient du gluten.",
+      "profil": {"allergies": ["gluten"]},
+      "recette": {"lignes": [{"texte": "sauce Worcestershire", "ingredients": ["sauce_worcestershire"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "gluten"}]}
+    },
+    {
+      "id": "sauce-soja-et-gluten",
+      "description": "La sauce soja contient du blé.",
+      "profil": {"allergies": ["gluten"]},
+      "recette": {"lignes": [{"texte": "2 c. à soupe de sauce soja", "ingredients": ["sauce_soja"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "gluten"}]}
+    },
+    {
+      "id": "tamari-et-gluten",
+      "description": "Le tamari est souvent sans blé, mais pas toujours : la règle de l'union l'exclut.",
+      "profil": {"allergies": ["gluten"]},
+      "recette": {"lignes": [{"texte": "tamari", "ingredients": ["tamari"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "gluten"}]}
+    },
+    {
+      "id": "sauce-soja-et-soja",
+      "description": "La sauce soja contient du soja.",
+      "profil": {"allergies": ["soja"]},
+      "recette": {"lignes": [{"texte": "sauce soja", "ingredients": ["sauce_soja"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "soja"}]}
+    },
+    {
+      "id": "fromage-rape-et-lait",
+      "description": "Le fromage râpé générique porte l'allergène lait.",
+      "profil": {"allergies": ["lait"]},
+      "recette": {"lignes": [{"texte": "100 g de fromage râpé", "ingredients": ["fromage_rape"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "lait"}]}
+    },
+    {
+      "id": "fromage-rape-et-refus-de-l-emmental",
+      "description": "Le fromage râpé générique peut être de l'emmental : exclu si on refuse l'emmental.",
+      "profil": {"refus": ["emmental"]},
+      "recette": {"lignes": [{"texte": "fromage râpé", "ingredients": ["fromage_rape"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "emmental"}]}
+    },
+    {
+      "id": "refus-du-lait-a-boire-n-exclut-pas-le-parmesan",
+      "description": "Refuser de boire du lait n'est pas refuser le fromage (seule l'allergie au lait exclut tout).",
+      "profil": {"refus": ["lait"]},
+      "recette": {"lignes": [{"texte": "50 g de parmesan", "ingredients": ["parmesan"], "confiance": 1}]},
+      "attendu": {"compatible": true}
+    },
+    {
+      "id": "refus-du-parmesan-n-exclut-pas-l-emmental",
+      "description": "On remonte vers les parents sans redescendre vers leurs autres enfants.",
+      "profil": {"refus": ["parmesan"]},
+      "recette": {"lignes": [{"texte": "100 g d'emmental", "ingredients": ["emmental"], "confiance": 1}]},
+      "attendu": {"compatible": true}
+    },
+    {
+      "id": "refus-de-tous-les-crustaces",
+      "description": "Refuser la famille crustacés exclut les crevettes.",
+      "profil": {"refus": ["crustace"]},
+      "recette": {"lignes": [{"texte": "200 g de crevettes", "ingredients": ["crevette"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "crustace"}]}
+    },
+    {
+      "id": "refus-des-crustaces-n-exclut-pas-les-moules",
+      "description": "Les moules sont des mollusques, pas des crustacés.",
+      "profil": {"refus": ["crustace"]},
+      "recette": {"lignes": [{"texte": "1 kg de moules", "ingredients": ["moule"], "confiance": 1}]},
+      "attendu": {"compatible": true}
+    },
+    {
+      "id": "fruits-de-mer-generiques-et-mollusques",
+      "description": "Une ligne « fruits de mer » peut désigner des mollusques : exclue pour une allergie aux mollusques.",
+      "profil": {"allergies": ["mollusques"]},
+      "recette": {"lignes": [{"texte": "400 g de fruits de mer surgelés", "ingredients": ["fruit_de_mer"], "confiance": 0.95}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "mollusques"}]}
+    },
+    {
+      "id": "surimi-et-crustaces",
+      "description": "Le surimi contient souvent de l'extrait de crabe.",
+      "profil": {"allergies": ["crustaces"]},
+      "recette": {"lignes": [{"texte": "8 bâtonnets de surimi", "ingredients": ["surimi"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "crustaces"}]}
+    },
+    {
+      "id": "legumes-du-soleil-generiques-et-poivron",
+      "description": "Une ligne « légumes du soleil » peut contenir du poivron.",
+      "profil": {"refus": ["poivron"]},
+      "recette": {"lignes": [{"texte": "1 sachet de légumes du soleil", "ingredients": ["legume_fruit"], "confiance": 0.95}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "poivron"}]}
+    },
+    {
+      "id": "poivre-n-est-pas-poivron",
+      "description": "Refuser le poivron n'exclut pas le poivre.",
+      "profil": {"refus": ["poivron"]},
+      "recette": {"lignes": [{"texte": "sel, poivre", "ingredients": ["sel", "poivre"], "confiance": 1}]},
+      "attendu": {"compatible": true}
+    },
+    {
+      "id": "ligne-multiple-sel-poivre",
+      "description": "Une ligne résolue vers plusieurs ingrédients : chacun est vérifié.",
+      "profil": {"refus": ["poivre"]},
+      "recette": {"lignes": [{"texte": "sel, poivre", "ingredients": ["sel", "poivre"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ligne": 0, "ingredient": "poivre"}]}
+    },
+    {
+      "id": "ligne-non-resolue",
+      "description": "Une ligne non résolue rend la recette non compatible, même sans aucun refus.",
+      "profil": {},
+      "recette": {"lignes": [
+        {"texte": "200 g de riz", "ingredients": ["riz"], "confiance": 1},
+        {"texte": "un trait de sauce maison", "ingredients": [], "confiance": 0}
+      ]},
+      "attendu": {"compatible": false, "raisons": [{"type": "ligne_non_resolue", "ligne": 1}]}
+    },
+    {
+      "id": "ligne-sans-champ-ingredients",
+      "description": "Une ligne sans champ « ingredients » est non résolue.",
+      "profil": {},
+      "recette": {"lignes": [{"texte": "un peu de ce qu'il reste"}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "ligne_non_resolue", "ligne": 0}]}
+    },
+    {
+      "id": "ingredient-inconnu",
+      "description": "Un identifiant absent du référentiel rend toujours la recette non compatible.",
+      "profil": {},
+      "recette": {"lignes": [{"texte": "1 pitaya", "ingredients": ["pitaya"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "ingredient_inconnu", "ingredient": "pitaya"}]}
+    },
+    {
+      "id": "confiance-faible",
+      "description": "Une ligne résolue avec une confiance sous le seuil est traitée comme non sûre.",
+      "profil": {},
+      "recette": {"lignes": [{"texte": "1 boîte de légumes", "ingredients": ["haricot_vert"], "confiance": 0.5}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "confiance_faible", "ligne": 0}]}
+    },
+    {
+      "id": "confiance-absente",
+      "description": "Une ligne sans confiance est traitée comme non sûre.",
+      "profil": {},
+      "recette": {"lignes": [{"texte": "carottes", "ingredients": ["carotte"]}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "confiance_faible", "ligne": 0}]}
+    },
+    {
+      "id": "recette-vide",
+      "description": "Une recette sans ligne n'est jamais compatible.",
+      "profil": {},
+      "recette": {"lignes": []},
+      "attendu": {"compatible": false, "raisons": [{"type": "recette_vide"}]}
+    },
+    {
+      "id": "ingredient-facultatif-refuse",
+      "description": "Un ingrédient facultatif refusé exclut quand même la recette (une variante sans lui passera à nouveau le validateur).",
+      "profil": {"refus": ["coriandre_feuille"]},
+      "recette": {"lignes": [
+        {"texte": "200 g de riz", "ingredients": ["riz"], "confiance": 1},
+        {"texte": "coriandre fraîche (facultatif)", "ingredients": ["coriandre_feuille"], "confiance": 1, "facultatif": true}
+      ]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "coriandre_feuille"}]}
+    },
+    {
+      "id": "pate-feuilletee-et-lait",
+      "description": "La pâte feuilletée pur beurre contient du lait.",
+      "profil": {"allergies": ["lait"]},
+      "recette": {"lignes": [{"texte": "1 pâte feuilletée", "ingredients": ["pate_feuilletee"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "lait"}]}
+    },
+    {
+      "id": "mayonnaise-et-moutarde-sur-deux-niveaux",
+      "description": "La mayonnaise contient de la moutarde de Dijon, qui contient des graines de moutarde.",
+      "profil": {"refus": ["graine_de_moutarde"]},
+      "recette": {"lignes": [{"texte": "2 c. à soupe de mayonnaise", "ingredients": ["mayonnaise"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "graine_de_moutarde"}]}
+    },
+    {
+      "id": "mayonnaise-et-oeufs",
+      "description": "La mayonnaise contient du jaune d'œuf.",
+      "profil": {"allergies": ["oeufs"]},
+      "recette": {"lignes": [{"texte": "mayonnaise", "ingredients": ["mayonnaise"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "oeufs"}]}
+    },
+    {
+      "id": "moutarde-de-dijon-et-sulfites",
+      "description": "La moutarde de Dijon contient le plus souvent des sulfites.",
+      "profil": {"allergies": ["sulfites"]},
+      "recette": {"lignes": [{"texte": "1 c. à café de moutarde de Dijon", "ingredients": ["moutarde_de_dijon"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "sulfites"}]}
+    },
+    {
+      "id": "huile-vegetale-et-arachide",
+      "description": "Une huile végétale non précisée peut être de l'huile d'arachide.",
+      "profil": {"allergies": ["arachides"]},
+      "recette": {"lignes": [{"texte": "2 c. à soupe d'huile végétale", "ingredients": ["huile_vegetale"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "arachides"}]}
+    },
+    {
+      "id": "ketchup-et-celeri",
+      "description": "Certaines marques de ketchup déclarent du céleri.",
+      "profil": {"allergies": ["celeri"]},
+      "recette": {"lignes": [{"texte": "ketchup", "ingredients": ["ketchup"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "allergie", "allergene": "celeri"}]}
+    },
+    {
+      "id": "interdit-porc-et-lardons",
+      "description": "Un interdit sur le porc exclut les lardons.",
+      "profil": {"interdits": ["porc"]},
+      "recette": {"lignes": [{"texte": "200 g de lardons", "ingredients": ["lardon"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "interdit", "ingredient": "porc"}]}
+    },
+    {
+      "id": "interdit-porc-et-gelatine",
+      "description": "La gélatine est le plus souvent d'origine porcine.",
+      "profil": {"interdits": ["porc"]},
+      "recette": {"lignes": [{"texte": "3 feuilles de gélatine", "ingredients": ["gelatine"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "interdit", "ingredient": "porc"}]}
+    },
+    {
+      "id": "interdit-alcool-et-vin-blanc",
+      "description": "Un interdit sur l'alcool exclut le vin blanc de cuisson.",
+      "profil": {"interdits": ["alcool"]},
+      "recette": {"lignes": [{"texte": "10 cl de vin blanc", "ingredients": ["vin_blanc"], "confiance": 1}]},
+      "attendu": {"compatible": false, "raisons": [{"type": "interdit", "ingredient": "alcool"}]}
+    },
+    {
+      "id": "demo-sprint-recette-compatible",
+      "description": "Profil de la démo (refuse parmesan et poivron, allergique à l'arachide) : une recette sans ces aliments passe.",
+      "profil": {"refus": ["parmesan", "poivron"], "allergies": ["arachides"]},
+      "recette": {"lignes": [
+        {"texte": "300 g de penne", "ingredients": ["pates_seches"], "confiance": 1},
+        {"texte": "400 g de tomates cerises", "ingredients": ["tomate_cerise"], "confiance": 1},
+        {"texte": "1 gousse d'ail", "ingredients": ["ail"], "confiance": 1},
+        {"texte": "2 c. à soupe d'huile d'olive", "ingredients": ["huile_d_olive"], "confiance": 1},
+        {"texte": "quelques feuilles de basilic", "ingredients": ["basilic"], "confiance": 1},
+        {"texte": "sel, poivre", "ingredients": ["sel", "poivre"], "confiance": 1}
+      ]},
+      "attendu": {"compatible": true}
+    },
+    {
+      "id": "demo-sprint-pesto-exclu",
+      "description": "Profil de la démo : le pesto est exclu à cause du parmesan.",
+      "profil": {"refus": ["parmesan", "poivron"], "allergies": ["arachides"]},
+      "recette": {"lignes": [
+        {"texte": "300 g de penne", "ingredients": ["pates_seches"], "confiance": 1},
+        {"texte": "4 c. à soupe de pesto", "ingredients": ["pesto"], "confiance": 1}
+      ]},
+      "attendu": {"compatible": false, "raisons": [{"type": "refus", "ingredient": "parmesan"}]}
+    },
+    {
+      "id": "demo-sprint-pesto-revient",
+      "description": "Profil de la démo sans le refus du parmesan : le pesto réapparaît.",
+      "profil": {"refus": ["poivron"], "allergies": ["arachides"]},
+      "recette": {"lignes": [
+        {"texte": "300 g de penne", "ingredients": ["pates_seches"], "confiance": 1},
+        {"texte": "4 c. à soupe de pesto", "ingredients": ["pesto"], "confiance": 1}
+      ]},
+      "attendu": {"compatible": true}
+    },
+    {
+      "id": "profil-avec-ingredient-inconnu",
+      "description": "Un profil qui refuse un identifiant inconnu est une erreur, jamais ignorée en silence.",
+      "profil": {"refus": ["parmezan"]},
+      "recette": {"lignes": [{"texte": "riz", "ingredients": ["riz"], "confiance": 1}]},
+      "attendu": {"erreur": "profil_invalide"}
+    },
+    {
+      "id": "profil-avec-allergene-inconnu",
+      "description": "Un allergène hors des 14 réglementaires est une erreur.",
+      "profil": {"allergies": ["kiwi"]},
+      "recette": {"lignes": [{"texte": "riz", "ingredients": ["riz"], "confiance": 1}]},
+      "attendu": {"erreur": "profil_invalide"}
+    }
+  ]
+}

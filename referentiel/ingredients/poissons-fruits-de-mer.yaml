@@ -1,0 +1,41 @@
+# Poissons, crustacés et mollusques.
+# Les allergènes sont portés par les catégories (poisson, crustace, mollusque) et hérités par leurs enfants.
+famille: poissons-fruits-de-mer
+ingredients:
+  - {id: poisson, nom: poisson, allergenes: [poissons], alias_fr: [poissons, poisson blanc, filet de poisson], alias_en: [fish, white fish]}
+  - {id: saumon, nom: saumon, parent: poisson, alias_fr: [pavé de saumon, filet de saumon], alias_en: [salmon]}
+  - {id: saumon_fume, nom: saumon fumé, parent: saumon, alias_en: [smoked salmon]}
+  - {id: cabillaud, nom: cabillaud, parent: poisson, alias_fr: [dos de cabillaud, morue fraîche], alias_en: [cod]}
+  - {id: morue, nom: morue salée, parent: cabillaud, alias_fr: [morue, morue dessalée], alias_en: [salt cod]}
+  - {id: colin, nom: colin, parent: poisson, alias_fr: [lieu, lieu noir, merlu, colin d'Alaska], alias_en: [hake, pollock]}
+  - {id: thon, nom: thon, parent: poisson, alias_fr: [thon en boîte, thon au naturel, steak de thon], alias_en: [tuna, canned tuna]}
+  - {id: sardine, nom: sardine, parent: poisson, alias_fr: [sardines, sardines à l'huile], alias_en: [sardines], sensoriel: {odeur_forte: true}}
+  - {id: maquereau, nom: maquereau, parent: poisson, alias_fr: [maquereaux], alias_en: [mackerel], sensoriel: {odeur_forte: true}}
+  - {id: anchois, nom: anchois, parent: poisson, alias_fr: [filets d'anchois], alias_en: [anchovy, anchovies], sensoriel: {odeur_forte: true}}
+  - {id: truite, nom: truite, parent: poisson, alias_fr: [truite fumée], alias_en: [trout]}
+  - {id: dorade, nom: dorade, parent: poisson, alias_fr: [daurade, bar, loup], alias_en: [sea bream, sea bass]}
+
+  - {id: fruit_de_mer, nom: fruit de mer, alias_fr: [fruits de mer], alias_en: [seafood, shellfish]}
+  - {id: crustace, nom: crustacé, parent: fruit_de_mer, allergenes: [crustaces], alias_fr: [crustacés], alias_en: [crustaceans]}
+  - {id: crevette, nom: crevette, parent: crustace, alias_fr: [crevettes, crevettes roses, gambas, crevettes grises], alias_en: [shrimp, prawn, prawns]}
+  - {id: langoustine, nom: langoustine, parent: crustace, alias_fr: [langoustines], alias_en: [scampi, dublin bay prawn]}
+  - {id: crabe, nom: crabe, parent: crustace, alias_fr: [chair de crabe, tourteau], alias_en: [crab, crab meat]}
+  - {id: homard, nom: homard, parent: crustace, alias_fr: [langouste], alias_en: [lobster]}
+  - {id: ecrevisse, nom: écrevisse, parent: crustace, alias_fr: [écrevisses], alias_en: [crayfish]}
+
+  - {id: mollusque, nom: mollusque, parent: fruit_de_mer, allergenes: [mollusques], alias_fr: [mollusques, coquillages], alias_en: [molluscs, mollusks]}
+  - {id: moule, nom: moule, parent: mollusque, alias_fr: [moules], alias_en: [mussel, mussels]}
+  - {id: huitre, nom: huître, parent: mollusque, alias_fr: [huîtres], alias_en: [oyster, oysters], sensoriel: {odeur_forte: true, textures: [gluant]}}
+  - {id: saint_jacques, nom: coquille Saint-Jacques, parent: mollusque, alias_fr: [noix de Saint-Jacques, Saint-Jacques, pétoncle], alias_en: [scallop, scallops]}
+  - {id: palourde, nom: palourde, parent: mollusque, alias_fr: [palourdes, coque, coques], alias_en: [clam, clams]}
+  - {id: calamar, nom: calamar, parent: mollusque, alias_fr: [calamars, encornet, seiche], alias_en: [squid, calamari, cuttlefish], sensoriel: {textures: [elastique]}}
+  - {id: poulpe, nom: poulpe, parent: mollusque, alias_fr: [pieuvre], alias_en: [octopus], sensoriel: {textures: [elastique]}}
+
+  - id: surimi
+    nom: surimi
+    parent: poisson
+    alias_fr: [bâtonnets de surimi, bâtonnets de crabe]
+    alias_en: [crab sticks, imitation crab]
+    composants: [colin, blanc_d_oeuf, amidon_de_ble, crabe, sucre, sel, huile_de_colza]
+    composition_variable: true
+    note: Chair de poisson, blanc d'œuf, amidon de blé et souvent extrait de crabe (crustacés).

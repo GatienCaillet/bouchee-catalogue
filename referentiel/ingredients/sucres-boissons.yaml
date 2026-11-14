@@ -1,0 +1,51 @@
+# Sucres, chocolat, boissons et alcools.
+# La catégorie « alcool » permet d'exprimer un interdit sur l'alcool.
+famille: sucres-boissons
+ingredients:
+  - {id: produit_sucrant, nom: produit sucrant, alias_fr: [édulcorant naturel], alias_en: [sweetener]}
+  - {id: sucre, nom: sucre, parent: produit_sucrant, alias_fr: [sucre en poudre, sucre blanc, sucre semoule, sucre roux, cassonade, vergeoise, sucre de canne], alias_en: [sugar, caster sugar, brown sugar]}
+  - {id: sucre_glace, nom: sucre glace, parent: sucre, alias_en: [icing sugar, powdered sugar], composants: [fecule_de_mais], composition_variable: true}
+  - {id: miel, nom: miel, parent: produit_sucrant, alias_en: [honey]}
+  - {id: sirop_d_erable, nom: sirop d'érable, parent: produit_sucrant, alias_en: [maple syrup]}
+  - {id: melasse, nom: mélasse, parent: produit_sucrant, alias_en: [molasses, treacle]}
+
+  - {id: chocolat, nom: chocolat, alias_en: [chocolate]}
+  - {id: cacao, nom: cacao en poudre, parent: chocolat, alias_fr: [cacao, cacao non sucré], alias_en: [cocoa, cocoa powder]}
+  - id: chocolat_noir
+    nom: chocolat noir
+    parent: chocolat
+    alias_fr: [chocolat pâtissier, chocolat à cuire, chocolat dessert, pépites de chocolat]
+    alias_en: [dark chocolate, chocolate chips]
+    composants: [cacao, sucre, lecithine_de_soja, vanille, lait]
+    composition_variable: true
+    note: Beaucoup de chocolats noirs contiennent de la lécithine de soja et des traces ou ajouts de lait.
+  - id: chocolat_au_lait
+    nom: chocolat au lait
+    parent: chocolat
+    alias_en: [milk chocolate]
+    composants: [cacao, sucre, lait, lecithine_de_soja, vanille]
+    composition_variable: true
+  - id: chocolat_blanc
+    nom: chocolat blanc
+    parent: chocolat
+    alias_en: [white chocolate]
+    composants: [sucre, lait, lecithine_de_soja, vanille]
+    composition_variable: true
+
+  - {id: boisson, nom: boisson, alias_fr: [boissons], alias_en: [drink, beverage]}
+  - {id: eau, nom: eau, parent: boisson, alias_fr: [eau froide, eau chaude, eau tiède], alias_en: [water]}
+  - {id: cafe, nom: café, parent: boisson, alias_fr: [café soluble, expresso, espresso], alias_en: [coffee], sensoriel: {amer: 2}}
+  - {id: the, nom: thé, parent: boisson, alias_fr: [thé noir, thé vert], alias_en: [tea, black tea, green tea], sensoriel: {amer: 1}}
+  - {id: lait_de_coco, nom: lait de coco, parent: boisson, alias_fr: [crème de coco], alias_en: [coconut milk, coconut cream], composants: [noix_de_coco]}
+  - {id: lait_d_amande, nom: boisson à l'amande, parent: boisson, alias_fr: [lait d'amande], alias_en: [almond milk], composants: [amande]}
+  - {id: boisson_a_l_avoine, nom: boisson à l'avoine, parent: boisson, alias_fr: [lait d'avoine], alias_en: [oat milk], composants: [avoine]}
+
+  - {id: alcool, nom: alcool, parent: boisson, alias_fr: [boisson alcoolisée, alcools], alias_en: [alcohol, alcoholic drink]}
+  - {id: alcool_ethylique, nom: alcool éthylique, parent: alcool, alias_en: [ethanol, ethyl alcohol], note: "Conservateur de certaines pâtes du commerce."}
+  - {id: vin_blanc, nom: vin blanc, parent: alcool, allergenes: [sulfites], alias_fr: [vin blanc sec], alias_en: [white wine, dry white wine]}
+  - {id: vin_rouge, nom: vin rouge, parent: alcool, allergenes: [sulfites], alias_en: [red wine]}
+  - {id: porto, nom: porto, parent: alcool, allergenes: [sulfites], alias_fr: [madère, xérès], alias_en: [port, madeira, sherry]}
+  - {id: biere, nom: bière, parent: alcool, alias_fr: [bière blonde, bière brune], alias_en: [beer, ale, lager], composants: [orge]}
+  - {id: cidre, nom: cidre, parent: alcool, allergenes: [sulfites], composition_variable: true, alias_fr: [cidre brut, cidre doux], alias_en: [cider, hard cider], composants: [pomme]}
+  - {id: rhum, nom: rhum, parent: alcool, alias_fr: [rhum ambré, rhum blanc], alias_en: [rum]}
+  - {id: cognac, nom: cognac, parent: alcool, alias_fr: [armagnac, calvados, eau-de-vie, kirsch, cointreau, grand marnier], alias_en: [brandy]}

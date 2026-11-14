@@ -1,0 +1,31 @@
+# Les 14 allergènes à déclaration obligatoire dans l'Union européenne
+# (règlement (UE) n° 1169/2011, annexe II). Les codes sont utilisés dans les fichiers d'ingrédients.
+allergenes:
+  - code: gluten
+    nom: Céréales contenant du gluten (blé, seigle, orge, avoine, épeautre, kamut)
+  - code: crustaces
+    nom: Crustacés
+  - code: oeufs
+    nom: Œufs
+  - code: poissons
+    nom: Poissons
+  - code: arachides
+    nom: Arachides
+  - code: soja
+    nom: Soja
+  - code: lait
+    nom: Lait (y compris le lactose)
+  - code: fruits_a_coque
+    nom: Fruits à coque (amande, noisette, noix, noix de cajou, noix de pécan, noix du Brésil, pistache, noix de macadamia)
+  - code: celeri
+    nom: Céleri
+  - code: moutarde
+    nom: Moutarde
+  - code: sesame
+    nom: Graines de sésame
+  - code: sulfites
+    nom: Anhydride sulfureux et sulfites (plus de 10 mg/kg ou 10 mg/l)
+  - code: lupin
+    nom: Lupin
+  - code: mollusques
+    nom: Mollusques

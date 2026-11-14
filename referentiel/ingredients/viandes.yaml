@@ -1,0 +1,57 @@
+# Viandes, volailles et charcuteries.
+# La taxonomie suit l'animal : refuser « porc » exclut toutes les charcuteries de porc.
+famille: viandes
+ingredients:
+  - {id: viande, nom: viande, alias_fr: [viandes], alias_en: [meat]}
+
+  - {id: boeuf, nom: bœuf, parent: viande, alias_fr: [boeuf, viande de bœuf, bœuf à braiser, paleron, macreuse, joue de bœuf], alias_en: [beef]}
+  - {id: steak_de_boeuf, nom: steak de bœuf, parent: boeuf, alias_fr: [steak, bifteck, rumsteck, entrecôte, faux-filet], alias_en: [beef steak, steak]}
+  - {id: boeuf_hache, nom: bœuf haché, parent: boeuf, alias_fr: [viande hachée de bœuf, steak haché, steaks hachés], alias_en: [ground beef, minced beef]}
+  - {id: veau, nom: veau, parent: viande, alias_fr: [viande de veau, escalope de veau, blanquette de veau], alias_en: [veal]}
+  - {id: agneau, nom: agneau, parent: viande, alias_fr: [mouton, gigot d'agneau, épaule d'agneau, côtelette d'agneau], alias_en: [lamb, mutton]}
+  - {id: lapin, nom: lapin, parent: viande, alias_en: [rabbit]}
+
+  - {id: porc, nom: porc, parent: viande, alias_fr: [cochon, produits du porc], alias_en: [pork products]}
+  - {id: viande_de_porc, nom: viande de porc, parent: porc, alias_fr: [échine de porc, filet mignon de porc, rôti de porc, côte de porc, sauté de porc, travers de porc], alias_en: [pork, pork chop, pork loin]}
+  - {id: lardon, nom: lardon, parent: porc, alias_fr: [lardons, lardons fumés, lardons nature], alias_en: [bacon lardons]}
+  - {id: poitrine_de_porc, nom: poitrine de porc, parent: porc, alias_fr: [poitrine fumée, lard, bacon], alias_en: [pork belly, bacon]}
+  - {id: jambon_cuit, nom: jambon cuit, parent: porc, alias_fr: [jambon blanc, jambon de Paris, dés de jambon], alias_en: [cooked ham, ham]}
+  - {id: jambon_cru, nom: jambon cru, parent: porc, alias_fr: [jambon de Bayonne, jambon de Parme, prosciutto], alias_en: [cured ham]}
+  - id: chorizo
+    nom: chorizo
+    parent: porc
+    alias_en: [chorizo sausage]
+    composants: [paprika, ail, sel, lait]
+    composition_variable: true
+    sensoriel: {piquant: 1}
+    note: Certains chorizos industriels contiennent du lait en poudre ou du lactose.
+  - id: saucisse
+    nom: saucisse
+    parent: porc
+    alias_fr: [saucisses, saucisse de Toulouse, chair à saucisse, saucisse de Strasbourg, knacki]
+    alias_en: [sausage, pork sausage]
+    composants: [sel, poivre, lait, farine_de_ble, moutarde]
+    composition_variable: true
+    note: Union des compositions courantes (lactose, farine de blé, moutarde selon les marques).
+  - {id: saindoux, nom: saindoux, parent: porc, alias_en: [lard (fat), pork fat]}
+  - id: gelatine
+    nom: gélatine
+    alias_fr: [feuille de gélatine, feuilles de gélatine, gélatine en poudre]
+    alias_en: [gelatin, gelatine]
+    composants: [viande_de_porc, boeuf]
+    composition_variable: true
+    note: Gélatine animale, le plus souvent de porc, parfois de bœuf. À exclure pour un interdit sur le porc.
+
+  - {id: volaille, nom: volaille, parent: viande, alias_fr: [volailles], alias_en: [poultry]}
+  - {id: poulet, nom: poulet, parent: volaille, alias_fr: [blanc de poulet, blancs de poulet, cuisse de poulet, filet de poulet, escalope de poulet, pilon de poulet], alias_en: [chicken, chicken breast, chicken thigh]}
+  - {id: dinde, nom: dinde, parent: volaille, alias_fr: [escalope de dinde, filet de dinde], alias_en: [turkey]}
+  - {id: canard, nom: canard, parent: volaille, alias_fr: [magret de canard, cuisse de canard, confit de canard], alias_en: [duck, duck breast]}
+  - {id: graisse_de_canard, nom: graisse de canard, parent: canard, alias_en: [duck fat]}
+
+  - id: merguez
+    nom: merguez
+    parent: viande
+    alias_en: [merguez sausage]
+    composants: [boeuf, agneau, piment, paprika, ail, cumin, sel]
+    composition_variable: true
+    sensoriel: {piquant: 2}

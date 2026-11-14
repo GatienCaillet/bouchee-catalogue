@@ -2,10 +2,30 @@
 
 Catalogue de recettes et d'ingrédients de l'app Bouchée, publié en fichiers statiques sur GitHub Pages.
 
-- `public/` : fichiers publiés tels quels (pour l'instant `hello.json`).
-- `.github/workflows/pages.yml` : publication par GitHub Actions à chaque commit sur `main`.
+## Contenu
 
-Plus tard : sources YAML des recettes et des ingrédients, chaîne de validation en Python, export JSON (voir le plan du sprint 1).
+- `referentiel/allergenes.yaml` : les 14 allergènes réglementaires de l'UE.
+- `referentiel/ingredients/*.yaml` : le référentiel d'ingrédients, un fichier par famille. Le format est décrit en tête de `bouchee/referentiel.py`.
+- `bouchee/verifier.py` : contrôle du référentiel (parents et composants existants, allergènes valides, pas de cycle, pas d'alias ambigu).
+- `bouchee/validateur.py` : validateur strict (*fail-closed*), qui dit si une recette est compatible avec un profil de goûts.
+- `tests/cas/validateur.json` : cas pièges partagés avec le validateur TypeScript de l'app.
+- `public/` : fichiers publiés sur GitHub Pages.
+
+## Commandes
+
+```bash
+pip install -e ".[dev]"
+python -m bouchee.verifier
+pytest
+```
+
+GitHub Actions lance le contrôle et les tests à chaque commit ; une erreur bloque la publication.
+
+## À compléter
+
+- Codes CIQUAL 2020 et identifiants FoodOn des ingrédients.
+- Double relecture humaine des allergènes (SPECIFICATIONS.md, section 3.5).
+- Attributs sensoriels : première estimation, à relire.
 
 ## Licence
 
