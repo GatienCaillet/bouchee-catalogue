@@ -1,0 +1,46 @@
+id: pates-sauce-tomate-epinards
+titre: Pâtes à la sauce tomate (épinards fondus)
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 25
+ingredients:
+- 400 g de spaghetti
+- 1 boîte de tomates concassées (400 g)
+- 1 oignon
+- 1 gousse d'ail
+- 2 c. à soupe d'huile d'olive
+- 30 g de pousses d'épinards
+- 1 pincée de sucre
+- quelques feuilles de basilic
+- sel, poivre
+etapes:
+- Émincer l'oignon et l'ail, puis les faire fondre 5 minutes dans l'huile d'olive.
+- Ajouter les tomates, le sucre, du sel et du poivre ; laisser mijoter 15 minutes à feu doux.
+- Ajouter les pousses d'épinards dans la sauce et les laisser tomber 2 minutes.
+- Mixer longuement la sauce pour qu'elle soit parfaitement lisse.
+- Cuire les spaghetti al dente dans une grande casserole d'eau salée, puis les égoutter.
+- Mélanger les pâtes avec la sauce et servir avec quelques feuilles de basilic.
+decouverte:
+  aliment: epinard
+  niveau: 1
+  pourquoi: Mixés dans la sauce tomate, les épinards ne se voient pas et leur goût disparaît derrière la tomate
+    et le basilic.
+  conseil: 'Mixer longuement : une sauce bien lisse ne laisse aucun morceau vert.'
+photo:
+  fichier: Pasta with tomato sauce (6178622998).jpg
+  auteur: pelican from Tokyo, Japan
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Pasta_with_tomato_sauce_(6178622998).jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Pâtes aux tomates et épinards
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_aux_tomates_et_%C3%A9pinards&oldid=452133
+  revision: 452133
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_aux_tomates_et_%C3%A9pinards&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Variante écrite pour Bouchée à partir de la recette source : épinards cuits et mixés dans une
+    sauce tomate chaude (niveau 1, fondu).'

@@ -1,0 +1,43 @@
+id: chili-con-carne
+titre: Chili con carne
+portions: 6
+temps:
+  preparation: 20
+  cuisson: 100
+ingredients:
+- 1 kg de bœuf à braiser (paleron)
+- 3 oignons
+- 2 boîtes de haricots rouges (800 g)
+- 1 boîte de maïs doux (140 g)
+- 500 ml de purée de tomates
+- 1 c. à café de piment de Cayenne en poudre
+- 1 c. à café de cumin
+- 1 c. à café de paprika
+- 1 c. à café d'origan
+- 20 cl de vin blanc sec
+- 2 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Couper la viande en petites lamelles et les oignons en dés.
+- Faire revenir la viande et les oignons à feu très vif dans l'huile ; égoutter si la viande rend trop d'eau.
+- Déglacer au vin blanc, ajouter la purée de tomates et laisser mijoter.
+- Ajouter les haricots et le maïs égouttés, les épices, du sel et du poivre ; ajouter le piment peu à peu, en goûtant.
+- Laisser mijoter 1 heure 30. Servir éventuellement avec du riz.
+photo:
+  fichier: Bowl of chili.jpg
+  auteur: Carstor
+  licence: CC BY-SA 2.5
+  url: https://commons.wikimedia.org/wiki/File:Bowl_of_chili.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Chili con carne
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chili_con_carne&oldid=761585
+  revision: 761585
+  date: '2026-03-10'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chili_con_carne&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites. La source laisse le choix entre pâte de piment et poudre de chili ; la version retenue utilise du
+    piment de Cayenne en poudre.'

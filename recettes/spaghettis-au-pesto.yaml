@@ -1,0 +1,33 @@
+id: spaghettis-au-pesto
+titre: Spaghetti au pesto
+portions: 4
+temps:
+  preparation: 5
+  cuisson: 10
+ingredients:
+- 350 g de spaghetti
+- 4 c. à soupe de pesto
+- quelques feuilles de basilic
+- sel, poivre
+etapes:
+- Cuire les spaghetti al dente dans une grande casserole d'eau salée.
+- Les égoutter en gardant une louche d'eau de cuisson.
+- Mélanger les pâtes avec le pesto, en ajoutant un peu d'eau de cuisson pour lier la sauce.
+- Poivrer et décorer de feuilles de basilic.
+photo:
+  fichier: Spaghetti con pesto alla genovese.jpg
+  auteur: Michael Musto
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Spaghetti_con_pesto_alla_genovese.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Spaghettis au basilic
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spaghettis_au_basilic&oldid=452225
+  revision: 452225
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spaghettis_au_basilic&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Variante proposée par la note de la recette source (« aussi avec une sauce au pesto ») : pesto
+    à la place de l''huile au basilic ; étapes réécrites.'

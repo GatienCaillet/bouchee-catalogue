@@ -1,0 +1,49 @@
+id: soupe-minestrone
+titre: Soupe minestrone
+portions: 6
+temps:
+  preparation: 30
+  cuisson: 30
+  repos: 720
+ingredients:
+- 150 g de haricots blancs secs
+- 100 g de chou blanc
+- 2 carottes
+- 150 g de haricots verts
+- 150 g de petits pois
+- 2 pommes de terre
+- 4 tomates
+- 1 oignon
+- 1 gousse d'ail
+- 2 l de bouillon de légumes
+- 1 branche de thym
+- 1 branche de romarin
+- quelques feuilles de basilic
+- 2 c. à soupe d'huile d'olive
+- sel, poivre
+- texte: 2 c. à soupe de pesto pour servir (facultatif)
+  facultatif: true
+etapes:
+- La veille, mettre les haricots secs à tremper 12 heures.
+- Émincer le chou et l'oignon ; couper en dés les tomates, les pommes de terre et les carottes ; tronçonner les
+  haricots verts et hacher l'ail.
+- Faire revenir l'oignon et l'ail dans l'huile, puis ajouter les autres légumes et les laisser suer quelques instants.
+- Mouiller avec le bouillon, ajouter le thym, le romarin et les haricots égouttés.
+- Cuire 30 minutes à l'autocuiseur, assaisonner et servir avec le basilic, et du pesto si on le souhaite.
+photo:
+  fichier: Minestrone soup (2).jpg
+  auteur: Robert Judge
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Minestrone_soup_(2).jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Soupe minestrone
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_minestrone&oldid=485044
+  revision: 485044
+  date: '2015-07-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_minestrone&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

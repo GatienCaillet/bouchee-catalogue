@@ -1,0 +1,32 @@
+id: moules-marinieres
+titre: Moules marinières
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 10
+ingredients:
+- 3 l de moules
+- 3 échalotes
+- 50 cl d'eau
+etapes:
+- Laver soigneusement les moules.
+- Émincer les échalotes et les mettre dans une grande casserole avec les moules et l'eau.
+- Porter à ébullition, puis cuire à feu doux.
+- Retirer du feu dès que toutes les moules sont ouvertes, en moins de 10 minutes, et servir aussitôt.
+photo:
+  fichier: Moules marinières cuisinées en octobre 2019.jpg
+  auteur: Benoît Prieur
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Moules_marini%C3%A8res_cuisin%C3%A9es_en_octobre_2019.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Moules marinières
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Moules_marini%C3%A8res&oldid=452732
+  revision: 452732
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Moules_marini%C3%A8res&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

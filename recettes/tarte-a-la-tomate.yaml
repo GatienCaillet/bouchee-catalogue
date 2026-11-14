@@ -1,0 +1,33 @@
+id: tarte-a-la-tomate
+titre: Tarte à la tomate et à la moutarde
+portions: 6
+temps:
+  preparation: 15
+  cuisson: 25
+ingredients:
+- 1 pâte brisée
+- 4 tomates
+- 4 c. à soupe de moutarde de Dijon
+- 100 g d'emmental râpé
+etapes:
+- Préchauffer le four à 180 °C et disposer la pâte dans un moule.
+- Étaler une couche généreuse de moutarde sur la pâte, puis le fromage râpé.
+- Couper les tomates en fines tranches et les disposer bien serrées sur le fromage.
+- Cuire environ 25 minutes.
+photo:
+  fichier: Préparation d'une tarte à la tomate (07) - résultat (gros plan).jpg
+  auteur: Benoît Prieur
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Pr%C3%A9paration_d%27une_tarte_%C3%A0_la_tomate_(07)_-_r%C3%A9sultat_(gros_plan).jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Tarte à la tomate
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_%C3%A0_la_tomate&oldid=710523
+  revision: 710523
+  date: '2024-01-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_%C3%A0_la_tomate&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

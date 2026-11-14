@@ -1,0 +1,41 @@
+id: gratin-dauphinois
+titre: Gratin dauphinois
+portions: 6
+temps:
+  preparation: 20
+  cuisson: 90
+ingredients:
+- 1 kg de pommes de terre à chair ferme
+- 25 cl de crème fraîche
+- 25 cl de lait
+- 1 gousse d'ail
+- 30 g de beurre
+- sel, poivre, noix de muscade
+- texte: 1 jaune d'œuf (facultatif)
+  facultatif: true
+etapes:
+- Frotter le fond du plat avec la gousse d'ail coupée.
+- Faire bouillir le lait avec du sel, du poivre, un peu d'ail haché et de la muscade.
+- Éplucher les pommes de terre et les couper en lamelles de 2 mm.
+- Alterner dans le plat des couches de pommes de terre, de crème et de petits morceaux de beurre, en finissant par
+  des pommes de terre.
+- Verser le lait jusqu'à hauteur de la dernière couche.
+- Dorer le dessus au jaune d'œuf si on le souhaite, puis cuire au moins 1 heure 30 à four chaud, jusqu'à ce qu'il
+  n'y ait plus de liquide.
+photo:
+  fichier: Gratin dauphinois p1040854.jpg
+  auteur: David Monniaux
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Gratin_dauphinois_p1040854.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Gratin dauphinois
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_dauphinois&oldid=709052
+  revision: 709052
+  date: '2023-12-11'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_dauphinois&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

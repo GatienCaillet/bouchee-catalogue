@@ -52,3 +52,13 @@ ingredients:
   - {id: cidre, nom: cidre, parent: alcool, allergenes: [sulfites], composition_variable: true, alias_fr: [cidre brut, cidre doux], alias_en: [cider, hard cider], composants: [pomme], ciqual: 5003}
   - {id: rhum, nom: rhum, parent: alcool, alias_fr: [rhum ambré, rhum blanc], alias_en: [rum], ciqual: 1004}
   - {id: cognac, nom: cognac, parent: alcool, alias_fr: [armagnac, calvados, eau-de-vie, kirsch, cointreau, grand marnier], alias_en: [brandy], ciqual: 1023}
+  - id: vin_de_riz
+    nom: vin de riz
+    parent: alcool
+    alias_fr: [vin de riz chinois, vin de Shaoxing, Shaoxing, vin jaune chinois]
+    alias_en: [shaoxing wine, chinese rice wine]
+    composants: [riz, ble]
+    allergenes: [sulfites]
+    composition_variable: true
+    ciqual: 1026
+    note: "Le vin de Shaoxing est fermenté avec un levain de blé (gluten). Code CIQUAL approché : saké ou alcool de riz."

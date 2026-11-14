@@ -38,7 +38,7 @@ ingredients:
   - {id: vinaigre_de_malt, nom: vinaigre de malt, parent: vinaigre, alias_en: [malt vinegar], composants: [orge], ciqual: 11018}
 
   - {id: sauce, nom: sauce, alias_fr: [sauces], alias_en: [sauce]}
-  - {id: sauce_soja, nom: sauce soja, parent: sauce, alias_fr: [sauce soja salée, sauce soja sucrée, shoyu], alias_en: [soy sauce, soya sauce], composants: [soja, ble, sel], sensoriel: {odeur_forte: true}, ciqual: 11104}
+  - {id: sauce_soja, nom: sauce soja, parent: sauce, alias_fr: [sauce soja salée, sauce soja sucrée, shoyu, sauce soya, sauce de soja], alias_en: [soy sauce, soya sauce], composants: [soja, ble, sel], sensoriel: {odeur_forte: true}, ciqual: 11104}
   - id: tamari
     nom: tamari
     ciqual: 11104
@@ -170,3 +170,12 @@ ingredients:
     note: L'amidon de la poudre à lever est souvent du blé.
   - {id: bicarbonate_de_soude, nom: bicarbonate de soude, parent: levure, alias_fr: [bicarbonate alimentaire, bicarbonate de sodium], alias_en: [baking soda, bicarbonate of soda], ciqual: 11507}
   - {id: extrait_de_levure, nom: extrait de levure, parent: levure, alias_en: [yeast extract], note: "À vérifier ; certains extraits de levure de bière proviennent de l'orge."}
+  - id: sauce_pimentee
+    nom: sauce pimentée
+    parent: sauce
+    alias_fr: [sauce au piment, sauce au piment fort, sauce piquante, tabasco, sriracha]
+    alias_en: [hot sauce, chili sauce, hot pepper sauce]
+    composants: [piment, vinaigre_blanc, sel, ail, sucre]
+    composition_variable: true
+    sensoriel: {piquant: 3}
+    note: "Union des sauces courantes (Tabasco : piment, vinaigre, sel ; sriracha : ail et sucre en plus)."

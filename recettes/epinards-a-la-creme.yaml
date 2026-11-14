@@ -1,0 +1,42 @@
+id: epinards-a-la-creme
+titre: Épinards à la crème et aux champignons
+portions: 2
+temps:
+  preparation: 15
+  cuisson: 15
+ingredients:
+- 400 g d'épinards frais
+- 200 g de champignons de Paris
+- 30 g de fromage blanc
+- 20 cl de lait
+- 1 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Plonger les épinards 5 minutes dans l'eau bouillante salée, les égoutter, les rafraîchir dans de l'eau glacée
+  et les presser.
+- Les remettre dans la casserole avec le lait et cuire 5 minutes ; rectifier l'assaisonnement.
+- Émincer les champignons et les faire sauter à l'huile d'olive ; saler et poivrer.
+- Ajouter les épinards aux champignons, mélanger et laisser réduire.
+- Hors du feu, incorporer le fromage blanc et servir en accompagnement.
+decouverte:
+  aliment: epinard
+  niveau: 4
+  pourquoi: Le lait et le fromage blanc adoucissent l'amertume ; les champignons apportent un goût familier.
+  conseil: Bien presser les épinards après l'eau glacée pour éviter le côté aqueux.
+photo:
+  fichier: Szpinak.JPG
+  auteur: FilMys
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Szpinak.JPG
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Épinards à la crème
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C3%89pinards_%C3%A0_la_cr%C3%A8me&oldid=452877
+  revision: 452877
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C3%89pinards_%C3%A0_la_cr%C3%A8me&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

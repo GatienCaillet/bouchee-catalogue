@@ -1,0 +1,37 @@
+id: pates-carbonara
+titre: Pâtes à la carbonara
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 15
+ingredients:
+- 360 g de spaghetti
+- 200 g de poitrine de porc (ou guanciale)
+- 120 g de pecorino
+- 4 œufs
+- sel, poivre
+etapes:
+- Faire chauffer une grande casserole d'eau légèrement salée.
+- Couper la poitrine en petits morceaux et la faire revenir à feu doux, sans matière grasse.
+- Cuire les pâtes un peu moins longtemps que le temps indiqué.
+- Battre les œufs avec le pecorino râpé et du poivre.
+- Égoutter les pâtes en gardant un peu d'eau de cuisson, puis les mettre dans la poêle avec la viande et un peu
+  de cette eau.
+- Remuer une à deux minutes, puis, hors du feu, ajouter le mélange œufs-pecorino ; remuer et servir.
+photo:
+  fichier: Spaghetti carbonara.jpg
+  auteur: Popo le Chien
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Spaghetti_carbonara.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Pâtes à la carbonara
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_%C3%A0_la_carbonara&oldid=682814
+  revision: 682814
+  date: '2022-07-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_%C3%A0_la_carbonara&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites. Le guanciale peut être remplacé par de la poitrine de porc, plus facile à trouver.'

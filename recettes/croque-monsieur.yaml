@@ -1,0 +1,35 @@
+id: croque-monsieur
+titre: Croque-monsieur
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 5
+ingredients:
+- 8 tranches de pain de mie
+- 4 tranches d'emmental
+- 2 tranches de jambon blanc
+- 30 g de beurre demi-sel
+- 50 g de gruyère râpé
+etapes:
+- Couper le jambon à la taille des tranches de pain.
+- Beurrer un côté de chaque tranche de pain.
+- Garnir le côté non beurré de quatre tranches avec le jambon et l'emmental, puis refermer avec les autres tranches,
+  côté beurré à l'extérieur.
+- Parsemer de gruyère et cuire 5 minutes dans un appareil à croque-monsieur ou sous le gril du four.
+photo:
+  fichier: Nue Croque Monsieur.jpg
+  auteur: Visitor7
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Nue_Croque_Monsieur.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Croque-monsieur
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Croque-monsieur&oldid=650196
+  revision: 650196
+  date: '2020-11-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Croque-monsieur&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

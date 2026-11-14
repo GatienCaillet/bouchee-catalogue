@@ -1,0 +1,37 @@
+id: risotto
+titre: Risotto au parmesan
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 25
+ingredients:
+- 1 oignon
+- 2 c. à soupe d'huile d'olive
+- 300 g de riz arborio
+- 1/2 verre de vin blanc sec
+- 1 l de bouillon de volaille
+- 1 noix de beurre
+- 30 g de parmesan râpé
+etapes:
+- Émincer l'oignon et le faire fondre dans l'huile d'olive.
+- Ajouter le riz et le remuer jusqu'à ce qu'il devienne translucide.
+- Verser le vin blanc et le laisser réduire.
+- Ajouter le bouillon chaud louche par louche, en attendant chaque fois qu'il soit absorbé ; compter 18 minutes.
+- Hors du feu, incorporer le beurre et le parmesan, couvrir et attendre deux minutes avant de servir.
+photo:
+  fichier: Flickr - cyclonebill - Risotto med citron og grønne bønner.jpg
+  auteur: cyclonebill
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Risotto_med_citron_og_gr%C3%B8nne_b%C3%B8nner.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Risotto
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Risotto&oldid=772211
+  revision: 772211
+  date: '2026-09-14'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Risotto&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites. La source dit « bouillon » sans préciser ; la version retenue utilise un bouillon de volaille.'

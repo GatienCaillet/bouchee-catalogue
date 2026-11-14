@@ -1,0 +1,38 @@
+id: pates-au-thon
+titre: Pâtes au thon et à la tomate
+portions: 2
+temps:
+  preparation: 10
+  cuisson: 15
+ingredients:
+- 250 g de penne
+- 1 oignon
+- 1 boîte de thon (140 g)
+- 1 piment de Cayenne
+- 2 c. à soupe d'huile d'olive
+- sel, poivre
+- 100 ml de sauce tomate
+- 30 g de parmesan
+etapes:
+- Couper l'oignon en fines lamelles et le faire fondre à feu doux dans l'huile d'olive.
+- Quand il est transparent, ajouter le piment émietté puis le thon ; cuire 3 minutes.
+- Ajouter la sauce tomate et laisser mijoter le temps de cuire les pâtes.
+- Cuire les pâtes selon les indications du paquet et les égoutter.
+- Mélanger les pâtes et la sauce, assaisonner, parsemer de parmesan et servir.
+photo:
+  fichier: Pasta with tuna and tomatoes (21166418558).jpg
+  auteur: Luca Nebuloni from Milan, Italy
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Pasta_with_tuna_and_tomatoes_(21166418558).jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Pâtes au thon
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_au_thon&oldid=327353
+  revision: 327353
+  date: '2011-05-05'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_au_thon&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

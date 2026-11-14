@@ -1,0 +1,34 @@
+id: soupe-au-potiron
+titre: Soupe au potiron
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+ingredients:
+- 1 kg de potiron
+- 1 oignon
+- 1 gousse d'ail
+- 1 l de bouillon de légumes
+- 1 c. à soupe d'huile d'arachide
+- sel, poivre
+etapes:
+- Hacher l'oignon et le faire revenir dans l'huile.
+- Ajouter le potiron coupé en dés, le bouillon, l'ail écrasé, du sel et du poivre.
+- Cuire 30 minutes, ou 15 minutes à l'autocuiseur, puis mixer.
+photo:
+  fichier: Pumpkin Cream Soup.jpg
+  auteur: SoHome Jacaranda Lilau, So Home Recreation Club (蘇戶康樂會) / PropLuxurians Health Society (楹豐元氣學會)
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Pumpkin_Cream_Soup.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Soupe au potiron
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_au_potiron&oldid=452212
+  revision: 452212
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_au_potiron&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

@@ -8,7 +8,7 @@ ingredients:
   - {id: steak_de_boeuf, nom: steak de bœuf, parent: boeuf, alias_fr: [steak, bifteck, rumsteck, entrecôte, faux-filet], alias_en: [beef steak, steak], ciqual: 6201}
   - {id: boeuf_hache, nom: bœuf haché, parent: boeuf, alias_fr: [viande hachée de bœuf, steak haché, steaks hachés], alias_en: [ground beef, minced beef], ciqual: 6254}
   - {id: veau, nom: veau, parent: viande, alias_fr: [viande de veau, escalope de veau, blanquette de veau], alias_en: [veal], ciqual: 6521}
-  - {id: agneau, nom: agneau, parent: viande, alias_fr: [mouton, gigot d'agneau, épaule d'agneau, côtelette d'agneau], alias_en: [lamb, mutton], ciqual: 21502}
+  - {id: agneau, nom: agneau, parent: viande, alias_fr: [mouton, gigot d'agneau, épaule d'agneau, côtelette d'agneau, côtelettes d'agneau, côte d'agneau, côtes d'agneau], alias_en: [lamb, mutton], ciqual: 21502}
   - {id: lapin, nom: lapin, parent: viande, alias_en: [rabbit], ciqual: 34001}
 
   - {id: porc, nom: porc, parent: viande, alias_fr: [cochon, produits du porc], alias_en: [pork products]}

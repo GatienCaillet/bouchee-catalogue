@@ -1,0 +1,37 @@
+id: poulet-sauce-soja
+titre: Poulet à la sauce soja
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 40
+ingredients:
+- 4 cuisses de poulet
+- 3 oignons verts
+- 1 c. à soupe d'huile de tournesol
+- 3 c. à soupe de sauce soja
+- 3 c. à soupe de vin de riz chinois
+- 1 morceau de gingembre frais (3 cm)
+- 1 c. à soupe de sucre
+- 50 cl d'eau
+etapes:
+- Faire dorer le poulet à la poêle dans l'huile, avec les oignons verts coupés en tronçons.
+- Ajouter la sauce soja, le vin de riz, le gingembre émincé et le sucre, puis couvrir d'eau.
+- Laisser mijoter à découvert et à feu doux jusqu'à ce que la plus grande partie de l'eau soit évaporée.
+- Servir avec du riz.
+photo:
+  fichier: Soy Sauce Chicken.jpg
+  auteur: Dennis Wong from Hong Kong, Hong Kong
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Soy_Sauce_Chicken.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Poulet à la sauce soja
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_%C3%A0_la_sauce_soja&oldid=517560
+  revision: 517560
+  date: '2016-07-06'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_%C3%A0_la_sauce_soja&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites. La source dit « de l''huile » sans préciser ; la version retenue utilise de l''huile de tournesol.'

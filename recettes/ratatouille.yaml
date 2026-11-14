@@ -1,0 +1,40 @@
+id: ratatouille
+titre: Ratatouille
+portions: 4
+temps:
+  preparation: 30
+  cuisson: 40
+ingredients:
+- 3 aubergines
+- 2 courgettes
+- 2 poivrons
+- 400 g de tomates
+- 2 gousses d'ail
+- 3 oignons
+- 6 c. à soupe d'huile d'olive
+- 1 feuille de laurier
+- 1 branche de thym
+- sel
+etapes:
+- Couper les aubergines en dés de 2 cm, les saler pour les faire dégorger, puis les rincer.
+- Les faire revenir dans de l'huile d'olive et réserver ; faire de même avec les courgettes, dans une huile propre.
+- Faire fondre les oignons 10 minutes dans un peu d'huile, ajouter les poivrons en lamelles et laisser fondre.
+- Ajouter les courgettes, les aubergines, puis les tomates pelées, épépinées et coupées en quartiers.
+- Rectifier l'assaisonnement, ajouter le laurier, le thym et l'ail en chemise ; cuire 20 minutes.
+photo:
+  fichier: Ratatouille.jpg
+  auteur: Marcus Guimarães
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Ratatouille.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Ratatouille
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ratatouille&oldid=673826
+  revision: 673826
+  date: '2022-04-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ratatouille&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

@@ -1,0 +1,42 @@
+id: pizza-margherita
+titre: Pizza Margherita
+portions: 2
+temps:
+  preparation: 30
+  cuisson: 10
+  repos: 75
+ingredients:
+- 200 ml d'eau
+- 350 g de farine
+- 25 g de levure fraîche
+- 2 c. à soupe d'huile d'olive
+- 2 c. à café de sel
+- texte: 2 c. à café de sucre (facultatif)
+  facultatif: true
+- 200 ml de sauce tomate
+- 1 boule de mozzarella
+- quelques feuilles de basilic
+etapes:
+- Mélanger la farine avec la levure émiettée, le sel et le sucre.
+- Creuser un puits, y verser l'eau et l'huile, puis mélanger jusqu'à obtenir une pâte.
+- Pétrir environ 15 minutes, puis laisser lever au moins une heure.
+- Pétrir de nouveau et laisser reposer encore 15 minutes.
+- Étaler la pâte sur 3 mm d'épaisseur, la couvrir de sauce tomate, de tranches de mozzarella et de basilic.
+- Cuire 10 minutes en haut du four préchauffé à 250 °C.
+photo:
+  fichier: Eq it-na pizza-margherita sep2005 sml.jpg
+  auteur: Valerio Capello sur Wikipédia anglais
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Pizza Margherita
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_Margherita&oldid=681631
+  revision: 681631
+  date: '2022-07-14'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_Margherita&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

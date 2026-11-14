@@ -1,0 +1,43 @@
+id: hachis-parmentier
+titre: Hachis parmentier
+portions: 4
+temps:
+  preparation: 30
+  cuisson: 55
+ingredients:
+- 600 g de bœuf haché
+- 1 œuf
+- 2 c. à soupe de persil haché
+- 1 kg de pommes de terre
+- 25 cl de lait
+- 1 oignon
+- 1 gousse d'ail
+- 100 g de beurre
+- sel, poivre
+- 1 pincée de noix de muscade
+- 60 g de gruyère râpé
+etapes:
+- Préchauffer le four à 220 °C.
+- Cuire la viande hachée à la poêle, puis la mélanger avec le persil et l'œuf.
+- Cuire les pommes de terre 30 minutes à l'eau, les écraser en purée et ajouter le lait.
+- Hacher l'oignon et l'ail, les faire fondre dans un peu de beurre.
+- Ajouter à la purée l'oignon, l'ail, le reste du beurre en morceaux, du sel, du poivre et la muscade.
+- Dans un plat, étaler la moitié de la purée, puis la viande, puis le reste de la purée ; couvrir de gruyère.
+- Faire gratiner environ 25 minutes.
+photo:
+  fichier: Hachis parmentier.jpg
+  auteur: Jérémy Couture
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Hachis_parmentier.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Hachis parmentier
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Hachis_parmentier&oldid=641520
+  revision: 641520
+  date: '2020-05-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Hachis_parmentier&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites. La source propose chapelure ou fromage râpé ; la version retenue utilise du gruyère.'

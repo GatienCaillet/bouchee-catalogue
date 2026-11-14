@@ -24,7 +24,9 @@ jobs:
       - run: pip install -e ".[dev]"
       - name: Contrôle du référentiel d'ingrédients
         run: python -m bouchee.verifier
-      - name: Tests (référentiel et validateur strict)
+      - name: Recettes (normalisation et validation, aucune ligne en suspens)
+        run: python -m bouchee.recettes
+      - name: Tests (référentiel, normaliseur, validateur, recettes)
         run: pytest -q
 
   publier:

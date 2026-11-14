@@ -1,0 +1,32 @@
+id: puree-pommes-de-terre
+titre: Purée de pommes de terre
+portions: 2
+temps:
+  preparation: 10
+  cuisson: 35
+ingredients:
+- 500 g de pommes de terre
+- 20 cl de lait
+- 10 g de beurre
+- sel
+etapes:
+- Éplucher les pommes de terre et les couper en morceaux.
+- Les cuire 35 minutes à l'eau.
+- Les égoutter, les écraser, puis ajouter le lait chaud, le beurre et le sel.
+photo:
+  fichier: MashedPotatoes.jpg
+  auteur: Renee Comet (photographer)
+  licence: Public domain
+  url: https://commons.wikimedia.org/wiki/File:MashedPotatoes.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Purée de pommes de terre
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pur%C3%A9e_de_pommes_de_terre&oldid=452440
+  revision: 452440
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pur%C3%A9e_de_pommes_de_terre&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

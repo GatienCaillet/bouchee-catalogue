@@ -1,0 +1,43 @@
+id: tarte-saumon-epinards
+titre: Tarte au saumon et aux épinards
+portions: 6
+temps:
+  preparation: 20
+  cuisson: 25
+ingredients:
+- 1 rouleau de pâte feuilletée
+- 300 g de pavé de saumon
+- 250 g d'épinards frais
+- 3 œufs
+- 20 cl de crème fraîche
+- 1 c. à café de coriandre en poudre
+- sel, poivre
+etapes:
+- Préchauffer le four à 220 °C.
+- Plonger les épinards 2 minutes dans l'eau bouillante, les égoutter, les presser puis les hacher grossièrement.
+- Couper le saumon en fines lamelles.
+- Battre les œufs avec la crème, la coriandre, du sel et du poivre.
+- Dérouler la pâte dans un moule, répartir le saumon et les épinards, puis verser l'appareil.
+- Cuire environ 25 minutes et servir chaud.
+decouverte:
+  aliment: epinard
+  niveau: 3
+  pourquoi: Les épinards sont visibles mais enrobés par la crème et accompagnés du saumon.
+  conseil: Bien égoutter les épinards cuits pour ne pas détremper la pâte.
+photo:
+  fichier: Quiche au saumon et aux épinards.jpg
+  auteur: Benoît Prieur
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Quiche_au_saumon_et_aux_%C3%A9pinards.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Tarte au saumon et aux épinards
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_saumon_et_aux_%C3%A9pinards&oldid=330082
+  revision: 330082
+  date: '2011-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_saumon_et_aux_%C3%A9pinards&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

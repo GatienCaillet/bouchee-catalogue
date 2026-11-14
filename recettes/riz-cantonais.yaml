@@ -1,0 +1,41 @@
+id: riz-cantonais
+titre: Riz cantonais
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 30
+ingredients:
+- 200 g de riz basmati
+- 40 cl d'eau
+- 200 g d'échine de porc
+- 2 tranches de jambon cru
+- 1/2 poivron rouge
+- 100 g de petits pois
+- 1 c. à soupe d'huile de tournesol
+- 2 c. à soupe de sauce soja
+- 3 œufs
+etapes:
+- Mettre le riz dans une casserole, le couvrir d'eau bouillante salée et porter à frémissement à couvert.
+- Quand il ne reste presque plus d'eau, couvrir hermétiquement et laisser cuire encore 10 minutes à feu très doux.
+- Couper le porc, le jambon et le poivron en petits dés, puis les faire revenir à la poêle dans l'huile avec les
+  petits pois.
+- Arroser de sauce soja et incorporer le riz cuit.
+- Cuire les œufs battus en omelette très fine, la découper en morceaux et l'ajouter au riz. Servir.
+photo:
+  fichier: Cantonese rice @ Restaurant Phénix @ Paris (34406404351).jpg
+  auteur: Guilhem Vellut from Paris, France
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Cantonese_rice_@_Restaurant_Ph%C3%A9nix_@_Paris_(34406404351).jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Riz cantonais
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_cantonais&oldid=657178
+  revision: 657178
+  date: '2021-05-27'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_cantonais&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites. Les saucisses chinoises sont remplacées par du jambon cru, comme le propose la source, et le saindoux
+    par de l''huile de tournesol.'

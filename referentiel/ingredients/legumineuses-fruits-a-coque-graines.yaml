@@ -24,7 +24,7 @@ ingredients:
     nom: beurre de cacahuète
     ciqual: 15202
     parent: arachide
-    alias_fr: [beurre de cacahouète, pâte d'arachide]
+    alias_fr: [beurre de cacahouète, pâte d'arachide, beurre d'arachide]
     alias_en: [peanut butter]
     composants: [sel, sucre, huile_de_palme]
     composition_variable: true

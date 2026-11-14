@@ -1,0 +1,36 @@
+id: agneau-au-pesto
+titre: Côtes d'agneau au pesto
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 10
+ingredients:
+- 8 côtes d'agneau
+- 2 c. à soupe de pesto
+- 4 c. à soupe d'huile d'olive
+- 2 c. à soupe de jus de citron
+- quelques gouttes de tabasco
+- sel
+etapes:
+- Préchauffer le gril du four à 240 °C.
+- Mélanger le pesto, la moitié de l'huile d'olive, le jus de citron et le tabasco.
+- Badigeonner les côtes avec le reste de l'huile et les faire dorer sous le gril 5 minutes par face ; saler en fin
+  de cuisson.
+- Badigeonner les côtes du mélange au pesto et servir le reste à part.
+photo:
+  fichier: Grilled Lamb Loin Chops-01.jpg
+  auteur: Naotake Murayama from Los Altos, CA, USA
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Grilled_Lamb_Loin_Chops-01.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Agneau au pesto
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Agneau_au_pesto&oldid=673503
+  revision: 673503
+  date: '2022-03-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Agneau_au_pesto&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'

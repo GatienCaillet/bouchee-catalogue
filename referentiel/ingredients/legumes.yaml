@@ -6,7 +6,7 @@ ingredients:
 
   # Légumes-feuilles
   - {id: legume_feuille, nom: légume-feuille, parent: legume, alias_fr: [légumes-feuilles, légumes verts à feuilles], alias_en: [leafy greens]}
-  - {id: epinard, nom: épinard, parent: legume_feuille, alias_fr: [épinards, pousses d'épinard, jeunes pousses d'épinard], alias_en: [spinach, baby spinach], sensoriel: {amer: 1, textures: [fondant]}, ciqual: 20059}
+  - {id: epinard, nom: épinard, parent: legume_feuille, alias_fr: [épinards, pousses d'épinard, pousses d'épinards, jeunes pousses d'épinard, jeunes pousses d'épinards], alias_en: [spinach, baby spinach], sensoriel: {amer: 1, textures: [fondant]}, ciqual: 20059}
   - {id: laitue, nom: laitue, parent: legume_feuille, alias_fr: [salade verte, batavia, sucrine, romaine, feuille de chêne], alias_en: [lettuce, romaine lettuce], sensoriel: {textures: [croquant]}, ciqual: 20031}
   - {id: roquette, nom: roquette, parent: legume_feuille, alias_en: [rocket, arugula], sensoriel: {amer: 1, piquant: 1}, ciqual: 20217}
   - {id: mache, nom: mâche, parent: legume_feuille, alias_en: [lamb's lettuce, corn salad], ciqual: 20099}
@@ -16,7 +16,7 @@ ingredients:
 
   # Choux
   - {id: chou, nom: chou, parent: legume, alias_fr: [choux], alias_en: [cabbage family, brassica]}
-  - {id: chou_vert, nom: chou vert, parent: chou, alias_fr: [chou frisé, chou de milan, chou pommé], alias_en: [green cabbage, savoy cabbage], sensoriel: {odeur_forte: true}, ciqual: 20069}
+  - {id: chou_vert, nom: chou vert, parent: chou, alias_fr: [chou frisé, chou de milan, chou pommé, chou blanc], alias_en: [green cabbage, savoy cabbage], sensoriel: {odeur_forte: true}, ciqual: 20069}
   - {id: chou_rouge, nom: chou rouge, parent: chou, alias_en: [red cabbage], sensoriel: {textures: [croquant]}, ciqual: 20014}
   - {id: chou_fleur, nom: chou-fleur, parent: chou, alias_fr: [chou fleur], alias_en: [cauliflower], sensoriel: {odeur_forte: true}, ciqual: 20016}
   - {id: brocoli, nom: brocoli, parent: chou, alias_fr: [brocolis], alias_en: [broccoli], sensoriel: {amer: 1}, ciqual: 20057}
@@ -26,8 +26,8 @@ ingredients:
   # Alliacées
   - {id: allium, nom: alliacée, parent: legume, alias_fr: [alliacées], alias_en: [allium]}
   - {id: ail, nom: ail, parent: allium, alias_fr: [gousse d'ail, gousses d'ail, ail frais], alias_en: [garlic, garlic clove], sensoriel: {piquant: 1, odeur_forte: true}, ciqual: 11000}
-  - {id: oignon, nom: oignon, parent: allium, alias_fr: [oignons, oignon jaune, oignon blanc, oignon rouge], alias_en: [onion, yellow onion, red onion], sensoriel: {piquant: 1, odeur_forte: true}, ciqual: 20034}
-  - {id: oignon_nouveau, nom: oignon nouveau, parent: allium, alias_fr: [oignon de printemps, oignons nouveaux, cébette], alias_en: [spring onion, scallion, green onion]}
+  - {id: oignon, nom: oignon, parent: allium, alias_fr: [oignons, oignon jaune, oignon blanc, oignon rouge, oignon grelot, oignons grelots], alias_en: [onion, yellow onion, red onion], sensoriel: {piquant: 1, odeur_forte: true}, ciqual: 20034}
+  - {id: oignon_nouveau, nom: oignon nouveau, parent: allium, alias_fr: [oignon de printemps, oignons nouveaux, cébette, oignon vert, oignons verts, oignon frais, oignons frais], alias_en: [spring onion, scallion, green onion]}
   - {id: echalote, nom: échalote, parent: allium, alias_fr: [échalotes], alias_en: [shallot], sensoriel: {odeur_forte: true}, ciqual: 20097}
   - {id: poireau, nom: poireau, parent: allium, alias_fr: [poireaux, blanc de poireau], alias_en: [leek], sensoriel: {textures: [fondant]}, ciqual: 20039}
 

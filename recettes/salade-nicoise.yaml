@@ -1,0 +1,44 @@
+id: salade-nicoise
+titre: Salade niçoise
+portions: 6
+temps:
+  preparation: 30
+  cuisson: 10
+ingredients:
+- 10 tomates
+- 1 concombre
+- 200 g de fèves fraîches
+- 6 petits artichauts
+- 2 poivrons verts
+- 6 oignons nouveaux
+- 6 feuilles de basilic
+- 1 gousse d'ail
+- 3 œufs durs
+- 12 filets d'anchois
+- 100 g d'olives noires
+- 6 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Couper les tomates en quartiers et les saler légèrement ; couper les œufs en quartiers.
+- Couper les filets d'anchois en morceaux et trancher finement le concombre épluché.
+- Émincer finement les poivrons, les oignons, les artichauts et les fèves.
+- Frotter le saladier avec l'ail coupé en deux et y mettre tous les ingrédients, sauf les tomates.
+- Égoutter les tomates, les saler encore un peu et les ajouter.
+- Préparer une sauce avec l'huile d'olive, le basilic haché, du sel et du poivre ; servir bien frais.
+photo:
+  fichier: Salade niçoise 001.jpg
+  auteur: Arnaud 25
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Salade_ni%C3%A7oise_001.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Salade niçoise
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_ni%C3%A7oise&oldid=516855
+  revision: 516855
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_ni%C3%A7oise&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites. La source propose du thon à la place des anchois ; la version retenue garde les anchois.'

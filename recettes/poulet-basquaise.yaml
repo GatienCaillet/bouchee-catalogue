@@ -1,0 +1,40 @@
+id: poulet-basquaise
+titre: Poulet basquaise
+portions: 4
+temps:
+  preparation: 30
+  cuisson: 60
+ingredients:
+- 1 poulet (1,5 kg)
+- 1 poivron rouge
+- 1 poivron vert
+- 6 tomates
+- 2 oignons
+- 4 gousses d'ail
+- 3 c. à soupe d'huile d'olive
+- sel
+- 1 pincée de piment d'Espelette
+etapes:
+- Découper le poulet en morceaux.
+- Plonger les tomates quelques secondes dans l'eau bouillante, puis les peler et les couper.
+- Faire dorer le poulet dans une sauteuse avec l'huile d'olive, puis le réserver.
+- Faire revenir dans la sauteuse les oignons émincés, les poivrons en lanières, les tomates et l'ail haché.
+- Saler, ajouter le piment d'Espelette, remettre le poulet, les blancs sur le dessus.
+- Couvrir et laisser mijoter une heure. Servir avec du riz.
+photo:
+  fichier: Poulet basquaise.jpg
+  auteur: Arnaud 25
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Poulet_basquaise.jpg
+  verification: licence et auteur lus sur Wikimedia Commons ; contenu choisi d'après le titre et la description
+    du fichier
+source:
+  titre: Poulet basquaise
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_basquaise&oldid=698765
+  revision: 698765
+  date: '2023-06-09'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_basquaise&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Recette adaptée pour Bouchée : quantités précisées, ingrédients nommés sans ambiguïté, étapes
+    réécrites.'
