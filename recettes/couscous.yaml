@@ -1,0 +1,60 @@
+id: couscous
+titre: Couscous
+portions: 6
+temps:
+  preparation: 45
+  cuisson: 150
+  repos: 0
+ingredients:
+- 2 kg de collier d'agneau
+- 1,5 kg de semoule de blé dur (« couscous »)
+- 500 g de carottes
+- 500 g de courgettes
+- 250 g de pois chiche
+- 3 oignons
+- 200 g de pommes de terre
+- 30 g de concentré de tomates
+- eau
+- huile d'olive
+- 4 g de ras el hanout
+- 500 g de navets.
+etapes:
+- Dans un couscoussier, dorez les morceaux de collier d'agneau dans l'huile d'olive
+- Faites frire à l'huile les oignons émincés et ajoutez les raisins secs juste après
+- Ajoutez le concentré de tomates, la harissa et 50 cl d'eau
+- Remuez la sauce lorsqu'elle bout et rajoutez la viande (collier d'agneau)
+- Laissez cuire 5 min et remplir d'eau à couvert
+- Laissez cuire à nouveau pendant 20 min en écumant le tout.
+- Pelez et lavez les légumes (carottes, courgettes, navets, pois chiches...).
+- Coupez les carottes, les navets et les pommes de terre en 4 morceaux.
+- Ajoutez les légumes (carottes oignons et pois chiches) et le ras al-hanout.
+- Laissez bouillir le tout pendant 15 min.
+- Dans un récipient, étalez la semoule
+- Salez, huilez et mélangez le tout
+- Ajoutez progressivement de l'eau et mélangez pour l'incorporer à la semoule.
+- Remplir la partie supérieure du couscoussier de semoule et poser là sur le couscoussier.
+- Étanchéifier en nouant un linge mouillé.
+- Laisser cuire pendant 30 min, à partir du moment où la vapeur passe à travers la semoule.
+- Retirer la semoule et l'étaler dans un plat.
+- Ajouter de l'huile et de l'eau
+- Sans oublier de rectifier l'assaisonnement.
+- Ajouter les navets, les pommes de terre, les courgettes, le persil et la coriandre.
+- Remettre la semoule et cuire le tout pendant 40 min.
+- Une fois les 40 min écoulées, le plat est prêt à être servi.
+- vous pouvez servir le couscous dans le récipient de votre choix.
+source:
+  titre: Couscous
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Couscous&oldid=676800
+  revision: 676800
+  date: '2022-05-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Couscous&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Couscous of Fes.JPG
+  auteur: Beata Gorecka
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Couscous_of_Fes.JPG
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

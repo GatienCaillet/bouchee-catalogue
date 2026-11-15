@@ -1,0 +1,33 @@
+id: tarte-au-beaufort-3
+titre: Tarte au beaufort
+portions: 6
+temps:
+  preparation: 31
+  cuisson: 25
+  repos: 0
+ingredients:
+- 200 g de beaufort
+- 30 cl de crème fraîche épaisse
+- 2 œufs
+- 100 g de beurre
+- 200 g de farine
+- poivre, sel
+- lait
+etapes:
+- Mettre la farine sur un plat avec une pincée de sel ; ajouter le beurre coupé en petits morceaux ; pétrir à la
+  main jusqu'à obtention d'une pâte homogène.
+- Faire un puits et y verser le lait petit à petit tout en continuant à pétrir. Faire une boule avec l'ensemble,
+  puis étaler avec un rouleau à pâtisserie. Foncer une tourtière de 25-30 cm de diamètre.
+- Mélanger la crème fraîche avec les deux œufs entiers dans un grand bol. Râper le Beaufort et l'ajouter au contenu
+  du bol. Poivrer abondamment. Verser le contenu du bol dans la tourtière.
+- Cuire à four moyen thermostat 6 pendant 25 minutes. Servir chaud, avec de la salade et un vin de Savoie.
+source:
+  titre: Tarte au beaufort 3
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_beaufort_3&oldid=648089
+  revision: 648089
+  date: '2020-10-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_beaufort_3&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

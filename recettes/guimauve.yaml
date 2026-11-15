@@ -1,0 +1,33 @@
+id: guimauve
+titre: Guimauve
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 300
+  repos: 0
+ingredients:
+- 200g de sucre
+- 20g de glucose
+- 60g d'eau
+- 4 feuilles de gélatine
+- 2 blancs d'œufs.
+etapes:
+- Cuire 200g de sucre, 20g de glucose et 60g d'eau jusqu'à 130°C.
+- Faire gonfler 4 feuilles de gélatine dans de l'eau froide.
+- Battre lentement 2 blancs d'œufs en neige.
+- Quand le sucre a atteint sa température, le verser sur les blancs sans cesser de battre.
+- Incorporer la gélatine essorée dans les œufs et continuer de battre jusqu'à ce que cette préparation soit refroidie
+  (environ 10 minutes).
+- Étaler sur une plaque poudrée de sucre ou former des formes à l'aide d'une poche à douille.
+- Saupoudrer de sucre fin et/ou impalpable et laisser sécher une nuit.
+- Garder au sec.
+source:
+  titre: Guimauve
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Guimauve&oldid=735172
+  revision: 735172
+  date: '2025-02-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Guimauve&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,24 @@
+id: galette-du-pauvre
+titre: Galette du pauvre
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 kg de farine
+- 1,5 l d'eau
+- 30 g de sel
+etapes:
+- Verser la farine dans un grand saladier, par portions de 300 grammes environ. Parallèlement, verser l'eau et le
+  sel. Mélanger jusqu'à obtenir une pâte homogène, liquide et sans grumeaux, de type pâte à crêpe.
+source:
+  titre: Galette du pauvre
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galette_du_pauvre&oldid=537594
+  revision: 537594
+  date: '2017-01-07'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galette_du_pauvre&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

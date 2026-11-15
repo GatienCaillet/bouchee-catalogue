@@ -1,0 +1,31 @@
+id: butter-tablet
+titre: Butter Tablet
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 kg de sucre
+- environ 75 g de beurre
+- environ 30 cl de lait concentré
+- vanille (éventuellement)
+etapes:
+- Mettre le beurre à fondre dans une casserole à feu doux. Ajouter ensuite le sucre puis le lait concentré et mélanger
+  le tout pour obtenir un sirop liquide et homogène. Laisser cuire à feu doux jusqu'à ébullition. À partir de ce
+  moment la, il faut remuer régulièrement et surveiller la couleur que cela prend. Elle doit passer d'un jaune pale
+  à un marron clair. La consistance doit aussi avoir changée et doit être plus solide et bien accrocher à la spatule.
+  A ce moment la (couleur marron+consistance épaisse), il faut retirer la casserole du feu et battre vivement, mais
+  pas trop longtemps, pour faire cristalliser le sucre.
+- 'Attention: ne pas battre trop longtemps, sinon avec la pénétration de l''air dans le sucre : votre mixture risquerait
+  de se transformer en sucre en poudre… C''est la partie la plus délicate…'
+source:
+  titre: Butter Tablet
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Butter_Tablet&oldid=517011
+  revision: 517011
+  date: '2016-07-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Butter_Tablet&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

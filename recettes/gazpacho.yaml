@@ -1,0 +1,45 @@
+id: gazpacho
+titre: Gazpacho
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 0
+  repos: 150
+ingredients:
+- 2 grosses tomates
+- 1-2 gros concombres
+- 1 oignon
+- 1/2 poivron rouge
+- 1/2 poivron vert
+- 3 tranches de pain
+- 3 gousses d'ail
+- 4 cuilleres à soupe d'huile d'olive
+- texte: 2 cuilleres à soupe de vinaigre (par ex. vinaigre de xerès)
+  ingredients:
+  - vinaigre
+  categorie: true
+- sel et poivre
+etapes:
+- Prendre une tranche de pain, en faire des croûtons et réserver.
+- Piler l'ail dans un mortier avec une pincée de sel (ou passer au mixer ou au presse-purée).
+- Emietter le reste du pain et l'ajouter à l'ail.
+- Verser l'huile progressivement en ne cessant de remuer pour former une pâte homogène.
+- Laisser reposer 30 minutes.
+- Nettoyer ou éplucher les légumes, les égrener si nécessaire.
+- Couper un tiers des légumes en petits dés.
+- Ecraser le reste dans la pâte.
+- Passer au chinois et diluer avec le vinaigre et un bon demi-litre d'eau.
+- Faire macérer au moins deux heures au réfrigérateur.
+- Sortir du réfrigérateur, bien remuer et assaisonner de sel et de poivre.
+- Servir avec les croûtons et les légumes réservés.
+source:
+  titre: Gazpacho
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gazpacho&oldid=451980
+  revision: 451980
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gazpacho&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : vinaigre.'

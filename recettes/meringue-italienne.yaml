@@ -1,0 +1,25 @@
+id: meringue-italienne
+titre: Meringue italienne
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- 10 cl d'eau
+- blanc d'œuf
+- sucre.
+etapes:
+- Montez les blancs en neige très ferme
+- Porter à ébullition l'eau et le sucre jusqu'à obtention d'un sirop au boulé (116° C)
+- Verser progressivement le sirop sur les blancs tout en battant continuellement jusqu'à refroidissement complet.
+source:
+  titre: Meringue italienne
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Meringue_italienne&oldid=672637
+  revision: 672637
+  date: '2022-03-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Meringue_italienne&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,44 @@
+id: briouats-de-boeuf-a-la-coriandre
+titre: Briouats de boeuf à la coriandre
+portions: 6
+temps:
+  preparation: 43
+  cuisson: 10
+  repos: 0
+ingredients:
+- 10 feuilles de brick
+- 500 g de bœuf haché
+- 2 oignons
+- 2 gousses d'ail
+- 6 œufs
+- texte: 1 bouquet de coriandre
+  ingredients:
+  - coriandre
+  categorie: true
+- 1 cuillère à café de cumin
+- 1 filet d'huile d'olive
+- huile de friture
+- sel
+- poivre.
+etapes:
+- Pelez-les gousses d'ail et les oignons. Hachez-les.
+- Passez le bouquet de coriandre sous le robinet d'eau froide. Essorez-le dans du papier absorbant, et ciselez-le.
+- Dans une cocotte, faites chauffer un filet d'huile et faites-y revenir l'ail et les oignons.
+- À coloration, ajoutez la coriandre, puis les œufs, un par un, sans cesser de mélanger.
+- Ajoutez alors la viande et le cumin. Salez, poivrez, et prolongez la cuisson 10 minutes en mélangeant bien.
+- Découpez les feuilles de brick en deux. Déposer une cuillerée de farce sur chacune des moitiés et roulez les feuilles
+  de façon à obtenir une sorte de gros cigare.
+- Faites chauffer de l'huile de friture dans une poêle et faites frire les briouats jusqu'à ce qu'ils soient bien
+  dorés.
+- Égouttez-les sur du papier absorbant avant de les déguster.
+source:
+  titre: Briouats de boeuf à la coriandre
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Briouats_de_boeuf_%C3%A0_la_coriandre&oldid=685305
+  revision: 685305
+  date: '2022-09-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Briouats_de_boeuf_%C3%A0_la_coriandre&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : coriandre.'

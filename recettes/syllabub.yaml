@@ -1,0 +1,35 @@
+id: syllabub
+titre: Syllabub
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 30
+ingredients:
+- un zeste de citron non traité
+- deux cuillères à soupe de sucre
+- une c.s. de jus de citron
+- une c.s. de cognac
+- deux c.s. de Xérès
+- 2 dl de crème entière bien froide.
+etapes:
+- Mélanger le zeste, le sucre, le jus de citron et les alcools dans une terrine et laisser macérer pendant 30 minutes
+- Filtrer le mélange.
+- Battre la crème en incorporant le mélange petit à petit
+- Tenir au frais jusqu'au moment de servir.
+source:
+  titre: Syllabub
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Syllabub&oldid=685788
+  revision: 685788
+  date: '2022-10-01'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Syllabub&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Syllabub.jpg
+  auteur: Man vyi
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Syllabub.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,27 @@
+id: salade-de-quinoa-a-l-avocat-et-au-mais
+titre: Salade de quinoa à l'avocat et au maïs
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 15
+ingredients:
+- 200 g de quinoa
+- 2 avocats
+- 1 boîte de maïs (285 g)
+- 1 citron vert
+- 4 c. à soupe d'huile d'olive
+- 1 c. à soupe de jus de citron
+- sel, poivre
+etapes:
+- Cuire le quinoa 12 minutes ; couper les avocats en dés.
+- Préparer la vinaigrette en mélangeant l'huile, l'acidité, le sel et le poivre.
+- Réunir tous les ingrédients dans un saladier, arroser de vinaigrette et mélanger délicatement.
+- Laisser reposer 15 minutes au frais avant de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

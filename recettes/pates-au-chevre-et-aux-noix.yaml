@@ -1,0 +1,25 @@
+id: pates-au-chevre-et-aux-noix
+titre: Pâtes au chèvre et aux noix
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 20
+  repos: 0
+ingredients:
+- 400 g de penne
+- 150 g de fromage de chèvre frais
+- 50 g de cerneaux de noix
+- 10 cl de crème liquide
+- sel, poivre
+etapes:
+- Porter une grande casserole d'eau salée à ébullition.
+- Faire fondre le chèvre dans la crème et ajouter les noix concassées.
+- Cuire les pâtes selon les indications du paquet, les égoutter en gardant un peu d'eau de cuisson.
+- Mélanger les pâtes à la sauce, détendre si besoin avec l'eau de cuisson, poivrer et servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « pâtes »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

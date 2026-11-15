@@ -1,0 +1,29 @@
+id: dahl-de-lentilles-corail
+titre: Dahl de lentilles corail
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 30
+  repos: 0
+ingredients:
+- 300 g de lentilles corail
+- 1 oignon
+- 2 gousses d'ail
+- 1 morceau de gingembre frais
+- 1 c. à café de curcuma
+- 1 c. à café de cumin en poudre
+- 400 ml de lait de coco
+- 400 g de tomates pelées
+- 2 c. à soupe d'huile de colza
+- sel
+etapes:
+- Faire revenir l'oignon, l'ail et le gingembre hachés dans l'huile avec les épices.
+- Ajouter les lentilles rincées, les tomates, le lait de coco et 30 cl d'eau.
+- Cuire 25 minutes à feu doux en remuant ; saler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

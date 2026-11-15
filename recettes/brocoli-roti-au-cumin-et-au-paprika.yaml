@@ -1,0 +1,27 @@
+id: brocoli-roti-au-cumin-et-au-paprika
+titre: Brocoli rôti au cumin et au paprika
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 35
+  repos: 0
+ingredients:
+- 600 g de brocoli
+- 3 c. à soupe d'huile d'olive
+- 1 c. à café de cumin en poudre
+- 1 c. à café de paprika
+- 2 gousses d'ail
+- sel, poivre
+etapes:
+- Préchauffer le four à 210 °C.
+- Détacher le brocoli en petits bouquets et les laver.
+- Étaler le brocoli sur une plaque, arroser d'huile d'olive et ajouter les gousses d'ail entières.
+- Saupoudrer de cumin et de paprika, saler, poivrer et bien mélanger.
+- Enfourner 30 à 40 minutes en remuant à mi-cuisson, jusqu'à ce que les légumes soient dorés et tendres.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « légumes rôtis aux épices »), pas encore testée en cuisine
+    : quantités et temps à confirmer.'

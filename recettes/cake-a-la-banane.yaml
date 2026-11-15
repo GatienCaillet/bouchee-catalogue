@@ -1,0 +1,28 @@
+id: cake-a-la-banane
+titre: Cake à la banane
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 3 bananes
+- 2 œufs
+- 100 g de sucre roux
+- 200 g de farine
+- 1 sachet de levure chimique
+- 80 g de beurre
+etapes:
+- Préchauffer le four à 180 °C et beurrer le moule.
+- Écraser les bananes, ajouter les œufs, le sucre et le beurre fondu, puis la farine et la levure.
+- Verser dans le moule.
+- 'Enfourner 20 minutes pour les muffins, 35 à 40 minutes pour un gâteau : la lame d''un couteau doit ressortir
+  sèche.'
+- Laisser tiédir avant de démouler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gâteau »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

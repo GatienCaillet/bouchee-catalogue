@@ -1,0 +1,38 @@
+id: hamburger-au-tofu-2
+titre: Hamburger au Tofu (2)
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 5
+  repos: 0
+ingredients:
+- 200 g de tofu
+- 1 gousse d'ail
+- 2 cl de jus de citron
+- 1 oignon
+- 2 pommes de terre
+- 4 tranches de pain
+- 20 g de levure maltée en paillettes
+- 10 g de concentré de tomates
+- texte: sel, poivre, curry, huile
+  ingredients:
+  - sel
+  - poivre
+  - curry
+  - huile
+  categorie: true
+etapes:
+- Mélanger les ingrédients, les mixer
+- Modeler de petites galettes
+- Cuire à l'huile quelques minutes de chaque côté.
+source:
+  titre: Hamburger au Tofu (2)
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Hamburger_au_Tofu_%282%29&oldid=452002
+  revision: 452002
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Hamburger_au_Tofu_%282%29&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : curry en poudre, huile, poivre, sel.'

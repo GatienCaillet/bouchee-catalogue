@@ -1,0 +1,27 @@
+id: soupe-de-poulet-aux-vermicelles
+titre: Soupe de poulet aux vermicelles
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 25
+  repos: 0
+ingredients:
+- 2 blancs de poulet
+- 2 carottes
+- 1 poireau
+- 80 g de vermicelles
+- 1,5 l de bouillon de volaille
+- 1/2 botte de persil
+- sel, poivre
+etapes:
+- Couper les carottes en rondelles et émincer le poireau.
+- Pocher les blancs de poulet 15 minutes dans le bouillon avec les légumes.
+- Retirer le poulet, l'effilocher et le remettre dans la soupe.
+- Ajouter les vermicelles et cuire 5 minutes. Parsemer de persil.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

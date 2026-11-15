@@ -1,0 +1,26 @@
+id: oeufs-brouilles
+titre: Œufs brouillés
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 œufs
+- une noix de beurre
+- une demi pincée de sel
+- une prise de poivre
+etapes:
+- Œufs brouillés ordinaires
+- La recette de base est pour une personne. Ajouter un œuf par personne supplémentaire (ainsi, cinq œufs pour quatre
+  personnes). * 2 œufs * une noix de beurre * une demi pincée de sel * une prise de poivre
+source:
+  titre: Œufs brouillés
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C5%92ufs_brouill%C3%A9s&oldid=429387
+  revision: 429387
+  date: '2013-10-27'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C5%92ufs_brouill%C3%A9s&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

@@ -1,0 +1,25 @@
+id: oeufs-cocotte-aux-epinards
+titre: Œufs cocotte aux épinards
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 15
+  repos: 0
+ingredients:
+- 4 œufs
+- 150 g d'épinards
+- 10 cl de crème fraîche
+- 20 g de beurre
+- sel, poivre
+etapes:
+- Préchauffer le four à 180 °C.
+- Faire tomber les épinards au beurre.
+- Les répartir dans 4 ramequins, ajouter une cuillerée de crème et casser un œuf dans chacun.
+- Cuire 12 minutes au bain-marie au four.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

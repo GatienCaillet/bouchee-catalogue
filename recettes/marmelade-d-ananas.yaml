@@ -1,0 +1,25 @@
+id: marmelade-d-ananas
+titre: Marmelade d'ananas
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 30
+  repos: 0
+ingredients:
+- 500 g d'ananas frais coupé en morceaux
+- 250 g de sucre blanc en poudre
+- 2 gousses de vanille ou de l'extrait de vanille
+etapes:
+- Dans la casserole, mélangez l'ananas en morceaux, le sucre et les graines des gousses de vanille.
+- Faites cuire à feu doux pendant environ 30 minutes en remuant souvent pour obtenir une marmelade épaisse.
+- Laissez refroidir avant de mettre en réserve.
+source:
+  titre: Marmelade d'ananas
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Marmelade_d%27ananas&oldid=452724
+  revision: 452724
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Marmelade_d%27ananas&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

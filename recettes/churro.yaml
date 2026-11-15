@@ -1,0 +1,39 @@
+id: churro
+titre: Churro
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 1
+  repos: 0
+ingredients:
+- 250ml d'eau
+- 150g de farine
+- Sucre cristallisé
+- Huile d'olive.
+etapes:
+- Portez l'eau à ébullition.
+- Ajouter la farine et mélangez jusqu'à que la masse soit homogène et qu'elle se décolle des parois de la casserole.
+- Mettez la pâte dans une poche à douille cannelée de 1 cm de diamètre.
+- Faites chauffer l'huile dans une friteuse.
+- Formez des bandes de pâte de 10 cm de long à l'aide de votre poche à douille directement à la poêle.
+- Laissez dorer 1 minute de chaque côté en retournant les churros.
+- Faites plusieurs tournées.
+- Laissez égoutter sur un papier absorbant.
+- Saupoudrez de sucre cristallisé.
+- Servez chaud.
+source:
+  titre: Churro
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Churro&oldid=451899
+  revision: 451899
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Churro&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Chocolate with churros.jpg
+  auteur: User:Dominik
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Chocolate_with_churros.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -6,23 +6,23 @@ ingredients:
   - {id: cereale, nom: céréale, alias_fr: [céréales], alias_en: [cereal, grain, grains]}
   - {id: cereale_a_gluten, nom: céréale à gluten, parent: cereale, allergenes: [gluten], alias_fr: [céréales à gluten], alias_en: [gluten grains]}
 
-  - {id: ble, nom: blé, parent: cereale_a_gluten, alias_fr: [grains de blé, blé tendre, ebly], alias_en: [wheat, wheat berries], ciqual: 9010}
-  - {id: farine_de_ble, nom: farine de blé, parent: ble, alias_fr: [farine, farine T45, farine T55, farine T65, farine complète, farine de blé complète], alias_en: [flour, wheat flour, plain flour, all-purpose flour], ciqual: 9436}
-  - {id: amidon_de_ble, nom: amidon de blé, parent: ble, alias_en: [wheat starch]}
-  - {id: semoule_de_ble, nom: semoule de blé, parent: ble, alias_fr: [semoule, semoule fine, semoule moyenne, couscous, graine de couscous, blé dur], alias_en: [semolina, couscous, durum wheat], ciqual: 9610}
+  - {id: ble, nom: blé, parent: cereale_a_gluten, alias_fr: [grains de blé, blé tendre], alias_en: [wheat], ciqual: 9010}
+  - {id: farine_de_ble, nom: farine de blé, parent: ble, alias_fr: [farine], alias_en: [flour, wheat flour], ciqual: 9436}
+  - {id: amidon_de_ble, nom: amidon de blé, parent: ble, alias_en: [wheat starch], ciqual: 9010, ciqual_approche: true}
+  - {id: semoule_de_ble, nom: semoule de blé, parent: ble, alias_fr: [semoule, blé dur], alias_en: [semolina, durum wheat], ciqual: 9610}
   - {id: boulgour, nom: boulgour, parent: ble, alias_fr: [bulgur, boulghour], alias_en: [bulgur wheat], ciqual: 9690}
-  - {id: epeautre, nom: épeautre, parent: ble, alias_fr: [petit épeautre, farine d'épeautre], alias_en: [spelt], ciqual: 9001}
-  - {id: seigle, nom: seigle, parent: cereale_a_gluten, alias_fr: [farine de seigle], alias_en: [rye, rye flour], ciqual: 9390}
-  - {id: orge, nom: orge, parent: cereale_a_gluten, alias_fr: [orge perlé, malt d'orge, malt], alias_en: [barley, pearl barley, malt], ciqual: 9321}
-  - {id: avoine, nom: avoine, parent: cereale_a_gluten, alias_fr: [flocons d'avoine, son d'avoine], alias_en: [oats, rolled oats, oatmeal], note: "L'avoine figure dans la liste réglementaire des céréales contenant du gluten.", ciqual: 9310}
+  - {id: epeautre, nom: épeautre, parent: ble, alias_fr: [petit épeautre], alias_en: [spelt], ciqual: 9001}
+  - {id: seigle, nom: seigle, parent: cereale_a_gluten, alias_en: [rye], ciqual: 9390}
+  - {id: orge, nom: orge, parent: cereale_a_gluten, alias_en: [barley], ciqual: 9321}
+  - {id: avoine, nom: avoine, parent: cereale_a_gluten, alias_en: [oats], note: "L'avoine figure dans la liste réglementaire des céréales contenant du gluten.", ciqual: 9310}
 
-  - {id: riz, nom: riz, parent: cereale, alias_fr: [riz blanc, riz basmati, riz thaï, riz complet, riz rond, riz arborio, riz à risotto], alias_en: [rice, basmati rice, jasmine rice, arborio rice], ciqual: 9100}
+  - {id: riz, nom: riz, parent: cereale, alias_en: [rice], ciqual: 9100}
   - {id: farine_de_riz, nom: farine de riz, parent: riz, alias_en: [rice flour], ciqual: 9520}
   - {id: mais, nom: maïs, parent: cereale, alias_fr: [mais], alias_en: [corn, maize], ciqual: 9200}
   - {id: mais_doux, nom: maïs doux, parent: mais, alias_fr: [maïs en grains, grains de maïs], alias_en: [sweetcorn, sweet corn], ciqual: 20066}
   - {id: polenta, nom: polenta, parent: mais, alias_fr: [semoule de maïs], alias_en: [cornmeal], ciqual: 9614}
-  - {id: fecule_de_mais, nom: fécule de maïs, parent: mais, alias_fr: [maïzena, amidon de maïs], alias_en: [cornstarch, cornflour], ciqual: 9510}
-  - {id: sarrasin, nom: sarrasin, parent: cereale, alias_fr: [blé noir, farine de sarrasin], alias_en: [buckwheat, buckwheat flour], note: "Sans gluten, malgré le nom de blé noir.", ciqual: 9380}
+  - {id: fecule_de_mais, nom: fécule de maïs, parent: mais, alias_fr: [maizena, maïzéna, maïzena, amidon de maïs], alias_en: [cornstarch, cornflour], ciqual: 9510}
+  - {id: sarrasin, nom: sarrasin, parent: cereale, alias_en: [buckwheat], note: "Sans gluten, malgré le nom de blé noir.", ciqual: 9380}
   - {id: quinoa, nom: quinoa, parent: cereale, alias_en: [quinoa seeds], ciqual: 9340}
 
   - {id: pates, nom: pâtes, alias_fr: [pâtes alimentaires], alias_en: [pasta]}
@@ -30,7 +30,7 @@ ingredients:
     nom: pâtes sèches
     ciqual: 9810
     parent: pates
-    alias_fr: [spaghetti, spaghettis, penne, coquillettes, macaronis, fusilli, farfalle, tagliatelles sèches, linguine, rigatoni, torsades]
+    alias_fr: [tagliatelles sèches]
     alias_en: [dried pasta, spaghetti pasta]
     composants: [semoule_de_ble]
     note: Pâtes de semoule de blé dur, sans œuf.
@@ -38,22 +38,22 @@ ingredients:
     nom: pâtes aux œufs
     ciqual: 9815
     parent: pates
-    alias_fr: [pâtes fraîches, tagliatelles, tagliatelles fraîches, lasagnes, feuilles de lasagne, ravioli, raviolis, gnocchi]
-    alias_en: [egg pasta, fresh pasta, lasagna sheets]
+    alias_fr: [tagliatelles fraîches, lasagnes, feuilles de lasagne]
+    alias_en: [egg pasta, lasagna sheets]
     composants: [semoule_de_ble, farine_de_ble, oeuf, fecule_de_pomme_de_terre]
     composition_variable: true
     note: Pâtes fraîches et pâtes aux œufs. Les gnocchis sont rangés ici car ils mêlent pomme de terre, farine et souvent œuf.
-  - {id: nouilles_de_riz, nom: nouilles de riz, parent: pates, alias_fr: [vermicelles de riz], alias_en: [rice noodles, rice vermicelli], composants: [farine_de_riz], ciqual: 9900}
+  - {id: nouilles_de_riz, nom: nouilles de riz, parent: pates, alias_en: [rice noodles], composants: [farine_de_riz], ciqual: 9900}
   - id: nouilles_de_ble
     nom: nouilles de blé
     ciqual: 9863
     parent: pates
-    alias_fr: [nouilles chinoises, nouilles aux œufs, nouilles ramen, nouilles udon]
-    alias_en: [egg noodles, ramen noodles, udon noodles]
+    alias_fr: [nouilles chinoises, nouilles aux œufs, nouilles ramen]
+    alias_en: [egg noodles, ramen noodles]
     composants: [farine_de_ble, oeuf, sel]
     composition_variable: true
 
-  - {id: pain, nom: pain, alias_fr: [baguette, pain de campagne, pain rassis, tranche de pain, tranches de pain, croûtons], alias_en: [bread, baguette], composants: [farine_de_ble, levure_boulangere, sel], ciqual: 7001}
+  - {id: pain, nom: pain, alias_fr: [tranche de pain, croûtons], alias_en: [bread], composants: [farine_de_ble, levure_boulangere, sel], ciqual: 7001}
   - id: pain_de_mie
     nom: pain de mie
     ciqual: 7200
@@ -65,8 +65,8 @@ ingredients:
   - id: chapelure
     nom: chapelure
     ciqual: 7500
-    alias_fr: [panure, chapelure panko, panko]
-    alias_en: [breadcrumbs, panko]
+    alias_fr: [chapelure blonde, chapelure de pain, panure]
+    alias_en: [breadcrumbs]
     composants: [farine_de_ble, levure_boulangere, sel, sucre, huile_de_tournesol]
     composition_variable: true
   - id: tortilla_de_ble
@@ -77,12 +77,12 @@ ingredients:
     composants: [farine_de_ble, huile_de_colza, sel, levure_chimique]
     composition_variable: true
 
-  - {id: pate_a_tarte, nom: pâte à tarte, alias_fr: [pâte à tarte du commerce, rouleau de pâte], alias_en: [pastry, pie crust]}
+  - {id: pate_a_tarte, nom: pâte à tarte, alias_fr: [pâte à tarte du commerce, rouleau de pâte, fond de tarte, fonds de tarte, fond de tarte précuit, croûte à tarte, croûte de tarte, abaisse], alias_en: [pastry, pie crust, tart shell]}
   - id: pate_feuilletee
     nom: pâte feuilletée
     ciqual: 23421
     parent: pate_a_tarte
-    alias_fr: [pâte feuilletée pur beurre]
+    alias_fr: [pâte feuilletée toute prête, pâte feuilletée pur beurre]
     alias_en: [puff pastry]
     composants: [farine_de_ble, beurre, huile_de_palme, huile_de_colza, sel, vinaigre_de_vin]
     composition_variable: true
@@ -110,3 +110,87 @@ ingredients:
     alias_en: [pizza dough]
     composants: [farine_de_ble, levure_boulangere, huile_d_olive, huile_de_colza, sel, sucre, alcool_ethylique]
     composition_variable: true
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  # Farines et semoules
+  - {id: farine_de_ble_t45, nom: farine de blé T45, parent: farine_de_ble, alias_fr: [farine T45, farine de gruau, farine fluide, farine à pâtisserie, farine fine, farine de froment, farine blanche, farine tout usage, farine type 45, farine type 55, farine T55, farine T65, farine de blé T55, farine de blé tendre, farine pour pain], alias_en: [all-purpose flour, plain flour, cake flour, bread flour], ciqual: 9435}
+  - {id: farine_complete, nom: farine complète, parent: farine_de_ble, alias_fr: [farine de blé complète, farine T110, farine T150, farine bise, farine semi-complète, farine T80], alias_en: [whole wheat flour, wholemeal flour], ciqual: 9445}
+  - {id: farine_a_levure, nom: farine à levure incorporée, parent: farine_de_ble, alias_fr: [farine avec levure incorporée, farine fermentante], alias_en: [self-raising flour, self-rising flour], composants: [farine_de_ble, levure_chimique], ciqual: 9437}
+  - {id: farine_d_epeautre, nom: farine d'épeautre, parent: epeautre, alias_fr: [farine de petit épeautre, farine de grand épeautre], alias_en: [spelt flour], ciqual: 9480}
+  - {id: farine_de_seigle, nom: farine de seigle, parent: seigle, alias_en: [rye flour], ciqual: 9532}
+  - {id: farine_de_sarrasin, nom: farine de sarrasin, parent: sarrasin, alias_fr: [farine de blé noir, blé noir], alias_en: [buckwheat flour], ciqual: 9540}
+  - {id: farine_de_mais, nom: farine de maïs, parent: mais, alias_fr: [masa harina, farine de maïs jaune, gaudes], alias_en: [corn flour, masa harina], ciqual: 9545}
+  - {id: farine_de_riz_gluant, nom: farine de riz gluant, parent: farine_de_riz, alias_fr: [farine de riz glutineux, mochiko], alias_en: [glutinous rice flour, sweet rice flour], ciqual: 9520, ciqual_approche: true}
+  - {id: farine_sans_gluten, nom: farine sans gluten, parent: cereale, alias_fr: [mélange de farines sans gluten, farine riz-millet, mix sans gluten], alias_en: [gluten-free flour], composants: [farine_de_riz, fecule_de_mais, fecule_de_pomme_de_terre, millet, sarrasin, tapioca, farine_de_pois_chiche], composition_variable: true, note: "Union des mélanges courants ; pas d'allergène gluten, mais souvent du pois chiche.", ciqual: 9520, ciqual_approche: true}
+  - {id: son_de_ble, nom: son de blé, parent: ble, alias_fr: [son, germe de blé, germes de blé], alias_en: [wheat bran, wheat germ], ciqual: 9621}
+  - {id: semoule_fine, nom: semoule fine, parent: semoule_de_ble, alias_fr: [semoule extra-fine, semoule moyenne, semoule de blé dur, semoule à couscous, couscous, graine de couscous, semoule de blé fine], alias_en: [fine semolina, couscous], ciqual: 9610}
+  - {id: gruau_d_avoine, nom: flocons d'avoine, parent: avoine, alias_fr: [flocons d'avoine, gruau d'avoine, porridge, avoine roulée, son d'avoine, farine d'avoine, muesli nature], alias_en: [rolled oats, oatmeal, oat bran, oat flour], ciqual: 9640}
+  - {id: muesli, nom: muesli, alias_fr: [granola, céréales du petit déjeuner], alias_en: [granola, muesli mix], composants: [avoine, ble, noisette, amande, raisin_sec, sucre, miel], composition_variable: true, ciqual: 32004}
+  - {id: flocons_de_mais, nom: flocons de maïs, alias_fr: [corn flakes, cornflakes], alias_en: [corn flakes], composants: [mais, sucre, sel, extrait_de_malt_d_orge], composition_variable: true, note: "Les corn flakes contiennent presque toujours du malt d'orge (gluten).", ciqual: 9200, ciqual_approche: true}
+  - {id: extrait_de_malt_d_orge, nom: extrait de malt d'orge, parent: orge, alias_fr: [malt, malt d'orge, sirop de malt, extrait de malt], alias_en: [barley malt extract, malt syrup], ciqual: 9321, ciqual_approche: true}
+  - {id: orge_perle, nom: orge perlé, parent: orge, alias_fr: [orge mondé, orge perlée], alias_en: [pearl barley], ciqual: 9321}
+  - {id: millet, nom: millet, parent: cereale, alias_fr: [mil, millet décortiqué, flocons de millet], alias_en: [millet], ciqual: 9331}
+  - {id: sorgho, nom: sorgho, parent: cereale, alias_en: [sorghum], ciqual: 9360}
+  - {id: amarante, nom: amarante, parent: cereale, alias_en: [amaranth], ciqual: 9345}
+  - {id: fonio, nom: fonio, parent: cereale, alias_en: [fonio grain]}
+  - {id: teff, nom: teff, parent: cereale, alias_fr: [farine de teff], alias_en: [teff flour]}
+  - {id: ble_concasse, nom: blé précuit, parent: ble, alias_fr: [blé précuit, Ebly, blé tendre précuit, freekeh, blé concassé], alias_en: [wheat berries, cracked wheat], ciqual: 51510}
+  # Riz
+  - {id: riz_basmati, nom: riz basmati, parent: riz, alias_fr: [basmati], alias_en: [basmati rice], ciqual: 9125}
+  - {id: riz_thai, nom: riz thaï, parent: riz, alias_fr: [riz jasmin, riz parfumé, riz thai], alias_en: [jasmine rice, thai rice], ciqual: 9124}
+  - {id: riz_rond, nom: riz rond, parent: riz, alias_fr: [riz à dessert, riz à risotto, riz arborio, arborio, carnaroli, riz à sushi, riz pour sushi, riz japonais, riz à paella, riz bomba], alias_en: [arborio rice, risotto rice, sushi rice, short-grain rice, pudding rice], ciqual: 9100, ciqual_approche: true}
+  - {id: riz_long, nom: riz long, parent: riz, alias_fr: [riz long grain, riz blanc, riz étuvé, riz américain, riz non parfumé, riz incollable], alias_en: [long-grain rice, white rice, parboiled rice], ciqual: 9100}
+  - {id: riz_complet, nom: riz complet, parent: riz, alias_fr: [riz brun, riz semi-complet, riz rouge, riz noir, riz vénéré, riz de Camargue], alias_en: [brown rice, red rice, black rice], ciqual: 9109}
+  - {id: riz_gluant, nom: riz gluant, parent: riz, alias_fr: [riz glutineux], alias_en: [glutinous rice, sticky rice], ciqual: 9100, ciqual_approche: true}
+  - {id: riz_sauvage, nom: riz sauvage, parent: cereale, alias_en: [wild rice], ciqual: 9108}
+  - {id: riz_cuit, nom: riz cuit, parent: riz, alias_fr: [reste de riz, restes de riz, riz cuit froid], alias_en: [cooked rice, leftover rice], ciqual: 9124}
+  - {id: galette_de_riz, nom: galette de riz, parent: riz, alias_fr: [galettes de riz, feuilles de riz, feuille de riz, papier de riz, galettes de riz pour rouleaux de printemps], alias_en: [rice paper, rice paper wrappers], ciqual: 9100, ciqual_approche: true}
+  - {id: vermicelle_de_riz, nom: vermicelle de riz, parent: nouilles_de_riz, alias_fr: [vermicelles de riz, vermicelle chinois, bun, nouilles de riz fines], alias_en: [rice vermicelli], ciqual: 9900}
+  # Pâtes
+  - {id: spaghetti, nom: spaghetti, parent: pates_seches, alias_fr: [spaghettis, spaghettoni, linguine, linguines, bucatini], alias_en: [spaghetti, linguine], ciqual: 9810, ciqual_approche: true}
+  - {id: tagliatelle, nom: tagliatelle, parent: pates_aux_oeufs, alias_fr: [tagliatelles, fettuccine, pappardelle, pâtes fraîches, pâtes fraîches aux œufs, nouilles fraîches], alias_en: [tagliatelle, fettuccine, fresh pasta], ciqual: 9815}
+  - {id: penne, nom: penne, parent: pates_seches, alias_fr: [pennes, rigatoni, macaroni, macaronis, coquillettes, fusilli, farfalle, conchiglie, torsades, coquilles, pâtes courtes, orecchiette, cavatappi], alias_en: [penne, macaroni, fusilli, farfalle, short pasta], ciqual: 9810, ciqual_approche: true}
+  - {id: vermicelle, nom: vermicelle, parent: pates_seches, alias_fr: [vermicelles, cheveux d'ange, vermicelle de blé, petites pâtes, pâtes à potage, langues d'oiseau, risoni, orzo, plombs], alias_en: [vermicelli, angel hair, orzo], ciqual: 9810, ciqual_approche: true}
+  - {id: lasagne, nom: lasagne, parent: pates_seches, alias_fr: [plaques de lasagne, plaques de lasagnes, feuilles de lasagnes, cannelloni, cannellonis], alias_en: [cannelloni], ciqual: 9810, ciqual_approche: true}
+  - {id: pates_farcies, nom: pâtes farcies, alias_fr: [raviolis, ravioli, tortellini, tortelloni, ravioles, ravioles du Dauphiné, agnolotti], alias_en: [ravioli, tortellini], composants: [pates_aux_oeufs, farine_de_ble, oeuf, fromage, viande, epinard, ricotta], composition_variable: true, note: "Union des farces courantes : fromage, viande, épinards.", ciqual: 25203}
+  - {id: gnocchi, nom: gnocchi, parent: pates_aux_oeufs, alias_fr: [gnocchis, gnocchi de pommes de terre], alias_en: [potato gnocchi], composants: [pomme_de_terre, farine_de_ble, oeuf, sel], composition_variable: true, ciqual: 25579}
+  - {id: crozets, nom: crozets, alias_fr: [crozets de Savoie, crozets au sarrasin], alias_en: [crozets pasta], composants: [farine_de_ble, sarrasin, oeuf], composition_variable: true, ciqual: 9436, ciqual_approche: true}
+  - {id: spaetzle, nom: spätzle, parent: pates_aux_oeufs, alias_fr: [spaetzle, spaetzles, knepfle], alias_en: [spaetzle], ciqual: 9815, ciqual_approche: true}
+  - {id: nouilles_aux_oeufs, nom: nouilles chinoises aux œufs, parent: pates_aux_oeufs, alias_fr: [nouilles de blé dur chinoises, bakmi, nouilles à wok, ramen, nouilles instantanées], alias_en: [chinese noodles], ciqual: 9815, ciqual_approche: true}
+  - {id: udon, nom: udon, parent: nouilles_de_ble, alias_fr: [nouilles udon], alias_en: [udon noodles], ciqual: 9863, ciqual_approche: true}
+  - {id: soba, nom: soba, parent: pates, alias_fr: [nouilles soba, nouilles de sarrasin], alias_en: [soba noodles], composants: [sarrasin, farine_de_ble], composition_variable: true, note: "Les soba du commerce contiennent presque toujours de la farine de blé.", ciqual: 9380, ciqual_approche: true}
+  - {id: vermicelle_de_soja, nom: vermicelle de soja, parent: pates, alias_fr: [vermicelles de soja, vermicelles transparents, nouilles de haricot mungo, nouilles cellophane], alias_en: [glass noodles, mung bean noodles], note: "Fait de fécule de haricot mungo : pas de soja malgré le nom.", ciqual: 9902}
+  # Pains et viennoiseries
+  - {id: baguette, nom: baguette, parent: pain, alias_fr: [baguettes, pain blanc, flûte, ficelle, pain de la veille, pain rassis, pain sec, tranches de pain, croûtons de pain], alias_en: [french bread, stale bread], ciqual: 7001}
+  - {id: pain_de_campagne, nom: pain de campagne, parent: pain, alias_fr: [pain au levain, miche, pain de campagne rassis, pain paysan, pain de ménage], alias_en: [sourdough bread, country bread], composants: [farine_de_ble, farine_de_seigle, levain, sel], composition_variable: true, ciqual: 7002}
+  - {id: pain_complet, nom: pain complet, alias_fr: [pain aux céréales, pain aux graines, pain multicéréales], alias_en: [wholemeal bread, multigrain bread], composants: [farine_complete, graine_de_lin, graine_de_tournesol, sesame, sel, levure_boulangere], composition_variable: true, ciqual: 7111}
+  - {id: pain_de_seigle, nom: pain de seigle, parent: pain, alias_fr: [pain noir, pumpernickel], alias_en: [rye bread], composants: [farine_de_seigle, farine_de_ble, sel, levain], composition_variable: true, ciqual: 7125}
+  - {id: pain_pita, nom: pain pita, parent: pain, alias_fr: [pitas, pita, pains pita, pain libanais, pain arabe, khobz], alias_en: [pita bread, flatbread], ciqual: 7180}
+  - {id: naan, nom: naan, alias_fr: [naans, pain naan, cheese naan], alias_en: [naan bread], composants: [farine_de_ble, yaourt, lait, beurre_clarifie, levure_boulangere, sel], composition_variable: true, ciqual: 9436, ciqual_approche: true}
+  - {id: pain_azyme, nom: pain azyme, parent: pain, alias_fr: [matsa, matza, matzemehl, farine de matza], alias_en: [matzo, matzo meal], ciqual: 7001, ciqual_approche: true}
+  - {id: pain_burger, nom: pain à burger, alias_fr: [pains à burger, pains à hamburger, buns, pain à hot-dog, pains à hot-dog, petits pains au lait], alias_en: [burger buns, hot dog buns], composants: [farine_de_ble, lait, oeuf, sucre, beurre, sesame, levure_boulangere], composition_variable: true, ciqual: 7259}
+  - {id: brioche, nom: brioche, alias_fr: [brioches, pain brioché, brioche tranchée, pain au lait], alias_en: [brioche bread], composants: [farine_de_ble, oeuf, beurre, lait, sucre, levure_boulangere], ciqual: 7741}
+  - {id: croissant, nom: croissant, alias_fr: [croissants, pain au chocolat, pains au chocolat, viennoiseries], alias_en: [croissants, pastries], composants: [farine_de_ble, beurre, lait, sucre, oeuf, levure_boulangere], composition_variable: true, ciqual: 7602}
+  - {id: biscotte, nom: biscotte, alias_fr: [biscottes, pain grillé, toasts, pain suédois], alias_en: [rusk, melba toast], composants: [farine_de_ble, sucre, huile_vegetale, levure_boulangere, sel], composition_variable: true, ciqual: 7004}
+  - {id: chapelure_panko, nom: panko, parent: chapelure, alias_fr: [chapelure japonaise, chapelure panko], alias_en: [panko breadcrumbs], ciqual: 7500, ciqual_approche: true}
+  - {id: mie_de_pain, nom: mie de pain, parent: pain_de_mie, alias_fr: [mie de pain rassis, mie de pain fraîche, miettes de pain, pain de mie rassis], alias_en: [fresh breadcrumbs], ciqual: 7112}
+  - {id: tortilla_de_mais, nom: tortilla de maïs, parent: mais, alias_fr: [tortillas de maïs, tacos, chips de maïs, tortilla chips, nachos], alias_en: [corn tortillas, tortilla chips, taco shells], ciqual: 38105}
+  - {id: galette_de_sarrasin, nom: galette de sarrasin, alias_fr: [galettes de sarrasin, galettes de blé noir, galettes bretonnes], alias_en: [buckwheat crepes], composants: [farine_de_sarrasin, sel, oeuf], composition_variable: true, ciqual: 23801}
+  - {id: crepe, nom: crêpe, alias_fr: [crêpes, crêpes toutes prêtes, blinis], alias_en: [crepes, pancakes, blinis], composants: [farine_de_ble, oeuf, lait, beurre, sucre], ciqual: 23805}
+  # Pâtes à tarte et feuilles
+  - {id: pate_filo, nom: pâte filo, parent: pate_a_tarte, alias_fr: [brik, briks, feuilles de brik, feuilles de filo, pâte phyllo, feuilles de brick, feuille de brick, brick, bricks, pâte à brick, feuilles de bricks, dioul, warka, malsouka], alias_en: [filo pastry, phyllo dough, brick pastry], ciqual: 23430}
+  - {id: pate_a_choux, nom: pâte à choux, parent: pate_a_tarte, alias_fr: [chouquettes], alias_en: [choux pastry], composants: [farine_de_ble, beurre, oeuf, lait, sucre, sel], ciqual: 23467}
+  - {id: pate_a_crepe, nom: pâte à crêpes, alias_fr: [pâte à crêpe], alias_en: [crepe batter], composants: [farine_de_ble, oeuf, lait, beurre], ciqual: 9436, ciqual_approche: true}
+  - {id: pate_a_wonton, nom: pâte à wonton, parent: pate_a_tarte, alias_fr: [feuilles de wonton, pâte à raviolis chinois, feuilles de raviolis chinois, pâte à nem, feuilles de nems], alias_en: [wonton wrappers, dumpling wrappers, spring roll wrappers], composants: [farine_de_ble, oeuf, sel], composition_variable: true, ciqual: 9436, ciqual_approche: true}
+  - {id: bouchee_a_la_reine, nom: croûte de bouchée à la reine, parent: pate_feuilletee, alias_fr: [bouchées à la reine, feuilletés pour bouchée à la reine, vol-au-vent, vols-au-vent], alias_en: [vol-au-vent cases], ciqual: 25580}
+  # Biscuits et gâteaux secs
+  - {id: biscuit, nom: biscuit, alias_fr: [biscuits, biscuits secs, gâteaux secs], alias_en: [cookies, biscuits], composants: [farine_de_ble, sucre, beurre, oeuf, lait, huile_de_palme], composition_variable: true}
+  - {id: biscuit_a_la_cuillere, nom: biscuit à la cuillère, parent: biscuit, alias_fr: [biscuits à la cuillère, boudoirs, biscuits à la cuiller], alias_en: [ladyfingers, savoiardi], composants: [farine_de_ble, oeuf, sucre], ciqual: 24430}
+  - {id: speculoos, nom: spéculoos, alias_fr: [speculoos, biscuits spéculoos, spéculos], alias_en: [speculaas, biscoff], composants: [farine_de_ble, sucre, huile_vegetale, cannelle, soja, bicarbonate_de_soude], composition_variable: true, note: "Lécithine ou farine de soja dans plusieurs marques.", ciqual: 24009}
+  - {id: petit_beurre, nom: petit-beurre, parent: biscuit, alias_fr: [petits-beurre, petits beurres, biscuits secs au beurre, sablés, sablés bretons, galettes bretonnes au beurre, biscuits graham, digestive], alias_en: [butter biscuits, shortbread, graham crackers, digestive biscuits], composants: [farine_de_ble, beurre, sucre, lait, sel], composition_variable: true, ciqual: 24049}
+  - {id: crepe_dentelle, nom: crêpe dentelle, parent: biscuit, alias_fr: [crêpes dentelles, gavottes, gaufrettes], alias_en: [crispy crepes, wafers], composants: [farine_de_ble, sucre, beurre, lait], composition_variable: true, ciqual: 24370}
+  - {id: macaron_biscuit, nom: amaretti, alias_fr: [amarettis, macarons secs], alias_en: [amaretti cookies], composants: [amande, sucre, blanc_d_oeuf], ciqual: 23027}
+  - {id: genoise, nom: génoise, parent: biscuit, alias_fr: [génoise toute prête, biscuit de Savoie, quatre-quarts, cake nature], alias_en: [sponge cake, pound cake], composants: [farine_de_ble, oeuf, sucre, beurre], composition_variable: true, ciqual: 23050}
+  - {id: pain_d_epices, nom: pain d'épices, alias_fr: [pain d'épice, couque], alias_en: [gingerbread loaf], composants: [farine_de_seigle, farine_de_ble, miel, sucre, epice, oeuf, lait], composition_variable: true, ciqual: 23200}
+  - {id: meringue, nom: meringue, parent: blanc_d_oeuf, alias_fr: [meringues, coques de meringue], alias_en: [meringue nests], composants: [blanc_d_oeuf, sucre], ciqual: 24520}
+  - {id: pate_a_pain, nom: pâte à pain, alias_fr: [pâte à pain toute prête, pâte à pain maison, pâte levée], alias_en: [bread dough], composants: [farine_de_ble, levure_boulangere, sel, eau], ciqual: 7001, ciqual_approche: true}

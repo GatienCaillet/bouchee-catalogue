@@ -1,0 +1,38 @@
+id: socca-et-specialites-similaires
+titre: Socca et spécialités similaires
+portions: 8
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 250 g de farine de pois chiche
+- 40 cl d'eau
+- huile d'olive
+- 1 bonne pincée de sel
+- poivre noir
+etapes:
+- Au préalable préchauffer votre four à 240 °C environ.
+- Mélanger les ingrédients énergiquement avec un fouet pour éviter les grumeaux
+- Graisser la plaque avec de l'huile d'olive
+- Étaler le mélange dans la plaque sur une épaisseur de 0,5 centimètre
+- Passer le four à la position grill
+- Crever les cloques qui se forment à la surface de la « tarte »
+- La sortir du four quand elle prend une couleur dorée.
+- Elle ne doit pas être sèche mais moelleuse.
+source:
+  titre: Socca et spécialités similaires
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Socca_et_sp%C3%A9cialit%C3%A9s_similaires&oldid=580604
+  revision: 580604
+  date: '2018-01-09'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Socca_et_sp%C3%A9cialit%C3%A9s_similaires&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Socca.jpg
+  auteur: Marc Giacone
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Socca.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

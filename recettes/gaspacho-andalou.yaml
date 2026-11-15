@@ -1,0 +1,40 @@
+id: gaspacho-andalou
+titre: Gaspacho andalou
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 0
+  repos: 60
+ingredients:
+- 6 tomates
+- 2 concombres
+- 1 poivron vert
+- 1 poivron rouge
+- 1 oignon
+- 2 gousses d'ail
+- 6 tranches de pain
+- 4 cuillères à soupe d'huile d'olive
+- texte: 2 cuillères à soupe de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- sel, poivre.
+etapes:
+- Laver, éplucher et couper les légumes et le pain en petits morceaux.
+- Dans un récipient, réserver pour la garniture la valeur d'un tiers de concombre, le tiers de chaque poivron, et
+  une tomate.
+- Mixer tous les ingrédients afin d'obtenir une purée.
+- Ajouter de l'eau et mettre au réfrigérateur pendant une heure.
+- Couper en très petits dés les ingrédients réservés et les présenter séparément en saucières ou petits bols pour
+  agrémenter le gaspacho.
+source:
+  titre: Gaspacho andalou
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gaspacho_andalou&oldid=649866
+  revision: 649866
+  date: '2020-11-21'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gaspacho_andalou&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : vinaigre.'

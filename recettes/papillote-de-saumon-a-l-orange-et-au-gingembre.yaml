@@ -1,0 +1,28 @@
+id: papillote-de-saumon-a-l-orange-et-au-gingembre
+titre: Papillote de saumon à l'orange et au gingembre
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 20
+  repos: 0
+ingredients:
+- 4 pavés de saumon
+- 2 oranges
+- 1 morceau de gingembre frais
+- 1 c. à soupe de sauce soja
+- sel, poivre
+etapes:
+- Préchauffer le four à 200 °C.
+- Peler une orange à vif et la couper en rondelles ; râper le gingembre et le mélanger au jus de l'autre orange
+  et à la sauce soja.
+- Découper 4 grandes feuilles de papier cuisson. Répartir la moitié de la garniture au centre, poser le poisson,
+  puis le reste de la garniture.
+- Saler, poivrer, arroser d'huile ou de crème, puis fermer hermétiquement les papillotes.
+- Enfourner 15 à 20 minutes selon l'épaisseur du poisson et servir dans la papillote.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « papillote »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

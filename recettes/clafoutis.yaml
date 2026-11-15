@@ -1,0 +1,40 @@
+id: clafoutis
+titre: Clafoutis
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 45
+  repos: 0
+ingredients:
+- 500 g de cerises noires
+- 4 œufs entiers
+- 125 g sucre semoule
+- 1 pincée de sel fin
+- 80 g de farine
+- ½ l de lait
+- 1 sachet de sucre vanillé
+- 40 g de beurre.
+etapes:
+- Laver à l'eau froide et équeuter les cerises, les disposer dans un plat bien beurré.
+- Battre les œufs en omelette. Ajouter le sel, le sucre et bien mélanger. Ajouter ensuite la farine tamisée. Le
+  mélange doit être bien lisse.
+- Délayer avec le lait. Verser la pâte sur les cerises, et parsemer la surface de noix de beurre.
+- Cuire à four moyen pendant 45 min, jusqu'à ce que le clafoutis soit bien pris et doré. Vérifier la cuisson avec
+  la pointe d'un couteau, la lame doit ressortir sèche.
+- Laisser refroidir et saupoudrer de sucre vanillé. Servir tiède.
+source:
+  titre: Clafoutis
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Clafoutis&oldid=700328
+  revision: 700328
+  date: '2023-06-17'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Clafoutis&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Clafouti, August 2008.jpg
+  auteur: Larry & Teddy (nee Schlueter) Page
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Clafouti,_August_2008.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

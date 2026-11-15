@@ -1,0 +1,23 @@
+id: bananes-poelees-au-miel
+titre: Bananes poêlées au miel
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 8
+  repos: 0
+ingredients:
+- 4 bananes
+- 30 g de beurre
+- 2 c. à soupe de miel
+- 1 citron vert
+etapes:
+- Couper les bananes en deux dans la longueur.
+- Les faire dorer 3 minutes de chaque côté au beurre.
+- Ajouter le miel et le jus du citron vert et laisser caraméliser 1 minute.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,28 @@
+id: tajine-de-legumes-aux-pois-chiches
+titre: Tajine de légumes aux pois chiches
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 45
+  repos: 0
+ingredients:
+- 2 carottes
+- 2 courgettes
+- 1 navet
+- 1 boîte de pois chiches (400 g)
+- 1 oignon
+- 1 c. à café de ras el hanout
+- 400 g de tomates pelées
+- 3 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Faire revenir l'oignon émincé dans l'huile avec le ras el hanout.
+- Ajouter les légumes en gros morceaux, les tomates et 20 cl d'eau.
+- Couvrir et cuire 35 minutes, puis ajouter les pois chiches et cuire encore 10 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

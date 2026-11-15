@@ -1,0 +1,26 @@
+id: poivrons-rouges-marines-a-l-huile-d-olive
+titre: Poivrons rouges marinés à l'huile d'olive
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 4 poivrons rouges
+- 4 c. à soupe d'huile d'olive
+- 1 gousse d'ail
+- sel
+etapes:
+- Rôtir les poivrons entiers 30 minutes à 220 °C, les laisser tiédir dans un sac et les peler.
+- Les couper en lanières et les arroser d'huile et d'ail.
+decouverte:
+  aliment: poivron
+  niveau: 3
+  pourquoi: Rôti et pelé, le poivron perd sa peau et une partie de son amertume.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

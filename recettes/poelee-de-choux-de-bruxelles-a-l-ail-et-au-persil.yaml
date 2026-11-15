@@ -1,0 +1,26 @@
+id: poelee-de-choux-de-bruxelles-a-l-ail-et-au-persil
+titre: Poêlée de choux de Bruxelles à l'ail et au persil
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 15
+  repos: 0
+ingredients:
+- 600 g de choux de Bruxelles
+- 2 c. à soupe d'huile d'olive
+- 2 gousses d'ail
+- 1/2 botte de persil
+- sel, poivre
+etapes:
+- Retirer les premières feuilles des choux de Bruxelles et les couper en deux.
+- Faire chauffer l'huile dans une grande poêle et y faire sauter les choux de Bruxelles 10 à 15 minutes à feu vif,
+  en remuant souvent.
+- Hacher l'ail et le persil.
+- Ajouter l'ail et le persil en fin de cuisson, saler, poivrer et cuire encore 2 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « poêlée »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

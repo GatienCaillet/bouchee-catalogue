@@ -1,0 +1,26 @@
+id: tarte-aux-mirabelles
+titre: Tarte aux mirabelles
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 25
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 300 g de mirabelles
+- 50 g de sucre.
+etapes:
+- Étaler la pâte au fond d'un plat à tartes
+- Garnir de mirabelles en rangs bien serrés
+- Saupoudrer de sucre en poudre
+- Enfourner la tarte à 180°C, cuire 25 min.
+source:
+  titre: Tarte aux mirabelles
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_mirabelles&oldid=684297
+  revision: 684297
+  date: '2022-08-27'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_mirabelles&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

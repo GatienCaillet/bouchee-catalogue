@@ -1,0 +1,26 @@
+id: chou-fleur-roti-au-curry
+titre: Chou-fleur rôti au curry
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 1 chou-fleur
+- 3 c. à soupe d'huile d'olive
+- 1 c. à café de curry
+- sel
+etapes:
+- Couper le chou-fleur en bouquets, les mélanger à l'huile et au curry.
+- Rôtir 30 minutes à 210 °C.
+decouverte:
+  aliment: chou_fleur
+  niveau: 3
+  pourquoi: Rôti, le chou-fleur devient doux et croustillant, et le curry change son goût.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

@@ -1,0 +1,26 @@
+id: puree-de-potiron-et-pommes-de-terre
+titre: Purée de potiron et pommes de terre
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 25
+  repos: 0
+ingredients:
+- 1 kg de potiron
+- 400 g de pommes de terre
+- 30 g de beurre
+- 10 cl de lait
+- sel, poivre
+etapes:
+- Peler le potiron, retirer les graines et le couper en cubes.
+- Éplucher les pommes de terre et les couper en morceaux.
+- Cuire le potiron et les pommes de terre 20 à 25 minutes à l'eau bouillante salée.
+- Égoutter, puis écraser au presse-purée avec le beurre et le lait chaud.
+- Saler, poivrer et servir aussitôt.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « purée »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

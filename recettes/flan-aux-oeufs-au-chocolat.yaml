@@ -1,0 +1,33 @@
+id: flan-aux-oeufs-au-chocolat
+titre: Flan aux œufs au chocolat
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 135
+  repos: 0
+ingredients:
+- 1/2 litre de lait
+- 4 œufs
+- texte: 50 grammes de chocolat
+  ingredients:
+  - chocolat
+  categorie: true
+- 100 grammes de sucre
+- zestes de citron selon goût
+etapes:
+- Fouetter les 4 œufs avec le chocolat.
+- Ajouter le lait chauffé, sucre et arôme avec les zestes de citron.
+- Mettre le tout dans un récipient.
+- Mettre le récipient dans une cocotte à pression durant un quart d'heure.
+- Laisser refroidir 2 heures environ.
+source:
+  titre: Flan aux œufs au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flan_aux_%C5%93ufs_au_chocolat&oldid=372258
+  revision: 372258
+  date: '2012-07-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flan_aux_%C5%93ufs_au_chocolat&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : chocolat.'

@@ -1,0 +1,30 @@
+id: cake-aux-pommes-et-a-la-cannelle
+titre: Cake aux pommes et à la cannelle
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 2 pommes
+- 3 œufs
+- 120 g de sucre
+- 200 g de farine
+- 1 sachet de levure chimique
+- 100 g de beurre
+- 1 c. à café de cannelle
+etapes:
+- Préchauffer le four à 180 °C et beurrer le moule.
+- Mélanger les œufs, le sucre et le beurre fondu, puis la farine, la levure et la cannelle ; ajouter les pommes
+  en dés.
+- Verser dans le moule.
+- 'Enfourner 20 minutes pour les muffins, 35 à 40 minutes pour un gâteau : la lame d''un couteau doit ressortir
+  sèche.'
+- Laisser tiédir avant de démouler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gâteau »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

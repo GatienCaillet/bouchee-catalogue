@@ -1,0 +1,33 @@
+id: risotto-a-la-tomate
+titre: Risotto à la tomate
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 25
+  repos: 0
+ingredients:
+- 300 g de riz arborio
+- 1 oignon
+- 2 c. à soupe d'huile d'olive
+- 10 cl de vin blanc sec
+- 1 l de bouillon de légumes
+- 300 g de tomates cerises
+- 2 c. à soupe de concentré de tomate
+- 50 g de parmesan râpé
+- 30 g de beurre
+- sel, poivre
+etapes:
+- Faire chauffer le bouillon et le garder frémissant.
+- Émincer l'oignon et le faire revenir dans l'huile d'olive. Ajouter le riz et le nacrer 2 minutes en remuant.
+- Verser le vin blanc et laisser évaporer.
+- Ajouter le concentré avec le riz et les tomates cerises coupées en deux à mi-cuisson.
+- Ajouter le bouillon louche par louche, en remuant, chaque louche étant absorbée avant la suivante (environ 18
+  minutes).
+- Hors du feu, ajouter le beurre et le parmesan, mélanger, saler, poivrer et servir aussitôt.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « risotto »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

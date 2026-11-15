@@ -1,0 +1,35 @@
+id: riz-rouge
+titre: Riz rouge
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 22
+  repos: 0
+ingredients:
+- 500 g de riz lavé
+- 2 cuillères à soupe de concentré de tomates
+- 1 petit oignon, haché finement
+- texte: 100 g de champignons, coupés en lamelles
+  ingredients:
+  - champignon
+  categorie: true
+- 1L de Bouillon de légumes
+- Sel, poivre
+- 1 cuillère à thé de paprika
+- 0,25 cuillère à thé de chili ou poivre de Cayenne
+- 3 cuillères à soupe d'huile de tournesol
+etapes:
+- Chauffer l'huile dans une casserole. Ajouter l'oignon et les champignons. Faire sauter pendant 2 min. Ajouter
+  le riz, les épices et mélanger bien. Ajouter le bouillon de légumes et faire bouillir en remuant. Couvrir et laisser
+  mijoter 20 min, jusqu'à ce que le riz ait absorbé le liquide.
+source:
+  titre: Riz rouge
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_rouge&oldid=452179
+  revision: 452179
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_rouge&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : champignon.'

@@ -21,14 +21,14 @@ ingredients:
   - {id: chou_fleur, nom: chou-fleur, parent: chou, alias_fr: [chou fleur], alias_en: [cauliflower], sensoriel: {odeur_forte: true}, ciqual: 20016}
   - {id: brocoli, nom: brocoli, parent: chou, alias_fr: [brocolis], alias_en: [broccoli], sensoriel: {amer: 1}, ciqual: 20057}
   - {id: chou_de_bruxelles, nom: chou de Bruxelles, parent: chou, alias_fr: [choux de Bruxelles], alias_en: [brussels sprouts], sensoriel: {amer: 2, odeur_forte: true}, ciqual: 20058}
-  - {id: chou_kale, nom: chou kale, parent: chou, alias_fr: [kale], alias_en: [curly kale], sensoriel: {amer: 2, textures: [fibreux]}}
+  - {id: chou_kale, nom: chou kale, parent: chou, alias_fr: [kale], alias_en: [curly kale], sensoriel: {amer: 2, textures: [fibreux]}, ciqual: 20218}
 
   # Alliacées
   - {id: allium, nom: alliacée, parent: legume, alias_fr: [alliacées], alias_en: [allium]}
-  - {id: ail, nom: ail, parent: allium, alias_fr: [gousse d'ail, gousses d'ail, ail frais], alias_en: [garlic, garlic clove], sensoriel: {piquant: 1, odeur_forte: true}, ciqual: 11000}
+  - {id: ail, nom: ail, parent: allium, alias_fr: [tête d'ail, têtes d'ail, ail cultivé, ail rose, ail pressé, ail haché menu, gousse d'ail, gousses d'ail, ail frais], alias_en: [garlic, garlic clove], sensoriel: {piquant: 1, odeur_forte: true}, ciqual: 11000}
   - {id: oignon, nom: oignon, parent: allium, alias_fr: [oignons, oignon jaune, oignon blanc, oignon rouge, oignon grelot, oignons grelots], alias_en: [onion, yellow onion, red onion], sensoriel: {piquant: 1, odeur_forte: true}, ciqual: 20034}
-  - {id: oignon_nouveau, nom: oignon nouveau, parent: allium, alias_fr: [oignon de printemps, oignons nouveaux, cébette, oignon vert, oignons verts, oignon frais, oignons frais], alias_en: [spring onion, scallion, green onion]}
-  - {id: echalote, nom: échalote, parent: allium, alias_fr: [échalotes], alias_en: [shallot], sensoriel: {odeur_forte: true}, ciqual: 20097}
+  - {id: oignon_nouveau, nom: oignon nouveau, parent: allium, alias_fr: [oignon de printemps, oignons nouveaux, cébette, oignon vert, oignons verts, oignon frais, oignons frais], alias_en: [spring onion, scallion, green onion], ciqual: 20034, ciqual_approche: true}
+  - {id: echalote, nom: échalote, parent: allium, alias_fr: [échalote française, échalotes françaises, échalote grise, échalotes], alias_en: [shallot], sensoriel: {odeur_forte: true}, ciqual: 20097}
   - {id: poireau, nom: poireau, parent: allium, alias_fr: [poireaux, blanc de poireau], alias_en: [leek], sensoriel: {textures: [fondant]}, ciqual: 20039}
 
   # Légumes-fruits
@@ -36,7 +36,7 @@ ingredients:
   - {id: tomate, nom: tomate, parent: legume_fruit, alias_fr: [tomates, tomate fraîche, tomates fraîches], alias_en: [tomato, tomatoes], sensoriel: {textures: [juteux]}, ciqual: 20047}
   - {id: tomate_cerise, nom: tomate cerise, parent: tomate, alias_fr: [tomates cerises], alias_en: [cherry tomato, cherry tomatoes], ciqual: 20172}
   - {id: poivron, nom: poivron, parent: legume_fruit, alias_fr: [poivrons, poivron rouge, poivron vert, poivron jaune], alias_en: [bell pepper, sweet pepper, capsicum], sensoriel: {amer: 1, odeur_forte: true, textures: [croquant]}, ciqual: 20087}
-  - {id: piment, nom: piment frais, parent: legume_fruit, alias_fr: [piment, piment rouge, piment vert, piment oiseau], alias_en: [chili, chilli, chili pepper], sensoriel: {piquant: 3}, ciqual: 20151}
+  - {id: piment, nom: piment frais, parent: legume_fruit, alias_fr: [piments africains, piment d'oiseau, piments d'oiseau, pili-pili, piment pili-pili, piments rouges d'Espagne, piment, piment rouge, piment vert, piment oiseau], alias_en: [chili, chilli, chili pepper], sensoriel: {piquant: 3}, ciqual: 20151}
   - {id: aubergine, nom: aubergine, parent: legume_fruit, alias_fr: [aubergines], alias_en: [eggplant, aubergine], sensoriel: {amer: 1, textures: [spongieux, fondant]}, ciqual: 20053}
   - {id: courgette, nom: courgette, parent: legume_fruit, alias_fr: [courgettes], alias_en: [zucchini, courgette], sensoriel: {textures: [fondant]}, ciqual: 20020}
   - {id: concombre, nom: concombre, parent: legume_fruit, alias_fr: [concombres], alias_en: [cucumber], sensoriel: {textures: [croquant, juteux]}, ciqual: 20019}
@@ -58,7 +58,7 @@ ingredients:
   - {id: legume_racine, nom: légume-racine, parent: legume, alias_fr: [légumes-racines, légumes racines], alias_en: [root vegetables]}
   - {id: carotte, nom: carotte, parent: legume_racine, alias_fr: [carottes], alias_en: [carrot, carrots], ciqual: 20009}
   - {id: navet, nom: navet, parent: legume_racine, alias_fr: [navets], alias_en: [turnip], sensoriel: {amer: 1, piquant: 1}, ciqual: 20064}
-  - {id: radis, nom: radis, parent: legume_racine, alias_fr: [radis rose, radis noir], alias_en: [radish], sensoriel: {piquant: 1, textures: [croquant]}, ciqual: 20045}
+  - {id: radis, nom: radis, parent: legume_racine, alias_fr: [radis rose], alias_en: [radish], sensoriel: {piquant: 1, textures: [croquant]}, ciqual: 20045}
   - {id: betterave, nom: betterave, parent: legume_racine, alias_fr: [betteraves, betterave rouge], alias_en: [beetroot, beet], sensoriel: {textures: [fondant]}, ciqual: 20091}
   - {id: panais, nom: panais, parent: legume_racine, alias_en: [parsnip], ciqual: 20181}
   - {id: tubercule, nom: tubercule, parent: legume, alias_fr: [tubercules], alias_en: [tubers]}
@@ -75,13 +75,102 @@ ingredients:
 
   # Autres légumes
   - {id: legume_tige, nom: légume-tige, parent: legume, alias_fr: [légumes-tiges], alias_en: [stem vegetables]}
-  - {id: asperge, nom: asperge, parent: legume_tige, alias_fr: [asperges, asperge verte, asperge blanche], alias_en: [asparagus], ciqual: 20073}
+  - {id: asperge, nom: asperge, parent: legume_tige, alias_fr: [asperges], alias_en: [asparagus], ciqual: 20073}
   - {id: fenouil, nom: fenouil, parent: legume_tige, alias_fr: [bulbe de fenouil], alias_en: [fennel, fennel bulb], sensoriel: {odeur_forte: true, textures: [croquant]}, ciqual: 20028}
-  - {id: artichaut, nom: artichaut, parent: legume, alias_fr: [artichauts, cœur d'artichaut, fond d'artichaut], alias_en: [artichoke, artichoke heart], sensoriel: {amer: 1}, ciqual: 20052}
+  - {id: artichaut, nom: artichaut, parent: legume, alias_fr: [artichauts], alias_en: [artichoke, artichoke heart], sensoriel: {amer: 1}, ciqual: 20052}
 
   # Champignons
   - {id: champignon, nom: champignon, alias_fr: [champignons], alias_en: [mushroom, mushrooms], sensoriel: {textures: [elastique]}}
-  - {id: champignon_de_paris, nom: champignon de Paris, parent: champignon, alias_fr: [champignons de Paris, champignon blanc], alias_en: [button mushroom, white mushroom], ciqual: 20056}
+  - {id: champignon_de_paris, nom: champignon de Paris, parent: champignon, alias_fr: [champignons de couche, champignon de couche, champignons de Paris, champignon blanc], alias_en: [button mushroom, white mushroom], ciqual: 20056}
   - {id: cepe, nom: cèpe, parent: champignon, alias_fr: [cèpes, bolet], alias_en: [porcini, cep], ciqual: 20160}
   - {id: girolle, nom: girolle, parent: champignon, alias_fr: [girolles, chanterelle], alias_en: [chanterelle mushroom], ciqual: 20103}
-  - {id: shiitake, nom: shiitake, parent: champignon, alias_fr: [shiitakés], alias_en: [shiitake mushroom]}
+  - {id: shiitake, nom: shiitake, parent: champignon, alias_fr: [champignons shiitake, champignon shiitake, shiitakés], alias_en: [shiitake mushroom], ciqual: 20211}
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  # Légumes-feuilles et salades
+  - {id: salade, nom: salade, parent: legume_feuille, alias_fr: [salades, crudités, crudités de saison, mesclun, jeunes pousses, salade mélangée], alias_en: [salad greens, mixed greens], ciqual: 25616}
+  - {id: laitue_iceberg, nom: laitue iceberg, parent: laitue, alias_fr: [iceberg], alias_en: [iceberg lettuce], ciqual: 20200}
+  - {id: frisee, nom: chicorée frisée, parent: legume_feuille, alias_fr: [frisée, salade frisée, chicorée], alias_en: [frisee, curly endive], sensoriel: {amer: 2}, ciqual: 20012}
+  - {id: scarole, nom: scarole, parent: legume_feuille, alias_fr: [escarole], alias_en: [escarole], ciqual: 20090}
+  - {id: trevise, nom: trévise, parent: legume_feuille, alias_fr: [radicchio, chicorée rouge], alias_en: [radicchio], sensoriel: {amer: 2}, ciqual: 20162}
+  - {id: pissenlit, nom: pissenlit, parent: legume_feuille, alias_fr: [pissenlits, feuilles de pissenlit], alias_en: [dandelion greens], sensoriel: {amer: 2}, ciqual: 20038}
+  - {id: oseille, nom: oseille, parent: legume_feuille, alias_en: [sorrel], ciqual: 20111}
+  - {id: pourpier, nom: pourpier, parent: legume_feuille, alias_en: [purslane]}
+  - {id: ortie, nom: ortie, parent: legume_feuille, alias_fr: [orties, feuilles d'ortie], alias_en: [nettle, nettles]}
+  - {id: feuille_de_vigne, nom: feuille de vigne, parent: legume_feuille, alias_fr: [feuilles de vigne], alias_en: [vine leaves, grape leaves]}
+  - {id: feuille_de_manioc, nom: feuille de manioc, parent: legume_feuille, alias_fr: [feuilles de manioc, pondu, saka-saka], alias_en: [cassava leaves]}
+  - {id: feuille_de_bananier, nom: feuille de bananier, parent: legume_feuille, alias_fr: [feuilles de bananier], alias_en: [banana leaf, banana leaves]}
+  - {id: cote_de_blette, nom: côte de blette, parent: blette, alias_fr: [côtes de bettes, cardes, côtes de blettes], alias_en: [chard stalks], ciqual: 20301}
+  # Choux
+  - {id: chou_chinois, nom: chou chinois, parent: chou, alias_fr: [pe-tsaï, chou de Pékin, chou napa], alias_en: [napa cabbage, chinese cabbage], ciqual: 20221}
+  - {id: pak_choi, nom: pak-choï, parent: chou, alias_fr: [pak choi, bok choï, pak choï], alias_en: [bok choy], ciqual: 20167}
+  - {id: chou_rave, nom: chou-rave, parent: chou, alias_fr: [chou rave], alias_en: [kohlrabi], ciqual: 20065}
+  - {id: romanesco, nom: chou romanesco, parent: chou, alias_fr: [romanesco], alias_en: [romanesco broccoli], ciqual: 20280}
+  - {id: choucroute, nom: choucroute, parent: chou_vert, alias_fr: [choucroute crue, chou fermenté], alias_en: [sauerkraut], composants: [chou_vert, sel], sensoriel: {odeur_forte: true}, ciqual: 25220}
+  - {id: kimchi, nom: kimchi, alias_en: [kimchee], composants: [chou_chinois, piment, ail, gingembre, nuoc_mam, crevette, sel, sucre], composition_variable: true, sensoriel: {piquant: 2, odeur_forte: true}, note: "Le kimchi contient souvent de la sauce de poisson et des crevettes fermentées.", ciqual: 20221, ciqual_approche: true}
+  # Alliacées
+  - {id: ciboule, nom: ciboule, parent: allium, alias_fr: [cive, cives, ciboules], alias_en: [welsh onion], ciqual: 11003}
+  - {id: ail_des_ours, nom: ail des ours, parent: allium, alias_en: [wild garlic, ramsons]}
+  - {id: oignon_frit, nom: oignon frit, alias_fr: [oignons frits], alias_en: [fried onions, crispy onions], composants: [oignon, huile_vegetale, farine_de_ble, sel], composition_variable: true, ciqual: 20034, ciqual_approche: true}
+  - {id: ail_en_poudre, nom: ail en poudre, parent: ail, alias_fr: [ail semoule], alias_en: [garlic powder], ciqual: 11023}
+  - {id: oignon_en_poudre, nom: oignon en poudre, parent: oignon, alias_en: [onion powder], ciqual: 20034, ciqual_approche: true}
+  # Légumes-fruits
+  - {id: tomate_pelee, nom: tomate pelée, parent: tomate, alias_fr: [concassé de tomates, concassée de tomates, tomates en macédoine, brique de pulpe de tomate, tomates pelées en boîte, tomates en conserve, tomate concassée, pulpe de tomates], alias_en: [canned tomatoes, peeled tomatoes], ciqual: 20169}
+  - {id: tomate_sechee, nom: tomate séchée, parent: tomate, alias_fr: [tomates séchées, tomates confites], alias_en: [sun-dried tomatoes], ciqual: 20189}
+  - {id: coulis_de_tomate, nom: tomate mixée, parent: tomate, alias_fr: [tomates mixées], alias_en: [tomato passata], ciqual: 20047, ciqual_approche: true}
+  - {id: tomate_verte, nom: tomate verte, parent: tomate, alias_fr: [tomates vertes], alias_en: [green tomatoes], ciqual: 20119}
+  - {id: jalapeno, nom: piment jalapeño, parent: piment, alias_fr: [jalapeño, jalapeños, jalapeno], alias_en: [jalapeno pepper], sensoriel: {piquant: 2}, ciqual: 20151, ciqual_approche: true}
+  - {id: piment_vegetarien, nom: piment antillais doux, parent: piment, alias_fr: [piment végétarien, piments végétariens], alias_en: [seasoning pepper], ciqual: 20151, ciqual_approche: true}
+  - {id: gombo, nom: gombo, parent: legume_fruit, alias_fr: [gombos, okra], alias_en: [lady's finger], sensoriel: {textures: [gluant]}, ciqual: 58103}
+  - {id: christophine, nom: christophine, parent: legume_fruit, alias_fr: [chayote, chouchou, christophines], alias_en: [chayote squash], ciqual: 20807}
+  - {id: fleur_de_courgette, nom: fleur de courgette, parent: courgette, alias_fr: [fleurs de courgette, fleurs de courgettes], alias_en: [zucchini flowers, squash blossoms], ciqual: 20020, ciqual_approche: true}
+  - {id: courge_spaghetti, nom: courge spaghetti, parent: courge, alias_en: [spaghetti squash], ciqual: 20145}
+  - {id: patisson, nom: pâtisson, parent: courge, alias_fr: [pâtissons], alias_en: [pattypan squash]}
+  - {id: cornichon_aigre_doux, nom: cornichon aigre-doux, parent: cornichon, alias_fr: [pickles, cornichons aigres-doux, malossol], alias_en: [sweet pickles, dill pickles], ciqual: 11097}
+  - {id: poivron_grille, nom: poivron grillé, parent: poivron, alias_fr: [poivrons grillés, poivrons marinés, piquillos, piments piquillos], alias_en: [roasted peppers, piquillo peppers], ciqual: 20087, ciqual_approche: true}
+  # Racines et tubercules
+  - {id: radis_noir, nom: radis noir, parent: radis, alias_fr: [radis noirs], alias_en: [black radish], ciqual: 20089}
+  - {id: daikon, nom: radis blanc, parent: radis, alias_fr: [daïkon, radis japonais], alias_en: [daikon, mooli], ciqual: 20045, ciqual_approche: true}
+  - {id: raifort, nom: raifort, parent: legume_racine, alias_fr: [raifort râpé], alias_en: [horseradish], sensoriel: {piquant: 3}, ciqual: 11016}
+  - {id: rutabaga, nom: rutabaga, parent: legume_racine, alias_fr: [rutabagas, chou-navet], alias_en: [swede], ciqual: 20201}
+  - {id: salsifis, nom: salsifis, parent: legume_racine, alias_fr: [scorsonère], alias_en: [salsify, black salsify], ciqual: 20237}
+  - {id: persil_tubereux, nom: persil tubéreux, parent: legume_racine, alias_fr: [racine de persil], alias_en: [parsley root]}
+  - {id: crosne, nom: crosne, parent: tubercule, alias_fr: [crosnes], alias_en: [chinese artichoke], ciqual: 20231}
+  - {id: igname, nom: igname, parent: tubercule, alias_fr: [ignames], alias_en: [yam], ciqual: 53502}
+  - {id: manioc, nom: manioc, parent: tubercule, alias_fr: [tubercule de manioc, tubercules de manioc, cassave, yuca], alias_en: [cassava], ciqual: 54031}
+  - {id: taro, nom: taro, parent: tubercule, alias_fr: [dachine], alias_en: [taro root], ciqual: 53200}
+  - {id: tapioca, nom: tapioca, parent: tubercule, composants: [manioc], alias_fr: [perles du Japon, perles de tapioca, fécule de manioc, farine de manioc], alias_en: [tapioca pearls, tapioca starch, cassava flour], ciqual: 4000}
+  - {id: pomme_de_terre_grenaille, nom: pomme de terre grenaille, parent: pomme_de_terre, alias_fr: [grenailles, pommes de terre grenaille, pommes de terre nouvelles, pomme de terre nouvelle, rattes, ratte], alias_en: [new potatoes, baby potatoes], ciqual: 4023}
+  - {id: flocons_de_pomme_de_terre, nom: flocons de pomme de terre, alias_fr: [purée en flocons], alias_en: [instant mashed potatoes], composants: [pomme_de_terre, lait, sel], composition_variable: true, note: "Certaines purées en flocons contiennent du lait en poudre.", ciqual: 4022}
+  - {id: frite, nom: frite, alias_fr: [frites, frites surgelées], alias_en: [french fries, fries], composants: [pomme_de_terre, huile_vegetale], composition_variable: true, ciqual: 4008, ciqual_approche: true}
+  - {id: curcuma_frais, nom: curcuma frais, parent: legume_racine, alias_fr: [racine de curcuma], alias_en: [fresh turmeric], ciqual: 11089, ciqual_approche: true}
+  - {id: galanga, nom: galanga, parent: legume_racine, alias_fr: [galanga frais], alias_en: [galangal], ciqual: 11074, ciqual_approche: true}
+  # Légumes-tiges, pousses, germes
+  - {id: cardon, nom: cardon, parent: legume_tige, alias_fr: [cardons], alias_en: [cardoon], ciqual: 20054}
+  - {id: rhubarbe, nom: rhubarbe, parent: legume_tige, alias_fr: [tiges de rhubarbe], alias_en: [rhubarb], sensoriel: {textures: [fibreux]}, ciqual: 13047}
+  - {id: coeur_de_palmier, nom: cœur de palmier, parent: legume_tige, alias_fr: [cœurs de palmier, coeurs de palmier, coeur de palmier], alias_en: [hearts of palm], ciqual: 20018}
+  - {id: pousse_de_bambou, nom: pousse de bambou, parent: legume_tige, alias_fr: [pousses de bambou], alias_en: [bamboo shoots], ciqual: 20198}
+  - {id: asperge_verte, nom: asperge verte, parent: asperge, alias_fr: [asperges vertes], alias_en: [green asparagus], ciqual: 20299}
+  - {id: asperge_blanche, nom: asperge blanche, parent: asperge, alias_fr: [asperges blanches], alias_en: [white asparagus], ciqual: 20277}
+  - {id: coeur_d_artichaut, nom: cœur d'artichaut, parent: artichaut, alias_fr: [cœurs d'artichaut, coeurs d'artichauts, fonds d'artichaut, fond d'artichaut], alias_en: [artichoke hearts], ciqual: 20232}
+  - {id: germe_de_soja, nom: germe de soja, parent: legume, alias_fr: [germes de soja, pousses de soja, germes de haricot mungo], alias_en: [bean sprouts, mung bean sprouts], note: "Ce sont des germes de haricot mungo, pas de soja : pas d'allergène soja.", ciqual: 20183}
+  - {id: graine_germee, nom: graines germées, parent: legume, alias_fr: [pousses d'alfalfa, alfalfa, luzerne germée], alias_en: [sprouts, alfalfa sprouts], ciqual: 15029}
+  - {id: chataigne_d_eau, nom: châtaigne d'eau, parent: legume, alias_fr: [châtaignes d'eau], alias_en: [water chestnut]}
+  # Champignons
+  - {id: pleurote, nom: pleurote, parent: champignon, alias_fr: [pleurotes], alias_en: [oyster mushroom], ciqual: 20114}
+  - {id: morille, nom: morille, parent: champignon, alias_fr: [morilles], alias_en: [morel, morels], ciqual: 20105}
+  - {id: trompette_de_la_mort, nom: trompette de la mort, parent: champignon, alias_fr: [trompettes de la mort, trompettes], alias_en: [black trumpet], ciqual: 20010, ciqual_approche: true}
+  - {id: pied_de_mouton, nom: pied-de-mouton, parent: champignon, alias_fr: [pieds-de-mouton, pieds de mouton], alias_en: [hedgehog mushroom], ciqual: 20010, ciqual_approche: true}
+  - {id: shimeji, nom: shimeji, parent: champignon, alias_fr: [shimejis], alias_en: [beech mushroom], ciqual: 20010, ciqual_approche: true}
+  - {id: enoki, nom: enoki, parent: champignon, alias_fr: [énoki], alias_en: [enoki mushroom], ciqual: 20010, ciqual_approche: true}
+  - {id: champignon_noir, nom: champignon noir, parent: champignon, alias_fr: [champignons noirs, oreille de Judas, champignons noirs séchés], alias_en: [wood ear mushroom, black fungus], ciqual: 20202}
+  - {id: champignon_sec, nom: champignon séché, parent: champignon, alias_fr: [champignons secs, champignons séchés, cèpes séchés, cèpes secs], alias_en: [dried mushrooms], ciqual: 20202}
+  - {id: truffe, nom: truffe, parent: champignon, alias_fr: [truffes, truffe noire, truffes noires, brisures de truffe], alias_en: [truffle, black truffle], ciqual: 20106}
+  - {id: portobello, nom: portobello, parent: champignon_de_paris, alias_fr: [champignon portobello, champignons bruns, champignon de Paris brun], alias_en: [portobello mushroom, cremini], ciqual: 20056, ciqual_approche: true}
+  # Algues
+  - {id: algue, nom: algue, parent: legume, alias_fr: [algues], alias_en: [seaweed]}
+  - {id: nori, nom: nori, parent: algue, alias_fr: [feuille de nori, feuilles de nori, algue nori], alias_en: [nori sheets], ciqual: 20987}
+  - {id: wakame, nom: wakamé, parent: algue, alias_fr: [wakame], alias_en: [wakame seaweed], ciqual: 20984}
+  - {id: kombu, nom: kombu, parent: algue, alias_fr: [algue kombu], alias_en: [kelp], ciqual: 20991}
+  - {id: agar_agar, nom: agar-agar, parent: algue, alias_fr: [agar agar, agar], alias_en: [agar powder], ciqual: 11084}
+  - {id: spiruline, nom: spiruline, parent: algue, alias_en: [spirulina], ciqual: 11086}

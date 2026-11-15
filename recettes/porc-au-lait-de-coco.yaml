@@ -1,0 +1,42 @@
+id: porc-au-lait-de-coco
+titre: Porc au lait de coco
+portions: 4
+temps:
+  preparation: 43
+  cuisson: 33
+  repos: 0
+ingredients:
+- viande de porc pour quatre
+- 200 à 250 mL de lait de coco
+- 1 boîte (350 g) de pulpe de tomate
+- 2 ou 3 gousses d'ail
+- 2 oignons
+- 1 branche de persil (ou de thym)
+- 1/2 c.c. de poudre de curry
+- 1/2 c.c. de poudre de curcuma
+- noix de muscade
+- sel
+- poivre noir.
+etapes:
+- Mixer l'ail, les oignons et le persil.
+- Faire revenir dans une sauteuse la viande coupée en morceau et le hachis dans une peu d'huile, pendant 3 à 5 minutes.
+- Ajouter le lait de coco et la pulpe de tomate. Assaisonner avec le curry, le curcuma, un peu de muscade rappée,
+  sel et poivre au goût.
+- Laisser cuire à feu moyen une dizaine de minute, puis baisser le feu et faire mijoter encore 30 minutes ou plus.
+- Servir par exemple avec du riz ou de la semoule.
+source:
+  titre: Porc au lait de coco
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Porc_au_lait_de_coco&oldid=649875
+  revision: 649875
+  date: '2020-11-21'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Porc_au_lait_de_coco&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Poulet au Lait de Coco.jpg
+  auteur: User:Arnaud 25
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Poulet_au_Lait_de_Coco.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

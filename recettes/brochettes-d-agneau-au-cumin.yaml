@@ -1,0 +1,24 @@
+id: brochettes-d-agneau-au-cumin
+titre: Brochettes d'agneau au cumin
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 10
+  repos: 60
+ingredients:
+- 600 g de gigot d'agneau
+- 1 c. à café de cumin en poudre
+- 1 c. à café de paprika
+- 3 c. à soupe d'huile d'olive
+- 1 citron
+- sel
+etapes:
+- Couper l'agneau en cubes et le mariner 1 heure avec les épices, l'huile et le jus du citron.
+- Enfiler sur des brochettes et griller 10 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « brochettes »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

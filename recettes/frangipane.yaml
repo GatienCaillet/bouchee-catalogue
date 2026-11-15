@@ -1,0 +1,28 @@
+id: frangipane
+titre: Frangipane
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 150 g de poudre d'amande
+- 75 g de sucre blanc ou sucre glace
+- 50 g de beurre (peut être réduit jusqu'à 25 g)
+- 1 œuf
+- 1 cuillerée à soupe d'extrait de vanille.
+etapes:
+- Mettre le beurre un peu mou dans un saladier et l'écraser avec un fouet.
+- Ajouter le sucre et travailler à la main pour mélanger le beurre et le sucre et obtenir une consistance sableuse.
+- Ajouter l'œuf et la vanille, puis mélanger vigoureusement au fouet.
+- Lorsque le mélange est homogène, ajouter la poudre d'amande et bien mélanger.
+source:
+  titre: Frangipane
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Frangipane&oldid=640544
+  revision: 640544
+  date: '2020-05-14'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Frangipane&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

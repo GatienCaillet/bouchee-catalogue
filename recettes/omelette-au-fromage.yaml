@@ -1,0 +1,25 @@
+id: omelette-au-fromage
+titre: Omelette au fromage
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 10
+  repos: 0
+ingredients:
+- 8 œufs
+- 5 cl de lait
+- 20 g de beurre
+- 80 g d'emmental râpé
+- sel, poivre
+etapes:
+- Battre les œufs en omelette avec le lait ; saler et poivrer.
+- Faire chauffer le beurre dans une grande poêle, ajouter la garniture puis verser les œufs.
+- Cuire à feu moyen 5 à 8 minutes en ramenant les bords vers le centre, jusqu'à ce que l'omelette soit prise mais
+  encore moelleuse.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « omelette »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

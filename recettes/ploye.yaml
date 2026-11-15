@@ -1,0 +1,27 @@
+id: ploye
+titre: Ploye
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 200 g de farine de sarrasin
+- 100 g de farine blanche
+- 15 g de poudre à pâte
+- 5 g de sel
+etapes:
+- Mélanger les ingrédients secs, ajouter 20 cl d'eau froide mélanger
+- Laisser reposer cinq min. Ajouter 10 cl d'eau bouillante, brasser (Si la pâte est trop épaisse, ajouter de l'eau
+  froide)
+- Cuire dans un poêlon
+source:
+  titre: Ploye
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ploye&oldid=452087
+  revision: 452087
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ploye&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

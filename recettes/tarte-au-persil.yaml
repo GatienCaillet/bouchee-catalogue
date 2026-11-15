@@ -1,0 +1,31 @@
+id: tarte-au-persil
+titre: Tarte au persil
+portions: 6
+temps:
+  preparation: 25
+  cuisson: 35
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 200 grammes de gruyère râpé
+- 15 cl de crème liquide, 5 œufs
+- 200 grammes de lardon
+- 1 cuiller à café d'ail, 6 cuillers à soupe de persil, poivre
+etapes:
+- Étalez la pâte brisée et disposez-la au fond d'un moule à tarte.
+- Dans un saladier, fouettez les œufs et la crème liquide, puis incorporez le gruyère râpé, les lardons, l'ail,
+  le persil et poivrez.
+- Versez le mélange sur la pâte.
+- Faites cuire la tarte 35 minutes au four préchauffé à 210 °C.
+- Servez la tarte tiède accompagnée de cornichons, de petits oignons au vinaigre et de quelques feuilles de salade
+  Batavia.
+source:
+  titre: Tarte au persil
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_persil&oldid=331066
+  revision: 331066
+  date: '2011-05-20'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_persil&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

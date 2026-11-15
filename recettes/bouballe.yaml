@@ -1,0 +1,27 @@
+id: bouballe
+titre: Bouballe
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 cuillère à soupe de matzemehl (farine de matza)
+- 2 œufs
+- 1 cuillère à soupe de fécule (peut être remplacé par du matzemehl).
+etapes:
+- Monter les blancs en neige.
+- Ajouter les jaunes d'œufs.
+- Ajouter le matzemehl et la fécule.
+- Mélanger le tout.
+- Faire cuire comme une omelette et retourner.
+source:
+  titre: Bouballe
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bouballe&oldid=650802
+  revision: 650802
+  date: '2020-12-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bouballe&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

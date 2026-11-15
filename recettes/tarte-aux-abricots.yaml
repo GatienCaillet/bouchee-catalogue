@@ -1,0 +1,27 @@
+id: tarte-aux-abricots
+titre: Tarte aux abricots
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 40
+  repos: 0
+ingredients:
+- 1 pâte sablée
+- 800 g d'abricots
+- 2 œufs
+- 60 g de sucre
+- 15 cl de crème fraîche
+- 1 c. à soupe de poudre d'amande
+etapes:
+- Préchauffer le four à 180 °C et garnir un moule de la pâte.
+- Piquer le fond à la fourchette et le saupoudrer de poudre d'amande.
+- Dénoyauter les abricots et les couper en deux.
+- Disposer les abricots sur la pâte.
+- Battre les œufs avec le sucre et la crème, verser sur les fruits et enfourner 40 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tarte aux fruits »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

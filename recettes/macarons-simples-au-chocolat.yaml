@@ -1,0 +1,35 @@
+id: macarons-simples-au-chocolat
+titre: Macarons simples au chocolat
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 30
+ingredients:
+- 250 g de sucre glace
+- 100 g d'amandes en poudre
+- 25 g de noix de coco en poudre
+- 20 g de cacao en poudre
+- 3 blancs d'œufs
+- 2 g de sel.
+etapes:
+- bien ferme avec le sel, et mélanger les autres ingrédients ensemble.
+- Incorporer les blancs.
+- Faire des petits tas sur une plaque recouverte de papier sulfurisé.
+- Laisser reposer 15 min, enfourner 15 min à 160°C.
+source:
+  titre: Macarons simples au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Macarons_simples_au_chocolat&oldid=645034
+  revision: 645034
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Macarons_simples_au_chocolat&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Recette macarons simples chocolat 4.jpg
+  auteur: Romain Behar
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Recette_macarons_simples_chocolat_4.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

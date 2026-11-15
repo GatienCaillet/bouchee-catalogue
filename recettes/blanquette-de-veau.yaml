@@ -1,0 +1,32 @@
+id: blanquette-de-veau
+titre: Blanquette de veau
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 100
+  repos: 0
+ingredients:
+- 1 kg de veau à blanquette
+- 2 carottes
+- 1 oignon
+- 250 g de champignons de Paris
+- 1 bouquet garni
+- 40 g de beurre
+- 40 g de farine
+- 20 cl de crème fraîche
+- 1 jaune d'œuf
+- 1 citron
+- sel, poivre
+etapes:
+- Couvrir le veau d'eau froide, porter à ébullition et écumer.
+- Ajouter les carottes, l'oignon et le bouquet garni, et cuire 1 heure 30 à frémissements.
+- Faire un roux avec le beurre et la farine, le mouiller avec 50 cl de bouillon de cuisson.
+- Ajouter les champignons, puis hors du feu la crème mélangée au jaune et au jus de citron.
+- Remettre la viande et les carottes dans la sauce et servir avec du riz.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

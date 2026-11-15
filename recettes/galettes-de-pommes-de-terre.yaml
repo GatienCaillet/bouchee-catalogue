@@ -1,0 +1,25 @@
+id: galettes-de-pommes-de-terre
+titre: Galettes de pommes de terre
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 0
+ingredients:
+- 800 g de pommes de terre
+- 1 oignon
+- 2 œufs
+- 2 c. à soupe de farine
+- 4 c. à soupe d'huile de tournesol
+- sel, poivre
+etapes:
+- Râper les pommes de terre et l'oignon, puis les presser dans un torchon.
+- Mélanger avec les œufs et la farine ; saler, poivrer.
+- Cuire des galettes fines 4 minutes de chaque côté dans l'huile chaude.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

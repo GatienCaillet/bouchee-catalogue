@@ -1,0 +1,50 @@
+id: cookies-aux-pepites-de-chocolat-2
+titre: Cookies aux pépites de chocolat
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 0
+  repos: 30
+ingredients:
+- 450g de farine
+- 2 œufs
+- 200g de cassonade
+- 150g de sucre en poudre
+- 200g de beurre
+- 300g de chocolat noir (au moins 50% de cacao)
+- 1 cuillerée à soupe d'extrait de vanille
+- 1 pincée de sel
+- 1 cuillère d'huile d'olive
+- texte: 1 sachet de 10g de levure.
+  ingredients:
+  - levure
+  categorie: true
+etapes:
+- Dans une casserole à fond épais, mettez le beurre à fondre à feu très doux.
+- Laissez-le tiédir, puis ôtez la pellicule qui s'est formée à la surface.
+- Réservez ce beurre clarifié.
+- Dans un grand saladier, cassez les œufs et ajoutez les deux sucres, une pincée de sel et l'extrait de vanille.
+- À l'aide d'un fouet électrique ou à main, battez énergiquement pour obtenir un mélange homogène qui fasse « ruban
+  ».
+- Tamisez la farine et la levure et incorporez-les petit à petit au mélange sucre-œufs en tournant régulièrement
+  avec une cuillère en bois.
+- Alternez farine et beurre jusqu'à épuisement des ingrédients.
+- Cassez le chocolat en petites pépites, ajoutez-le à la pâte, mélangez à la main pour qu'il soit bien réparti et
+  mettez la pâte au réfrigérateur trente minutes.
+source:
+  titre: Cookies aux pépites de chocolat 2
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cookies_aux_p%C3%A9pites_de_chocolat_2&oldid=710030
+  revision: 710030
+  date: '2024-01-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cookies_aux_p%C3%A9pites_de_chocolat_2&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'
+photo:
+  fichier: Chocolate Chip Cookies - kimberlykv.jpg
+  auteur: Kimberly Vardeman from Lubbock, TX, USA
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Chocolate_Chip_Cookies_-_kimberlykv.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

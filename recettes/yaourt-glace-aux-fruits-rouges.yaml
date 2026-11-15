@@ -1,0 +1,22 @@
+id: yaourt-glace-aux-fruits-rouges
+titre: Yaourt glacé aux fruits rouges
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 0
+  repos: 180
+ingredients:
+- 500 g de yaourt grec
+- 300 g de fruits rouges mélangés
+- 60 g de miel
+etapes:
+- Mixer les fruits rouges avec le miel.
+- Mélanger au yaourt.
+- Mettre au congélateur 3 heures en remuant toutes les 30 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

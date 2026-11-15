@@ -1,0 +1,41 @@
+id: brownie-aux-noix
+titre: Brownie aux noix
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 25
+  repos: 0
+ingredients:
+- 200 g de beurre doux
+- 200 g de chocolat noir
+- 200 g de sucre
+- 100 g de farine
+- 4 œufs
+- 2 pincées de poudre de vanille
+- 110 g de cerneaux de noix.
+etapes:
+- Casser et fondre le chocolat dans une casserole avec deux cuillers d'eau. Ajouter le beurre en morceaux et mélanger
+  jusqu'à fusion totale en crème. Laisser hors feux.
+- Fouetter les œufs avec le sucre (manuellement pour un meilleur résultat) pour obtenir un mélange homogène blanc
+  et moussant, dans un grand saladier. Saupoudrer de vanille. Y ajouter la crème chocolat-beurre et mélanger.
+- Ajouter la farine en évitant les éventuels grumeaux. Ajouter les noix coupées au couteau.
+- 'Cuisson : 20/25 min à 150 °C. Vérifier le fondant de l''intérieur avec la pointe d''un couteau et le craquant
+  du dessus.'
+- 'Présentation : Couper le gâteau en 25 brownies environ (les gourmands le couperont en 8 ; les gourmets en 36…).
+  Déguster éventuellement avec une crème anglaise.'
+source:
+  titre: Brownie aux noix
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Brownie_aux_noix&oldid=661078
+  revision: 661078
+  date: '2021-08-17'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Brownie_aux_noix&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Chocolate brownies.jpg
+  auteur: en:User:Gdr
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Chocolate_brownies.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

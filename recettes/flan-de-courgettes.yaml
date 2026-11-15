@@ -1,0 +1,31 @@
+id: flan-de-courgettes
+titre: Flan de courgettes
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 50
+  repos: 0
+ingredients:
+- 1 kg de courgettes
+- 1/2 l de lait
+- 4 œufs
+- 150 g de gruyère
+- Huile d'olive, persil, noix de muscade, sel, poivre
+etapes:
+- Faire revenir les courgettes coupées en rondelles de 1 cm d'épaisseur dans une sauteuse de l'huile d'olive 5 min.
+- Saler, poivrer et les saisir 5 min en les tournants.
+- Dans un récipient, casser les œufs, ajouter le lait, saler, poivrer, ajouter la noix de muscade râpée, le persil
+  hâché, et la moitié du gruyère râpé, battre le tout .
+- Lorsque les courgettes sont bien dorées, les disposer dans un moule à tarte beurré, verser la préparation au lait
+  et au fromage sur les courgettes, saupoudrer de gruyère râpé.
+- Cuire 40 minutes à four chaud à 230°C.
+source:
+  titre: Flan de courgettes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flan_de_courgettes&oldid=451942
+  revision: 451942
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flan_de_courgettes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

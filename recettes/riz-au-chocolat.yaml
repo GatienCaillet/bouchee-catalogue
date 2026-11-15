@@ -1,0 +1,34 @@
+id: riz-au-chocolat
+titre: Riz au chocolat
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 10
+  repos: 0
+ingredients:
+- texte: 150 g de chocolat
+  ingredients:
+  - chocolat
+  categorie: true
+- 100 g de riz
+- 40 cl d'eau
+- 20 cl de lait
+etapes:
+- Faire bouillir l'eau, ajouter le lait, porter à ébullition.
+- Verser le riz.
+- Cuire 10 min.
+- Faire évaporer le mélange eau, lait.
+- Ajouter le chocolat découpé en carrés, mélanger.
+- Verser dans un récipient.
+- Servir tiède ou froid.
+source:
+  titre: Riz au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_au_chocolat&oldid=644953
+  revision: 644953
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_au_chocolat&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : chocolat.'

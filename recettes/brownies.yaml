@@ -1,0 +1,32 @@
+id: brownies
+titre: Brownies
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 15
+  repos: 0
+ingredients:
+- 120 g de chocolat noir
+- 125 g de beurre mou
+- 2 œufs
+- 60 g de farine
+- 125 g de sucre en poudre
+- 50 g de noix de pécan hachées.
+etapes:
+- Faire fondre le chocolat au bain-marie
+- Fouetter les œufs avec le sucre
+- Faire fondre le beurre et le mélanger avec le chocolat fondu
+- Incorporer au mélange œufs-sucre
+- Ajouter la farine et les noix de pécan. Mélanger
+- Verser la préparation dans un moule recouvert de papier sulfurisé
+- Cuire au four dix à quinze minutes à 170°C. À mi-cuisson, couper le brownie en carrés.
+source:
+  titre: Brownies
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Brownies&oldid=661077
+  revision: 661077
+  date: '2021-08-17'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Brownies&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

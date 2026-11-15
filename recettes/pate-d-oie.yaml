@@ -1,0 +1,52 @@
+id: pate-d-oie
+titre: Pâté d'oie
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 30
+  repos: 1590
+ingredients:
+- une jeune oie
+- 250 g de hachis de porc
+- 3 échalotes
+- 1 dl de vin blanc
+- un peu de cognac
+- 500 g de farine
+- texte: 120 g de levure
+  ingredients:
+  - levure
+  categorie: true
+- 3 œufs
+- 1 dl d'eau
+- 1 cuillerée à café de sucre cristallisé
+- 1 petite tasse de lait tiède
+- poivre, sel, noix de muscade
+etapes:
+- Débarrassez l'oie de sa peau et conservez celle-ci.
+- Désossez l'oie et hachez la chair.
+- Mettez l'oie hachée dans une terrine avec le hachis de porc, le foie de l'oie moulu et les échalotes émincées.
+- Arrosez de vin blanc et de cognac.
+- Assaisonnez de sel, de poivre et de noix de muscade à votre goût.
+- Mélangez bien le tout, couvrez de la peau de l'oie et laissez reposer pendant 24 h.
+- Pétrissez une pâte lisse avec la farine et la levure, délayée dans le lait.
+- Laissez lever la pâte pendant ½ heure, ajoutez-y les œufs ainsi que le reste de la levure, le sucre, l'eau et
+  un peu de sel.
+- Mélangez bien, couvrez la pâte d'un linge et laissez-la lever jusqu'à ce qu'elle ait doublé de volume.
+- Abaissez la pâte à 1 cm d'épaisseur.
+- Étendez-y la peau de l'oie et déposez la farce.
+- Refermez d'abord la peau de l'oie, puis la pâte.
+- Déposez le pâté sur une plaque de cuisson et recouvrez-le d'un linge humide.
+- Laissez lever à nouveau pendant une demi-heure dans un endroit chaud.
+- Piquez le pâté avec une fourchette et cuisez-le pendant une demi-heure dans un four à environ 200 °C.
+- Servez en entrée avec une salade mixte et un verre de saint-feuillien blonde.
+source:
+  titre: Pâté d'oie
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2t%C3%A9_d%27oie&oldid=452144
+  revision: 452144
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2t%C3%A9_d%27oie&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : levure.'

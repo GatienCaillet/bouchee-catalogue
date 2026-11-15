@@ -1,0 +1,46 @@
+id: oreilles-d-aman
+titre: Oreilles d'Aman
+portions: 10
+temps:
+  preparation: 43
+  cuisson: 10
+  repos: 0
+ingredients:
+- 500 g de farine
+- 2 œufs entiers + 1 jaune
+- 2 cuillères à café de levure chimique
+- 125 grammes de sucre
+- sucre vanillé
+- texte: 1 cuillère à soupe d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 1 pincée de sel
+- 250 grammes de margarine
+- texte: 200 grammes de confiture
+  ingredients:
+  - confiture
+  categorie: true
+- 100 grammes de raisins secs
+- 100 grammes de noisettes ou d'amandes moulues.
+etapes:
+- Faire une fontaine avec la farine.
+- Y mettre les œufs entiers et le jaune, la levure, le sel, les sucres, l'huile, la margarine et un fond de verre
+  d'eau.
+- Pétrir.
+- Mélanger la farce.
+- Étaler la pâte au rouleau, comme pour une tarte.
+- Découper des ronds à l'emporte-pièce, avec un moule ou un verre.
+- Y mettre un peu de farce puis souder les bouts en triangle.
+- Mettre sur une tôle et cuire à four moyen, à 200°C (thermostat 6-7) pendant 10 à 15 minutes.
+source:
+  titre: Oreilles d'Aman
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Oreilles_d%27Aman&oldid=648131
+  revision: 648131
+  date: '2020-10-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Oreilles_d%27Aman&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes, 2 ligne(s) retirée(s) de la liste
+    (ustensiles, titres de sous-section) ; catégories gardées telles quelles : confiture, huile.'

@@ -1,0 +1,39 @@
+id: mogettes-cuisinees
+titre: Mogettes cuisinées
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 30
+  repos: 0
+ingredients:
+- 500 g de haricots cocos
+- 1/2 litre d'eau chaude
+- 1 oignon
+- 2 échalotes
+- 2 tomates, une feuille de laurier, une branche de thym
+- sel, poivre, 1 g de noix de muscade, paprika
+- texte: 1 cube de bouillon
+  ingredients:
+  - bouillon
+  categorie: true
+- huile d'olive, huile de noix
+etapes:
+- Recouvrir les haricots d'eau et cuire 30 minutes
+- Éplucher l'oignon et en émincer la moitié. Hacher l'autre moitié avec les échalotes. Faire dorer l'oignon et les
+  échalotes à l'huile.
+- Une fois que ceux-ci ont commencé à changer de couleur, les verser sur les haricots et remuer. * Couper les tomates
+  et cubes et les verser dedans. Ajouter le laurier, le thym, le sel, le poivre, la muscade et le paprika.
+- Dissoudre le cube de bouillon dans l'eau chaude puis le verser dans le faitout. Mélanger le tout, amener à ébullition,
+  puis laisser mijoter a feu jusqu'à temps que le liquide ait assez réduit.
+- Ajouter de l'huile de noix avant de servir.
+source:
+  titre: Mogettes cuisinées
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mogettes_cuisin%C3%A9es&oldid=452043
+  revision: 452043
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mogettes_cuisin%C3%A9es&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : bouillon.'

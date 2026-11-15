@@ -1,0 +1,43 @@
+id: gougere
+titre: Gougère
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 25
+  repos: 0
+ingredients:
+- 600 g de farine
+- 300 g de beurre
+- 12 à16 œufs
+- 1 litre d'eau froide
+- 500 g de comté râpé
+- 20 g de sel et 5 g poivre
+etapes:
+- Dans une casserole, mettre l'eau et le beurre, une pincée de sel. Porter à ébullition.
+- Retirer du feu et verser toute la farine d'un coup. Mélanger vigoureusement avec une spatule en bois pour obtenir
+  un mélange homogène.
+- Remettre la casserole sur feu doux et mélanger jusqu'à ce que la pâte se détache des parois.
+- Retirer du feu et laisser refroidir un peu. Incorporer progressivement le fromage,le poivre, puis les œufs un
+  par un. Mélanger bien.
+- Faire chauffer le four thermostat 6 (180° C).
+- 'Disposer une feuille de papier cuisson sur une plaque de four. À l''aide de deux cuillères à café, y déposer
+  des boulettes de pâte. Éloigner les boulettes de plusieurs centimètres : elles prendront beaucoup de volume. Vous
+  pouvez également disposer la pâte en couronne.'
+- Délayer le jaune d'œuf dans un peu d'eau et en badigeonner la pâte.
+- Mettre au four et laisser cuire 25 minutes.
+source:
+  titre: Gougère
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Goug%C3%A8re&oldid=685425
+  revision: 685425
+  date: '2022-09-25'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Goug%C3%A8re&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Gruyère Cheese Gougères.jpg
+  auteur: Luigi Anzivino
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Gruy%C3%A8re_Cheese_Goug%C3%A8res.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

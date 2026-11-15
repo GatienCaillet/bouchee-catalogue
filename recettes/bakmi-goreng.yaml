@@ -1,0 +1,42 @@
+id: bakmi-goreng
+titre: Bakmi goreng
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 0
+  repos: 0
+ingredients:
+- 600 g de bakmi ou nouilles de blé dur chinoises
+- 200 g de crevettes décortiquées
+- 1 petit poireau
+- 7 filets de poulet
+- farine
+- texte: huile
+  ingredients:
+  - huile
+  categorie: true
+- sel et poivre
+- 5 à 6 cuillères à soupe de sauce soja
+- 2 œufs
+- un peu de piment rouge.
+etapes:
+- Faire cuire le bakmi et le laisser refroidir.
+- Couper les filets de poulet en losanges, saler, poivrer et les enrober avec la farine.
+- Faire de même avec les crevettes décortiquées.
+- Faire dorer la viande puis les crevettes à l'huile dans un wok ou une cocotte.Réserver au chaud.
+- Faire revenir le poireau émincé dans la cocotte puis remettre la viande et crevettes.
+- Ajouter le soja et le piment selon le gout, un peu d'eau pour diluer la sauce.
+- Ajouter les nouilles et bien mélanger. Rajouter un peu de soja si le bami n'est pas bien enrobé par la sauce.
+- Faire cuire les œufs en omelette fine. Découper en lanières pour décorer.
+- Servir en garniture ou en plat principal avec du kroupoek (beignets de crevettes) et des oignons blancs aigre-doux.
+source:
+  titre: Bakmi goreng
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bakmi_goreng&oldid=517027
+  revision: 517027
+  date: '2016-07-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bakmi_goreng&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

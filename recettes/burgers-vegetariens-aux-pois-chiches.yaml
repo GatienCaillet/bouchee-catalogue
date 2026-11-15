@@ -1,0 +1,28 @@
+id: burgers-vegetariens-aux-pois-chiches
+titre: Burgers végétariens aux pois chiches
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 10
+  repos: 0
+ingredients:
+- 4 pains à burger
+- 1 boîte de pois chiches (400 g)
+- 1 carotte
+- 1 œuf
+- 40 g de chapelure
+- 1 c. à café de cumin en poudre
+- 4 feuilles de laitue
+- 3 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Écraser les pois chiches avec la carotte râpée, l'œuf, la chapelure et le cumin.
+- Former 4 galettes et les dorer 4 minutes de chaque côté dans l'huile.
+- Garnir les pains de laitue et de galette.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « burger »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,24 @@
+id: soupe-froide-de-petits-pois-a-la-menthe
+titre: Soupe froide de petits pois à la menthe
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 10
+  repos: 120
+ingredients:
+- 500 g de petits pois
+- 1 oignon nouveau
+- 60 cl de bouillon de légumes
+- 10 cl de crème liquide
+- quelques feuilles de menthe
+- sel
+etapes:
+- Cuire les petits pois et l'oignon 10 minutes dans le bouillon.
+- Mixer avec la crème et la menthe, saler et réserver 2 heures au frais.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe froide »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

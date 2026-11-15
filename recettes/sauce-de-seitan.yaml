@@ -1,0 +1,36 @@
+id: sauce-de-seitan
+titre: Sauce de seitan
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 30
+  repos: 0
+ingredients:
+- 250 g de seitan
+- texte: 200 g de champignons
+  ingredients:
+  - champignon
+  categorie: true
+- 4 carottes
+- 1 échalote
+- 200 ml de bouillon de légumes
+- lait de soja
+- fécule de maïs
+- huile d'arachide
+- sel, poivre.
+etapes:
+- Rissoler l'échalote hachée dans une cocotte, avec le seitan coupé en lamelles.
+- Ajouter les carottes coupées en rondelles et les champignons émincés, suer quelques instants.
+- Mouiller avec le bouillon et assaisonner.
+- Porter à ébullition puis cuire 30 min. En fin de cuisson, ajouter le lait de soja à la sauce.
+source:
+  titre: Sauce de seitan
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_de_seitan&oldid=685324
+  revision: 685324
+  date: '2022-09-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_de_seitan&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : champignon.'

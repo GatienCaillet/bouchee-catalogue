@@ -1,0 +1,33 @@
+id: riz-aux-noix-de-cajou
+titre: Riz aux noix de Cajou
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 10
+  repos: 0
+ingredients:
+- 500 g de riz cuit
+- 100 g de noix de Cajou
+- 1 oignon
+- 1 grosse pomme rouge
+- texte: 3 branches de céleri
+  ingredients:
+  - celeri
+  categorie: true
+- 1 cuillère à soupe d'huile de tournesol
+- Sel et poivre.
+etapes:
+- Coupez l'oignon, la pomme et le céleri en menus morceaux. Faites-les revenir dans la poêle huilée. Ajoutez trois
+  cuillères à soupe d'eau et laissez mijoter 10 min.
+- Ajoutez le riz. Mélangez tous les ingrédients.
+source:
+  titre: Riz aux noix de Cajou
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_aux_noix_de_Cajou&oldid=452175
+  revision: 452175
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_aux_noix_de_Cajou&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : céleri.'

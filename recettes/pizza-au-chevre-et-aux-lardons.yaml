@@ -1,0 +1,29 @@
+id: pizza-au-chevre-et-aux-lardons
+titre: Pizza au chèvre et aux lardons
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 15
+  repos: 0
+ingredients:
+- 1 pâte à pizza
+- 1 bûche de fromage de chèvre
+- 400 g de concassé de tomates
+- 100 g de lardons
+- 50 g de parmesan.
+etapes:
+- Faire chauffer le four à 200°C. {| align="center" border="1" cellpadding="2" cellspacing="0" |- bgcolor="#efefef"
+  ! Étape 1 ! Étape 2 |----- | width=50% | Lorsque la pâte est levée, étaler le concassé de tomate. | Disposer les
+  lardons crus. |- bgcolor="#efefef" ! Étape 3 ! Étape 4 |----- | Couper la bûche en rondelle et la disposer régulièrement
+  sur la pizza. Trois tranches par quart est une bonne proportion. Râper le parmesan par dessus. | valign=top |
+  Mettre au four et laisser cuire environ un quart d'heure. |}
+source:
+  titre: Pizza au chèvre et aux lardons
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_au_ch%C3%A8vre_et_aux_lardons&oldid=645025
+  revision: 645025
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_au_ch%C3%A8vre_et_aux_lardons&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

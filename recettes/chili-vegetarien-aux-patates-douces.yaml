@@ -1,0 +1,31 @@
+id: chili-vegetarien-aux-patates-douces
+titre: Chili végétarien aux patates douces
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 40
+  repos: 0
+ingredients:
+- 2 patates douces
+- 2 boîtes de haricots rouges (800 g)
+- 800 g de tomates pelées
+- 1 oignon
+- 1 c. à café de cumin en poudre
+- 1 c. à café de paprika fumé
+- 2 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Faire revenir l'oignon émincé dans l'huile avec les épices.
+- Ajouter les patates douces en cubes, les tomates et les haricots égouttés.
+- Laisser mijoter 35 minutes, jusqu'à ce que les patates douces soient tendres.
+decouverte:
+  aliment: patate_douce
+  niveau: 2
+  pourquoi: Les cubes de patate douce se mêlent aux haricots et aux épices.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

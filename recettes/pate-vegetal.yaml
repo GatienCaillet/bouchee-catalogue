@@ -1,0 +1,36 @@
+id: pate-vegetal
+titre: Pâté végétal
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 60
+  repos: 0
+ingredients:
+- 250 g de graines de tournesol
+- 125 g de farine de blé (ou de riz)
+- texte: 125 g de levure
+  ingredients:
+  - levure
+  categorie: true
+- 1 oignon
+- 3 cl de jus de citron
+- 1 pomme de terre
+- 12.5 cl d'huile végétale
+- 37.5 cl d'eau
+- sel, thym, basilic, sauge.
+etapes:
+- Mélanger les graines moulues, l'oignon émincé, la pomme de terre râpée et les autres ingrédients.
+- Verser dans un plat Pyrex.
+- Cuire 1 h. à 190°C.
+- Quand la préparation est refroidie la démouler.
+source:
+  titre: Pâté végétal
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2t%C3%A9_v%C3%A9g%C3%A9tal&oldid=685304
+  revision: 685304
+  date: '2022-09-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2t%C3%A9_v%C3%A9g%C3%A9tal&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

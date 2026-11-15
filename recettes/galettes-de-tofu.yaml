@@ -1,0 +1,27 @@
+id: galettes-de-tofu
+titre: Galettes de tofu
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 10
+  repos: 0
+ingredients:
+- 250 g de tofu
+- 1 oignon haché
+- 1 gousse d'ail écrasée
+- 1 bouquet de persil
+- sel, poivre, huile d'arachide.
+etapes:
+- Mixer le tofu, l'ail, l'oignon et le persil, de manière à obtenir une pâte souple. Assaisonner selon le goût.
+  Former de petites galettes rondes, de 1cm d'épaisseur. Faire chauffer l'huile dans une poêle et dorer les galettes
+  10 min de chaque côté.
+source:
+  titre: Galettes de tofu
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galettes_de_tofu&oldid=513579
+  revision: 513579
+  date: '2016-05-10'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galettes_de_tofu&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,27 @@
+id: soupe-a-l-oignon-gratinee
+titre: Soupe à l'oignon gratinée
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 45
+  repos: 0
+ingredients:
+- 6 oignons
+- 50 g de beurre
+- 1 c. à soupe de farine
+- 1,5 l de bouillon de bœuf
+- 8 tranches de baguette
+- 100 g de gruyère râpé
+- sel, poivre
+etapes:
+- Émincer finement les oignons et les faire dorer 20 minutes au beurre à feu doux.
+- Saupoudrer de farine, mélanger, puis verser le bouillon et cuire 20 minutes.
+- Verser dans des bols allant au four, poser les tranches de pain et couvrir de gruyère.
+- Gratiner 5 minutes sous le gril.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

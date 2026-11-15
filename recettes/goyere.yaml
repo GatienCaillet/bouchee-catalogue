@@ -1,0 +1,34 @@
+id: goyere
+titre: Goyère
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 30
+  repos: 60
+ingredients:
+- 145 g de farine
+- 125 g de Maroilles
+- 125 g de fromage blanc
+- 35 g beurre
+- 3 œufs
+- 8 cl de lait
+- 5 g de levure de boulanger
+- sel
+etapes:
+- Délayer la levure dans le lait.
+- Mettre 125 g de farine dans un saladier.
+- Faire une fontaine, incorporer peu à peu le lait et former une pâte pouvant se façonner en boule. Laisser reposer
+  une heure.
+- Couper le maroilles en fines tranches, les écraser à la fourchette en y incorporant le fromage blanc.
+- Lorsque le mélange est homogène, ajouter les œufs et 25 g de beurre.
+- Beurrer une tourtière, foncez le moule avec la pâte. Verser le mélange et mettre à four chaud pendant 30 minutes.
+source:
+  titre: Goyère
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Goy%C3%A8re&oldid=451985
+  revision: 451985
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Goy%C3%A8re&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

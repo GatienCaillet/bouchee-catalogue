@@ -1,0 +1,43 @@
+id: pommes-dauphines
+titre: Pommes dauphines
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 0
+  repos: 0
+ingredients:
+- 350 g de pommes de terre
+- 80 g de beurre
+- 25cl d'eau
+- 125 g de farine
+- 4 œufs
+- sel
+- poivre
+- noix de muscade.
+etapes:
+- Faire cuire les pommes de terre à l'eau bouillante, puis les peler et les mettre en purée.
+- Les faire sécher au micro-ondes pour avoir 250 g de pommes de terre sèche.
+- Dans une casserole, mélanger l'eau, le beurre et le sel.
+- Porter à ébullition et retirer du feu lorsque le beurre est fondu.
+- Ajouter la farine et l'incorporer avec une cuillère en bois.
+- Remettre sur le feu en tournant jusqu'à ce que la pâte se détache des parois de la casserole.
+- Retirer du feu et incorporer les œufs l'un après l'autre avec un fouet.
+- Mélanger la purée et la pâte à choux, et assaisonner avec le poivre et la noix de muscade.
+- Faire des petites boules de la préparation de la taille d'une noix.
+- Les frire dans une poêle contenant de l'huile de friture jusqu'à ce qu'elles soient bien dorées.
+source:
+  titre: Pommes dauphines
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pommes_dauphines&oldid=675057
+  revision: 675057
+  date: '2022-04-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pommes_dauphines&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Pommes Dauphines.jpg
+  auteur: Vanessa Druckman from Columbus, USA
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Pommes_Dauphines.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

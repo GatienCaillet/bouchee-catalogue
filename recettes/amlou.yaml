@@ -1,0 +1,25 @@
+id: amlou
+titre: Amlou
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- 250 g d'amandes
+- 100 g de miel
+- 50 cl d'huile d'Argan
+etapes:
+- Supprimer la peau des amandes, les dorer à sec
+- Les piler jusqu'à obtention d'une pâte lisse
+- Ajouter le miel, mélanger, incorporer l'huile petit à petit
+source:
+  titre: Amlou
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Amlou&oldid=485058
+  revision: 485058
+  date: '2015-07-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Amlou&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

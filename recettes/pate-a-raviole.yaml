@@ -1,0 +1,28 @@
+id: pate-a-raviole
+titre: Pâte à raviole
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 60
+ingredients:
+- 1 kg de farine de blé
+- 10 œufs
+- 20 cl d'huile d'olive
+- 10 g de sel
+etapes:
+- Verser la farine sur le plan de travail et creuser une fontaine au centre et verser les œufs battus en omelette.
+- Ajouter l'huile d'olive, saler et mélanger le tout en intégrant la farine au fur et à mesure, puis travailler
+  à la main jusqu'à formation d'une pâte lisse et ferme.
+- Rouler la pâte en boule, l'envelopper dans du film alimentaire et réserver au frais durant une heure, avant toute
+  utilisation.
+source:
+  titre: Pâte à raviole
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_%C3%A0_raviole&oldid=452129
+  revision: 452129
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_%C3%A0_raviole&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

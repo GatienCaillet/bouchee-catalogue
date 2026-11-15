@@ -1,0 +1,40 @@
+id: mannala
+titre: Mannala
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 225
+  repos: 120
+ingredients:
+- 500 g de farine
+- 2 œufs
+- 15 cl de lait
+- 80 g de sucre
+- 1 sachet de levure de boulanger
+- 150 g de beurre
+- 1 sachet de sucre vanillé
+- 1 raisin sec et/ou petit sucre (taille d'un morceau d'aspartame) pour la décoration
+etapes:
+- 'Préparation : 30 min'
+- 'Cuisson : 15 min'
+- 'Repos : 120 min'
+- 'Temps total : 165 min'
+- Mélanger le tout jusqu'à obtenir une pâte élastique.
+- Laisser reposer couvert d'un chiffon dans un pièce où la température avoisine les 25°C (si possible avec un taux
+  d'humidité plus fort) jusqu'à ce que la pâte ait doublée de volume.
+- Prendre des morceaux de pâte et donner la forme de petit bonhomme à l'aide d'un couteau.
+- 'Décorer : raisin sec ou morceaux de sucre pour les yeux et morceaux de sucre éparpillés sur tout le corps. Pour
+  que le sucre tienne mieux, mouiller un peu la pâte.'
+- Laisser reposer au tiède jusqu'au doublage de volume.
+- Enfourner au four 15 minutes environ à 180°C, jusqu'à ce qu'il soit bien doré.
+- Manger froid avec un chocolat chaud alors que dehors il fait froid (la Saint-Nicolas se fête le 6 décembre).
+source:
+  titre: Mannala
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mannala&oldid=452452
+  revision: 452452
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mannala&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

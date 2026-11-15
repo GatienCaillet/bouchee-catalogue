@@ -1,0 +1,32 @@
+id: curry-de-pois-chiches-au-lait-de-coco-et-au-potiron
+titre: Curry de pois chiches au lait de coco et au potiron
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 2 boîtes de pois chiches (800 g)
+- 500 g de potiron
+- 1 oignon
+- 2 gousses d'ail
+- 1 morceau de gingembre frais
+- 2 c. à soupe d'huile de colza
+- 1 c. à soupe de curry
+- 400 ml de lait de coco
+- 1/2 botte de coriandre fraîche
+- sel
+etapes:
+- Émincer l'oignon, hacher l'ail et râper le gingembre.
+- Faire revenir l'oignon dans l'huile 5 minutes, puis ajouter l'ail, le gingembre et le curry et cuire 1 minute
+  en remuant.
+- Égoutter et rincer les pois chiches, puis les ajouter avec les légumes.
+- Ajouter le potiron en cubes et le lait de coco ; saler, couvrir et laisser mijoter 20 minutes.
+- Parsemer de coriandre ciselée et servir avec du riz.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « curry au lait de coco »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

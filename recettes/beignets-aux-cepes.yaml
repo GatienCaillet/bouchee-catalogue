@@ -1,0 +1,30 @@
+id: beignets-aux-cepes
+titre: Beignets aux cèpes
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 60
+ingredients:
+- 500 g de cèpes frais
+- 150 g de farine blanche
+- 2 œufs
+- 25 cl d'eau
+- 6 cl d'huile d'olive, sel.
+etapes:
+- Battre les œufs en omelette, verser petit à petit la farine en remuant. Saler, ajouter l'huile d'olive et l'eau.
+- Mélanger, laisser reposer 1 heure.
+- Nettoyer les cèpes avec un linge humide « sans les laver ». Gratter les pieds des champignons avant de les couper
+  en lamelles.
+- Plonger les lamelles de cèpes, au fur et à mesure dans la pâte, puis dans l'huile de friture chaude.
+- Égoutter les beignets sur un tissu absorbant, saler, servir chauds.
+source:
+  titre: Beignets aux cèpes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beignets_aux_c%C3%A8pes&oldid=674378
+  revision: 674378
+  date: '2022-04-13'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beignets_aux_c%C3%A8pes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

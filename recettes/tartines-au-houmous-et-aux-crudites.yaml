@@ -1,0 +1,23 @@
+id: tartines-au-houmous-et-aux-crudites
+titre: Tartines au houmous et aux crudités
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 0
+  repos: 0
+ingredients:
+- 8 tranches de pain complet
+- 200 g de houmous
+- 1 carotte
+- 1/2 concombre
+- 8 radis
+etapes:
+- Tartiner le pain de houmous.
+- Garnir de carotte râpée, de concombre et de radis en fines rondelles.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tartine »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,33 @@
+id: tarte-provencale
+titre: Tarte provençale
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 45
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 1 aubergine
+- 2 poivrons
+- 4 tomates
+- olives noires
+- herbes de Provence
+- huile d'olive
+- sel, poivre.
+etapes:
+- Coupez l'aubergine et la tomate en fines rondelles, les poivrons en lamelles.
+- Faites revenir l'aubergine et les poivrons dans un peu d'huile d'olive pendant 5 minutes.
+- Disposez la pâte dans un moule à tarte et piquez-la. Répartissez les légumes en rosace ou en couches, au choix.
+- Salez, poivrez au goût, et parsemez généreusement d'herbes de Provence.
+- Disposez enfin les olives sur la surface, puis arrosez d'un filet d'huile d'olive.
+- Enfournez pour environ 40 minutes, four préchauffé à 200°.
+source:
+  titre: Tarte provençale
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_proven%C3%A7ale&oldid=647311
+  revision: 647311
+  date: '2020-10-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_proven%C3%A7ale&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

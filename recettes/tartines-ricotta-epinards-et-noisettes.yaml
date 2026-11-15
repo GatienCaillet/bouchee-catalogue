@@ -1,0 +1,23 @@
+id: tartines-ricotta-epinards-et-noisettes
+titre: Tartines ricotta, épinards et noisettes
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 5
+  repos: 0
+ingredients:
+- 8 tranches de pain de campagne
+- 250 g de ricotta
+- 100 g de pousses d'épinards
+- 30 g de noisettes
+- 1 c. à soupe de miel
+etapes:
+- Tartiner le pain grillé de ricotta.
+- Garnir de pousses d'épinards et de noisettes concassées, puis arroser de miel.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tartine »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

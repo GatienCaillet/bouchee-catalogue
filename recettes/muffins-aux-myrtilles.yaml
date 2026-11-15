@@ -1,0 +1,29 @@
+id: muffins-aux-myrtilles
+titre: Muffins aux myrtilles
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 20
+  repos: 0
+ingredients:
+- 250 g de farine
+- 120 g de sucre
+- 2 œufs
+- 20 cl de lait
+- 80 g de beurre
+- 1 sachet de levure chimique
+- 150 g de myrtilles
+etapes:
+- Préchauffer le four à 180 °C et garnir un moule à muffins de caissettes.
+- Mélanger les ingrédients secs d'un côté, les liquides de l'autre, réunir sans trop travailler la pâte et ajouter
+  les myrtilles.
+- Remplir les caissettes aux trois quarts.
+- Enfourner 20 minutes.
+- Laisser tiédir avant de démouler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gâteau »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

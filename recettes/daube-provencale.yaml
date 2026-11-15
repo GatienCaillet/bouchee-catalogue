@@ -1,0 +1,48 @@
+id: daube-provencale
+titre: Daube provençale
+portions: 6
+temps:
+  preparation: 43
+  cuisson: 300
+  repos: 0
+ingredients:
+- 1,6 kg de viande de bœuf
+- 200 g de lard
+- 5 gousses d'ail
+- 1 morceau d'écorce d'orange
+- 1 gros oignon.
+- 2 gros oignons
+- 4 carottes
+- 1 litre de vin rouge à température ambiante
+- texte: 1 verre de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- bouquet garni
+- sel, poivre, clous de girofle, noix de muscade.
+etapes:
+- 'Préparer la marinade :'
+- Couper les oignons en quatre et les carottes en rondelles
+- Incorporer avec le vin rouge, le vinaigre, le bouquet garni et les épices.
+- Couper la viande en morceau de 100 g et mettre à mariner.
+- Faire fondre dans une cocotte le lard haché en prenant soin d'enlever les résidus avec une écumoire.
+- Couper l'oignon en lamelles et le faire roussir avec les morceaux de viande égouttés.
+- Ajouter la marinade, l'ail, l'écorce d'orange, et faire réduire d'un tiers à feu vif.
+- Rajouter ½ litre d'eau chaude, couvrir hermétiquement et laisser cuire à petit feu 5 heures.
+source:
+  titre: Daube provençale
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Daube_proven%C3%A7ale&oldid=683871
+  revision: 683871
+  date: '2022-08-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Daube_proven%C3%A7ale&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : vinaigre.'
+photo:
+  fichier: Daube de boeuf.JPG
+  auteur: Véronique PAGNIER
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Daube_de_boeuf.JPG
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

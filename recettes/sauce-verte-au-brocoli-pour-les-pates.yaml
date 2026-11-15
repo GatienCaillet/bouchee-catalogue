@@ -1,0 +1,29 @@
+id: sauce-verte-au-brocoli-pour-les-pates
+titre: Sauce verte au brocoli pour les pâtes
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 400 g de penne
+- 300 g de brocoli
+- 10 cl de crème liquide
+- 50 g de parmesan râpé
+- 1 gousse d'ail
+- sel, poivre
+etapes:
+- Cuire le brocoli 10 minutes à l'eau salée, puis le mixer très finement avec la crème, l'ail et le parmesan.
+- Cuire les pâtes et les mélanger à la sauce.
+decouverte:
+  aliment: brocoli
+  niveau: 1
+  pourquoi: Mixé avec la crème et le parmesan, le brocoli donne une couleur verte mais très peu de goût.
+  conseil: Mixer longtemps pour une sauce bien lisse.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

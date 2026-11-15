@@ -1,0 +1,26 @@
+id: pates-aux-champignons-et-a-la-creme
+titre: Pâtes aux champignons et à la crème
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 20
+  repos: 0
+ingredients:
+- 400 g de tagliatelles
+- 400 g de champignons de Paris
+- 1 échalote
+- 20 cl de crème liquide
+- 20 g de beurre
+- sel, poivre
+etapes:
+- Porter une grande casserole d'eau salée à ébullition.
+- Faire revenir l'échalote et les champignons émincés au beurre, puis ajouter la crème.
+- Cuire les pâtes selon les indications du paquet, les égoutter en gardant un peu d'eau de cuisson.
+- Mélanger les pâtes à la sauce, détendre si besoin avec l'eau de cuisson, poivrer et servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « pâtes »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

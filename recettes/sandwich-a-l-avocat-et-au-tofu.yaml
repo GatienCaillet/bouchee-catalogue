@@ -1,0 +1,29 @@
+id: sandwich-a-l-avocat-et-au-tofu
+titre: Sandwich à l’avocat et au tofu
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 avocat
+- 1 tomate
+- 2 tranches de pain
+- 1 tofu aux fines herbes
+- Huile d'olives, sel
+etapes:
+- Faire griller les tranches de pain
+- Couper un avocat en deux. Le sortir de sa pelure. Couper une moitié en quarts. Déposer un quart d'avocat sur chaque
+  tranche de pain. Écraser les quarts d'avocat avec une fourchette et y incorporer un peu d'huile d'olive, saler
+- Déposer des tranches de tomate sur une tranche de pain et le tofu sur l'autre
+- Saler les deux moitiés du sandwich, refermer
+source:
+  titre: Sandwich à l’avocat et au tofu
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sandwich_%C3%A0_l%E2%80%99avocat_et_au_tofu&oldid=326631
+  revision: 326631
+  date: '2011-05-02'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sandwich_%C3%A0_l%E2%80%99avocat_et_au_tofu&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

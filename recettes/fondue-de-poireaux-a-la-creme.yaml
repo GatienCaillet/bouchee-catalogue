@@ -1,0 +1,33 @@
+id: fondue-de-poireaux-a-la-creme
+titre: Fondue de poireaux à la crème
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 20
+  repos: 0
+ingredients:
+- 25 g de beurre
+- 2 échalotes
+- 3 beaux poireaux
+- sel, Poivre blanc
+- 20 g de fromage blanc
+etapes:
+- Fondre le beurre dans une sauteuse, éplucher les échalotes et les passer au hachoir. Les verser dans le beurre
+  fondu et les caraméliser à feu doux
+- Couper les poireaux en deux dans le sens de la longueur, les laver, les couper en tranches de 5 mm d'épaisseur
+  et les sécher
+- Quand les échalotes ont changé de couleur, verser les poireaux dessus. Saler, poivrer, mélanger le tout et couvrir
+- Cuire à feu doux pendant 20 min en remuant régulièrement. Les poireaux doivent cuire dans l'eau qu'ils vont dégorger
+  en cuisant, s'il n'y en a pas assez, ajouter de l'eau
+- Retirer le couvercle pour que l'eau de cuisson finisse de s'évaporer, ajouter le fromage blanc et mélanger le
+  tout.
+source:
+  titre: Fondue de poireaux à la crème
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fondue_de_poireaux_%C3%A0_la_cr%C3%A8me&oldid=451947
+  revision: 451947
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fondue_de_poireaux_%C3%A0_la_cr%C3%A8me&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

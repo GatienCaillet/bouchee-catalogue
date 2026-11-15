@@ -1,0 +1,32 @@
+id: pudding-au-chocolat
+titre: Pudding au chocolat
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 60
+  repos: 0
+ingredients:
+- 100 g de cacao
+- 200 g de pain rassis
+- 1/2 litre de lait
+- 50 g de sucre
+- 2 œufs
+- de la vanille
+etapes:
+- Mixer le pain
+- Faire chauffer le lait et le chocolat jusqu'à ébullition
+- Mélanger le lait chocolaté et le pain dans un plat hors du feu
+- Battre les œufs avec le sucre et la vanille et les incorporer au pain
+- Faire chauffer une heure à four 5/6
+- Laisser refroidir et napper le dessus de chocolat
+- Mettre au réfrigérateur et servir frais
+source:
+  titre: Pudding au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pudding_au_chocolat&oldid=569287
+  revision: 569287
+  date: '2017-09-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pudding_au_chocolat&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

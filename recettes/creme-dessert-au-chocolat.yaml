@@ -1,0 +1,29 @@
+id: creme-dessert-au-chocolat
+titre: Crème dessert au chocolat
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 5
+  repos: 0
+ingredients:
+- 1 litre de lait entier
+- 200 grammes de chocolat noir
+- 100 grammes de sucre
+- 50 grammes de beurre
+- 40 grammes de farine
+etapes:
+- Faire fondre le beurre puis le mélanger avec la farine.
+- Ajouter du lait et bien mélanger.
+- Ajouter le sucre après la cuisson du lait dans le roux blanc.
+- Rajouter le chocolat cassé en morceaux
+- Laissez chauffer pendant 5 à 10 minutes tout en remuant avec une cuillère.
+source:
+  titre: Crème dessert au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cr%C3%A8me_dessert_au_chocolat&oldid=493860
+  revision: 493860
+  date: '2015-12-20'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cr%C3%A8me_dessert_au_chocolat&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

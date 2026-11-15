@@ -1,0 +1,25 @@
+id: brochettes-de-legumes-grilles
+titre: Brochettes de légumes grillés
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 12
+  repos: 0
+ingredients:
+- 2 courgettes
+- 2 poivrons
+- 250 g de champignons de Paris
+- 1 oignon rouge
+- 4 c. à soupe d'huile d'olive
+- 1 c. à café d'herbes de Provence
+- sel
+etapes:
+- Couper les légumes en gros morceaux et les mélanger à l'huile et aux herbes.
+- Les enfiler sur des brochettes et griller 12 minutes en retournant.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « brochettes »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

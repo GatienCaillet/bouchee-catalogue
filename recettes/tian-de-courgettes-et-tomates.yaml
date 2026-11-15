@@ -1,0 +1,29 @@
+id: tian-de-courgettes-et-tomates
+titre: Tian de courgettes et tomates
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 3 courgettes
+- 4 tomates
+- 1 oignon
+- 3 c. à soupe d'huile d'olive
+- 1 c. à café de thym
+- sel, poivre
+etapes:
+- Couper les légumes en rondelles fines.
+- Les disposer en alternance dans un plat sur l'oignon émincé.
+- Arroser d'huile, parsemer de thym et cuire 45 minutes à 180 °C.
+decouverte:
+  aliment: courgette
+  niveau: 3
+  pourquoi: Les rondelles se voient, mais la tomate et le thym donnent le goût principal.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

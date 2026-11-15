@@ -1,0 +1,29 @@
+id: soupe-de-lentilles-grecque
+titre: Soupe de lentilles grecque
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 45
+  repos: 0
+ingredients:
+- 500 g de lentilles
+- 3 gousses d'ail
+- 5 cl d'huile d'olive
+- 1 tomate
+- 1 oignon
+- sel, poivre
+- 1,5 litre d'eau
+etapes:
+- Mettre les lentilles dans une casserole, couvrir d'eau, bouillir 5 minutes, égoutter
+- Suer l'oignon a l'huile, ajouter les lentilles, l'eau, l'ail et la tomate
+- Cuire 40 min
+source:
+  titre: Soupe de lentilles grecque
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_de_lentilles_grecque&oldid=452215
+  revision: 452215
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_de_lentilles_grecque&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

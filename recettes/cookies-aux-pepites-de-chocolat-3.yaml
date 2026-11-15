@@ -1,0 +1,39 @@
+id: cookies-aux-pepites-de-chocolat-3
+titre: Cookies aux pépites de chocolat
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 250 g de farine
+- 1 œuf
+- 100 g de sucre en poudre
+- 100 g de beurre
+- texte: 1 cuillère à café de levure
+  ingredients:
+  - levure
+  categorie: true
+- 100 g de pépites de chocolat.
+etapes:
+- Faire ramollir le beurre.
+- Mélanger tous les ingrédients (l'ordre n'importe pas) dans un saladier.
+- Pétrir à la main la pâte ainsi obtenu.
+- Sur une feuille de papier sulfurisé, former vos cookies.
+source:
+  titre: Cookies aux pépites de chocolat 3
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cookies_aux_p%C3%A9pites_de_chocolat_3&oldid=710305
+  revision: 710305
+  date: '2024-01-10'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cookies_aux_p%C3%A9pites_de_chocolat_3&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'
+photo:
+  fichier: Préparation des cookies, dégustation, mars 2020 (2).jpg
+  auteur: Benoît Prieur
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Pr%C3%A9paration_des_cookies,_d%C3%A9gustation,_mars_2020_(2).jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

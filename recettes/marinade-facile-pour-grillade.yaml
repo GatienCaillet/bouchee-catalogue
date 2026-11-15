@@ -1,0 +1,36 @@
+id: marinade-facile-pour-grillade
+titre: Marinade facile pour grillade
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 90
+ingredients:
+- 2 gousses d'ail
+- 5 cuillers à soupe de jus de citron vert
+- 3 cuillers à soupe d'huile d'olive
+- Du sel
+- texte: Une cuiller à café de moutarde (dans le cas de la viande de porc. Quantité pour quatre côtes de porc).
+  ingredients:
+  - moutarde
+  categorie: true
+etapes:
+- Si usage de la moutarde, la mettre dans un bol en premier.
+- Verser le jus de citron vert dans un bol.
+- Écraser les gousses d'ail et les incorporer.
+- Mélanger le tout.
+- Ajouter l'huile d'olive et le sel.
+- Mélanger à nouveau jusqu'à changement de consistance.
+- Verser la préparation sur la viande ou le poisson.
+- Laisser mariner au minimum 30 min, au maximum 1 h (retourner une fois).
+source:
+  titre: Marinade facile pour grillade
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Marinade_facile_pour_grillade&oldid=710470
+  revision: 710470
+  date: '2024-01-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Marinade_facile_pour_grillade&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : moutarde.'

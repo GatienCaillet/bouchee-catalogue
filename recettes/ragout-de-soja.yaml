@@ -1,0 +1,39 @@
+id: ragout-de-soja
+titre: Ragoût de soja
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 0
+  repos: 0
+ingredients:
+- 150 g de soja texturé
+- 1 verre de vin rouge
+- 1 verre d'eau
+- 1 cube de bouillon végétal
+- 1 c. à s. d'herbes de Provence
+- paprika
+- sel-poivre
+- texte: 3 tiges de céleri vert
+  ingredients:
+  - celeri
+  categorie: true
+- 3 carottes
+- 4 oignons nouveaux
+- 1 c. à s. d'huile d'olive
+- 2 feuilles de laurier
+etapes:
+- Faire tremper le soja dans le vin et le bouillon, assaisonné de sel, poivre, paprika et herbes de Provence, pendant
+  plusieurs heures.
+- Dans une cocotte, rissoler à l'huile les légumes émincés, ajouter le soja et la marinade, éventuellement un peu
+  d'eau, et les feuilles de laurier. Laisser cuire à feu doux une bonne heure. Servir par exemple avec du blé.
+source:
+  titre: Ragoût de soja
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Rago%C3%BBt_de_soja&oldid=329965
+  revision: 329965
+  date: '2011-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Rago%C3%BBt_de_soja&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : céleri.'

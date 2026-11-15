@@ -1,0 +1,48 @@
+id: lentilles-cuisinees
+titre: Lentilles cuisinées
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 30
+  repos: 0
+ingredients:
+- 250 g de lentilles sèches
+- 100 g de lardons
+- 1 carotte
+- 1 oignon
+- 2 échalotes
+- Sel, poivre noir, Poivre blanc, 3 g de paprika, 1 g de muscade
+- texte: 1 cubes de bouillon, une branche de thym, une feuille de laurier
+  ingredients:
+  - bouillon
+  - thym
+  - laurier
+  categorie: true
+- Huile d'olive
+etapes:
+- Versez les lentilles dans un autocuiseur
+- Recouvrez de trois fois leur volume d'eau
+- Ajoutez ; cube, thym, laurier et poivrer et laissez Cuire 20 min
+- Coupez la carotte en cubes et la faire sauter à l'huile d'olive
+- Ajoutez le paprika, la muscade et un peu de poivre blanc
+- Réduire le feu dès que les carottes commencent à changer de couleur et remuer régulièrement
+- Émincez l'oignon et les échalotes et les ajouter après 5 minutes de cuisson des carottes
+- Ajoutez de l'huile si nécessaire pour que la préparation fricasse bien
+- Cuire le temps que l'oignon commence à se colorer
+- Ajoutez les lardons
+- Mélangez et cuire encore quelques minutes en remuant régulièrement jusqu'à ce que les lardons aient changé de
+  couleur
+- Lorsque les lentilles sont cuites, ôter éventuellement l'eau de cuisson superflue. Il doit rester un peu d'eau
+  pour pouvoir saucer les lentilles, mais pas trop
+- Verser l'accompagnement sur les lentilles, mélanger, puis saler.
+source:
+  titre: Lentilles cuisinées
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Lentilles_cuisin%C3%A9es&oldid=601200
+  revision: 601200
+  date: '2018-08-25'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Lentilles_cuisin%C3%A9es&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : bouillon, laurier, thym.'

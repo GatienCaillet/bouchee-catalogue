@@ -1,0 +1,27 @@
+id: salade-de-betteraves-a-l-orange
+titre: Salade de betteraves à l'orange
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 4 betteraves cuites
+- 2 oranges
+- 1 c. à soupe de miel
+- 3 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Couper les betteraves en dés et peler les oranges à vif.
+- Assaisonner avec le miel, l'huile et le sel.
+decouverte:
+  aliment: betterave
+  niveau: 3
+  pourquoi: La betterave est bien là, mais l'orange et le miel répondent à son goût de terre.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

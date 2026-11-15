@@ -1,0 +1,35 @@
+id: cabillaud-au-nuoc-mam
+titre: Cabillaud au Nước mắm
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 40
+  repos: 0
+ingredients:
+- 600 g de filets de cabillaud (ou de colin)
+- 5 cuillerées à soupe de nuoc mam
+- 1/4 de cuillerée à café de poivre moulu
+- texte: Persil ou coriandre.
+  ingredients:
+  - persil
+  - coriandre
+  categorie: true
+etapes:
+- Faire cuire le poisson au bouillon pendant environ 25 minutes.
+- Puis l'écraser dans un saladier jusqu'à obtenir une sorte de pâte.
+- Verser 1 cuillerée à soupe d'huile d'arachide dans la poêle et faire chauffer.
+- Mettre le poisson dans la poêle et cuire à feu moyen en remuant.
+- Après 5 minutes, ajouter le Nước mắm et le poivre, continuer la cuisson 10 min.
+- Au service, ajouter persil ou coriandre haché.
+- Consommer ce plat avec du riz nature ou du pain.
+source:
+  titre: Cabillaud au Nước mắm
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cabillaud_au_N%C6%B0%E1%BB%9Bc_m%E1%BA%AFm&oldid=761570
+  revision: 761570
+  date: '2026-03-10'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cabillaud_au_N%C6%B0%E1%BB%9Bc_m%E1%BA%AFm&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : coriandre, persil.'

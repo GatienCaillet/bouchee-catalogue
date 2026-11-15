@@ -1,0 +1,29 @@
+id: pates-au-jambon-et-aux-petits-pois
+titre: Pâtes au jambon et aux petits pois
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 20
+  repos: 0
+ingredients:
+- 400 g de coquillettes
+- 150 g de jambon blanc
+- 200 g de petits pois
+- 20 cl de crème liquide
+- sel, poivre
+etapes:
+- Porter une grande casserole d'eau salée à ébullition.
+- Cuire les petits pois 8 minutes, puis les chauffer avec le jambon en dés et la crème.
+- Cuire les pâtes selon les indications du paquet, les égoutter en gardant un peu d'eau de cuisson.
+- Mélanger les pâtes à la sauce, détendre si besoin avec l'eau de cuisson, poivrer et servir.
+decouverte:
+  aliment: petit_pois
+  niveau: 4
+  pourquoi: Les petits pois accompagnent les pâtes et le jambon.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « pâtes »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,29 @@
+id: ratatouille-au-four
+titre: Ratatouille au four
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 60
+  repos: 0
+ingredients:
+- 2 aubergines
+- 3 courgettes
+- 2 poivrons
+- 4 tomates
+- 2 oignons
+- 3 gousses d'ail
+- 1 c. à soupe d'herbes de Provence
+- 5 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Préchauffer le four à 180 °C.
+- Couper tous les légumes en morceaux.
+- Les mélanger dans un grand plat avec l'ail, les herbes et l'huile ; saler, poivrer.
+- Cuire 1 heure en remuant de temps en temps.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,28 @@
+id: veloute-d-asperges-au-lait-de-coco-et-au-curry
+titre: Velouté d'asperges au lait de coco et au curry
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 800 g d'asperges
+- 1 oignon
+- 2 c. à soupe d'huile d'olive
+- 1 l de bouillon de légumes
+- 20 cl de lait de coco
+- 1 c. à café de curry
+- sel, poivre
+etapes:
+- Éplucher les asperges et couper la base dure.
+- Émincer l'oignon et le faire revenir 3 minutes dans l'huile d'olive, dans une grande casserole.
+- Ajouter les asperges, mélanger, puis verser le bouillon.
+- Porter à ébullition et laisser cuire 20 à 25 minutes à feu moyen, jusqu'à ce que les légumes soient tendres.
+- Ajouter le lait de coco et le curry, mixer finement et rectifier l'assaisonnement.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « velouté au lait de coco »), pas encore testée en cuisine
+    : quantités et temps à confirmer.'

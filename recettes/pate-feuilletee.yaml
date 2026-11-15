@@ -1,0 +1,46 @@
+id: pate-feuilletee
+titre: Pâte feuilletée
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 20
+ingredients:
+- 500 g de farine
+- 250 g d'eau
+- 375 g de beurre ou margarine
+- 3 g de sel (facultatif).
+etapes:
+- Former une fontaine avec la farine y ajouter l'eau et le sel au centre.
+- Incorporer un peu de farine du bout des doigts dans l'eau, puis ramener la farine au centre à l'aide d'un coupe
+  pâte.
+- Ne pas trop pétrir, la pâte ne doit pas avoir trop de corps (molle).
+- Étaler la pâte en croix au rouleau en laissant une partie plus épaisse au centre où on mettra le beurre (à température
+  ambiante).
+- Replier les quatre coins de la pâte sur le beurre comme pour faire une enveloppe (les quatre coins se touchent
+  au centre).
+- Étaler au rouleau en écrasant le beurre à l'intérieur en formant un rectangle 3 fois plus long que large (1er
+  tour).
+- Plier l'abaisse en trois parties égales en posant les coins bords à bords puis tourner la pâte d'un quart de tour
+  pour avoir le pliage (les 3 couches) devant soi.
+- On abaisse, face à la pâte en opérant un mouvement régulier de bas en haut en gardant la proportion 3 fois plus
+  long que large (2ème tour).
+- Mettre au réfrigérateur pendant au moins 20 minutes.
+- Recommencer les deux opérations précédentes jusqu'à atteindre 6 tours.
+- Étaler la pâte et utiliser pour votre préparation.
+source:
+  titre: Pâte feuilletée
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_feuillet%C3%A9e&oldid=676040
+  revision: 676040
+  date: '2022-05-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_feuillet%C3%A9e&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Pate feuilletee.jpg
+  auteur: Popo le Chien
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Pate_feuilletee.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

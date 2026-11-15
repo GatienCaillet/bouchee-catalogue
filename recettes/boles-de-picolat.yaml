@@ -1,0 +1,48 @@
+id: boles-de-picolat
+titre: Boles de picolat
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 25
+  repos: 0
+ingredients:
+- 500 g de tomates
+- 400 g de chair à saucisse
+- 400 g de viande de bœuf
+- 250 g de champignons de Paris
+- 200 g de ventrèche (poitrine de porc salée)
+- 175 g d'olives vertes
+- 2 œufs
+- 30 g de farine
+- texte: 15 cl d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 2 oignons, 4 gousses d'ail
+- Pain sec
+- Lait
+- Sel, poivre, persil.
+etapes:
+- Mettre dans une jatte la chair à saucisse, la viande de bœuf hachée, 2 gousses d'ail et le persil hachés, le pain
+  sec trempé dans du lait , saler légèrement, poivrer
+- Mélanger, incorporer l'un après l'autre les œufs entiers, malaxer pour obtenir un appareil homogène
+- Fariner vos mains et le plan de travail, prélever une cuillère à soupe de viande, former une boulette, la rouler
+  dans la farine et recommencer
+- Chauffer l'huile, plonger les boulettes, les retirer dès qu'elles sont dorées, les tenir au chaud
+- Préparer la sauce, couper la ventrèche en dès et la blanchir cinq minutes
+- Faire revenir à l'huile, l'ail et les oignons épluchés et hachés, ajouter la ventrèche égouttée, les tomates pelées,
+  épépinées et coupées en morceaux, poivrer, saler
+- Dorer à l'huile les champignons de Paris, ajouter à la sauce et laisser mijoter le tout ensemble jusqu'à ce que
+  la sauce ait atteint la bonne consistance, adjoindre les olives
+- Verser la sauce dans une cocotte, plonger les boles de picolat, cuire vingt minutes.
+source:
+  titre: Boles de picolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Boles_de_picolat&oldid=761563
+  revision: 761563
+  date: '2026-03-10'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Boles_de_picolat&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

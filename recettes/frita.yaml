@@ -1,0 +1,43 @@
+id: frita
+titre: Frita
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 30
+  repos: 0
+ingredients:
+- 4 côtes de porc ou d'agneau
+- 2 kg de tomates
+- 2 poivrons rouges et 2 poivrons verts
+- 4 gousses d'ail
+- 1 branche de thym
+- 1 feuille de laurier
+- 1 bouquet de persil
+- Sel, poivre, huile d'olive
+etapes:
+- Ébouillanter les tomates, les peler, retirer l'eau des tomates et les épépiner entre les 2 paumes de mains.
+- Faire griller les poivrons et ôter la peau, les couper en lamelles grossièrement.
+- Prendre une grande poêle à frire et rajouter 3 cuillerées d'huile d'olive.
+- Ajouter l'ail écrasé, le thym, le laurier, saler, poivrer (assaisonner suivant goût).
+- Faire cuire pendant dix minutes le tout, à feu moyen.
+- 10 minutes après, ajouter les tomates lavées, épépinées, pelées, coupées en morceaux.
+- Cuire dix minutes, feux doux à couvert jusqu'à épaississement de la préparation sans remuer. Il faut que le plat
+  ait la consistance d'une compote.
+- Sur un autre feu, frire sur feu vif, à la poêle les côtes de porc ou d'agneau. Cuisson à point.
+- Servir sur un plat la viande et la frita par dessus, le tout très chaud.
+source:
+  titre: Frita
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Frita&oldid=655268
+  revision: 655268
+  date: '2021-03-26'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Frita&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Frita.jpg
+  auteur: Cuautla de Morelos
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Frita.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

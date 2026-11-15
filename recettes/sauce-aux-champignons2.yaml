@@ -1,0 +1,30 @@
+id: sauce-aux-champignons2
+titre: Sauce aux champignons2
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 3
+  repos: 0
+ingredients:
+- texte: 500 g champignons épluchés (il ne faut pas les laver mais juste les rincer et les essuyer)
+  ingredients:
+  - champignon
+  categorie: true
+- 25 cl crème fraîche (liquide, semi-liquide ...)
+- beurre
+- sel, poivre, un peu de noix de muscade.
+etapes:
+- Faire fondre le beurre, y ajouter les champignons coupés en lamelles et les faire revenir dans le beurre 3 à 4
+  minutes.
+- Mettre la crème liquide et laisser épaissir tout en remuant de temps en temps.
+source:
+  titre: Sauce aux champignons2
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_aux_champignons2&oldid=650200
+  revision: 650200
+  date: '2020-11-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_aux_champignons2&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : champignon.'

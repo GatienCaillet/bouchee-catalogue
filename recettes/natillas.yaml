@@ -1,0 +1,31 @@
+id: natillas
+titre: Natillas
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1/2 litre de lait
+- 4 jaunes d'œuf
+- 100g de sucre en poudre
+- 1 zeste de citron non traité
+- 1 gousse de vanille
+- 10g de farine de maïs
+etapes:
+- Faire infuser le zeste d'un citron et la vanille dans le lait et le porter à ébullition.
+- Laisser tiédir et filtrer.
+- À part, battre les jaunes d'œuf et la farine de maïs.
+- Mélanger les jaunes avec le lait.
+- Porter à ébullition à feu doux et sans cesser de remuer.
+- Distribuer en assiettes.
+source:
+  titre: Natillas
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Natillas&oldid=452745
+  revision: 452745
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Natillas&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

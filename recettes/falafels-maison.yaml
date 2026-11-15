@@ -1,0 +1,28 @@
+id: falafels-maison
+titre: Falafels maison
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 15
+  repos: 720
+ingredients:
+- 250 g de pois chiches secs
+- 1 oignon
+- 2 gousses d'ail
+- 1 botte de persil
+- 1/2 botte de coriandre fraîche
+- 1 c. à café de cumin en poudre
+- 1 c. à café de bicarbonate de soude
+- huile de friture
+- sel
+etapes:
+- Faire tremper les pois chiches 12 heures dans l'eau froide, puis les égoutter.
+- Les mixer grossièrement avec l'oignon, l'ail, les herbes, le cumin, le bicarbonate et le sel.
+- Former des boulettes et les frire 3 à 4 minutes dans l'huile chaude.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

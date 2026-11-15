@@ -1,0 +1,38 @@
+id: bricelets
+titre: Bricelets
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 480 g de sucre en poudre
+- 560 g de farine
+- 1 L de crème entière
+- 1 cuillère à café de sel
+- 1 citron
+- 3 cuillères à café de kirsch
+etapes:
+- Verser la crème dans un grand récipient.
+- Zester le citron et ajouter le zeste à la crème. Mélanger.
+- Presser le citron. Ajouter lentement le jus à la crème, en remuant vigoureusement (sans fouetter mais assez énergiquement
+  pour éviter que la crème ne tranche sous l'effet du jus de citron). À la fin du processus, la crème peut épaissir
+  (ce n'est pas un problème).
+- Ajouter le sucre et le kirsch.
+- Tamiser la farine.
+source:
+  titre: Bricelets
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bricelets&oldid=579990
+  revision: 579990
+  date: '2017-12-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bricelets&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Bricelets.jpg
+  auteur: Oblic
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Bricelets.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,43 @@
+id: fougasse
+titre: Fougasse
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 35
+  repos: 70
+ingredients:
+- 500 g de farine
+- 10 g de levure de boulanger
+- 10 cl d'huile d'olive
+- 1 jaune d'œuf
+- 5 g de sel
+- 1/2 citron vert.
+etapes:
+- Mettre dans un bol une poignée de farine, ajouter la levure et suffisamment d'eau pour avoir une bouillie lisse.
+  Laisser reposer 1 heure.
+- Ajouter le sel au reste de farine et la verser en tas sur le plan de travail (on peut au préalable réchauffer
+  légèrement la farine dans le four, elle sera plus facile à travailler). Faire un puits au milieu et y verser le
+  levain, rajouter de l'eau tiède et le jus de citron vert pour obtenir ensuite une pâte souple.
+- Pétrir le mélange pendant 10 min, mettre la pâte obtenue dans une grande terrine farinée, couvrir d'un torchon
+  et laisser lever jusqu'à ce qu'elle ait doublé de volume, la couper en quatre.
+- Former une boule et la faire lever à nouveau. Diviser en deux portions et les aplatir sur le plan de travail.
+  Les entailler en 9 ou 10 incisions bien nettes de 2 cm de long, disposées en oblique (3 d'un côté, 3 de l'autre
+  et 3 au milieu). Écarter légèrement ces ouvertures (pour éviter qu'elles ne se referment à la cuisson).
+- Préchauffer le four à 220°C. Poser les fougasses sur la tôle du four bien chaude. Glisser un bol d'eau dans le
+  four et enfourner les fougasses. Cuire pendant 35 min jusqu'à ce qu'elles soient dorées et croustillantes.
+source:
+  titre: Fougasse
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fougasse&oldid=666186
+  revision: 666186
+  date: '2021-11-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fougasse&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Fougasse 1.jpg
+  auteur: https://www.flickr.com/photos/70253321@N00/
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Fougasse_1.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

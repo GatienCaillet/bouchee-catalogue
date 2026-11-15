@@ -1,0 +1,25 @@
+id: pates-au-poulet-et-au-pesto
+titre: Pâtes au poulet et au pesto
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 20
+  repos: 0
+ingredients:
+- 400 g de penne
+- 300 g de blanc de poulet
+- 4 c. à soupe de pesto
+- 1 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Porter une grande casserole d'eau salée à ébullition.
+- Faire dorer le poulet en dés dans l'huile, puis mélanger aux pâtes avec le pesto.
+- Cuire les pâtes selon les indications du paquet, les égoutter en gardant un peu d'eau de cuisson.
+- Mélanger les pâtes à la sauce, détendre si besoin avec l'eau de cuisson, poivrer et servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « pâtes »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

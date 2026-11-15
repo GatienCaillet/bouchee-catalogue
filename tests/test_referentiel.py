@@ -29,7 +29,7 @@ def test_referentiel_reel_sans_erreur() -> None:
 
 def test_referentiel_reel_se_charge() -> None:
     ref = charger()
-    assert len(ref) >= 200
+    assert len(ref) >= 1000
     assert len(ALLERGENES) == 14
 
 

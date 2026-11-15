@@ -1,0 +1,37 @@
+id: biscuits-a-la-noix-de-coco
+titre: Biscuits à la noix de coco
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 15
+  repos: 0
+ingredients:
+- 175 g de farine
+- texte: 1 cuillère à café de levure
+  ingredients:
+  - levure
+  categorie: true
+- 3 cuillères à soupe de beurre fondu
+- 1 œuf battu
+- 375 g de noix de coco en poudre
+- 75 g de sucre
+- 1 cuillère à soupe de lait
+etapes:
+- Mélanger la farine et la levure dans un saladier, puis former une couronne
+- Y incorporer le beurre, la moitié de la noix de coco et le sucre
+- Malaxer avec les doigts
+- Ajouter l'œuf battu en omelette puis le lait
+- Pétrir ensuite jusqu'à l'obtention d'une pâte, puis former une vingtaine de petites boules
+- Les rouler dans la noix de coco restante, puis les poser sur une plaque beurrée
+- Mettre au four thermostat 5/6 pendant environ 15 minutes.
+source:
+  titre: Biscuits à la noix de coco
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Biscuits_%C3%A0_la_noix_de_coco&oldid=579991
+  revision: 579991
+  date: '2017-12-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Biscuits_%C3%A0_la_noix_de_coco&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

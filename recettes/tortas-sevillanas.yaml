@@ -1,0 +1,51 @@
+id: tortas-sevillanas
+titre: Tortas sevillanas
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 15
+  repos: 120
+ingredients:
+- 250g de farine T45
+- 250g de farine T55
+- 150ml d'huile d'olive
+- 150ml de lait
+- 100g de sucre
+- 1 orange
+- texte: 4 cuillères à soupe de sésame
+  ingredients:
+  - sesame
+  categorie: true
+- 4 cuillères à soupe de pastis
+- 1 cuillère à café de cannelle en poudre
+- 1 sachet de levure de boulanger
+etapes:
+- Faire chauffer l'huile en une poêle.
+- Ôter du feu et ajouter les grains de sésame et la moitié du pastis.
+- Remuer pendant quelques minutes et laisser refroidir.
+- Presser l'orange.
+- Mélanger les deux types de farine, la levure, le sucre, la cannelle, le lait, le zeste d'orange, le jus et le
+  reste du pastis.
+- Verser l'huile de la poêle, déjà froide (très important), au milieu de la pâte.
+- Masser jusqu'à obtenir une pâte homogène et molle.
+- Laisser reposer pendant deux heures.
+- Masser et étendre en une couche, la plus fine possible.
+- Couper la masse en cercles.
+- Affiner les cercles un à un à l'aide d'un rouleau.
+- Disposer quatre galettes fines sur un papier sulfurisé que l'on aura placé sur la plaque du four et les saupoudrer
+  très généreusement de sucre cristallisé.
+- Cuire au four jusqu'à ce qu'elles soient dorées, un peu moins de dix minutes, puis arroser de pastis et laisser
+  refroidir.
+- Cuire au fur et à mesure le reste des tortas, de la même façon.
+- Laisser reposer un jour.
+source:
+  titre: Tortas sevillanas
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tortas_sevillanas&oldid=452266
+  revision: 452266
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tortas_sevillanas&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : sésame.'

@@ -1,0 +1,26 @@
+id: beurre-monte
+titre: Beurre monté
+portions: 4
+temps:
+  preparation: 16
+  cuisson: 0
+  repos: 0
+ingredients:
+- du beurre froid
+- un peu d'eau
+etapes:
+- Pour réaliser un beurre monté, faites bouillir une très petite quantité d'eau (15-60 mL, 1 à 4 cuillères).
+- Une fois que l'eau s'est mise à bouillir, baissez le feu et commencez à incorporer le beurre froid dans l'eau
+  chaude à l'aide d'un fouet, un à deux morceaux à la fois. *Ajoutez plus de beurre quand les morceaux ont fondus.
+- Lorsque l'on commence à obtenir une émulsion, davantage de beurre peut être ajouté à la fois.
+- Continuez à ajouter du beurre en fouettant jusqu'à obtenir la quantité désirée de beurre monté.
+source:
+  titre: Beurre monté
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beurre_mont%C3%A9&oldid=515705
+  revision: 515705
+  date: '2016-06-07'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beurre_mont%C3%A9&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

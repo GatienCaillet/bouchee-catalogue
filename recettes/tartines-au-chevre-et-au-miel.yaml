@@ -1,0 +1,24 @@
+id: tartines-au-chevre-et-au-miel
+titre: Tartines au chèvre et au miel
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 5
+  repos: 0
+ingredients:
+- 8 tranches de pain de campagne
+- 200 g de fromage de chèvre
+- 3 c. à soupe de miel
+- 1 c. à café de thym
+- 30 g de cerneaux de noix
+etapes:
+- Poser le chèvre en rondelles sur le pain.
+- Passer 5 minutes sous le gril.
+- Arroser de miel et parsemer de thym et de noix.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tartine »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

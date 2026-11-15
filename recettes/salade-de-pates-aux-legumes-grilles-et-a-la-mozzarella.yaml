@@ -1,0 +1,26 @@
+id: salade-de-pates-aux-legumes-grilles-et-a-la-mozzarella
+titre: Salade de pâtes aux légumes grillés et à la mozzarella
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 15
+  repos: 0
+ingredients:
+- 300 g de penne
+- 1 courgette
+- 1 poivron rouge
+- 1 boule de mozzarella
+- quelques feuilles de basilic
+- 4 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Cuire les pâtes et les refroidir.
+- Griller les légumes en lanières à la poêle.
+- Mélanger avec la mozzarella en dés, le basilic et l'huile.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

@@ -21,8 +21,16 @@ def ref() -> Referentiel:
     return charger()
 
 
-def test_au_moins_30_recettes(recettes: list[RecetteControlee]) -> None:
-    assert len(recettes) >= 30
+def test_au_moins_1000_recettes(recettes: list[RecetteControlee]) -> None:
+    assert len(recettes) >= 1000
+
+
+def test_categories_acceptees_restent_rares(recettes: list[RecetteControlee]) -> None:
+    """Les lignes gardées au niveau d'une catégorie (« huile ») sont sûres pour le filtre mais
+    imprécises pour la cuisine et la nutrition : elles doivent rester l'exception."""
+    lignes = [l for r in recettes for l in r.lignes]
+    categories = [l for l in lignes if l.motif == "catégorie acceptée"]
+    assert len(categories) / len(lignes) < 0.05
 
 
 def test_toutes_publiables(recettes: list[RecetteControlee]) -> None:
@@ -51,10 +59,17 @@ def test_parcours_de_decouverte(recettes: list[RecetteControlee]) -> None:
 def test_attribution_complete(recettes: list[RecetteControlee]) -> None:
     for r in recettes:
         s = r.donnees["source"]
-        assert s["url"].startswith("https://fr.wikibooks.org/") and "oldid=" in s["url"], r.fichier
         assert s["auteurs"] and s["licence"].startswith("CC BY-SA"), r.fichier
-        p = r.donnees["photo"]
-        assert p["url"].startswith("https://commons.wikimedia.org/"), r.fichier
+        if s["licence"] != "CC BY-SA 4.0 (Bouchée)":  # adaptation : page et révision citées
+            assert s["url"].startswith("https://fr.wikibooks.org/") and "oldid=" in s["url"], r.fichier
+        p = r.donnees.get("photo")
+        if p:
+            assert p["url"].startswith("https://commons.wikimedia.org/"), r.fichier
+
+
+def test_identifiants_uniques(recettes: list[RecetteControlee]) -> None:
+    ids = [r.donnees["id"] for r in recettes]
+    assert len(ids) == len(set(ids))
 
 
 def test_demo_de_fin_de_sprint(recettes: list[RecetteControlee], ref: Referentiel) -> None:

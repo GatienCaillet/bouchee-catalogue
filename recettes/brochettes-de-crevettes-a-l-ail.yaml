@@ -1,0 +1,24 @@
+id: brochettes-de-crevettes-a-l-ail
+titre: Brochettes de crevettes à l'ail
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 6
+  repos: 0
+ingredients:
+- 500 g de crevettes décortiquées
+- 3 gousses d'ail
+- 3 c. à soupe d'huile d'olive
+- 1/2 botte de persil
+- 1 citron
+etapes:
+- Mélanger les crevettes avec l'ail haché, l'huile et le persil.
+- Les enfiler sur des brochettes et griller 3 minutes de chaque côté.
+- Servir avec le citron.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « brochettes »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

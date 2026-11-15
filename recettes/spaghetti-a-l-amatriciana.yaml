@@ -1,0 +1,30 @@
+id: spaghetti-a-l-amatriciana
+titre: Spaghetti à l’amatriciana
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 400 g de spaghetti
+- 200 g de guanciale
+- 700 g de tomates fraîches
+- 100 g de pecorino
+- huile d'olive, sel, piment
+etapes:
+- Couper le guanciale en dés et le faire frire dans un peu d'huile d'olive puis ajouter le piment.
+- Mélanger de temps en temps jusqu'à ce que le guanciale devienne croquant. Réserver.
+- Dans la même poêle, mettre la pulpe des tomates à feu moyen jusqu'à ce qu'elles forment une sauce bien homogène.
+- Une minute avant la fin de la cuisson des pâtes, rajouter le guanciale et 1/3 du pecorino à la sauce. Bien mélanger.
+- Verser les spaghetti al dente quelques instants dans la poêle le temps de bien les mélanger à la sauce et d'ajouter
+  le reste du pecorino.
+source:
+  titre: Spaghetti à l’amatriciana
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spaghetti_%C3%A0_l%E2%80%99amatriciana&oldid=452224
+  revision: 452224
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spaghetti_%C3%A0_l%E2%80%99amatriciana&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

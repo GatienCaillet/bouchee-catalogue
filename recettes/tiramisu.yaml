@@ -1,0 +1,41 @@
+id: tiramisu
+titre: Tiramisu
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 180
+ingredients:
+- 3 œufs
+- 500 g de mascarpone
+- 250 g de biscuits à la cuillère
+- 100 g de sucre
+- 15 cl de café très fort
+- 2 cuillerées de cacao en poudre
+- un peu de Marsala.
+etapes:
+- Séparer les blancs des jaunes d'œuf ; battre les jaunes avec le sucre. Ajouter le mascarpone.
+- Verser un peu de Marsala.
+- Battre les blancs en neige, et les incorporer au mélange précédent.
+- Dans un petit récipient, tremper rapidement les biscuits dans le café froid, puis tapissez-en le fond d'un plat
+  large.
+- Recouvrir avec la moitié du mélange au mascarpone.
+- Déposer une seconde couche de biscuits, puis le reste de mascarpone.
+- Couvrir et laisser reposer au moins trois heures au réfrigérateur.
+- Au moment de servir, saupoudrer de cacao.
+source:
+  titre: Tiramisu
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tiramisu&oldid=658420
+  revision: 658420
+  date: '2021-06-27'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tiramisu&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Tiramisu Fanes.jpg
+  auteur: Markus Mitterauer from Austria aka addicted
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Tiramisu_Fanes.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

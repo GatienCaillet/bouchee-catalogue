@@ -1,0 +1,27 @@
+id: pizza-margherita-aux-tomates-cerises
+titre: Pizza margherita aux tomates cerises
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 12
+  repos: 0
+ingredients:
+- 1 pâte à pizza
+- 200 g de coulis de tomate
+- 1 boule de mozzarella
+- 200 g de tomates cerises
+- quelques feuilles de basilic
+- 2 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Préchauffer le four à 250 °C.
+- Étaler la pâte sur une plaque et la napper de coulis.
+- Ajouter la mozzarella en tranches et les tomates cerises coupées en deux.
+- Arroser d'huile et enfourner 12 minutes. Ajouter le basilic à la sortie du four.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,31 @@
+id: boulettes-de-lentilles
+titre: Boulettes de lentilles
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 20
+  repos: 0
+ingredients:
+- 100 g de lentilles rouges (ou corail)
+- 200 ml de bouillon de légumes
+- 1 oignon émincé
+- 1 gousse d'ail hachée
+- persil, sel, poivre, chapelure, huile de friture.
+etapes:
+- Porter le bouillon de légumes à ébullition, y jeter les lentilles (après les avoir soigneusement rincées et triées)
+  puis laisser mijoter entre 15 et 20 min, jusqu'à ce que les lentilles soient cuites, en remuant régulièrement.
+- Laisser ensuite refroidir la préparation, puis lui ajouter l'oignon, le persil et l'ail hachés, ainsi que les
+  épices. Ajouter de la chapelure si la préparation est trop humide, former des boulettes, et les faire dorer dans
+  l'huile de friture.
+- Servir ces boulettes avec un gratin de millet, ou avec une autre céréale (boulgour, blé, etc.) nappée de sauce
+  tomate.
+source:
+  titre: Boulettes de lentilles
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Boulettes_de_lentilles&oldid=451869
+  revision: 451869
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Boulettes_de_lentilles&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

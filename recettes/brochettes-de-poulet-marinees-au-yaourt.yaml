@@ -1,0 +1,26 @@
+id: brochettes-de-poulet-marinees-au-yaourt
+titre: Brochettes de poulet marinées au yaourt
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 12
+  repos: 120
+ingredients:
+- 600 g de blanc de poulet
+- 2 yaourts nature
+- 1 citron
+- 2 gousses d'ail
+- 1 c. à café de paprika
+- 1 c. à café de cumin en poudre
+- sel
+etapes:
+- Couper le poulet en cubes.
+- Le mélanger au yaourt, au jus de citron, à l'ail et aux épices, et laisser mariner 2 heures au frais.
+- Enfiler sur des brochettes et griller 10 à 12 minutes en les retournant.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

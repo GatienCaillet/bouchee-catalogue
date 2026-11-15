@@ -1,0 +1,55 @@
+id: tete-de-veau
+titre: Tête de veau
+portions: 6
+temps:
+  preparation: 43
+  cuisson: 0
+  repos: 0
+ingredients:
+- 3 œufs durs
+- ¼ de l d'huile d'arachide
+- 1 c à s de moutarde forte
+- 1 échalote
+- 1 petit bouquet de persil
+- 3 branches d'estragon
+- 6 brins de ciboulette
+- texte: 1 c à s de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- 1 c à s de câpres
+- sel fin
+- poivre du moulin
+etapes:
+- Ecalez les œufs, séparez les blancs des jaunes.
+- Hachez les blancs d'œufs.
+- Epluchez et hachez finement l'échalote.
+- Lavez et ciselez les feuilles de persil, d'estragon et la ciboulette.
+- Hachez les câpres.
+- Mettez les jaunes dans un mortier et pilez-les.
+- Ajoutez ensuite la moutarde, le vinaigre, 1 pincée de sel et quelques tours de moulin à poivre.
+- Mélangez et versez peu à peu l'huile en fouettant vigoureusement, comme pour monter une mayonnaise.
+- Quand la quantité de sauce désirée est obtenue, incorporez les herbes, les échalotes, les câpres et les blancs
+  d'œufs hachés.
+- Mélangez, versez dans une saucière.
+- Ingrédients pour accompagner 1 kilo de tête de veau
+- Préparation de la sauce ravigote
+- Ingrédients
+- Préparation
+source:
+  titre: Tête de veau
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/T%C3%AAte_de_veau&oldid=437032
+  revision: 437032
+  date: '2014-01-07'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/T%C3%AAte_de_veau&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : vinaigre.'
+photo:
+  fichier: Tetes de veaux.jpg
+  auteur: Myrabella
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Tetes_de_veaux.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

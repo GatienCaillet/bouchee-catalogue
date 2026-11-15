@@ -1,0 +1,24 @@
+id: veloute-de-carottes-a-l-orange
+titre: Velouté de carottes à l'orange
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 800 g de carottes
+- 2 oranges
+- 1 oignon
+- 1 l de bouillon de légumes
+- 1 c. à café de gingembre en poudre
+- sel
+etapes:
+- Faire revenir l'oignon émincé, ajouter les carottes en rondelles et le bouillon.
+- Cuire 25 minutes, puis mixer avec le jus des oranges et le gingembre.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « velouté »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,31 @@
+id: beurre-blanc
+titre: Beurre blanc
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 3 échalotes
+- 10 cl de vin blanc sec (type muscadet)
+- (optionnel) 5 cl d'eau
+- (optionnel) 1 cuillère à soupe de vinaigre blanc
+- 200 g de beurre demi-sel
+- Poivre blanc
+etapes:
+- Couper le beurre en petits morceaux.
+- Peler et hacher finement les échalotes.
+- Mettre les échalotes dans une casserole avec le vin.
+- Porter à ébullition et réduire de moitié.
+- Baisser le feu, ajouter le beurre en fouettant.
+- Poivrer.
+source:
+  titre: Beurre blanc
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beurre_blanc&oldid=590973
+  revision: 590973
+  date: '2018-04-13'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beurre_blanc&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

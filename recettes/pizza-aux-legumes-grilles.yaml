@@ -1,0 +1,27 @@
+id: pizza-aux-legumes-grilles
+titre: Pizza aux légumes grillés
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 0
+ingredients:
+- 1 pâte à pizza
+- 200 g de coulis de tomate
+- 1 courgette
+- 1 poivron rouge
+- 1 aubergine
+- 1 boule de mozzarella
+- 2 c. à soupe d'huile d'olive
+etapes:
+- Préchauffer le four à 250 °C.
+- Griller les légumes en tranches fines à la poêle avec l'huile.
+- Étaler la pâte, la napper de coulis, puis garnir de légumes et de mozzarella.
+- Enfourner 12 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

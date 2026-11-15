@@ -1,0 +1,38 @@
+id: coddle
+titre: Coddle
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 65
+  repos: 0
+ingredients:
+- 550 g de saucisses
+- 250 g de bacon ou de lard maigre
+- texte: 300 ml de bouillon ou d'eau
+  ingredients:
+  - bouillon
+  - eau
+  categorie: true
+- 6 pommes de terre de taille moyenne
+- 2 oignons moyens
+- sel et poivre
+etapes:
+- Couper le bacon en dés de 3 cm. Faire cuire le bacon et les saucisses dans le bouillon porté au préalable à ébullition
+  pendant 5 minutes. Retirer saucisses et bacon. Préserver le bouillon. Trancher les saucisses en quatre morceaux
+  égaux.
+- Eplucher les pommes de terre et les oignons et les couper en tranches épaisses.
+- Disposer les tranches de pomme de terre au fond d'une casserole à hauts bords, puis une couche d'oignons et la
+  moitié du bacon et des saucisses. Recommencer l'opération et finir par une couche de pomme de terre. Verser le
+  bouillon et laisser mijoter à feu doux et à couvert pendant environ une heure.
+- Catégorie:Cuisine britannique
+source:
+  titre: Coddle
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Coddle&oldid=569274
+  revision: 569274
+  date: '2017-09-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Coddle&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : bouillon, eau.'

@@ -1,0 +1,29 @@
+id: tajine-d-agneau-aux-pruneaux
+titre: Tajine d'agneau aux pruneaux
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 95
+  repos: 0
+ingredients:
+- 1 kg d'épaule d'agneau
+- 250 g de pruneaux
+- 2 oignons
+- 1 c. à café de cannelle
+- 1 c. à café de gingembre en poudre
+- 1 c. à soupe de miel
+- 30 g d'amandes
+- 3 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Couper l'agneau en morceaux et le faire dorer dans l'huile avec les oignons émincés.
+- Ajouter les épices et 50 cl d'eau, couvrir et cuire 1 heure 15.
+- Ajouter les pruneaux et le miel, et cuire encore 20 minutes.
+- Servir parsemé d'amandes grillées.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

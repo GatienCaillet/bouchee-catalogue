@@ -1,0 +1,38 @@
+id: cake-aux-olives
+titre: Cake aux olives
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 60
+  repos: 0
+ingredients:
+- 250 g de farine
+- 4 œufs
+- 150 g d'olives vertes dénoyautées
+- texte: 200 g de jambon fumé
+  ingredients:
+  - jambon
+  categorie: true
+- 150 g de lardons
+- 150 g de fromage râpé
+- 1 sachet de levure chimique
+- 1 petit verre de vin blanc
+- 1 petit verre d'huile d'olive
+- poivre
+etapes:
+- Mélanger la farine avec la levure, puis ajouter les œufs, le vin blanc et l'huile d'olive. Ajouter le jambon et
+  les lardons coupés en dés, puis les olives bien rincées. Ajouter le fromage râpé et poivrer.
+- Verser dans un moule à cake beurré. Cuire à four moyen (180°C), pendant 1 h environ.
+- Démouler à la sortie du four et laisser refroidir. Servir le cake coupé en tranches, accompagné d'un coulis de
+  tomate.
+source:
+  titre: Cake aux olives
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cake_aux_olives&oldid=733211
+  revision: 733211
+  date: '2024-12-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cake_aux_olives&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : jambon.'

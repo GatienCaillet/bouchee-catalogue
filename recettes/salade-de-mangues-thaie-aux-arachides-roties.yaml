@@ -1,0 +1,44 @@
+id: salade-de-mangues-thaie-aux-arachides-roties
+titre: Salade de mangues thaïe aux arachides rôties
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 10
+  repos: 0
+ingredients:
+- 2 laitues
+- 75 g d'arachides
+- 2 limes
+- 2 mangues
+- 2 poivrons
+- 2 oignons verts
+- 1 carotte
+- 60 ml de jus de lime
+- 30 ml d'huile d'arachide
+- texte: 15 g de menthe ou de coriandre
+  ingredients:
+  - menthe
+  - coriandre
+  categorie: true
+- 15 ml de sauce soya
+- 15 ml de sucre
+- sel, poivre, piment jalapeño
+etapes:
+- Râper le zeste des limes, ajouter le jus de lime
+- Incorporer la sauce soya, le sucre et les piments
+- Incorporer graduellement l'huile d'arachide et assaisonner
+- Couper la chair des mangues en languettes, épépiner les poivrons, les couper en languettes
+- Râper la carotte et émincer les oignons verts, ajouter la menthe hachée, mélanger
+- Verser le mélange sur les laitues préparées
+- Ajouter la vinaigrette et mélanger. Décorer avec les arachides hachées et rôties au four à 180°C 10 min
+source:
+  titre: Salade de mangues thaïe aux arachides rôties
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_de_mangues_tha%C3%AFe_aux_arachides_r%C3%B4ties&oldid=452187
+  revision: 452187
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_de_mangues_tha%C3%AFe_aux_arachides_r%C3%B4ties&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : coriandre, menthe.'

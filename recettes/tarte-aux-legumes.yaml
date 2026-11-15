@@ -1,0 +1,41 @@
+id: tarte-aux-legumes
+titre: Tarte aux légumes
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 ou 2 aubergines
+- 1 ou 2 oignons
+- 4 tomates
+- texte: 150 g de champignons
+  ingredients:
+  - champignon
+  categorie: true
+- du fromage râpé
+- du lait
+- un jaune d'œuf
+- éventuellement de la crème fraîche
+etapes:
+- Versez la farine dans un saladier. Ajoutez le beurre en morceaux. Malaxez le tout jusqu'à obtenir une pâte à peu
+  près homogène. Incorporez l'œuf, puis ajoutez l'eau petit à petit en travaillant bien la pâte avec les mains,
+  jusqu'à ce qu'elle devienne souple et lisse. Elle ne doit pas coller, et doit avoir une couleur assez jaune et
+  être brillante.
+source:
+  titre: Tarte aux légumes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_l%C3%A9gumes&oldid=333497
+  revision: 333497
+  date: '2011-05-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_l%C3%A9gumes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : champignon.'
+photo:
+  fichier: Tarte au légume.jpg
+  auteur: User:Arnaud 25
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Tarte_au_l%C3%A9gume.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,30 @@
+id: placki-ziemniaczane
+titre: Placki ziemniaczane
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 kg de pommes de terre
+- 2 oignons
+- 3 œufs
+- farine
+- sel, poivre
+etapes:
+- Mixer les pommes de terre, les oignons, ajouter les œufs
+- Mélanger, ajouter de la farine (pour rendre cette pâte plus épaisse)
+- Pétrir, saler et poivrer
+- Constituer des petites galettes d'environ ½ cm d'épaisseur
+- Cuire dans une poêle avec de la matière grasse
+- Déposer sur un papier absorbant.
+source:
+  titre: Placki ziemniaczane
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Placki_ziemniaczane&oldid=642678
+  revision: 642678
+  date: '2020-06-13'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Placki_ziemniaczane&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

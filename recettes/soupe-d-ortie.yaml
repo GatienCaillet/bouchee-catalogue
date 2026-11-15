@@ -1,0 +1,32 @@
+id: soupe-d-ortie
+titre: Soupe d'ortie
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 65
+  repos: 0
+ingredients:
+- 1 bouquet de feuilles d'ortie (uniquement les têtes).
+- 3 pomme de terre
+- 2 gousses d'ail
+- 1 noix de beurre
+- 1 pincée de sel.
+etapes:
+- Laver les feuilles (à manipuler de la tige vers la pointe car elles piquent encore)
+- Faire revenir les feuilles dans une cocotte avec une noix de beurre
+- Faire rendre l'eau tout en remuant pendant 5 minutes
+- Ajouter ensuite l'ail et les pommes de terre épluchées et coupées en morceaux
+- Recouvrir l'ensemble d'eau
+- Saler et laisser cuire 1 heure
+- En fin de cuisson passer le tout à la moulinette
+- Selon les goûts, ajouter un peu de crème fraîche.
+source:
+  titre: Soupe d'ortie
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_d%27ortie&oldid=601160
+  revision: 601160
+  date: '2018-08-25'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_d%27ortie&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

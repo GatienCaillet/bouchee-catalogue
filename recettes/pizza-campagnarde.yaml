@@ -1,0 +1,37 @@
+id: pizza-campagnarde
+titre: Pizza campagnarde
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 20
+  repos: 0
+ingredients:
+- 1 pâte à pizza
+- 400 g de concassé de tomates
+- texte: 200 g de champignons
+  ingredients:
+  - champignon
+  categorie: true
+- texte: 2 tranches de jambon
+  ingredients:
+  - jambon
+  categorie: true
+- 100 g de comté
+etapes:
+- Laver et éplucher les champignons. Les couper dans le sens de la longueur. Les faire revenir 10 min dans une casserole
+  pour leur faire perdre leur eau.
+- Couper le jambon en carré et râper le comté.
+- Dans un plat fariné, étaler la pâte. La recouvrir de concassé de tomates, de jambon, champignons ainsi que de
+  comté.
+- Cuire au four à 210°C 10 à 15 min.
+source:
+  titre: Pizza campagnarde
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_campagnarde&oldid=326580
+  revision: 326580
+  date: '2011-05-02'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_campagnarde&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : champignon, jambon.'

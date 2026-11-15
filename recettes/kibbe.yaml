@@ -1,0 +1,42 @@
+id: kibbe
+titre: Kibbé
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 137
+  repos: 0
+ingredients:
+- 325 g de viande de bœuf hachée
+- 125 g de boulgour
+- 2 oignons
+- 30 g de pignons de pin
+- texte: 6 cl d'huile
+  ingredients:
+  - huile
+  categorie: true
+- texte: Sel et 4 épices ou poivre.
+  ingredients:
+  - sel
+  - epice
+  - poivre
+  categorie: true
+etapes:
+- Tremper le boulgour dans une grande quantité d'eau 2 à 3 heures
+- Mixer un oignon, 200 g de viande, saler, ajouter le 4 épices
+- Presser le boulgour, ajouter la viande et mixer, réserver au frais
+- Rissoler l'oignon haché avec les pignons dans l'huile 2 min, ajouter la viande, assaisonner cuire 10 min
+- Former des boules avec la préparation au boulgour (à l'aide d'un doigt, faire de petites boulettes ovales creuses
+  aux parois minces)
+- Farcir et fermer en donnant une forme allongée aux deux extrémités
+- Frire 5 min.
+source:
+  titre: Kibbé
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Kibb%C3%A9&oldid=452008
+  revision: 452008
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Kibb%C3%A9&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile, poivre, sel, épice.'

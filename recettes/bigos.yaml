@@ -1,0 +1,42 @@
+id: bigos
+titre: Bigos
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 125
+  repos: 0
+ingredients:
+- 500 g de choucroute
+- texte: 500 g chou
+  ingredients:
+  - chou
+  categorie: true
+- 1 oignon
+- 200 g de champignons secs
+- 150 g de lardons fumés
+- 200 g de viande de porc
+- 200 g de viande de veau ou bœuf
+- 150 g de saucisse fumée
+- 50 g de saindoux
+- Laurier, sel, poivre, baies de genièvre.
+etapes:
+- Laver la choucroute, émincer, cuire avec le laurier et les baies de genièvre.
+- Couper le chou et cuire séparément.
+- Couper la viande en morceaux, faire revenir dans la graisse, ajouter des champignons.
+- Faire revenir des lardons avec l'oignon hachée y ajouter la saucisse coupée en petits dés et faire mijoter quelques
+  minutes.
+- Mettre la viande, les lardons, le chou dans la choucroute.
+- Cuire environ 2 heures à petit feu.
+- À la fin de la cuisson, saler, poivrer, ajouter le concentré de tomate.
+- Servir chaud.
+source:
+  titre: Bigos
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bigos&oldid=679008
+  revision: 679008
+  date: '2022-06-17'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bigos&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : chou.'

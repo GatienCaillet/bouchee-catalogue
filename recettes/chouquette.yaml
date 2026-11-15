@@ -1,0 +1,43 @@
+id: chouquette
+titre: Chouquette
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 15
+  repos: 0
+ingredients:
+- 150 g de farine
+- 250 g d'eau
+- 80 g de beurre
+- 3 à 4 œufs
+- 1 pincée de sel
+- 1 cuillère à soupe de sucre.
+etapes:
+- Mettre l'eau, le sel et le beurre dans une casserole anti-adhésive.
+- Lorsque l'eau bout, hors du feu jeter la farine d'un bloc. Mélanger rapidement à la spatule jusqu'à obtention
+  d'une boule de pâte lisse et ferme.
+- Si la pâte est humide l'assécher sur le feu quelque minutes.
+- L'ajout des œufs est une opération délicate. Il se peut que 3 œufs suffisent. Il faut savoir s'arrêter à temps.
+  Battre le dernier œuf dans un bol, pour pouvoir par la suite l'ajouter petit à petit.
+- Ajouter les œufs un par un jusqu'à consistance homogène et lisse. Arrêter d'incorporer les œufs lorsqu'on observe
+  la formation d'une "pointe" de pâte lorsqu'on veut la faire couler de la spatule.
+- Dresser à la poche ou à la cuillère sur une plaque bien beurrée. Si vous dressez à la poche, abaisser les pointes
+  au doigt ou au pinceau humide.
+- Cuire à 200 °C (400 °F) pendant 15 à 20 minutes au milieu du four.
+- Lorsque les choux ont bien gonflé et qu'ils montrent une coloration, entrouvrir le four pour les dessécher.
+source:
+  titre: Chouquette
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chouquette&oldid=685580
+  revision: 685580
+  date: '2022-09-27'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chouquette&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Chouquette (cropped).jpg
+  auteur: The original uploader was Aerith at French Wikipedia .
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Chouquette_(cropped).jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

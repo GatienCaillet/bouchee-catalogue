@@ -1,0 +1,42 @@
+id: flamusse-bourguignonne
+titre: Flamusse bourguignonne
+portions: 6
+temps:
+  preparation: 31
+  cuisson: 55
+  repos: 0
+ingredients:
+- 3 pommes
+- 3 œufs
+- 70 g de farine
+- 30 cl de lait
+- 30 g de beurre
+- 80 g de sucre
+- Une pincée de sel
+etapes:
+- Dans un saladier, mélangez la farine avec le sucre en poudre, et une pincée de sel.
+- Cassez les œufs dans un puit au centre, et mélangez au fouet en incorporant petit à petit le mélange précédant.
+- Ajoutez le lait et la crème tout en mélangeant jusqu'à l'obtention d'une pâte homogène.
+- Pelez les pommes, et les couper en quartiers.
+- Faites revenir puis dorer les quartiers de pommes au beurre, dans une poêle pendant 5 minutes.
+- Beurrez un moule, disposez les quartiers de pommes au fond du moule.
+- Versez la pâte.
+- Faire cuire au four à 180 °C pendant 50 minutes. Vérifiez la cuisson.
+- Laissez tiédir avant de démouler.
+- Saupoudrer de sucre ou de cannelle avant dégustation.
+source:
+  titre: Flamusse bourguignonne
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flamusse_bourguignonne&oldid=763963
+  revision: 763963
+  date: '2026-04-18'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flamusse_bourguignonne&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Flamusse bourguignonne 04.jpg
+  auteur: Arnaud 25
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Flamusse_bourguignonne_04.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

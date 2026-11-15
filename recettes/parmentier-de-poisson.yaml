@@ -1,0 +1,26 @@
+id: parmentier-de-poisson
+titre: Parmentier de poisson
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 600 g de cabillaud
+- 1 kg de pommes de terre
+- 50 cl de lait
+- 30 g de beurre
+- 1 gousse d'ail
+- 50 g de gruyère râpé
+- sel, poivre
+etapes:
+- Pocher le cabillaud 8 minutes dans le lait, puis l'émietter.
+- Cuire les pommes de terre et les écraser avec un peu de lait de cuisson et le beurre.
+- Monter le parmentier, couvrir de gruyère et gratiner 20 minutes à 200 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parmentier »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

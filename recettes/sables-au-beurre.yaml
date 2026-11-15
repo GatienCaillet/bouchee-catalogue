@@ -1,0 +1,24 @@
+id: sables-au-beurre
+titre: Sablés au beurre
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 12
+  repos: 60
+ingredients:
+- 250 g de farine
+- 125 g de beurre
+- 100 g de sucre
+- 1 œuf
+- 1 pincée de sel
+etapes:
+- Sabler la farine avec le beurre froid, puis ajouter le sucre, le sel et l'œuf.
+- Former un boudin et le réserver 1 heure au frais.
+- Couper en rondelles et cuire 12 minutes à 180 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

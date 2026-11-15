@@ -1,0 +1,33 @@
+id: beignets-de-pommes-de-terre
+titre: Beignets de pommes de terre
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 kg de Pommes de terre
+- 1 cuillère à soupe de Farine
+- 3 œufs
+- un peu de Poivre, sel, ail, ciboulette.
+etapes:
+- Râper finement les pommes de terre.
+- Les égoutter, lier avec un peu de farine et ajouter les œufs préalablement battus.
+- Assaisonner, ajouter la ciboulette ciselée.
+- Frire.
+source:
+  titre: Beignets de pommes de terre
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beignets_de_pommes_de_terre&oldid=640710
+  revision: 640710
+  date: '2020-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beignets_de_pommes_de_terre&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Beignets de pommes de terre.jpg
+  auteur: fr:Utilisateur:Titig
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Beignets_de_pommes_de_terre.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

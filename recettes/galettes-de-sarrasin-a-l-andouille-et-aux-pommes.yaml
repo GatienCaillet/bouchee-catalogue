@@ -1,0 +1,26 @@
+id: galettes-de-sarrasin-a-l-andouille-et-aux-pommes
+titre: Galettes de sarrasin à l'andouille et aux pommes
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 25
+  repos: 60
+ingredients:
+- 250 g de farine de sarrasin
+- 1 œuf
+- 50 cl d'eau
+- 150 g d'andouille
+- 2 pommes
+- 20 g de beurre
+- sel
+etapes:
+- Préparer la pâte et la laisser reposer 1 heure.
+- Faire dorer les pommes en lamelles au beurre.
+- Cuire les galettes et les garnir d'andouille en rondelles et de pommes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « galette garnie »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

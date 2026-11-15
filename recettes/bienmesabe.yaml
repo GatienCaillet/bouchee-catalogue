@@ -1,0 +1,32 @@
+id: bienmesabe
+titre: Bienmesabe
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 5
+  repos: 0
+ingredients:
+- 500 g de poudre d'amandes
+- 500 g de sucre
+- 500 ml d'eau
+- 8 jaunes d'œuf
+- 1 cuillerée à café de cannelle en poudre.
+etapes:
+- Mettre l'eau et le sucre en une petite casserole et cuire en remuant jusqu'à obtenir un sirop.
+- Ôter du feu.
+- Ajouter le poudre d'amandes et la cannelle et mélanger.
+- Remettre au feu, et cuire en remuant jusqu'à que ça soit plus épais.
+- Laisser tiédir.
+- À part, battre les jaunes d'œuf puis les verser à la casserole.
+- Remettre la casserole au feu et cuire en remuant pendant cinq minutes.
+- Laisser refroidir.
+source:
+  titre: Bienmesabe
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bienmesabe&oldid=648773
+  revision: 648773
+  date: '2020-11-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bienmesabe&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

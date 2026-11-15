@@ -1,0 +1,26 @@
+id: galettes-de-courgettes-a-la-feta
+titre: Galettes de courgettes à la feta
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 15
+  repos: 0
+ingredients:
+- 3 courgettes
+- 100 g de feta
+- 2 œufs
+- 60 g de farine
+- 1/2 botte de menthe
+- 3 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Râper les courgettes, les saler et les presser pour retirer l'eau.
+- Mélanger avec la feta émiettée, les œufs, la farine et la menthe ciselée.
+- Cuire des petites galettes 3 minutes de chaque côté dans l'huile chaude.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

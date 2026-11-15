@@ -1,0 +1,39 @@
+id: sauce-mayonnaise
+titre: Sauce mayonnaise
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 15
+ingredients:
+- texte: 50 cl d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 1 jaune d'œuf
+- texte: 12 g de moutarde
+  ingredients:
+  - moutarde
+  categorie: true
+- texte: 5 cl de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- sel, poivre
+etapes:
+- Avec un fouet, mélangez le jaune d'œuf et la moutarde.
+- Laissez reposer 15 minutes.
+- Ajoutez sel et poivre puis détendre avec le vinaigre.
+- Ajoutez quelques gouttes d'huile et fouetter rapidement.
+- Quand la mayonnaise commence à prendre, ajouter petit à petit le reste de l'huile en filet.
+source:
+  titre: Sauce mayonnaise
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_mayonnaise&oldid=757228
+  revision: 757228
+  date: '2025-12-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_mayonnaise&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile, moutarde, vinaigre.'

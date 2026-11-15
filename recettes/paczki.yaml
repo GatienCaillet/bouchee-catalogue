@@ -1,0 +1,51 @@
+id: paczki
+titre: Paczki
+portions: 4
+temps:
+  preparation: 43
+  cuisson: 0
+  repos: 0
+ingredients:
+- 500 g de farine
+- 100 g de beurre
+- 5 jaunes d'œufs
+- 50 g de levure de boulangerie
+- 1 verre de lait
+- 100 g de sucre
+- 1 sachet de sucre vanillé
+- 1 pincée de sel
+- texte: 250 g de confiture
+  ingredients:
+  - confiture
+  categorie: true
+- huile pour la friture
+- 50 g de sucre glace pour saupoudrer
+etapes:
+- Préparer la pâte à pain.
+- À la fin du travail ajouter un petit verre de vodka ou spirytus pour que les beignets n'absorbent pas d'huile
+  pendant la friture.
+- Lorsque la pâte est suffisamment levée, la poser sur une planche farinée et découper la pâte avec un verre rond.
+- Mettre au milieu un peu de confiture ou du chocolat.
+- Couvrir avec un autre rond, bien coller les bords.
+- Poser les beignets sur la planche farinée et laisser lever un moment dans un endroit tiède.
+- Préchauffer l'huile et mettre les beignets côté "bombé" et couvrir.
+- Les tourner et frire l'autre côté sans couvercle.
+- Déposer les beignets sur du papier absorbant la matière grasse.
+- Déposer les beignets dans un grand plat et les saupoudrer de sucre glace.
+source:
+  titre: Paczki
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Paczki&oldid=452065
+  revision: 452065
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Paczki&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : confiture.'
+photo:
+  fichier: Paczki.jpg
+  auteur: Rmhermen
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Paczki.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

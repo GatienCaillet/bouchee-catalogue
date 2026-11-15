@@ -1,0 +1,32 @@
+id: gratin-de-courgettes-au-parmesan
+titre: Gratin de courgettes au parmesan
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 35
+  repos: 0
+ingredients:
+- 800 g de courgettes
+- 20 cl de crème fraîche
+- 2 œufs
+- 50 g de parmesan râpé
+- 1 gousse d'ail
+- sel, poivre
+etapes:
+- Laver les courgettes et les couper en rondelles.
+- Cuire les courgettes 10 minutes à la vapeur ou à l'eau bouillante salée, puis bien égoutter.
+- Frotter un plat à gratin avec la gousse d'ail coupée en deux.
+- Battre les œufs avec la crème, saler et poivrer.
+- Disposer les courgettes dans le plat, verser la crème aux œufs et parsemer de parmesan.
+- Enfourner 25 minutes à 190 °C.
+decouverte:
+  aliment: courgette
+  niveau: 5
+  pourquoi: La courgette est le cœur du plat.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gratin à la crème »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

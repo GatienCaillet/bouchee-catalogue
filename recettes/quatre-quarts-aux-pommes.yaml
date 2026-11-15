@@ -1,0 +1,43 @@
+id: quatre-quarts-aux-pommes
+titre: Quatre-quarts aux pommes
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 40
+  repos: 0
+ingredients:
+- 210 g de farine
+- 210 g de sucre
+- 210 g de beurre
+- 4 pommes
+- 4 œufs
+- texte: 1 sachet de levure
+  ingredients:
+  - levure
+  categorie: true
+- sucre de canne
+- 4 cl d'eau.
+etapes:
+- Battre les œufs et le sucre, ajouter le beurre ramolli, la farine et la levure
+- Éplucher et couper les pommes en lamelles
+- Chauffer l'eau dans une casserole anti-adhésive, ajouter le sucre de canne, cuire cinq min
+- Verser le sirop dans un plat anti-adhésif allant au four
+- Disposer les lamelles de pommes, verser la pâte
+- Cuire au four 40 min à 160°C.
+source:
+  titre: Quatre-quarts aux pommes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Quatre-quarts_aux_pommes&oldid=680868
+  revision: 680868
+  date: '2022-07-06'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Quatre-quarts_aux_pommes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'
+photo:
+  fichier: Quatre-quarts aux pommes2.jpg
+  auteur: Antoinel
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Quatre-quarts_aux_pommes2.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

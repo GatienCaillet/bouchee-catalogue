@@ -1,0 +1,30 @@
+id: confit-d-oignons
+titre: Confit d'oignons
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 45
+  repos: 0
+ingredients:
+- 500 g d'oignons
+- 1/4 tasse (65 ml) de beurre
+- 1/2 tasse (125 ml) de vin rouge
+- 3 c. à soupe (45 ml) de vinaigre de Xérès
+- 1/4 tasse (65 ml) de sucre
+- sel et poivre du moulin
+etapes:
+- Couper les oignons en fines rondelles.
+- Faire fondre le beurre, y ajouter les oignons et le sucre et cuire, à feu doux, environ 30 minutes, jusqu'à ce
+  que le tout soit légèrement coloré, en remuant de temps en temps.
+- Verser le vinaigre de Xérès et le vin rouge.
+- Saler, poivrer et poursuivre la cuisson 15 à 20 minutes à découvert, en remuant souvent. Réfrigérer.
+source:
+  titre: Confit d'oignons
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Confit_d%27oignons&oldid=356161
+  revision: 356161
+  date: '2012-02-20'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Confit_d%27oignons&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

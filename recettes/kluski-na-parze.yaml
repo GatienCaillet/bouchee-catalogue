@@ -1,0 +1,40 @@
+id: kluski-na-parze
+titre: Kluski na parze
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 10
+  repos: 0
+ingredients:
+- 500 g de farine
+- texte: 30 g de levure
+  ingredients:
+  - levure
+  categorie: true
+- 35 g de beurre
+- 2 œufs
+- 25 cl de lait
+- Sucre
+- sel
+etapes:
+- Faire la pâte au levain (consistance de crème fraîche épaisse) avec le lait, la levure, un peu de sucre et ajouter
+  la farine.
+- Laisser la pâte reposer dans la pièce la plus chaude de la maison.
+- Lorsque la pâte est gonflée, verse un peu de farine dans un saladier pour l'empêcher de coller, ajouter les œufs
+  et la pâte au levain.
+- Travailler la pâte jusqu'au moment où elle se détache facilement du récipient.
+- Ajouter le beurre fondu et refroidi ainsi qu'une pincée de sel.
+- Retravailler la pâte, la couvrir d'un torchon et la laisser reposer dans une pièce chauffée.
+- Lorsque la pâte a doublée de volume, façonner des boules et les saupoudrer de la farine.
+- Lorsqu'elles recommencent à gonfler, cuire 10 min à l'étouffée sur un torchon tendu au dessus une marmite
+source:
+  titre: Kluski na parze
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Kluski_na_parze&oldid=609691
+  revision: 609691
+  date: '2018-12-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Kluski_na_parze&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

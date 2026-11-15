@@ -1,0 +1,24 @@
+id: porridge-aux-pommes-et-a-la-cannelle
+titre: Porridge aux pommes et à la cannelle
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 5
+  repos: 0
+ingredients:
+- 120 g de flocons d'avoine
+- 50 cl de lait
+- 1 pomme
+- 1 c. à café de cannelle
+- 2 c. à soupe de sirop d'érable
+etapes:
+- Porter le lait à frémissement avec la cannelle.
+- Ajouter les flocons et cuire 5 minutes en remuant.
+- Servir avec la pomme râpée et le sirop d'érable.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

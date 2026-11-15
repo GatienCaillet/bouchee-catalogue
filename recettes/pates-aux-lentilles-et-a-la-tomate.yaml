@@ -1,0 +1,27 @@
+id: pates-aux-lentilles-et-a-la-tomate
+titre: Pâtes aux lentilles et à la tomate
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 20
+  repos: 0
+ingredients:
+- 300 g de penne
+- 150 g de lentilles corail
+- 800 g de tomates pelées
+- 1 oignon
+- 2 c. à soupe d'huile d'olive
+- 1 c. à café de cumin en poudre
+- sel, poivre
+etapes:
+- Porter une grande casserole d'eau salée à ébullition.
+- Faire revenir l'oignon, ajouter les lentilles, les tomates, le cumin et 30 cl d'eau, et cuire 20 minutes.
+- Cuire les pâtes selon les indications du paquet, les égoutter en gardant un peu d'eau de cuisson.
+- Mélanger les pâtes à la sauce, détendre si besoin avec l'eau de cuisson, poivrer et servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « pâtes »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

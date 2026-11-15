@@ -1,0 +1,45 @@
+id: berliner-pfannkuchen
+titre: Berliner Pfannkuchen
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 0
+  repos: 40
+ingredients:
+- 500 g de farine
+- 50 g de beurre fondu
+- 40 g de sucre
+- 25 cl de lait tiède
+- 20 g de levure de boulanger
+- 2 jaunes d'œufs
+- 2 g de sel
+- 1 sachet de sucre vanillé
+- confiture de framboises.
+etapes:
+- Mettre la farine dans un récipient, faire un puits, incorporer la levure, 10 g de sucre et la moitié du lait.
+  Mélanger et laisser reposer 10 min.
+- Ajouter le sucre vanillé et 30 g de sucre, le sel, le beurre fondu et les jaunes d'œufs. Mélanger et ajouter enfin
+  le reste de lait. Laisser reposer 30 min dans un endroit chaud.
+- Étaler la pâte et y découper des cercles avec un verre. Les déposer sur le plan de travail, ajouter une petite
+  cuillerée de confiture de framboises sur la moitié des cercles de pâtes.
+- Mouiller le pourtour avec de l'eau et recouvrir avec un second cercle de pâte. Appuyer pour souder les deux cercles.
+  Couvrir avec un torchon et laisser lever.
+- Faire chauffer de l'huile de friture, y faire cuire les beignets. Ils remontent tout seuls à la surface, ils doivent
+  avoir une face bien colorée, puis les retourner. Les égoutter et les saupoudrer de sucre. Les laisser ensuite
+  refroidir.
+source:
+  titre: Berliner Pfannkuchen
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Berliner_Pfannkuchen&oldid=641028
+  revision: 641028
+  date: '2020-05-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Berliner_Pfannkuchen&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Berliner (pastry).jpg
+  auteur: Jüppsche
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Berliner_(pastry).jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,44 @@
+id: ghribia
+titre: Ghribia
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 10
+  repos: 0
+ingredients:
+- 1 kg de farine
+- 350 g de beurre
+- 350 g de sucre glace
+- 100 g d'amandes hachées grossièrement
+- texte: 1/2 sachet de levure.
+  ingredients:
+  - levure
+  categorie: true
+etapes:
+- Travailler le beurre ramolli, le sucre glace à l'aide d'un batteur électrique ou bien avec un fouet à main, afin
+  d'obtenir une composition bien homogène.
+- Ajouter doucement la farine, dans laquelle déjà la levure est incorporée. Ne pas arrêter de mélanger la composition.
+  La pâte obtenue doit être molle et docile sous la main, afin de pouvoir la façonner facilement en boule.
+- Répartir la pâte en plusieurs petites boules de la grosseur d'un œuf.
+- Rouler entre les paumes des mains pour obtenir une boule.
+- Saupoudrer la base de chaque boule d'amande.
+- Placer les boules obtenues, en les séparant, dans une plaque ou un plateau métallique.
+- Faire cuire à four très doux, les gâteaux doivent être à peine dorés (160° à 180° maxi pendant 10 à 15 minutes
+  environ).
+source:
+  titre: Ghribia
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ghribia&oldid=650274
+  revision: 650274
+  date: '2020-11-30'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ghribia&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'
+photo:
+  fichier: Ghribia.jpg
+  auteur: Waran18
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Ghribia.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

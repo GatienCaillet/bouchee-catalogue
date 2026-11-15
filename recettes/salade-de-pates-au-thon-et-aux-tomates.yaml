@@ -1,0 +1,27 @@
+id: salade-de-pates-au-thon-et-aux-tomates
+titre: Salade de pâtes au thon et aux tomates
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 15
+ingredients:
+- 300 g de penne
+- 1 boîte de thon (140 g)
+- 250 g de tomates cerises
+- 50 g d'olives noires
+- 4 c. à soupe d'huile d'olive
+- 2 c. à soupe de vinaigre de vin
+- sel, poivre
+etapes:
+- Cuire les pâtes, les rincer à l'eau froide ; émietter le thon.
+- Préparer la vinaigrette en mélangeant l'huile, l'acidité, le sel et le poivre.
+- Réunir tous les ingrédients dans un saladier, arroser de vinaigrette et mélanger délicatement.
+- Laisser reposer 15 minutes au frais avant de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

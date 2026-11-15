@@ -1,0 +1,27 @@
+id: riz-au-lait
+titre: Riz au lait
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 30
+  repos: 0
+ingredients:
+- 150 g riz
+- 500 ml lait
+- 1 gousse de vanille
+- eau
+etapes:
+- '* 150 g riz * 500 ml lait * 1 gousse de vanille * eau'
+- Rincer abondamment le riz à l'eau tiède. Le mettre dans une casserole puis recouvrir d'eau chaude. Lorsque cette
+  eau est absorbée, ajouter le lait après l'avoir fait bouillir avec la gousse de vanille. Porter à ébullition pendant
+  30 minutes. Rajouter du sucre.
+source:
+  titre: Riz au lait
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_au_lait&oldid=710393
+  revision: 710393
+  date: '2024-01-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Riz_au_lait&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

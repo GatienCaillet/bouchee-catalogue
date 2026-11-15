@@ -1,0 +1,52 @@
+id: cheesecake
+titre: Cheesecake
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 45
+  repos: 150
+ingredients:
+- 50 g de beurre
+- 250 g de graham crackers
+- 200 g de sucre
+- 3 cuillères à soupe de Maïzena
+- 730 g de cream cheese
+- 2 œufs
+- 10 cl de crème fraîche épaisse
+- 1 sachet de vanille
+- un zeste d'orange
+- 500 g de fraises
+- 100 g de fraises
+- 25 g de sucre
+- une cuillère à soupe d'eau
+etapes:
+- Pour préparer la pâte, écraser les graham crackers.
+- Dans un bol, mélanger les graham crackers avec le beurre préalablement fondu. Disposer le tout dans un moule tapissé
+  de papier sulfurisé.
+- Tasser avec un verre pour obtenir une pâte d'environ 1 cm d'épaisseur. Mettre au réfrigérateur pendant 60 min.
+- Mélanger le sucre et la Maïzena
+- Incorporer les œufs entiers
+- Ajouter peu à peu le cream cheese à la préparation
+- Puis verser dans le bol la crème fraiche, la vanille et le zeste d'orange
+- Bien mélanger les ingrédients
+- Placer la garniture dans le moule
+- Faire cuire à four chaud (200°C-240°C) pendant 45 min
+- Démouler après avoir laissé reposer une heure et demie. Décorer de fraises.
+- Faire cuire les fraises, le sucre et l'eau à feu doux jusqu'à obtention d'un coulis
+- Passer (filtrer) le mélange et glacer le mélange.
+source:
+  titre: Cheesecake
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cheesecake&oldid=761754
+  revision: 761754
+  date: '2026-03-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cheesecake&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Cheesecake piece.jpg
+  auteur: Tiia Monto
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Cheesecake_piece.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

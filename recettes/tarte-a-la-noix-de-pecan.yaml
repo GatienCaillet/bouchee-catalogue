@@ -1,0 +1,44 @@
+id: tarte-a-la-noix-de-pecan
+titre: Tarte à la noix de pécan
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 50
+  repos: 10
+ingredients:
+- 250 g de cerneaux de noix
+- 3 œufs
+- 125 g de sucre semoule
+- 75 g de beurre
+- texte: pâte à tarte pour un moule de 28 cm.
+  ingredients:
+  - pate_a_tarte
+  categorie: true
+etapes:
+- Étaler la pâte dans un moule beurré, mettre au réfrigérateur 10 minutes.
+- Préchauffer le four à 190°C (Th 5).
+- 'Préparer la garniture :'
+- Mélanger le beurre ramolli avec le sucre, bien battre.
+- Ajouter les noix râpées puis les œufs un à un.
+- Mélanger.
+- Verser la préparation dans le moule.
+- Décorer avec les cerneaux.
+- Cuire 40 à 45 minutes.
+- Attendre 10 minutes avant de démouler.
+source:
+  titre: Tarte à la noix de pécan
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_%C3%A0_la_noix_de_p%C3%A9can&oldid=650708
+  revision: 650708
+  date: '2020-12-06'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_%C3%A0_la_noix_de_p%C3%A9can&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : pâte à tarte.'
+photo:
+  fichier: Pecan pie slice.jpg
+  auteur: Stu Spivack ( Flickr account )
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Pecan_pie_slice.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

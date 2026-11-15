@@ -3,19 +3,19 @@
 famille: sucres-boissons
 ingredients:
   - {id: produit_sucrant, nom: produit sucrant, alias_fr: [édulcorant naturel], alias_en: [sweetener]}
-  - {id: sucre, nom: sucre, parent: produit_sucrant, alias_fr: [sucre en poudre, sucre blanc, sucre semoule, sucre roux, cassonade, vergeoise, sucre de canne], alias_en: [sugar, caster sugar, brown sugar], ciqual: 31016}
-  - {id: sucre_glace, nom: sucre glace, parent: sucre, alias_en: [icing sugar, powdered sugar], composants: [fecule_de_mais], composition_variable: true}
-  - {id: miel, nom: miel, parent: produit_sucrant, alias_en: [honey], ciqual: 31008}
+  - {id: sucre, nom: sucre, parent: produit_sucrant, alias_en: [sugar], ciqual: 31016}
+  - {id: sucre_glace, nom: sucre glace, parent: sucre, alias_en: [icing sugar, powdered sugar], composants: [fecule_de_mais], composition_variable: true, ciqual: 31016, ciqual_approche: true}
+  - {id: miel, nom: miel, parent: produit_sucrant, alias_fr: [miel épais], alias_en: [honey], ciqual: 31008}
   - {id: sirop_d_erable, nom: sirop d'érable, parent: produit_sucrant, alias_en: [maple syrup], ciqual: 31034}
   - {id: melasse, nom: mélasse, parent: produit_sucrant, alias_en: [molasses, treacle], ciqual: 31067}
 
   - {id: chocolat, nom: chocolat, alias_en: [chocolate]}
-  - {id: cacao, nom: cacao en poudre, parent: chocolat, alias_fr: [cacao, cacao non sucré], alias_en: [cocoa, cocoa powder], ciqual: 18100}
+  - {id: cacao, nom: cacao en poudre, parent: chocolat, alias_fr: [cacao], alias_en: [cocoa], ciqual: 18100}
   - id: chocolat_noir
     nom: chocolat noir
     ciqual: 31085
     parent: chocolat
-    alias_fr: [chocolat pâtissier, chocolat à cuire, chocolat dessert, pépites de chocolat]
+    alias_fr: [chocolat noir amer, chocolat noir à 70%, chocolat à croquer, chocolat noir en copeaux, chocolat à cuire, pépites de chocolat]
     alias_en: [dark chocolate, chocolate chips]
     composants: [cacao, sucre, lecithine_de_soja, vanille, lait]
     composition_variable: true
@@ -36,22 +36,23 @@ ingredients:
     composition_variable: true
 
   - {id: boisson, nom: boisson, alias_fr: [boissons], alias_en: [drink, beverage]}
-  - {id: eau, nom: eau, parent: boisson, alias_fr: [eau froide, eau chaude, eau tiède], alias_en: [water], ciqual: 18066}
-  - {id: cafe, nom: café, parent: boisson, alias_fr: [café soluble, expresso, espresso], alias_en: [coffee], sensoriel: {amer: 2}, ciqual: 18004}
-  - {id: the, nom: thé, parent: boisson, alias_fr: [thé noir, thé vert], alias_en: [tea, black tea, green tea], sensoriel: {amer: 1}, ciqual: 18020}
-  - {id: lait_de_coco, nom: lait de coco, parent: boisson, alias_fr: [crème de coco], alias_en: [coconut milk, coconut cream], composants: [noix_de_coco], ciqual: 18041}
+  - {id: eau, nom: eau, parent: boisson, alias_en: [water], ciqual: 18066}
+  - {id: cafe, nom: café, parent: boisson, alias_en: [coffee], sensoriel: {amer: 2}, ciqual: 18004}
+  - {id: the, nom: thé, parent: boisson, alias_en: [tea], sensoriel: {amer: 1}, ciqual: 18020}
+  - {id: lait_de_coco, nom: lait de coco, parent: boisson, alias_fr: [lait de noix de coco], alias_en: [coconut milk, coconut cream], composants: [noix_de_coco], ciqual: 18041}
   - {id: lait_d_amande, nom: boisson à l'amande, parent: boisson, alias_fr: [lait d'amande], alias_en: [almond milk], composants: [amande], ciqual: 18107}
   - {id: boisson_a_l_avoine, nom: boisson à l'avoine, parent: boisson, alias_fr: [lait d'avoine], alias_en: [oat milk], composants: [avoine], ciqual: 18905}
 
   - {id: alcool, nom: alcool, parent: boisson, alias_fr: [boisson alcoolisée, alcools], alias_en: [alcohol, alcoholic drink]}
   - {id: alcool_ethylique, nom: alcool éthylique, parent: alcool, alias_en: [ethanol, ethyl alcohol], note: "Conservateur de certaines pâtes du commerce.", ciqual: 1014}
-  - {id: vin_blanc, nom: vin blanc, parent: alcool, allergenes: [sulfites], alias_fr: [vin blanc sec], alias_en: [white wine, dry white wine], ciqual: 5215}
-  - {id: vin_rouge, nom: vin rouge, parent: alcool, allergenes: [sulfites], alias_en: [red wine], ciqual: 5214}
+  - {id: vin, nom: vin, parent: alcool, allergenes: [sulfites], alias_fr: [vins, bouteille de vin, vin de table], alias_en: [wine]}
+  - {id: vin_blanc, nom: vin blanc, parent: vin, allergenes: [sulfites], alias_en: [white wine], ciqual: 5215}
+  - {id: vin_rouge, nom: vin rouge, parent: vin, allergenes: [sulfites], alias_en: [red wine], ciqual: 5214}
   - {id: porto, nom: porto, parent: alcool, allergenes: [sulfites], alias_fr: [madère, xérès], alias_en: [port, madeira, sherry]}
-  - {id: biere, nom: bière, parent: alcool, alias_fr: [bière blonde, bière brune], alias_en: [beer, ale, lager], composants: [orge], ciqual: 5001}
+  - {id: biere, nom: bière, parent: alcool, alias_en: [beer], composants: [orge], ciqual: 5001}
   - {id: cidre, nom: cidre, parent: alcool, allergenes: [sulfites], composition_variable: true, alias_fr: [cidre brut, cidre doux], alias_en: [cider, hard cider], composants: [pomme], ciqual: 5003}
-  - {id: rhum, nom: rhum, parent: alcool, alias_fr: [rhum ambré, rhum blanc], alias_en: [rum], ciqual: 1004}
-  - {id: cognac, nom: cognac, parent: alcool, alias_fr: [armagnac, calvados, eau-de-vie, kirsch, cointreau, grand marnier], alias_en: [brandy], ciqual: 1023}
+  - {id: rhum, nom: rhum, parent: alcool, alias_en: [rum], ciqual: 1004}
+  - {id: cognac, nom: cognac, parent: alcool, alias_fr: [eau-de-vie, kirsch, cointreau, grand marnier], alias_en: [brandy], ciqual: 1023}
   - id: vin_de_riz
     nom: vin de riz
     parent: alcool
@@ -62,3 +63,61 @@ ingredients:
     composition_variable: true
     ciqual: 1026
     note: "Le vin de Shaoxing est fermenté avec un levain de blé (gluten). Code CIQUAL approché : saké ou alcool de riz."
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  # Sucres
+  - {id: sucre_en_poudre, nom: sucre en poudre, parent: sucre, alias_fr: [sucre semoule, sucre fin, sucre blanc, sucre cristallisé, sucre de table, sucre en morceaux, morceaux de sucre, sucre en poudre de sucre], alias_en: [caster sugar, granulated sugar, white sugar], ciqual: 31016}
+  - {id: sucre_roux, nom: sucre roux, parent: sucre, alias_fr: [cassonade brune, sucre de canne en cristaux, cassonade, sucre brun, sucre blond, sucre de canne, sucre roux de canne, sucre complet, rapadura, muscovado, sucre muscovado, sucre de coco, sucre de palme, jaggery, sucre blond ou roux, vergeoise, vergeoise brune, vergeoise blonde], alias_en: [brown sugar, cane sugar, muscovado sugar, coconut sugar, palm sugar], ciqual: 31017}
+  - {id: sucre_vanille, nom: sucre vanillé, parent: sucre, alias_fr: [sachet de sucre vanillé, sachets de sucre vanillé, sucre vanilliné], alias_en: [vanilla sugar], composants: [sucre, vanille], ciqual: 31044}
+  - {id: sucre_perle, nom: sucre perlé, parent: sucre, alias_fr: [sucre en grains, sucre casson, sucre candi, sucre gros grain], alias_en: [pearl sugar, rock sugar], ciqual: 31016, ciqual_approche: true}
+  - {id: sirop_de_glucose, nom: sirop de glucose, alias_fr: [glucose, glucose liquide, sirop de maïs, sirop de glucose de blé, dextrose], alias_en: [glucose syrup, corn syrup], composants: [mais, ble], composition_variable: true, note: "Le sirop de glucose de blé est exempté d'étiquetage gluten par le règlement INCO ; union fail-closed malgré tout.", ciqual: 9200, ciqual_approche: true}
+  - {id: sirop_de_sucre_de_canne, nom: sirop de sucre de canne, parent: produit_sucrant, alias_fr: [sirop de canne, sirop de sucre, sucre liquide, sirop simple], alias_en: [cane syrup, simple syrup], ciqual: 18017}
+  - {id: sirop_d_agave, nom: sirop d'agave, parent: produit_sucrant, alias_fr: [nectar d'agave, sirop de riz, sirop de dattes, sirop de yacon], alias_en: [agave syrup, rice syrup, date syrup], ciqual: 31089}
+  - {id: miel_liquide, nom: miel liquide, parent: miel, alias_fr: [miel d'acacia, miel de fleurs, miel crémeux, miel de châtaignier, miel de lavande, miel de montagne], alias_en: [runny honey, acacia honey], ciqual: 31008, ciqual_approche: true}
+  - {id: caramel, nom: caramel, alias_fr: [caramel à sec, caramel dur, bonbons caramel, caramels mous], alias_en: [caramel candy, toffee], composants: [sucre, creme, beurre], composition_variable: true, ciqual: 31094}
+  - {id: nougat, nom: nougat, alias_fr: [nougat de Montélimar, nougatine, touron, turrón], alias_en: [nougat candy, nougatine, turron], composants: [miel, sucre, blanc_d_oeuf, amande, pistache, noisette], composition_variable: true, ciqual: 31033}
+  - {id: guimauve, nom: guimauve, alias_fr: [guimauves, chamallows, marshmallows], alias_en: [marshmallows], composants: [sucre, sirop_de_glucose, gelatine, amidon_de_ble], composition_variable: true, ciqual: 31050}
+  - {id: bonbon, nom: bonbon, alias_fr: [bonbons, dragées, smarties, M&M's, bonbons acidulés, fraises Tagada, oursons], alias_en: [candies, sweets, sprinkles], composants: [sucre, sirop_de_glucose, gelatine, chocolat_au_lait, amande, colorant_alimentaire], composition_variable: true, ciqual: 31003}
+  - {id: vermicelle_sucre, nom: vermicelles décoratifs, alias_fr: [vermicelles en chocolat, vermicelles de couleur, perles de sucre, paillettes de chocolat, sucres décoratifs, éléments de décoration], alias_en: [nonpareils], composants: [sucre, cacao, chocolat_au_lait, colorant_alimentaire, huile_de_palme], composition_variable: true, ciqual: 31016, ciqual_approche: true}
+  # Chocolats
+  - {id: chocolat_patissier, nom: chocolat pâtissier, parent: chocolat_noir, alias_fr: [chocolat à pâtisser, chocolat dessert, chocolat de couverture, chocolat noir à pâtisser, chocolat noir pâtissier, couverture noire], alias_en: [baking chocolate, couverture chocolate], ciqual: 31085, ciqual_approche: true}
+  - {id: pepite_de_chocolat, nom: pépite de chocolat, parent: chocolat, alias_fr: [pépites de chocolat noir, pépites de chocolat au lait, copeaux de chocolat, carreaux de chocolat, chips de chocolat], alias_en: [chocolate chunks], composants: [chocolat_noir, chocolat_au_lait], composition_variable: true, ciqual: 31085, ciqual_approche: true}
+  - {id: cacao_amer, nom: cacao amer, parent: cacao, alias_fr: [cacao en poudre non sucré, poudre de cacao amer, cacao non sucré, cacao maigre, poudre de cacao], alias_en: [unsweetened cocoa powder, cocoa powder], ciqual: 18100}
+  - {id: chocolat_en_poudre, nom: chocolat en poudre, alias_fr: [cacao sucré, Banania, Nesquik, poudre chocolatée], alias_en: [drinking chocolate, hot chocolate mix], composants: [cacao, sucre, lait_en_poudre, ble], composition_variable: true, ciqual: 18100}
+  - {id: grue_de_cacao, nom: grué de cacao, parent: cacao, alias_fr: [éclats de fèves de cacao, grué], alias_en: [cocoa nibs], ciqual: 18100, ciqual_approche: true}
+  # Boissons sans alcool
+  - {id: eau_gazeuse, nom: eau gazeuse, parent: eau, alias_fr: [eau pétillante, eau de Seltz, eau minérale gazeuse, perrier], alias_en: [sparkling water], ciqual: 18046}
+  - {id: limonade, nom: limonade, parent: boisson, alias_fr: [soda au citron, Sprite, Schweppes, tonic, ginger ale, ginger beer, soda au gingembre], alias_en: [lemonade, tonic water, ginger ale], composants: [eau, sucre, citron, gingembre], composition_variable: true, ciqual: 18010}
+  - {id: cola, nom: cola, parent: boisson, alias_fr: [Coca-Cola, coca, soda au cola], alias_en: [coke, cola drink], ciqual: 18018}
+  - {id: the_vert, nom: thé vert, parent: the, alias_fr: [matcha, thé matcha, thé au jasmin, thé à la menthe, sencha], alias_en: [green tea, matcha], ciqual: 18155}
+  - {id: the_noir, nom: thé noir, parent: the, alias_fr: [thé Earl Grey, thé fumé, lapsang souchong, thé de Ceylan, thé Darjeeling, thé chaï, chai], alias_en: [black tea, earl grey, chai], ciqual: 18154}
+  - {id: tisane, nom: tisane, parent: boisson, alias_fr: [infusion, tisanes, camomille, verveine infusion, tilleul, rooibos, hibiscus, bissap, fleurs d'hibiscus], alias_en: [herbal tea, chamomile, rooibos, hibiscus], ciqual: 18022}
+  - {id: cafe_soluble, nom: café soluble, parent: cafe, alias_fr: [café instantané, Nescafé, espresso, expresso, café fort, café noir, café serré], alias_en: [instant coffee, espresso], ciqual: 18005}
+  - {id: lait_de_riz, nom: lait de riz, parent: boisson, alias_fr: [boisson au riz, boisson de riz], alias_en: [rice milk], composants: [riz, huile_de_tournesol], composition_variable: true, ciqual: 18904}
+  - {id: lait_vegetal, nom: lait végétal, alias_fr: [boisson végétale, laits végétaux], alias_en: [plant milk, non-dairy milk], composants: [lait_de_soja, lait_d_amande, boisson_a_l_avoine, lait_de_riz, lait_de_coco], composition_variable: true, ciqual: 18900, ciqual_approche: true}
+  - {id: lait_de_noisette, nom: lait de noisette, parent: boisson, alias_fr: [boisson à la noisette], alias_en: [hazelnut milk], composants: [noisette, eau], ciqual: 15004, ciqual_approche: true}
+  - {id: jus_de_tomate, nom: jus de tomate, parent: boisson, alias_en: [tomato juice], composants: [tomate, sel], ciqual: 2032}
+  - {id: jus_de_carotte, nom: jus de carotte, parent: boisson, alias_en: [carrot juice], composants: [carotte], ciqual: 2006}
+  - {id: jus_de_fruits, nom: jus de fruits, parent: boisson, alias_fr: [nectar de fruits, jus de fruit, nectar d'abricot, nectar de mangue, jus multifruits, jus de canneberge, jus de canneberges], alias_en: [fruit juice, nectar, cranberry juice], composants: [fruit, sucre], composition_variable: true, ciqual: 2043}
+  - {id: eau_bouillante, nom: eau chaude, parent: eau, alias_fr: [eau bouillante, eau tiède, eau froide, eau glacée, eau minérale, eau du robinet, eau de cuisson, glaçons, glace pilée], alias_en: [boiling water, hot water, cold water, ice cubes], ciqual: 18066}
+  # Alcools (sulfites et céréales indiqués quand ils sont courants)
+  - {id: vin_cuit, nom: vin cuit, parent: alcool, alias_fr: [vin paille, marsala, vin doux naturel, banyuls, muscat, pineau des Charentes, vin de paille, vin jaune, vin jaune du Jura, maury, floc de Gascogne], alias_en: [marsala, dessert wine], allergenes: [sulfites], ciqual: 1015}
+  - {id: vin_rose, nom: vin rosé, parent: vin, alias_fr: [rosé], alias_en: [rose wine], allergenes: [sulfites], ciqual: 5216}
+  - {id: champagne, nom: champagne, parent: vin, alias_fr: [crémant, mousseux, vin mousseux, prosecco, cava, blanquette de Limoux], alias_en: [sparkling wine, prosecco], allergenes: [sulfites], ciqual: 5207}
+  - {id: vermouth, nom: vermouth, parent: alcool, alias_fr: [Martini, Noilly Prat, Lillet, Suze, apéritif à base de vin], alias_en: [dry vermouth], allergenes: [sulfites], ciqual: 1007}
+  - {id: vin_blanc_sec, nom: vin blanc sec, parent: vin_blanc, alias_fr: [vin blanc d'Alsace, riesling, pinot blanc, vin blanc du Jura, muscadet, chablis, sauvignon, gewurztraminer, vin blanc sec de qualité], alias_en: [dry white wine], ciqual: 5215}
+  - {id: vin_rouge_corse, nom: vin rouge corsé, parent: vin_rouge, alias_fr: [bourgogne rouge, vin de Bourgogne, côtes-du-rhône, bordeaux, vin rouge de Bourgogne, pinot noir, beaujolais, vin rouge corsé, madiran, cahors], alias_en: [full-bodied red wine, burgundy], ciqual: 5214, ciqual_approche: true}
+  - {id: biere_blonde, nom: bière blonde, parent: biere, alias_fr: [bière brune, bière ambrée, bière blanche, bière de garde, bière belge, stout, Guinness], alias_en: [lager, ale, stout], composants: [orge, ble], composition_variable: true, ciqual: 5000}
+  - {id: whisky, nom: whisky, parent: alcool, alias_fr: [whiskey, bourbon, scotch], alias_en: [whisky, bourbon, scotch], ciqual: 1005}
+  - {id: vodka, nom: vodka, parent: alcool, alias_en: [vodka spirit], ciqual: 1008}
+  - {id: gin, nom: gin, parent: alcool, alias_en: [gin spirit], ciqual: 1002}
+  - {id: calvados, nom: calvados, parent: alcool, alias_fr: [eau-de-vie de cidre, pommeau], alias_en: [apple brandy], ciqual: 1024}
+  - {id: armagnac, nom: armagnac, parent: alcool, alias_fr: [fine champagne, eau-de-vie de vin, marc, marc de Bourgogne, grappa], alias_en: [grappa], ciqual: 1023}
+  - {id: eau_de_vie, nom: eau-de-vie de fruits, parent: alcool, alias_fr: [eau de vie, mirabelle (eau-de-vie), poire williams (eau-de-vie), framboise (eau-de-vie), schnaps, schnaps de fruits, slivovitz, quetsche (eau-de-vie)], alias_en: [fruit brandy, schnapps], ciqual: 1001}
+  - {id: liqueur_d_orange, nom: liqueur d'orange, parent: alcool, alias_fr: [triple sec, curaçao, Mandarine Impériale], alias_en: [orange liqueur, triple sec, curacao], ciqual: 1003, ciqual_approche: true}
+  - {id: liqueur, nom: liqueur, alias_fr: [liqueurs, crème de cassis, liqueur de cassis, crème de mûre, liqueur de café, Kahlúa, Baileys, liqueur de framboise, Chambord, limoncello, Chartreuse, Bénédictine], alias_en: [liqueur, coffee liqueur, cream liqueur], composants: [alcool_ethylique, sucre, fruit, lait, cafe], composition_variable: true, ciqual: 1003}
+  - {id: amaretto, nom: amaretto, alias_fr: [liqueur d'amande, Disaronno, frangelico, liqueur de noisette, nocino], alias_en: [almond liqueur, hazelnut liqueur], composants: [alcool_ethylique, sucre, amande, noisette], composition_variable: true, ciqual: 1014, ciqual_approche: true}
+  - {id: pastis, nom: pastis, parent: alcool, alias_fr: [anisette, ouzo, raki, arak, Ricard, absinthe, sambuca], alias_en: [anise liqueur, ouzo, arak], ciqual: 1000}
+  - {id: sake, nom: saké, parent: alcool, alias_fr: [sake, alcool de riz, soju], alias_en: [sake, rice wine], composants: [riz], ciqual: 1026}
+  - {id: tequila, nom: tequila, parent: alcool, alias_fr: [mezcal, cachaça, pisco], alias_en: [tequila, mezcal, cachaca]}
+  - {id: rhum_ambre, nom: rhum ambré, parent: rhum, alias_fr: [rhum brun, rhum vieux, rhum agricole, rhum blanc, rhum épicé], alias_en: [dark rum, white rum, spiced rum], ciqual: 1004, ciqual_approche: true}

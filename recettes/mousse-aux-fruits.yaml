@@ -1,0 +1,30 @@
+id: mousse-aux-fruits
+titre: Mousse aux fruits
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- 330 ml de crème fraîche
+- texte: 200 g de fruits rouges
+  ingredients:
+  - fruit_rouge
+  categorie: true
+- 2 cuillérées à soupe de sucre glace
+etapes:
+- Battre la crème en chantilly, serrer avec une cuillerée de sucre.
+- Laver les fruits, les égoutter puis les mixer. Ajouter le sucre.
+- Passer le coulis obtenu au travers d'un chinois et mélanger délicatement à la mousse avec une spatule.
+- Réserver au frais.
+source:
+  titre: Mousse aux fruits
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_aux_fruits&oldid=650295
+  revision: 650295
+  date: '2020-12-01'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_aux_fruits&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : fruit rouge.'

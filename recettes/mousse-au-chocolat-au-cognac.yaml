@@ -1,0 +1,36 @@
+id: mousse-au-chocolat-au-cognac
+titre: Mousse au chocolat au cognac
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 720
+ingredients:
+- texte: 200 g de chocolat
+  ingredients:
+  - chocolat
+  categorie: true
+- 4 œufs
+- 30 g de beurre
+- 50 g de sucre semoule
+- 6 cl de cognac
+etapes:
+- Fondre le chocolat au bain-marie
+- Séparer les blancs des jaunes d'œuf
+- Mélanger les jaunes d'œuf avec le sucre
+- Mélanger jaune, chocolat et cognac
+- Battre les blancs en neige très fermes
+- Mélanger un tiers des blancs en neige au chocolat
+- Ajouter et mélanger le reste des blancs
+- Verser dans un ou plusieurs récipients, mettre au réfrigérateur 12 heures
+source:
+  titre: Mousse au chocolat au cognac
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_au_chocolat_au_cognac&oldid=644965
+  revision: 644965
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_au_chocolat_au_cognac&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : chocolat.'

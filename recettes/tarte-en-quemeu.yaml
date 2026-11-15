@@ -1,0 +1,36 @@
+id: tarte-en-quemeu
+titre: Tarte en quemeu
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 3 œufs
+- 125 g de sucre en poudre
+- 80 g de farine
+- 750 ml de lait
+etapes:
+- 1 moule à tarte.
+- Dans une gamelle, mélanger doucement au fouet le sucre, la farine et le lait, puis incorporer les oeufs.
+- Faire bouillir en remuant continuellement afin d'éviter les grumeaux
+- Étaler la pâte sur le moule à tarte. La piquer avec une fourchette pour éviter qu'elle ne gonfle pendant la cuisson.
+- Déposer la crème précédemment réalisée sur la pâte.
+- Enfourner à 180°C jusqu'à ce que la crème devienne dorée et gonflée.
+source:
+  titre: Tarte en quemeu
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_en_quemeu&oldid=761541
+  revision: 761541
+  date: '2026-03-10'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_en_quemeu&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Tarte en quemeu.jpg
+  auteur: TaupeGun
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Tarte_en_quemeu.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

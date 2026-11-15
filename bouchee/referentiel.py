@@ -22,6 +22,8 @@ Champs d'un ingrédient (seuls `id` et `nom` sont obligatoires) :
   Ses composants sont alors l'union des composants courants de toutes les marques connues ;
 - sensoriel : {amer: 0 à 3, piquant: 0 à 3, odeur_forte: booléen, textures: [...]} ;
 - ciqual, foodon : codes des sources ouvertes, à compléter ;
+- ciqual_approche : vrai quand le code CIQUAL est celui d'un aliment voisin (souvent le parent),
+  faute d'équivalent exact dans la table ; à préciser avec CIQUAL 2025 ;
 - note : remarque libre (justification d'un allergène, d'une composition).
 
 Un ingrédient qui a des enfants est une catégorie : une ligne de recette résolue vers une
@@ -43,7 +45,7 @@ DOSSIER_REFERENTIEL = RACINE / "referentiel"
 
 CHAMPS_CONNUS = {
     "id", "nom", "parent", "alias_fr", "alias_en", "allergenes", "composants",
-    "composition_variable", "sensoriel", "ciqual", "foodon", "note",
+    "composition_variable", "sensoriel", "ciqual", "ciqual_approche", "foodon", "note",
 }
 TEXTURES = {
     "croquant", "fondant", "filandreux", "gluant", "granuleux", "elastique",

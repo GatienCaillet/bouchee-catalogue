@@ -1,0 +1,27 @@
+id: rotie
+titre: Rôtie
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- tranches de pain
+- sucre en poudre
+- eau (+ glaçons)
+- vin rouge
+etapes:
+- Faire griller les tranches de pain et les réduire en morceaux dans un saladier. Ajouter ensuite de l'eau et des
+  glaçons. Verser du sucre en poudre et ajouter du vin rouge. La quantité de sucre et de vin rouge à ajouter est
+  subjective. Il est pour cela conseillé de goûter la rôtie après chaque ajout d'un des deux ingrédients pour arriver
+  à trouver la proportion qui convient le plus.
+source:
+  titre: Rôtie
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/R%C3%B4tie&oldid=476708
+  revision: 476708
+  date: '2015-04-25'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/R%C3%B4tie&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

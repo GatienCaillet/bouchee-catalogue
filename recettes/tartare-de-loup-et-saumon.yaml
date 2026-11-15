@@ -1,0 +1,43 @@
+id: tartare-de-loup-et-saumon
+titre: Tartare de loup et saumon
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 0
+  repos: 120
+ingredients:
+- 200 g de saumon fumé coupé en petits dés
+- 2 citrons
+- 5 échalotes hachées
+- 1 jaune d'œuf
+- texte: 2 cuillères à soupe d'huile
+  ingredients:
+  - huile
+  categorie: true
+- texte: 1 cuillère à café de moutarde
+  ingredients:
+  - moutarde
+  categorie: true
+- texte: 2 cuillères à café de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- 1 cuillère à soupe de câpres hachés
+- sel et poivre du moulin
+etapes:
+- Dans un saladier, mélangez les petits dés du loup et du saumon, et préservez le tartare au frais dans le réfrigérateur.
+- Dans un bol, mélangez le jaune d'œuf, l'huile, le vinaigre, le jus des citrons, salez et poivrez.
+- Incorporez dans le mélange du bol, les échalotes et les câpres hachés, mélangez bien et laissez reposer au réfrigérateur
+  pendant au moins 2 heures, en vérifiant de temps en temps l'assaisonnement.
+- Servez très frais le tartare.
+source:
+  titre: Tartare de loup et saumon
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tartare_de_loup_et_saumon&oldid=644084
+  revision: 644084
+  date: '2020-07-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tartare_de_loup_et_saumon&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : huile, moutarde, vinaigre.'

@@ -1,0 +1,30 @@
+id: sauce-cinq-p
+titre: Sauce cinq P
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 5
+  repos: 0
+ingredients:
+- texte: 2 dl de crème
+  ingredients:
+  - creme
+  categorie: true
+- 2 cuillères à soupe de concentré de tomate
+- 2 cuillères à soupe de parmesan
+- 1/2 bouquet de persil
+- à volonté poivre.
+etapes:
+- Mettre le tout dans une casserole, porter à ébullition, cuire à feu doux pendant 5 min.
+- P Cinq Catégorie:Cuisine italienne Sauce cinq P Sauce cinq P
+source:
+  titre: Sauce cinq P
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_cinq_P&oldid=651503
+  revision: 651503
+  date: '2020-12-18'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_cinq_P&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : crème.'

@@ -1,0 +1,25 @@
+id: croque-monsieur-au-four
+titre: Croque-monsieur au four
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 12
+  repos: 0
+ingredients:
+- 8 tranches de pain de mie
+- 4 tranches de jambon blanc
+- 100 g d'emmental râpé
+- 20 g de beurre
+- 10 cl de crème fraîche
+etapes:
+- Préchauffer le four à 200 °C.
+- Beurrer les tranches de pain, poser le jambon et un peu d'emmental entre deux tranches.
+- Napper le dessus de crème et du reste de fromage.
+- Enfourner 12 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

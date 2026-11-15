@@ -1,0 +1,28 @@
+id: gratin-de-chou-fleur-au-parmesan
+titre: Gratin de chou-fleur au parmesan
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 35
+  repos: 0
+ingredients:
+- 1 chou-fleur
+- 20 cl de crème fraîche
+- 2 œufs
+- 50 g de parmesan râpé
+- 1 gousse d'ail
+- sel, poivre
+etapes:
+- Détacher le chou-fleur en petits bouquets et les laver.
+- Cuire le chou-fleur 10 minutes à la vapeur ou à l'eau bouillante salée, puis bien égoutter.
+- Frotter un plat à gratin avec la gousse d'ail coupée en deux.
+- Battre les œufs avec la crème, saler et poivrer.
+- Disposer le chou-fleur dans le plat, verser la crème aux œufs et parsemer de parmesan.
+- Enfourner 25 minutes à 190 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gratin à la crème »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

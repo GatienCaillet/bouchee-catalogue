@@ -1,0 +1,26 @@
+id: papillote-de-colin-aux-poireaux
+titre: Papillote de colin aux poireaux
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 20
+  repos: 0
+ingredients:
+- 4 filets de colin
+- 2 poireaux
+- 10 cl de crème liquide
+- sel, poivre
+etapes:
+- Préchauffer le four à 200 °C.
+- Émincer les poireaux et les faire fondre 8 minutes à la poêle.
+- Découper 4 grandes feuilles de papier cuisson. Répartir la moitié de la garniture au centre, poser le poisson,
+  puis le reste de la garniture.
+- Saler, poivrer, arroser d'huile ou de crème, puis fermer hermétiquement les papillotes.
+- Enfourner 15 à 20 minutes selon l'épaisseur du poisson et servir dans la papillote.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « papillote »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

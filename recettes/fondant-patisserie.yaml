@@ -1,0 +1,30 @@
+id: fondant-patisserie
+titre: Fondant (pâtisserie)
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- 500 g de sucre cristallisé
+- 150 g d'eau
+- 1 noix de glucose.
+etapes:
+- Cuire ensemble les ingrédients dans un poêlon (casserole en cuivre) jusqu'à ce que le mélange atteigne 117°C.
+- Puis verser la préparation sur une plaque à rebords et la laisser refroidir jusqu'à une température de 37°C.
+- Travailler ensuite la masse avec un palette, puis pétrir à la main, de manière à obtenir une pâte blanche, lisse,
+  souple et homogène.
+- Laisser maturer le fondant 3 jours dans une boite en plastique fermée.
+- Pour utiliser le fondant, il faut dans un premier temps en réchauffer une petite quantité dans un poêlon (de 30
+  à 37°c).
+- Puis l'assouplir si nécessaire en ajoutant du sirop (préalablement préparé avec de l'eau et du sucre mélangés).
+source:
+  titre: Fondant (pâtisserie)
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fondant_%28p%C3%A2tisserie%29&oldid=679168
+  revision: 679168
+  date: '2022-06-18'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fondant_%28p%C3%A2tisserie%29&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

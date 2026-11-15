@@ -1,0 +1,29 @@
+id: pate-a-galettes
+titre: Pâte à galettes
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 120
+ingredients:
+- 500 g de farine de sarrasin (dit blé noir)
+- 1 litre d'eau
+- ½ cuillerée à soupe de sel de Guérande
+etapes:
+- Mettre la farine dans un grand saladier ainsi que le sel. Verser de l'eau petit à petit en l'incorporant bien,
+  à la main ou avec une cuillère en bois pour obtenir un pâton épais.
+- Bien battre ce pâton en soulevant la pâte pour incorporer de l'air. Laisser reposer au frais au moins 2 heures.
+- Juste avant l'utilisation, délayer avec le reste d'eau. Elle doit avoir la consistance d'une huile épaisse.
+- Sur un bilig appelé aussi « tuile », en Haute Bretagne, ou sur une grande poêle plate, verser une louchée de pâte.
+  Il faut que la poêle soit très chaude. Se munir d'un « rozell » (ou tournette), outil en bois qui sert à étaler
+  la pâte.
+source:
+  titre: Pâte à galettes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_%C3%A0_galettes&oldid=372229
+  revision: 372229
+  date: '2012-07-07'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_%C3%A0_galettes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

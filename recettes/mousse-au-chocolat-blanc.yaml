@@ -1,0 +1,32 @@
+id: mousse-au-chocolat-blanc
+titre: Mousse au chocolat blanc
+portions: 4
+temps:
+  preparation: 16
+  cuisson: 0
+  repos: 60
+ingredients:
+- 100 g de chocolat blanc
+- 4 dl de crème entière
+etapes:
+- Fondre le chocolat blanc au bain-marie avec 0.5 dl de crème. Bien mélanger.
+- Fouetter la crème en mousse bien aérée.
+- Mélanger un tiers de la crème fouettée au chocolat fondu.
+- Incorporer délicatement le reste de crème.
+- Verser dans un récipient et mettre refroidir au fond du réfrigérateur une heure maximum. Consommez rapidement.
+source:
+  titre: Mousse au chocolat blanc
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_au_chocolat_blanc&oldid=452738
+  revision: 452738
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_au_chocolat_blanc&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Mousse au chocolat blanc.jpg
+  auteur: Calimo
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Mousse_au_chocolat_blanc.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

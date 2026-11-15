@@ -1,0 +1,37 @@
+id: pizza-aux-poivrons
+titre: Pizza aux poivrons
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 55
+  repos: 0
+ingredients:
+- 1 pâte à pizza
+- 400 g de concassé de tomates
+- 1 poivron rouge
+- 1 poivron jaune
+- 1 oignon
+- 10 tranches de chorizo
+- 120 g de mozzarella
+- 50 g de comté
+- texte: huile.
+  ingredients:
+  - huile
+  categorie: true
+etapes:
+- Couper les poivrons et l'oignon. Réserver quatre tranches de poivron jaune. Le faire mijoter pendant une demi
+  heure à feu doux avec de l'huile.
+- Étaler la pâte à pizza dans un plat. La recouvrir de concassé de tomates et des légumes cuits.
+- Couper la mozzarella en dés et râper le comté. En couvrir la pizza ainsi que les quatre tranches de poivron restantes.
+- Cuire au four pendant un quart d'heure à 220°C. Au bout de dix minutes sortir la pizza pour y ajouter le chorizo.
+source:
+  titre: Pizza aux poivrons
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_aux_poivrons&oldid=645027
+  revision: 645027
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_aux_poivrons&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

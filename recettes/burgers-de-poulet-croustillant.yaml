@@ -1,0 +1,27 @@
+id: burgers-de-poulet-croustillant
+titre: Burgers de poulet croustillant
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 10
+  repos: 0
+ingredients:
+- 4 pains à burger
+- 2 blancs de poulet
+- 1 œuf
+- 80 g de chapelure panko
+- 4 feuilles de laitue
+- 4 c. à soupe de mayonnaise
+- 3 c. à soupe d'huile de tournesol
+- sel
+etapes:
+- Couper les blancs en deux dans l'épaisseur, les passer dans l'œuf battu puis dans la chapelure.
+- Les dorer 4 minutes de chaque côté dans l'huile.
+- Garnir les pains de mayonnaise, laitue et poulet.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « burger »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

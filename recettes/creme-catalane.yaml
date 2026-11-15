@@ -1,0 +1,37 @@
+id: creme-catalane
+titre: Crème catalane
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 litre de lait
+- 8 jaunes d'œuf
+- 4 cuillères à soupe de sucre en poudre, plus 3 pour le caramel
+- 1 zeste de citron râpé
+- 1 bâton de cannelle
+- 2 cuillères à soupe de farine de maïs
+etapes:
+- Faire infuser le bâton de cannelle dans le lait et le porter à ébullition.
+- 'Dans une casserole, fouetter ensemble :'
+- le zeste d'un citron non traité
+- le sucre, les jaunes d'œuf
+- Incorporer au fouet la farine de façon homogène.
+- Verser progressivement le lait bouillant sur le mélange précédent en fouettant au fur et à mesure pour ne pas
+  coaguler brutalement la préparation.
+- Déposer la casserole sur le feu, faire cuire lentement en remuant bien au fond de la casserole, pour éviter que
+  ça n'attache.
+- Verser la crème dans un compotier ou dans des ramequins, laisser refroidir.
+- Étaler le sucre sur toute la surface de la crème et brûler avec une tige rougie au feu ou bien sous le grill du
+  four, en surveillant attentivement.
+source:
+  titre: Crème catalane
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cr%C3%A8me_catalane&oldid=516813
+  revision: 516813
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cr%C3%A8me_catalane&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,29 @@
+id: saute-de-boeuf-au-brocoli-sauce-soja
+titre: Sauté de bœuf au brocoli, sauce soja
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 12
+  repos: 0
+ingredients:
+- 500 g de rumsteck
+- 400 g de brocoli
+- 2 gousses d'ail
+- 1 morceau de gingembre frais
+- 3 c. à soupe de sauce soja
+- 1 c. à café de fécule de maïs
+- 2 c. à soupe d'huile de colza
+- 1 c. à soupe de graines de sésame
+etapes:
+- Couper le bœuf en lanières ou en morceaux, et les légumes en morceaux de même taille.
+- Hacher l'ail et le gingembre. Délayer la fécule dans la sauce soja avec 5 cl d'eau.
+- Faire sauter le bœuf 3 à 5 minutes à feu vif dans l'huile, au wok ou dans une grande poêle, puis le réserver.
+- Faire sauter les légumes 5 minutes avec l'ail et le gingembre, en les gardant croquants.
+- Remettre le bœuf, verser la sauce et mélanger jusqu'à ce qu'elle nappe. Parsemer de sésame et servir avec du riz.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « sauté au wok »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

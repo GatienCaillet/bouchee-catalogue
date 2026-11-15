@@ -1,0 +1,27 @@
+id: gratin-de-pates-au-jambon
+titre: Gratin de pâtes au jambon
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 30
+  repos: 0
+ingredients:
+- 400 g de coquillettes
+- 200 g de jambon blanc
+- 40 g de beurre
+- 40 g de farine
+- 60 cl de lait
+- 100 g d'emmental râpé
+- sel, poivre
+etapes:
+- Cuire les pâtes et les égoutter.
+- Préparer une béchamel avec le beurre, la farine et le lait.
+- Mélanger pâtes, jambon en dés et béchamel dans un plat, et couvrir d'emmental.
+- Gratiner 20 minutes à 200 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

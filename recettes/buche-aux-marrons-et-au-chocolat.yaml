@@ -1,0 +1,40 @@
+id: buche-aux-marrons-et-au-chocolat
+titre: Bûche aux marrons et au chocolat
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 30
+  repos: 2880
+ingredients:
+- 1 kg de marrons
+- 2 grosses cuillerées à soupe de sucre en poudre de sucre
+- 3/4 de litre de lait
+- 1 paquet de sucre vanillé
+- 1 pincée de sel
+- 100 g de beurre
+- texte: 250 g de chocolat
+  ingredients:
+  - chocolat
+  categorie: true
+- un peu de Kirsch
+etapes:
+- Éplucher les marrons, y compris la fine écorce au contact de la chair du marron.
+- Les faire cuire dans le lait additionné du sucre, du sel et du sucre vanillé, durant 30 min. La majeure partie
+  du lait est alors incorporée dans les marrons.
+- Passer les marrons au moulin à légumes et ajouté le lait qui n'a pas été incorporé.
+- Ajouter le beurre dans les marrons encore chauds.
+- Faire fondre le chocolat et l'incorporer dans l'appareil.
+- Ajouter le Kirsch.
+- Rouler grossièrement cette pâte en forme de bûche.
+- Laisser reposer durant 48 à 72 heures au frais, emballé (film étirable ou aluminium) pour éviter le desséchement.
+source:
+  titre: Bûche aux marrons et au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/B%C3%BBche_aux_marrons_et_au_chocolat&oldid=649774
+  revision: 649774
+  date: '2020-11-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/B%C3%BBche_aux_marrons_et_au_chocolat&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : chocolat.'

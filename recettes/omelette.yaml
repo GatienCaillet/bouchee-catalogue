@@ -1,0 +1,27 @@
+id: omelette
+titre: Omelette
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 œufs
+- ½ pincée de sel
+- une prise de poivre
+etapes:
+- Casser les œufs dans un bol suffisamment grand avec le sel et le poivre
+- Battre délicatement à l'aide d'une fourchette jusqu'à l'homogénéisation complète du jaune et du blanc
+- Verser immédiatement dans une poêle bien chaude
+- Cuire uniformément
+- Servir au plus vite.
+source:
+  titre: Omelette
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Omelette&oldid=513961
+  revision: 513961
+  date: '2016-05-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Omelette&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

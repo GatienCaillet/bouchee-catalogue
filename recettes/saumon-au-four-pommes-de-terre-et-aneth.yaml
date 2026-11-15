@@ -1,0 +1,24 @@
+id: saumon-au-four-pommes-de-terre-et-aneth
+titre: Saumon au four, pommes de terre et aneth
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 37
+  repos: 0
+ingredients:
+- 4 pavés de saumon
+- 800 g de pommes de terre grenaille
+- 1/2 botte d'aneth
+- 1 citron
+- 3 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Rôtir les pommes de terre coupées en deux 25 minutes à 200 °C avec l'huile.
+- Ajouter le saumon, l'aneth et des rondelles de citron, et cuire encore 12 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

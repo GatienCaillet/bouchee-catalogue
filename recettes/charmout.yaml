@@ -1,0 +1,39 @@
+id: charmout
+titre: Charmout
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 5
+  repos: 0
+ingredients:
+- 350ml d'huile d'arachide
+- deux grands oignons
+- dix gousses d'ail
+- trois cuillères à soupe de viande séchée et moulu (charmout)
+- deux cuillères à soupe de gombo séché et moulu
+- une demi cuillère à soupe de concentré de tomates ou en poudre
+- deux cuillères à café de sel
+- texte: une cuillère à café d'épices
+  ingredients:
+  - epice
+  categorie: true
+etapes:
+- Premièrement, il faut découper les oignons en petit morceaux
+- Le faire cuire dans une casserole avec un peu d'huile jusqu'à ce que l'oignon jaunisse.
+- Ajouter un peu d'eau à l'oignon. Laisser cuire jusqu'à ce qu'il disparaisse. Ensuite, ajouter de aile rapé, du
+  charmout, de la purée de tomate (sans ajouter d'eau) et mélanger le tout pendant 5 minutes. ajouter un peu d'eau
+  du maggi et saler.
+- mettre dans la sauce le natron
+- Ensuite ajouter en tournant le gombo sec.
+- Laisser cuire
+source:
+  titre: Charmout
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Charmout&oldid=757272
+  revision: 757272
+  date: '2025-12-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Charmout&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : épice.'

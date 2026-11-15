@@ -1,0 +1,26 @@
+id: brochettes-de-boeuf-marinees
+titre: Brochettes de bœuf marinées
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 8
+  repos: 60
+ingredients:
+- 600 g de rumsteck
+- 3 c. à soupe de sauce soja
+- 2 c. à soupe d'huile d'olive
+- 1 c. à soupe de miel
+- 1 gousse d'ail
+- 1 poivron rouge
+- 1 oignon
+etapes:
+- Couper le bœuf en cubes et le faire mariner 1 heure avec la sauce soja, l'huile, le miel et l'ail.
+- Enfiler sur des brochettes en alternant avec le poivron et l'oignon.
+- Griller 8 minutes en retournant.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « brochettes »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

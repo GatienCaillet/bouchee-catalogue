@@ -1,0 +1,37 @@
+id: bescoins
+titre: Bescoins
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 40
+  repos: 180
+ingredients:
+- 500 g de farine t55
+- 25 cl de lait entier (environ, suivant la farine…)
+- 1 œuf
+- 25 g de levure de boulanger fraîche
+- 50 g de beurre ramolli
+- 1 pincée de safran
+- 3 cuillères à café de graines d'anis vert
+- sel.
+etapes:
+- Délayer la levure dans un peu de lait et laisser reposer.
+- Mélanger la farine, le "levain", le reste de lait, le sel, l'œuf et malaxer de façon à ce que la pâte soit homogène
+  et n'attache pas.
+- Incorporer le beurre, le safran et les graines d'anis.
+- Pétrir à nouveau la pâte.
+- Former une boule, couvrir d'un linge humide et laisser lever 3h dans un endroit chaud tempéré (25°)
+- puis mettre la pâte au frais jusqu'au lendemain.
+- Le lendemain, faire plusieurs boules et laisser lever.
+- Dorer à l'œuf additionné de lait.
+- Enfourner à four chaud thermostat 7-8 (220°C) pendant 40 min.
+source:
+  titre: Bescoins
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bescoins&oldid=648309
+  revision: 648309
+  date: '2020-11-01'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bescoins&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

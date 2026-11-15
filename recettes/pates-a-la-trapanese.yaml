@@ -1,0 +1,36 @@
+id: pates-a-la-trapanese
+titre: Pâtes à la Trapanese
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 10
+  repos: 0
+ingredients:
+- texte: 500 g de pâtes
+  ingredients:
+  - pates
+  categorie: true
+- Tomates
+- Olives
+- Ail
+- Oignons
+- Basilic
+- Huile d'olive
+etapes:
+- Dorer à l'huile d'olive, l'oignon et l'ail émincés
+- Incorpore les tomates pelées coupées en cubes et les olives dénoyautées et coupées finement.
+- Cuire 10 min, ajouter sel et poivre.
+- Cuire les pâtes « al dente ».
+- Ajouter les pâtes égouttées et le basilic ciselé à la sauce.
+- Chauffer et servir.
+source:
+  titre: Pâtes à la Trapanese
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_%C3%A0_la_Trapanese&oldid=452134
+  revision: 452134
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_%C3%A0_la_Trapanese&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : pâtes.'

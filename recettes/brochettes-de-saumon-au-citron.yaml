@@ -1,0 +1,23 @@
+id: brochettes-de-saumon-au-citron
+titre: Brochettes de saumon au citron
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 6
+  repos: 0
+ingredients:
+- 600 g de pavé de saumon
+- 2 citrons
+- 2 c. à soupe d'huile d'olive
+- 1/2 botte d'aneth
+- sel, poivre
+etapes:
+- Couper le saumon en cubes et les mélanger à l'huile, au zeste d'un citron et à l'aneth.
+- Enfiler sur des brochettes avec des quartiers de citron et griller 6 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « brochettes »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

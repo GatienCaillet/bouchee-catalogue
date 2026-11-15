@@ -1,0 +1,39 @@
+id: escalope-de-veau-comtoise
+titre: Escalope de veau Comtoise
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 15
+  repos: 0
+ingredients:
+- 1 escalope de veau
+- 1 tranche de jambon cru fumé
+- texte: 100 g de champignons cuits
+  ingredients:
+  - champignon
+  categorie: true
+- 1 verre de vin blanc du Jura
+- 1 grosse cuillère de crème fraîche
+- 100 g de comté râpé
+- De l'huile d'olive
+etapes:
+- Préchauffer votre four à 150 °C thermostat 5
+- Faite revenir et dorer les escalopes de veau dans l'huile d'olive dans une grande poêle. Salez et poivrez.
+- Mettre les escalopes dans un plat, puis les recouvrir de fines tranches de jambon cru fumé et du comté râpé. Faire
+  fondre et dorer le fromage au four (10 min)
+- Déglacer la poêle avec 1 verre de vin blanc du Jura, ajouter les champignons et 1 cuillère à soupe de crème fraîche
+  et laisser cuire 5 min.
+- Napper les escalopes de veau sorties du four avec la sauce au comté
+- Accompagné les escalopes de veau Comtoise de tagliatelles, de pâte fraîche, ou de pomme de terre à l'eau
+- Accompagner de vin blanc du Jura, de Savagnin ou de Vin Jaune ...
+source:
+  titre: Escalope de veau Comtoise
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Escalope_de_veau_Comtoise&oldid=331255
+  revision: 331255
+  date: '2011-05-21'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Escalope_de_veau_Comtoise&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes, 1 ligne(s)
+    retirée(s) de la liste (ustensiles, titres de sous-section) ; catégories gardées telles quelles : champignon.'

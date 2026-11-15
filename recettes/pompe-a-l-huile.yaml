@@ -1,0 +1,30 @@
+id: pompe-a-l-huile
+titre: Pompe à l'huile
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 30
+ingredients:
+- 500 g de farine pour la pâte
+- 125 g de farine pour le levain
+- 25 g de levure de boulanger
+- 90 g de sucre
+- 25 cl d'huile d'olive
+- 25 cl d'eau de fleur d'oranger
+- 1 zeste d'orange.
+etapes:
+- Prendre 25g de levure de boulanger effritée et 125 g d'eau tiède ; mélanger à la fourchette
+- Puis dans un grand bol mettre 125g de farine type 55 tamisée et ajouter le mélange levure plus eau et mélanger
+  à la fourchette
+- Couvrir et laisser lever dans le four éteint pendant 30 minutes. La pâte doit faire des bulles.
+source:
+  titre: Pompe à l'huile
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pompe_%C3%A0_l%27huile&oldid=650279
+  revision: 650279
+  date: '2020-11-30'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pompe_%C3%A0_l%27huile&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

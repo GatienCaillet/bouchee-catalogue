@@ -1,0 +1,27 @@
+id: wraps-au-poulet-et-aux-crudites
+titre: Wraps au poulet et aux crudités
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 6
+  repos: 0
+ingredients:
+- 4 tortillas de blé
+- 300 g de blanc de poulet
+- 1 avocat
+- 2 tomates
+- 1 laitue
+- 4 c. à soupe de fromage blanc
+- 1 citron vert
+- sel, poivre
+etapes:
+- Cuire le poulet en lanières à la poêle 6 minutes.
+- Écraser l'avocat avec le jus du citron vert ; couper les tomates en dés.
+- Tartiner les tortillas de fromage blanc, garnir et rouler serré.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,36 @@
+id: escalivada
+titre: Escalivada
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 110
+  repos: 60
+ingredients:
+- 8 tomates
+- 6 poivrons (verts et rouges)
+- 3 aubergines
+- 5 oignons frais
+- 3 gousses d'ail
+- Huile d'olive, sel, poivre
+etapes:
+- Laver et sécher les légumes.
+- Couper l'aubergines et les oignons en deux dans le sens de la longueur
+- Enrober chaque tomate et chaque oignon dans du papier d'aluminium, enfourner
+- Retirer les tomates au bout de 25 min, les poivrons et les aubergines aprés 35 min, les oignons 50 min (leur peau
+  sera brunie et cloquée sur toutes les faces)
+- Ouvrer les papillottes et laissez refroidir avant de peler les tomates.
+- Détailler les tomates et les oignons en rondelles
+- Peler et épépiner les poivrons et les aubergines, couper les en lanières
+- Mettre les légumes dans un recipient, arroser les d'huile d'olive et répartir les gousses d'ail en petits morceaux
+  sur toute la surface
+- Laissez mariner 1 heure en remuant
+source:
+  titre: Escalivada
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Escalivada&oldid=452690
+  revision: 452690
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Escalivada&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

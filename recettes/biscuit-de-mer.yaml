@@ -1,0 +1,29 @@
+id: biscuit-de-mer
+titre: Biscuit de mer
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 30
+  repos: 0
+ingredients:
+- farine
+- eau
+- sel (optionnel)
+etapes:
+- Préchauffer le four à 200°C
+- Pétrir tous les ingrédients jusqu'à obtenir une pâte homogène
+- L'étaler pour avoir une épaisseur d'environ 1 centimètre (elle réduira à la cuisson)
+- Sans découper la pâte, enfourner pendant une demi-heure
+- Retirer du four, découper des carrés d'environ 8 cm, et percer des séries de trous avec une fourchette pour faciliter
+  la cuisson
+- Retourner les biscuits et remettre au four pour une autre demi-heure.
+source:
+  titre: Biscuit de mer
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Biscuit_de_mer&oldid=648305
+  revision: 648305
+  date: '2020-11-01'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Biscuit_de_mer&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

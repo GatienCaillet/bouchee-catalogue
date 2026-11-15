@@ -1,0 +1,25 @@
+id: compote-de-pommes-et-poires-a-la-vanille
+titre: Compote de pommes et poires à la vanille
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 20
+  repos: 0
+ingredients:
+- 500 g de pommes
+- 500 g de poires
+- 40 g de sucre
+- 1 gousse de vanille
+- 10 cl d'eau
+etapes:
+- Éplucher les pommes et les poires et les couper en morceaux.
+- Mettre les fruits dans une casserole avec l'eau, le sucre et la gousse de vanille fendue.
+- Couvrir et cuire 20 minutes à feu doux en remuant de temps en temps.
+- Retirer la vanille, écraser à la fourchette ou mixer selon la texture voulue, et laisser refroidir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « compote »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

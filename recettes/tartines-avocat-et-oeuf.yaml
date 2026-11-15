@@ -1,0 +1,25 @@
+id: tartines-avocat-et-oeuf
+titre: Tartines avocat et œuf
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 6
+  repos: 0
+ingredients:
+- 8 tranches de pain complet
+- 2 avocats
+- 4 œufs
+- 1 citron
+- 1 pincée de piment d'Espelette
+- sel
+etapes:
+- Cuire les œufs 6 minutes à l'eau bouillante, puis les écaler.
+- Écraser les avocats avec le jus du citron et le sel.
+- Tartiner le pain grillé, poser un demi-œuf et une pincée de piment.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tartine »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

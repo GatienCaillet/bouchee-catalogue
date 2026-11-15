@@ -1,0 +1,56 @@
+id: beignet-aux-pommes
+titre: Beignet aux pommes
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 0
+  repos: 60
+ingredients:
+- 125 g de farine
+- texte: 2 cuillères à soupe d'huile
+  ingredients:
+  - huile
+  categorie: true
+- de l'huile de friture
+- 1 verre d'eau
+- ½ sachet de levure chimique
+- de la cannelle en poudre
+- 1 blanc d'œuf
+- 500 g de pommes
+- 50 g de sucre en poudre
+etapes:
+- 'Préparez la pâte :'
+- Dans un verre d'eau, diluez la levure.
+- Dans une jatte, mélangez la farine avec l'huile et le verre d'eau contenant la levure.
+- Faites une pâte liquide.
+- Couvrez la jatte avec une serviette et laissez-la reposer dans un endroit sec pendant 1 heure.
+- 'Préparez les pommes :'
+- Pelez les pommes et retirez le cœur et les pépins.
+- Découpez les pommes en tranches épaisses.
+- Poudrez les tranches de sucre (et éventuellement de cannelle) et laissez macérer le temps que la pâte finisse
+  de reposer.
+- 'Faites les beignets :'
+- Montez le blanc d'œuf en neige.
+- Incorporez le blanc à la pâte très délicatement avec une fourchette avant de l'utiliser.
+- Faites chauffer l'huile très chaude.
+- Trempez les pommes dans la pâte pour bien les enrober avant de les plonger dans l'huile de friture très chaude.
+  Retournez les beignets plusieurs fois pour qu'ils soient bien dorés et croquants. N'en mettez pas trop à la fois
+  sinon la température du bain de friture retombera et la cuisson ne s'effectuera pas dans de bonnes conditions.
+- Égouttez les beignets sur du papier absorbant, poudrez-les de sucre et servez tiède ou chaud.
+source:
+  titre: Beignet aux pommes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beignet_aux_pommes&oldid=451697
+  revision: 451697
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beignet_aux_pommes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'
+photo:
+  fichier: Beignet good for mouth.jpg
+  auteur: Zoe from Seattle, USA
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Beignet_good_for_mouth.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

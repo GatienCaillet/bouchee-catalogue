@@ -1,0 +1,30 @@
+id: risotto-a-la-betterave-et-au-parmesan
+titre: Risotto à la betterave et au parmesan
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 300 g de riz arborio
+- 150 g de betteraves cuites
+- 1 oignon
+- 1 l de bouillon de légumes
+- 50 g de parmesan râpé
+- 30 g de beurre
+- sel, poivre
+etapes:
+- Faire revenir l'oignon, nacrer le riz.
+- Mouiller de bouillon louche par louche pendant 18 minutes en ajoutant la betterave mixée à mi-cuisson.
+- Finir avec le beurre et le parmesan.
+decouverte:
+  aliment: betterave
+  niveau: 2
+  pourquoi: Mixée dans le riz, la betterave colore et adoucit, le parmesan reste en premier plan.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

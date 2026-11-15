@@ -1,0 +1,34 @@
+id: dame-blanche
+titre: Dame blanche
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 boules de glace à la vanille
+- 25 g de chocolat noir
+- 2 cl lait
+- crème chantilly
+- texte: 1 biscuit, vermicelles en chocolat.
+  ingredients:
+  - biscuit
+  - vermicelle_sucre
+  categorie: true
+etapes:
+- Fondre le chocolat cassé en morceaux avec le lait au bain marie
+- Verser un tiers du chocolat dans une coupe, mettre une boule de glace
+- verser un tiers du chocolat, mettre la seconde boule de glace, verser le dernier tiers de chocolat chaud, puis
+  recouvrir de chantilly
+- Décorer du biscuit et de vermicelles en chocolat.
+source:
+  titre: Dame blanche
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Dame_blanche&oldid=650292
+  revision: 650292
+  date: '2020-12-01'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Dame_blanche&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : biscuit, vermicelles décoratifs.'

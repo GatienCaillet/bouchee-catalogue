@@ -1,0 +1,30 @@
+id: boeuf-hache
+titre: Bœuf haché
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 30
+  repos: 0
+ingredients:
+- 400 g de bœuf haché cru
+- texte: 4 cuillers à café de moutarde (au choix, à l'ancienne, au poivre vert, au thym ou au safran)
+  ingredients:
+  - moutarde
+  categorie: true
+- 2 cuillers à soupe de persil haché, sel de cuisine
+- 2 cuillers à soupe d'huile de cuisson
+etapes:
+- 'Temps estimé de préparation : 20 minutes'
+- Mélanger le bœuf haché cru avec la moutarde et le persil, et former 8 galettes.
+- Les faire dorer 10 minutes, à feux moyen, dans une poêle antiadhésive avec l'huile. Saler à mi-cuisson.
+source:
+  titre: Bœuf haché
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/B%C5%93uf_hach%C3%A9&oldid=685282
+  revision: 685282
+  date: '2022-09-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/B%C5%93uf_hach%C3%A9&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : moutarde.'

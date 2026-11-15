@@ -1,0 +1,32 @@
+id: pizza-calzone-aux-aubergines
+titre: Pizza Calzone aux aubergines
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 20
+  repos: 0
+ingredients:
+- 250 g de pâte à pain
+- 1 aubergine coupée en petits dés
+- 1 oignon émincé
+- 1 gousse d'ail hachée
+- 50 g de tomates séchées
+- sel, poivre, origan, huile d'olive.
+etapes:
+- Placer les dés d'aubergine dans une passoire, les saupoudrer de sel et laisser dégorger.
+- Rissoler l'oignon et l'ail dans l'huile, leur ajouter l'aubergine (rincée), les tomates séchées coupées en lamelles,
+  ainsi que les épices et laisser mijoter une vingtaine de min.
+- Couper la pâte en deux portions et étendre chacune d'entre elles au rouleau en deux cercles.
+- Placer la garniture sur une moitié et rabattre la pâte de manière à enfermer la garniture.
+- Souder les bords par pression.
+- Placer les pizzas sur un moule préalablement huilé et cuire 20 min à 235°C.
+source:
+  titre: Pizza Calzone aux aubergines
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_Calzone_aux_aubergines&oldid=455199
+  revision: 455199
+  date: '2014-12-14'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_Calzone_aux_aubergines&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -5,21 +5,21 @@
 famille: legumineuses-fruits-a-coque-graines
 ingredients:
   - {id: legumineuse, nom: légumineuse, alias_fr: [légumineuses, légumes secs], alias_en: [pulses, dried legumes]}
-  - {id: lentille, nom: lentille, parent: legumineuse, alias_fr: [lentilles, lentilles vertes, lentilles corail, lentilles du Puy], alias_en: [lentils, red lentils], sensoriel: {textures: [farineux]}, ciqual: 20504}
-  - {id: pois_chiche, nom: pois chiche, parent: legumineuse, alias_fr: [pois chiches], alias_en: [chickpea, chickpeas, garbanzo beans], ciqual: 20516}
-  - {id: haricot_sec, nom: haricot sec, parent: legumineuse, alias_fr: [haricots blancs, haricots rouges, haricots noirs, lingots, flageolets, cocos], alias_en: [white beans, kidney beans, black beans, cannellini beans], sensoriel: {textures: [farineux]}, ciqual: 20501}
+  - {id: lentille, nom: lentille, parent: legumineuse, alias_fr: [lentilles], alias_en: [lentils], sensoriel: {textures: [farineux]}, ciqual: 20504}
+  - {id: pois_chiche, nom: pois chiche, parent: legumineuse, alias_fr: [pois chiches trempés, pois chiches trempés la veille, pois chiches], alias_en: [chickpea, chickpeas, garbanzo beans], ciqual: 20516}
+  - {id: haricot_sec, nom: haricot sec, parent: legumineuse, sensoriel: {textures: [farineux]}, ciqual: 20501}
   - {id: feve, nom: fève, parent: legumineuse, alias_fr: [fèves], alias_en: [broad beans, fava beans], ciqual: 20517}
   - {id: petit_pois, nom: petit pois, parent: legumineuse, alias_fr: [petits pois, pois cassés], alias_en: [peas, green peas, split peas], ciqual: 20072}
-  - {id: haricot_vert, nom: haricot vert, parent: legumineuse, alias_fr: [haricots verts, haricots beurre, mange-tout], alias_en: [green beans, french beans, string beans], ciqual: 20061}
+  - {id: haricot_vert, nom: haricot vert, parent: legumineuse, alias_fr: [haricots verts, mange-tout], alias_en: [green beans, french beans, string beans], ciqual: 20061}
 
   - {id: soja, nom: soja, parent: legumineuse, allergenes: [soja], alias_fr: [graines de soja, fèves de soja], alias_en: [soy, soya, soybeans], ciqual: 20901}
   - {id: farine_de_soja, nom: farine de soja, parent: soja, alias_en: [soy flour], ciqual: 20900}
-  - {id: tofu, nom: tofu, parent: soja, alias_fr: [tofu ferme, tofu soyeux, tofu fumé], alias_en: [bean curd, silken tofu], sensoriel: {textures: [spongieux]}, ciqual: 20904}
-  - {id: edamame, nom: edamame, parent: soja, alias_fr: [edamames], alias_en: [edamame beans]}
-  - {id: lait_de_soja, nom: boisson au soja, parent: soja, alias_fr: [lait de soja], alias_en: [soy milk, soya milk], ciqual: 18900}
+  - {id: tofu, nom: tofu, parent: soja, alias_en: [bean curd], sensoriel: {textures: [spongieux]}, ciqual: 20904}
+  - {id: edamame, nom: edamame, parent: soja, alias_fr: [edamames], alias_en: [edamame beans], ciqual: 20901, ciqual_approche: true}
+  - {id: lait_de_soja, nom: boisson au soja, parent: soja, alias_fr: [lait de soja, lait soja, lait de soja non sucré, lait de soja nature, boisson soja], alias_en: [soy milk, soya milk], ciqual: 18900}
   - {id: lecithine_de_soja, nom: lécithine de soja, parent: soja, alias_en: [soy lecithin], ciqual: 42200}
 
-  - {id: arachide, nom: arachide, parent: legumineuse, allergenes: [arachides], alias_fr: [cacahuète, cacahuètes, cacahouète, cacahouètes, arachides], alias_en: [peanut, peanuts, groundnut], ciqual: 15001}
+  - {id: arachide, nom: arachide, parent: legumineuse, allergenes: [arachides], alias_fr: [cacahouète, arachides], alias_en: [peanut, groundnut], ciqual: 15001}
   - id: beurre_de_cacahuete
     nom: beurre de cacahuète
     ciqual: 15202
@@ -31,11 +31,11 @@ ingredients:
 
   - {id: lupin, nom: lupin, parent: legumineuse, allergenes: [lupin], alias_fr: [farine de lupin, graines de lupin], alias_en: [lupin flour, lupini beans], ciqual: 20534}
 
-  - {id: fruit_a_coque, nom: fruit à coque, allergenes: [fruits_a_coque], alias_fr: [fruits à coque, fruits secs oléagineux, noix mélangées], alias_en: [tree nuts, nuts, mixed nuts]}
-  - {id: amande, nom: amande, parent: fruit_a_coque, alias_fr: [amandes, amandes effilées, amandes entières], alias_en: [almond, almonds, flaked almonds], ciqual: 15000}
-  - {id: poudre_d_amande, nom: poudre d'amande, parent: amande, alias_fr: [amandes en poudre, poudre d'amandes], alias_en: [ground almonds, almond flour], ciqual: 15041}
-  - {id: noisette, nom: noisette, parent: fruit_a_coque, alias_fr: [noisettes, poudre de noisette], alias_en: [hazelnut, hazelnuts], ciqual: 15004}
-  - {id: noix, nom: noix, parent: fruit_a_coque, alias_fr: [cerneaux de noix, noix de Grenoble], alias_en: [walnut, walnuts], ciqual: 15005}
+  - {id: fruit_a_coque, nom: fruit à coque, allergenes: [fruits_a_coque], alias_fr: [fruits à coque, fruits secs oléagineux], alias_en: [tree nuts, nuts]}
+  - {id: amande, nom: amande, parent: fruit_a_coque, alias_fr: [amandes], alias_en: [almond, almonds], ciqual: 15000}
+  - {id: poudre_d_amande, nom: poudre d'amande, parent: amande, alias_fr: [amandes moulues, amande moulue, amandes en poudre, poudre d'amandes], alias_en: [ground almonds, almond flour], ciqual: 15041}
+  - {id: noisette, nom: noisette, parent: fruit_a_coque, alias_fr: [noisettes], alias_en: [hazelnut, hazelnuts], ciqual: 15004}
+  - {id: noix, nom: noix, parent: fruit_a_coque, alias_en: [walnut, walnuts], ciqual: 15005}
   - {id: noix_de_cajou, nom: noix de cajou, parent: fruit_a_coque, alias_fr: [cajou], alias_en: [cashew, cashews, cashew nuts], ciqual: 15054}
   - {id: pistache, nom: pistache, parent: fruit_a_coque, alias_fr: [pistaches], alias_en: [pistachio, pistachios], ciqual: 15044}
   - {id: noix_de_pecan, nom: noix de pécan, parent: fruit_a_coque, alias_fr: [pécan, noix de pecan], alias_en: [pecan, pecans], ciqual: 15026}
@@ -49,5 +49,48 @@ ingredients:
   - {id: graine_de_lin, nom: graine de lin, parent: graine, alias_fr: [graines de lin], alias_en: [flaxseed, linseed], ciqual: 15034}
   - {id: graine_de_chia, nom: graine de chia, parent: graine, alias_fr: [graines de chia], alias_en: [chia seeds], ciqual: 15047}
   - {id: sesame, nom: sésame, parent: graine, allergenes: [sesame], alias_en: [sesame]}
-  - {id: graine_de_sesame, nom: graine de sésame, parent: sesame, alias_fr: [graines de sésame, sésame blanc, sésame noir], alias_en: [sesame seeds], ciqual: 15010}
+  - {id: graine_de_sesame, nom: graine de sésame, parent: sesame, alias_fr: [graines de sésame, sésame blanc], alias_en: [sesame seeds], ciqual: 15010}
   - {id: tahini, nom: tahini, parent: sesame, alias_fr: [tahin, purée de sésame, crème de sésame], alias_en: [tahini paste, sesame paste], ciqual: 15203}
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  - {id: haricot_rouge, nom: haricot rouge, parent: haricot_sec, alias_fr: [haricots rouges, haricots rouges en boîte, haricots kidney, purée de haricots rouges, haricots rouges secs], alias_en: [kidney beans, red beans], ciqual: 20525}
+  - {id: haricot_blanc, nom: haricot blanc, parent: haricot_sec, alias_fr: [haricots blancs, haricots lingots, lingots, cocos, haricots cocos, cocos de Paimpol, haricots tarbais, mogettes, haricots cannellini, haricots blancs en boîte], alias_en: [white beans, cannellini beans, navy beans, haricot beans], ciqual: 20501}
+  - {id: haricot_noir, nom: haricot noir, parent: haricot_sec, alias_fr: [haricots noirs], alias_en: [black beans], ciqual: 20501, ciqual_approche: true}
+  - {id: flageolet, nom: flageolet, parent: haricot_sec, alias_fr: [flageolets, flageolets verts], alias_en: [flageolet beans], ciqual: 20539}
+  - {id: haricot_mungo, nom: haricot mungo, parent: haricot_sec, alias_fr: [haricots mungo, soja vert, graines de haricot mungo, dal mungo, moong dal], alias_en: [mung beans, moong dal], ciqual: 20530}
+  - {id: haricot_azuki, nom: haricot azuki, parent: haricot_sec, alias_fr: [haricots azuki, haricots adzuki, pâte de haricots rouges sucrée, anko], alias_en: [adzuki beans, red bean paste], ciqual: 20501, ciqual_approche: true}
+  - {id: haricot_pinto, nom: haricot pinto, parent: haricot_sec, alias_fr: [haricots pinto, haricots borlotti, haricots à œil noir, cornilles, niébé], alias_en: [pinto beans, borlotti beans, black-eyed peas], ciqual: 20501, ciqual_approche: true}
+  - {id: haricot_beurre, nom: haricot beurre, parent: haricot_vert, alias_fr: [haricots beurre, haricots plats, haricots mange-tout, haricots coco plats], alias_en: [wax beans, runner beans, flat beans], ciqual: 20269}
+  - {id: pois_gourmand, nom: pois gourmand, parent: petit_pois, alias_fr: [pois gourmands, pois mange-tout, pois sugar snap], alias_en: [snow peas, sugar snap peas, mangetout], ciqual: 20173}
+  - {id: pois_casse, nom: pois cassé, parent: legumineuse, alias_fr: [pois secs, pois cassés verts], ciqual: 20515}
+  - {id: lentille_corail, nom: lentille corail, parent: lentille, alias_fr: [lentilles corail, lentilles rouges, masoor dal, dal], alias_en: [red lentils, masoor dal], ciqual: 20535}
+  - {id: lentille_verte, nom: lentille verte, parent: lentille, alias_fr: [lentilles vertes, lentilles vertes du Puy, lentilles du Puy, lentilles blondes, lentilles brunes], alias_en: [green lentils, puy lentils], ciqual: 20585}
+  - {id: lentille_beluga, nom: lentille béluga, parent: lentille, alias_fr: [lentilles béluga, lentilles noires], alias_en: [beluga lentils, black lentils], ciqual: 20504, ciqual_approche: true}
+  - {id: farine_de_pois_chiche, nom: farine de pois chiche, parent: pois_chiche, alias_fr: [farine de pois chiches, besan, farine de gram], alias_en: [chickpea flour, gram flour], ciqual: 9580}
+  - {id: pois_chiche_en_boite, nom: pois chiches en boîte, parent: pois_chiche, alias_fr: [pois chiches cuits, pois chiches égouttés, aquafaba], alias_en: [canned chickpeas, aquafaba], ciqual: 20532}
+  - {id: feve_seche, nom: fève sèche, parent: feve, alias_fr: [fèves sèches, fèves cassées, foul, fèves séchées], alias_en: [dried fava beans, ful medames], ciqual: 20518}
+  - {id: falafel, nom: falafel, alias_fr: [falafels], alias_en: [falafel balls], composants: [pois_chiche, feve, oignon, ail, persil, coriandre_feuille, cumin, farine_de_ble, sesame], composition_variable: true, ciqual: 25571}
+  - {id: tofu_soyeux, nom: tofu soyeux, parent: tofu, alias_fr: [tofu silken, tofu doux], alias_en: [silken tofu], ciqual: 20906}
+  - {id: tofu_fume, nom: tofu fumé, parent: tofu, alias_fr: [tofu aux fines herbes, tofu ferme, tofu nature, tofu mariné, tofu frit], alias_en: [firm tofu, smoked tofu], ciqual: 20912}
+  - {id: tempeh, nom: tempeh, parent: soja, alias_fr: [tempé], alias_en: [tempeh cake], ciqual: 20917}
+  - {id: proteine_de_soja_texturee, nom: protéines de soja texturées, parent: soja, alias_fr: [soja texturé, PST, protéines végétales texturées, haché végétal, viande de soja, galettes de soja, steak de soja, steaks de soja], alias_en: [textured vegetable protein, tvp, soy mince], ciqual: 20591}
+  - {id: seitan, nom: seitan, parent: ble, alias_fr: [gluten de blé, gluten], alias_en: [seitan, wheat gluten], ciqual: 25598}
+  - {id: yuba, nom: yuba, parent: soja, alias_fr: [peau de tofu, feuille de tofu], alias_en: [tofu skin], ciqual: 20901, ciqual_approche: true}
+  - {id: creme_de_soja, nom: crème de soja, parent: soja, alias_fr: [crème soja, crème de soja cuisine, crème végétale soja], alias_en: [soy cream], ciqual: 20901, ciqual_approche: true}
+  - {id: yaourt_de_soja, nom: yaourt au soja, parent: soja, alias_fr: [yaourt de soja, yaourts au soja, dessert au soja, yaourt végétal soja], alias_en: [soy yogurt], ciqual: 20901, ciqual_approche: true}
+  - {id: natto, nom: nattō, parent: soja, alias_fr: [natto], alias_en: [natto beans], ciqual: 20901, ciqual_approche: true}
+  - {id: noisette_en_poudre, nom: noisette en poudre, parent: noisette, alias_fr: [noisettes en poudre, poudre de noisette, poudre de noisettes, noisettes moulues, noisettes hachées, noisettes concassées], alias_en: [ground hazelnuts, hazelnut meal], ciqual: 15004, ciqual_approche: true}
+  - {id: amande_effilee, nom: amande effilée, parent: amande, alias_fr: [amandes effilées, amandes hachées, amandes concassées, amandes émondées, amandes mondées, amandes blanchies, amandes entières, amandes grillées, amandes non pelées], alias_en: [flaked almonds, sliced almonds, blanched almonds], ciqual: 15000, ciqual_approche: true}
+  - {id: pate_d_amande, nom: pâte d'amande, alias_fr: [pâte d'amandes, massepain], alias_en: [marzipan, almond paste], composants: [amande, sucre, sirop_de_glucose], ciqual: 15201}
+  - {id: puree_d_amande, nom: purée d'amande, parent: amande, alias_fr: [purée d'amandes, beurre d'amande, purée d'amande complète, purée d'amande blanche], alias_en: [almond butter], ciqual: 15000, ciqual_approche: true}
+  - {id: praline, nom: praliné, parent: fruit_a_coque, alias_fr: [pâte de praliné, praliné noisette, pralin, pralines roses, pralines], alias_en: [praline paste, pralines], composants: [noisette, amande, sucre, colorant_alimentaire], composition_variable: true, ciqual: 15004, ciqual_approche: true}
+  - {id: pate_a_tartiner, nom: pâte à tartiner au chocolat, alias_fr: [pâte à tartiner, Nutella, pâte à tartiner chocolat noisette], alias_en: [chocolate hazelnut spread, nutella], composants: [sucre, huile_de_palme, noisette, cacao, lait_en_poudre, lecithine_de_soja, vanille], composition_variable: true, ciqual: 31032}
+  - {id: pate_de_pistache, nom: pâte de pistache, parent: pistache, alias_fr: [pistaches non salées, pistaches décortiquées, pistaches concassées, crème de pistache], alias_en: [pistachio paste, shelled pistachios], ciqual: 15044, ciqual_approche: true}
+  - {id: noix_de_cajou_moulue, nom: noix de cajou moulue, parent: noix_de_cajou, alias_fr: [noix de cajou moulues, purée de cajou, crème de cajou, noix de cajou grillées], alias_en: [cashew butter, ground cashews], ciqual: 15019}
+  - {id: cerneau_de_noix, nom: cerneau de noix, parent: noix, alias_fr: [cerneaux de noix, noix concassées, noix hachées, noix grossièrement écrasées, noix décortiquées], alias_en: [walnut halves, chopped walnuts], ciqual: 15005}
+  - {id: noix_de_grenoble, nom: noix de Grenoble, parent: noix, alias_fr: [noix fraîches], alias_en: [english walnuts], ciqual: 15023}
+  - {id: cacahuete_grillee, nom: cacahuète grillée, parent: arachide, alias_fr: [cacahuètes, cacahuètes grillées, cacahuètes pilées, cacahuètes concassées, cacahuètes salées, cacahuète, cacahouètes, arachides grillées], alias_en: [peanuts, roasted peanuts, peanut paste], ciqual: 15002}
+  - {id: graine_de_chanvre, nom: graine de chanvre, parent: graine, alias_fr: [graines de chanvre, chènevis], alias_en: [hemp seeds]}
+  - {id: graine_de_sesame_noir, nom: sésame noir, parent: graine_de_sesame, alias_fr: [graines de sésame noir, sésame noir], alias_en: [black sesame seeds], ciqual: 15010, ciqual_approche: true}
+  - {id: halva, nom: halva, alias_fr: [halwa], alias_en: [halva sweet], composants: [tahini, sucre, vanille, pistache], composition_variable: true, ciqual: 15203, ciqual_approche: true}
+  - {id: melange_de_noix, nom: mélange de fruits secs, alias_fr: [mélange de noix, noix mélangées, mélange étudiant, fruits secs variés], alias_en: [mixed nuts, trail mix], composants: [amande, noisette, noix, noix_de_cajou, arachide, raisin_sec], composition_variable: true, note: "« Fruits secs » désigne souvent un mélange de noix et de fruits séchés : union, arachide comprise.", ciqual: 15000, ciqual_approche: true}

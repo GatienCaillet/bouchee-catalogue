@@ -1,0 +1,44 @@
+id: tarte-au-riz
+titre: Tarte au riz
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 300
+  repos: 0
+ingredients:
+- 2 l de lait
+- 350 g de sucre
+- une pincée de sel
+- 300 g de riz (de qualité et non des préparations industrielles, ni le riz long grain)
+- ½ gousse de vanille
+- 1 bâton de cannelle
+- 4 œufs
+etapes:
+- Précuire le lait avec la vanille, la cannelle, le sel et la moitié du sucre, dès la cuisson ajouter le riz. De
+  préférence la cuisson se fait dans un bain-marie.
+- Faire cuire le tout pendant environ une heure en remuant souvent sur feu doux.
+- Avant la finition du riz ajoutez le restant du sucre.
+- Laisser refroidir ce riz condé de préférence durant 24 heures.
+- Ensuite mélangez les œufs dans le riz sans remuer trop fort.
+- Mettez dans des moules à tarte (bord de 4 cm) une abaisse mince de pâte levée non sucrée (min. 20 % de beurre).
+- La cuisson dure selon grandeur et épaisseur entre 20 et 28 minutes dans un four préchauffé à 240 à 250° (sans
+  ventilation).
+- Quand les tartes présentent leur « fleur » caractéristique, elles sont bonnes. À la sortie du four, démoulez-les
+  sur claie ou sur une grille, sans les retourner.
+- Après une ou deux heures, ce délice est prêt à consommer.
+source:
+  titre: Tarte au riz
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_riz&oldid=327836
+  revision: 327836
+  date: '2011-05-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_riz&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Tarte au riz.jpg
+  auteur: No machine-readable author provided. Frinck51~commonswiki assumed (based on copyright claims).
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Tarte_au_riz.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

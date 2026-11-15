@@ -1,0 +1,23 @@
+id: tartines-aux-sardines-et-a-la-tomate
+titre: Tartines aux sardines et à la tomate
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 5
+  repos: 0
+ingredients:
+- 8 tranches de pain de campagne
+- 2 boîtes de sardines à l'huile
+- 2 tomates
+- 1 citron
+- sel, poivre
+etapes:
+- Griller le pain et le couvrir de rondelles de tomate.
+- Poser les sardines, arroser de citron, saler et poivrer.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tartine »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

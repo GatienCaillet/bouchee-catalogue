@@ -1,0 +1,28 @@
+id: veloute-de-poireaux-au-cumin
+titre: Velouté de poireaux au cumin
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 4 poireaux
+- 1 oignon
+- 2 c. à soupe d'huile d'olive
+- 1 l de bouillon de légumes
+- 1 c. à café de cumin en poudre
+- 4 c. à soupe de yaourt nature
+- sel, poivre
+etapes:
+- Fendre les poireaux, les laver soigneusement et les émincer.
+- Émincer l'oignon et le faire revenir 3 minutes dans l'huile d'olive, dans une grande casserole.
+- Ajouter les poireaux, mélanger, puis verser le bouillon.
+- Porter à ébullition et laisser cuire 20 à 25 minutes à feu moyen, jusqu'à ce que les légumes soient tendres.
+- Mixer finement avec le cumin, rectifier l'assaisonnement et servir avec une cuillerée de yaourt.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « velouté au cumin »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

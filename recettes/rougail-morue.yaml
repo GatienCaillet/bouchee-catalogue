@@ -1,0 +1,48 @@
+id: rougail-morue
+titre: Rougail morue
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 33
+  repos: 0
+ingredients:
+- 800 grammes de morue séchée
+- 6 gousses d'ail
+- 3 gros oignons
+- 4 tomates
+- 5 gros piments
+- thym
+- texte: 3 cuillères à soupe d'huile
+  ingredients:
+  - huile
+  categorie: true
+- sel
+- curcuma (1 demie cuillère à café).
+etapes:
+- Dessalez la morue en la pochant dans l'eau pendant 10 minutes. Recommencez l'opération en plusieurs fois, 2 ou
+  3 fois suffiront.
+- Une fois pochée, retirez-la de l'eau. Émiettez-la en enlevant les arêtes et réservez-la (mettez-la de côté pour
+  la suite).
+- 'Préparez vos épices : épluchez l''ail et l''oignon ; ciselez les oignons ; hachez l''ail ; puis émondez les tomates
+  et les gros piments. Réservez le tout.'
+- Dans une marmite, mettez à chauffer l'huile. Ajoutez-y les oignons ciselés et l'ail ; laissez cuire environ 2
+  à 3 minutes, ne laissez pas brûler.
+- Puis rajoutez les gros piments, laissez les cuire environ 2 à 3 minutes puis rajoutez les tomates, le thym et
+  le curcuma.
+- Tournez le tout à l'aide d'une grande cuillère, et laissez mijotez 4 à 6 minutes tout en surveillant.
+- Enfin, rajoutez la morue émiettée, en veillant à bien l'incorporer aux épices ; rajoutez environ 2 verres d'eau,
+  et laissez mijoter 15 minutes. Entre temps, vous pouvez goûter la sauce et éventuellement rajouter du sel selon
+  votre goût.
+- À déguster avec du riz blanc.
+- Catégorie:Cuisine réunionnaise
+source:
+  titre: Rougail morue
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Rougail_morue&oldid=674438
+  revision: 674438
+  date: '2022-04-14'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Rougail_morue&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

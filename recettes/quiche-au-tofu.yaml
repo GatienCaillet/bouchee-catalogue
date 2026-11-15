@@ -1,0 +1,40 @@
+id: quiche-au-tofu
+titre: Quiche au tofu
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 30
+  repos: 0
+ingredients:
+- 1 tasse de farine
+- 1 tasse d'avoine moulue finement
+- texte: 1 cuillère à thé de levure
+  ingredients:
+  - levure
+  categorie: true
+- 1 cuillère à thé de bicarbonate de soude
+- 1 tasse d'huile d'olive ou de maïs
+- 1 tasse d'eau glacée
+- 2 tasses de Tofu ferme émietté
+- 1 cuillère à soupe de miso
+- 1 cuillère à soupe de tahini (beurre de sésame)
+- jus d'1 citron, peu de Lait de Soja
+etapes:
+- 'Pâte : Mélanger farine, avoine moulue, poudre à pâte, bicarbonate de soude. Dans un autre bol, incorporer l''huile,
+  le jus de citron, l''eau et fouetter légèrement. Incorporer le liquide à l''aide d''une fourchette, mélanger et
+  former rapidement une boule. Rouler la pâte entre 2 feuilles de papier cuisson pour former un fond de tarte. Renverser
+  dans un plat à tarte.'
+- 'Farce : Mixer le miso, le tahini, le jus de citron jusqu''à consistance crémeuse, ajouter du lait de soja au
+  besoin. Verser cette préparation sur la pâte. Disperser le tofu émietté sur le dessus.'
+- Mettre le tout 30 min au four th.7.
+source:
+  titre: Quiche au tofu
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Quiche_au_tofu&oldid=452155
+  revision: 452155
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Quiche_au_tofu&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

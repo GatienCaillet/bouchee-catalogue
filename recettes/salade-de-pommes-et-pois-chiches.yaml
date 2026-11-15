@@ -1,0 +1,35 @@
+id: salade-de-pommes-et-pois-chiches
+titre: Salade de pommes et pois chiches
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 0
+ingredients:
+- 50 g de pois chiche
+- 3 oignons
+- 2 pommes
+- texte: 15 g de céleri
+  ingredients:
+  - celeri
+  categorie: true
+- 15 ml de jus de citron
+- 15 ml d'huile d'olive
+- Ciboulette, basilic, sel, poivre
+etapes:
+- 'Dans un saladier, mélanger : pois chiches cuits à l''eau, les pommes coupées en dés, les oignons émincés et le
+  cèleri haché'
+- Mélanger, le jus de citron, l'huile d'olive, la ciboulette haché, le basilic haché, le sel et le poivre
+- Verser sur les pois chiches
+- Laisser macérer au réfrigérateur
+source:
+  titre: Salade de pommes et pois chiches
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_de_pommes_et_pois_chiches&oldid=452190
+  revision: 452190
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_de_pommes_et_pois_chiches&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : céleri.'

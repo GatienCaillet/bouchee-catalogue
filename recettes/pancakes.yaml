@@ -1,0 +1,25 @@
+id: pancakes
+titre: Pancakes
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 20
+  repos: 0
+ingredients:
+- 200 g de farine
+- 2 œufs
+- 25 cl de lait
+- 30 g de sucre
+- 1 sachet de levure chimique
+- 30 g de beurre
+etapes:
+- Mélanger la farine, le sucre et la levure, puis les œufs et le lait.
+- Ajouter le beurre fondu.
+- Cuire de petites louches de pâte 2 minutes de chaque côté dans une poêle chaude.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

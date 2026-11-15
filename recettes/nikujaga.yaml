@@ -1,0 +1,41 @@
+id: nikujaga
+titre: Nikujaga
+portions: 4
+temps:
+  preparation: 43
+  cuisson: 40
+  repos: 0
+ingredients:
+- Viande de bœuf (ou de porc) pour quatre
+- 4 à 6 pommes de terres
+- 2 oignons
+- 1 carotte
+- 2 tasses de bouillon dashi (400 à 500 ml)
+- 2 c.s. de sucre
+- 2 c.s. de mirin
+- 3 c.s. de sauce soja
+- sel
+- texte: huile
+  ingredients:
+  - huile
+  categorie: true
+- riz pour quatre
+etapes:
+- Couper la viande en petites tranches fines
+- Couper les pommes de terre en gros morceaux, les carottes en biseau et les oignons en rondelles.
+- Faire revenir la viande et les oignons dans un peu d'huile.
+- Ajouter le reste des ingrédients, en mélangeant bien.
+- Porter à ébullition, puis baisser le feu et laisser cuire 20 minutes.
+- Laisser mijoter encore 20 minutes si possible.
+- Rectifier l'assaisonnement si besoin.
+source:
+  titre: Nikujaga
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Nikujaga&oldid=676505
+  revision: 676505
+  date: '2022-05-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Nikujaga&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

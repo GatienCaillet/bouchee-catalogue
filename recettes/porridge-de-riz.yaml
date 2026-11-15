@@ -1,0 +1,33 @@
+id: porridge-de-riz
+titre: Porridge de riz
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 225
+  repos: 0
+ingredients:
+- 220 g de riz lavé et égoutté
+- 2,5 litres de bouillon de poulet (ou simplement de l'eau)
+- de la sauce soja (facultatif)
+- de l'huile de sésame (facultatif)
+- du poivre blanc (facultatif)
+- 3 ciboules émincées
+- 4 cuillères à soupe de feuilles de coriandre fraiches émincées
+- 2 cuillères à soupe de graines de sésame
+- 30 g de gingembre haché
+etapes:
+- Placer le riz dans la casserole et ajouter le bouillon ou l'eau. Amener à ébullition.
+- Laisser cuire à feu très doux pendant 1 heure et 45 minutes, jusqu'à 2 heures, ou jusqu'à ce que le riz devienne
+  pâteux.
+- Ajouter la sauce soja, l'huile de sésame et parfumer avec du poivre blanc.
+- Ajouter la garniture de ciboule, de coriandre, de sésame et de gingembre suivant vos préférences.
+source:
+  titre: Porridge de riz
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Porridge_de_riz&oldid=517607
+  revision: 517607
+  date: '2016-07-06'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Porridge_de_riz&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

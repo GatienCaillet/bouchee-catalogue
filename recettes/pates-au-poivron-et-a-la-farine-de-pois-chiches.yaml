@@ -1,0 +1,38 @@
+id: pates-au-poivron-et-a-la-farine-de-pois-chiches
+titre: Pâtés au poivron et à la farine de pois chiches
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 80
+  repos: 0
+ingredients:
+- 125 g de farine de pois chiches
+- 1 poivron rouge haché menu
+- 125 g de tomates hachées
+- 0,5 tasse de chapelure
+- 1 cuillère à soupe d'huile d'olive
+- 1 cuillère à thé de purée d'amandes
+- texte: 6 g de levure
+  ingredients:
+  - levure
+  categorie: true
+- ciboulette, persil
+- paprika
+- sel, poivre
+etapes:
+- Mélanger tous les ingrédients en veillant à ce que la préparation soit bien moelleuse (ajouter de l'eau si nécessaire).
+- Verser dans un moule à cake huilé ou dans des ramequins individuels.
+- Cuire 1 h. (ou 20 min pour les ramequins) à 180°C.
+- Vous pouvez présenter les pâtés individuels (démoulés) comme entrée, garnis de salade verte, ou consommer le pâté
+  sur vos tartines, ou comme farce pour des légumes grillés.
+source:
+  titre: Pâtés au poivron et à la farine de pois chiches
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2t%C3%A9s_au_poivron_et_%C3%A0_la_farine_de_pois_chiches&oldid=452151
+  revision: 452151
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2t%C3%A9s_au_poivron_et_%C3%A0_la_farine_de_pois_chiches&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

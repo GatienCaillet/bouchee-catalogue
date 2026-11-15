@@ -1,0 +1,39 @@
+id: bretzel
+titre: Bretzel
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 10
+  repos: 125
+ingredients:
+- 300 g de farine
+- 15 g de levure de boulanger
+- 8 g de sel fin
+- 2 dl d'eau tiède
+- 2,5 l d'eau bouillante
+- 15 g de bicarbonate de sodium
+- 1 jaune d'œuf
+- Gros sel
+etapes:
+- Mettre la farine, la levure de boulanger et le sel fin dans un récipient.
+- Ajouter l'eau tiède et mélanger avec une cuillère en bois jusqu'à obtenir une pâte homogène.
+- Pétrir cette pâte à la main 5 min, couvrir d'un linge humide et laisser reposer 2 h dans un endroit bien chaud
+  (par exemple un four préchauffé à 65°C puis éteint).
+- Faire 6 boules de pâte et les rouler à la main pour former des boudins d'environ 50 cm de longueur, plus épais
+  au milieu (jusqu'à 3 cm de diamètre) qu'aux extrémités.
+- Nouer les boudins pour leur donner la forme caractéristique des bretzels.
+- Faire bouillir l'eau additionnée de bicarbonate de soude. Hors du feu, y plonger rapidement les bretzels deux
+  par deux, jusqu'à ce qu'ils remontent à la surface.
+- Préchauffer le four à 240°C. Placer les bretzels sur une plaque recouverte de papier sulfurisée, les badigeonner
+  de jaune d'œuf et les parsemer de gros sel.
+- Cuire 10 à 12 min, l'extérieur doit être doré et croustillant et l'intérieur moelleux.
+source:
+  titre: Bretzel
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bretzel&oldid=451874
+  revision: 451874
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bretzel&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

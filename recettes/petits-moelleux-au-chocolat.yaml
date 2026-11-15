@@ -1,0 +1,43 @@
+id: petits-moelleux-au-chocolat
+titre: Petits Moelleux au chocolat
+portions: 12
+temps:
+  preparation: 25
+  cuisson: 10
+  repos: 0
+ingredients:
+- 6 œufs
+- texte: 300 g chocolat
+  ingredients:
+  - chocolat
+  categorie: true
+- 180 g de farine
+- 300 g de sucre
+- 300 g de beurre salé.
+etapes:
+- Avant de commencer la préparation, préchauffer le four à 210°C.
+- Faire fondre le chocolat avec le sucre et le beurre dans un saladier au micro-onde ou au .
+- Bien mélanger pour obtenir une pâte bien lisse.
+- Laisser refroidir un peu.
+- Ajouter les œufs entiers un par un en remuant avec un fouet.
+- Ajouter la farine à l'aide d'un tamis en remuant sans arrêt pour éviter les grumeaux (photo).
+- Verser dans les moules en silicone en remplissant chaque godet au maximum à mi-hauteur.
+- Enfourner et laisser cuire pendant 10 à 13 minutes. Selon la durée de cuisson le cœur sera onctueux ou plus ferme.
+- Attendre que la température soit tiède avant de démouler.
+source:
+  titre: Petits Moelleux au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Petits_Moelleux_au_chocolat&oldid=723431
+  revision: 723431
+  date: '2024-07-30'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Petits_Moelleux_au_chocolat&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : chocolat.'
+photo:
+  fichier: Petits moelleux au chocolat-tamisage farine.jpg
+  auteur: No machine-readable author provided. F5ZV assumed (based on copyright claims).
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Petits_moelleux_au_chocolat-tamisage_farine.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

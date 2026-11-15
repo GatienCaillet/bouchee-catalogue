@@ -1,0 +1,33 @@
+id: salade-au-navet
+titre: Salade au navet
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 navet
+- 2 pommes
+- 1 citron
+- 20 g de graines de courge
+- texte: 15 cl d'huile de tournesol, vinaigre, sel.
+  ingredients:
+  - huile_de_tournesol
+  - vinaigre
+  - sel
+  categorie: true
+etapes:
+- Nettoyer les navets et les pommes, les éplucher et les râper
+- Disposer navet et les pommes dans les assiettes, arroser d'huile de tournesol, d'un filet de vinaigre
+- Saler, parsemer de graines de courges grillées à sec concassées.
+source:
+  titre: Salade au navet
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_au_navet&oldid=424386
+  revision: 424386
+  date: '2013-08-11'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_au_navet&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile de tournesol, sel, vinaigre.'

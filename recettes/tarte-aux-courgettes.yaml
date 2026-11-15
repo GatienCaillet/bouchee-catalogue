@@ -1,0 +1,40 @@
+id: tarte-aux-courgettes
+titre: Tarte aux courgettes
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 25
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 2 courgettes
+- 2 carottes
+- 1 oignon
+- 2 ou 3 œufs
+- 100 g de crème fraîche
+- 60 g de comté rapé
+etapes:
+- Éplucher les carottes, les courgettes et l'oignon.
+- Faire cuire les carottes à la vapeur (dans une cocotte-minute), faire cuire les courgettes et l'oignon à feu doux,
+  avec un peu d'huile, dans une casserole couverte. Lorsque les légumes sont cuits, les disposer sur des assiettes
+  pour les faire refroidir.
+- Préchauffer le four à 200°C.
+- Battre les œufs dans un saladier avec la crème fraîche. Ajouter les légumes et mélanger.
+- Étaler la pâte brisée dans un plat, verser la préparation et couvrir de fromage rapé.
+- Mettre au four pendant environ 25 minutes.
+source:
+  titre: Tarte aux courgettes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_courgettes&oldid=569299
+  revision: 569299
+  date: '2017-09-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_courgettes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Tarte aux courgettes.JPG
+  auteur: PAr Antoine.
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Tarte_aux_courgettes.JPG
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,37 @@
+id: mousse-au-chocolat-legere
+titre: Mousse au chocolat légère
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 120
+ingredients:
+- texte: 200 g de chocolat
+  ingredients:
+  - chocolat
+  categorie: true
+- 3 blancs d'œufs
+- 2 cl de lait ou d'eau.
+etapes:
+- Fondre le chocolat avec le lait au bain-marie
+- très fermes
+- Mélanger un tiers des blancs en neige au chocolat
+- Ajouter et mélanger le reste des blancs
+- Verser dans un ou plusieurs récipients, mettre au réfrigérateur deux heures
+source:
+  titre: Mousse au chocolat légère
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_au_chocolat_l%C3%A9g%C3%A8re&oldid=723429
+  revision: 723429
+  date: '2024-07-30'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_au_chocolat_l%C3%A9g%C3%A8re&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : chocolat.'
+photo:
+  fichier: Chocolate Mousse.jpg
+  auteur: Rexipe Rexipe from London, UK
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Chocolate_Mousse.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

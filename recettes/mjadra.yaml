@@ -1,0 +1,29 @@
+id: mjadra
+titre: Mjadra
+portions: 6
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 verre de lentilles
+- 1/2 verre de riz
+- 3 oignons
+- 100ml d'huile d'olive
+etapes:
+- Ajouter les lentilles dans l'eau bouillante.
+- Séparément, couper les oignons en très petits morceaux et les faire dorer dans une poêle d'huile d'olive.
+- Une fois les oignons bien dorés (voire bruns), les verser sur les lentilles.
+- Ajouter le demi verre de riz.
+- Saler, poivrer.
+- Faire mijoter à feux doux jusqu'à évaporation de la majorité de l'eau.
+source:
+  titre: Mjadra
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mjadra&oldid=506519
+  revision: 506519
+  date: '2016-02-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mjadra&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

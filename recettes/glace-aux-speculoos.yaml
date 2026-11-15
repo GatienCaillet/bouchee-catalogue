@@ -1,0 +1,41 @@
+id: glace-aux-speculoos
+titre: Glace aux speculoos
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 0
+  repos: 20
+ingredients:
+- 200 g de spéculoos
+- 4 jaunes d'œufs
+- 2,5 dl de crème fraîche liquide
+- 100 g de sucre
+- 40 cl de lait
+- 1 sachet de sucre vanillé
+- 3 g de cannelle
+- 2 g de sel.
+etapes:
+- Mélanger le sucre, le sel et les jaunes d'œufs et les battre afin d'obtenir une mousse.
+- Ajouter le lait, la cannelle et le sucre vanillé.
+- Placer le mélange au bain-marie pour épaissir, sans cesser de mélanger.
+- Lorsque le mélange est épais, laisser refroidir.
+- Émietter les spéculoos, les ajouter au mélange et mélanger.
+- Mettre au réfrigérateur pendant 20 à 30 minutes.
+- Fouetter la crème fraîche et l'incorporer au mélange.
+- Placer au congélateur pendant au minimum cinq heures.
+source:
+  titre: Glace aux speculoos
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Glace_aux_speculoos&oldid=675081
+  revision: 675081
+  date: '2022-04-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Glace_aux_speculoos&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Ingrédients glace speculoos.jpg
+  auteur: Antoinel at French Wikibooks
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Ingr%C3%A9dients_glace_speculoos.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

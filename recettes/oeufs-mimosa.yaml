@@ -1,0 +1,23 @@
+id: oeufs-mimosa
+titre: Œufs mimosa
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 10
+  repos: 0
+ingredients:
+- 6 œufs
+- 3 c. à soupe de mayonnaise
+- 1/2 botte de ciboulette
+- sel, poivre
+etapes:
+- Cuire les œufs 10 minutes, les refroidir et les écaler.
+- Les couper en deux, écraser les jaunes avec la mayonnaise et la ciboulette.
+- Garnir les blancs de ce mélange.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « entrée »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

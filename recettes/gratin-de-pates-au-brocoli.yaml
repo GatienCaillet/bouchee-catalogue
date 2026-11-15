@@ -1,0 +1,24 @@
+id: gratin-de-pates-au-brocoli
+titre: Gratin de pâtes au brocoli
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 30
+  repos: 0
+ingredients:
+- 400 g de penne
+- 400 g de brocoli
+- 20 cl de crème fraîche
+- 100 g de comté râpé
+- sel, poivre
+etapes:
+- Cuire les pâtes avec le brocoli en petits bouquets, puis égoutter.
+- Mélanger avec la crème dans un plat et couvrir de comté.
+- Gratiner 20 minutes à 200 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

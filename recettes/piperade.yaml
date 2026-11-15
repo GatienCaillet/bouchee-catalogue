@@ -1,0 +1,35 @@
+id: piperade
+titre: Pipérade
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 15
+  repos: 0
+ingredients:
+- 10 œufs
+- 4 tomates fraîches
+- 1 poivron rouge
+- 1 poivron vert
+- 2 oignons
+- piment d'Espelette
+- 2 gousses d'ail
+- huile d'olive
+- sel
+etapes:
+- Faire dorer les poivrons émincés dans une grande poêle, avec une cuillerée à soupe d'huile d'olive.
+- Ajouter l'oignon et l'ail émincés, et les faire juste dorer.
+- Ébouillanter les tomates, les peler et les émincer.
+- Ajouter les tomates dans la poêle, avec une cuillerée à café de piment.
+- Faire réduire le tout à feu doux, pendant un quart d'heure.
+- Casser et battre les œufs dans une terrine. Saler, et verser dans la poêle.
+- Mélanger, et faire cuire en remuant régulièrement.
+source:
+  titre: Pipérade
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pip%C3%A9rade&oldid=330265
+  revision: 330265
+  date: '2011-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pip%C3%A9rade&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

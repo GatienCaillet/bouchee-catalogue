@@ -1,0 +1,38 @@
+id: pizza-aux-moules
+titre: Pizza aux moules
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 15
+  repos: 0
+ingredients:
+- 1 pâte à pizza
+- 1 kg de moules
+- texte: 1 dl de crème
+  ingredients:
+  - creme
+  categorie: true
+- 120 g de mozzarella
+- 1 échalote
+- 5 cl de vin blanc
+- Curry, persil.
+etapes:
+- Nettoyer, gratter les moules puis les laver à grande eau.
+- Cuire les moules avec l'échalote ciselée, le persil haché, le vin blanc et le curry.
+- Décortiquer les moules après cuisson.
+- Faire une sauce avec le jus de cuisson en ajoutant la crème. La sauce doit être épaisse (rajouter si besoin est
+  de la maïzena).
+- Verser les moules dans la sauce.
+- Étaler la pâte et la disposer dans une tourtière. Répartir la sauce. Ajouter quelques dés de mozzarella.
+- Cuire à four chaud, 220°C pendant 15 à 20 minutes.
+source:
+  titre: Pizza aux moules
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_aux_moules&oldid=682563
+  revision: 682563
+  date: '2022-07-25'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pizza_aux_moules&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : crème.'

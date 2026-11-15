@@ -1,0 +1,26 @@
+id: nouilles-sautees-aux-legumes
+titre: Nouilles sautées aux légumes
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 10
+  repos: 0
+ingredients:
+- 300 g de nouilles chinoises
+- 2 carottes
+- 1 poivron rouge
+- 200 g de germes de soja
+- 2 gousses d'ail
+- 3 c. à soupe de sauce soja
+- 2 c. à soupe d'huile de colza
+etapes:
+- Cuire les nouilles selon le paquet et les égoutter.
+- Faire sauter l'ail et les légumes en julienne 4 minutes à feu vif.
+- Ajouter les nouilles, les germes de soja et la sauce soja, et faire sauter 2 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

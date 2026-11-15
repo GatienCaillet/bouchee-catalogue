@@ -1,0 +1,40 @@
+id: truite-au-vin-jaune
+titre: Truite au vin jaune
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 16
+  repos: 0
+ingredients:
+- De belles truites
+- 1 verre de vin jaune du Jura
+- De la crème fraîche
+- De l'huile d'olive
+- Une échalote, sel, poivre, persil
+- texte: Une petite cuillère de moutarde.
+  ingredients:
+  - moutarde
+  categorie: true
+etapes:
+- Laver les truites
+- Faire griller et dorer tout doucement les truites à feu doux, des deux côtés, à l'huile d'olive, saler, poivrer
+  (10 min par face environ)
+- Une fois grillée et dorées, les mettre dans un plat pour les servir
+- Mettre dans la poêle une noix de beurre, une échalote hachée très fine, puis ajouter le verre de Vin Jaune bien
+  remuer et faire réduire pendant 5 minutes à feu doux. Mélanger 2 cuillères à soupe de crème fraîche et laisser
+  cuire 1 minutes
+- Servez avec les truites et un peu de persil
+- Accompagner de pomme de terre cuite à l'eau, ou de flan de courgettes...
+- Accompagner de la bouteille de Vin Jaune du Jura
+- Bon appétit, et bonne soif ...
+source:
+  titre: Truite au vin jaune
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Truite_au_vin_jaune&oldid=660797
+  revision: 660797
+  date: '2021-08-09'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Truite_au_vin_jaune&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : moutarde.'

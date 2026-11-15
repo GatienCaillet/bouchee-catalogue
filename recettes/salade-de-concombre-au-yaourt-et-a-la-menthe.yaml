@@ -1,0 +1,27 @@
+id: salade-de-concombre-au-yaourt-et-a-la-menthe
+titre: Salade de concombre au yaourt et à la menthe
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 0
+  repos: 15
+ingredients:
+- 2 concombres
+- 2 yaourts nature
+- 1/2 botte de menthe
+- 1 gousse d'ail
+- 4 c. à soupe d'huile d'olive
+- 2 c. à soupe de vinaigre de vin
+- sel, poivre
+etapes:
+- Couper le concombre en fines rondelles et ciseler la menthe.
+- Préparer la vinaigrette en mélangeant l'huile, l'acidité, le sel et le poivre.
+- Réunir tous les ingrédients dans un saladier, arroser de vinaigrette et mélanger délicatement.
+- Laisser reposer 15 minutes au frais avant de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

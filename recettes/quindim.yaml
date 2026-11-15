@@ -1,0 +1,38 @@
+id: quindim
+titre: Quindim
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 50
+  repos: 4
+ingredients:
+- 300g de sucre
+- 100g de noix de coco râpée
+- 12 jaunes d'œuf
+- 1 cuillère à soupe de beurre
+etapes:
+- Séparer les jaunes des blancs puis tamiser les jaunes afin d'enlever l'excédent de blanc.
+- Mélanger les jaunes avec le sucre et le beurre de façon à avoir un mélange homogène.
+- Hydrater la noix de coco en la plaçant dans de l'eau chaude.
+- Égoutter puis ajouter la au mélange.
+- Faire cuire la préparation au bain-marie en la couvrant d'une feuille de papier aluminium pendant environ 50 minutes
+  à 230°C.
+- Enlever la feuille de papier aluminium et faire dorer environ 4 minutes.
+- Laisser refroidir puis laisser reposer au frigo.
+- Démouler.
+source:
+  titre: Quindim
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Quindim&oldid=372226
+  revision: 372226
+  date: '2012-07-07'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Quindim&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Quindim.jpg
+  auteur: Leonardo "Leguas" Carvalho
+  licence: CC BY-SA 2.5
+  url: https://commons.wikimedia.org/wiki/File:Quindim.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

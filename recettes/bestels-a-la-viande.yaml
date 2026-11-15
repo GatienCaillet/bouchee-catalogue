@@ -1,0 +1,35 @@
+id: bestels-a-la-viande
+titre: Bestels à la viande
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 20
+  repos: 0
+ingredients:
+- 12 feuilles de brik
+- 400 g de viande hachée
+- 1 œuf
+- 1 citron
+- 1 oignon pelé et haché
+- 2 gousses d'ail épluchées et pressées
+- 1 brin d'estragon
+- 1/2 feuille de laurier, 2 pincées d'herbes de Provence, 2 pincées de quatre-épices, sel et poivre du moulin
+etapes:
+- Dans une casserole, mettez à cuire l'oignon pelé et haché, les gousses d'ail pressées, la viande hachée, l'estragon,
+  la demi-feuille de laurier, les herbes de Provence, salez et poivrez.
+- Laissez cuire à peu près 20 minutes, en mélangeant jusqu'à ce qu'il ne reste plus de liquide dans la casserole.
+- Hors du feu, incorporez dans la préparation le jus du citron et l'œuf, puis assaisonnez avec le quatre-épices,
+  avant de laisser refroidir, le temps de préchauffer le bain de friture à 175°C (thermostat 5).
+- Retirez le brin d'estragon et la demi-feuille de laurier, garnissez les feuilles de brick, et pliez-les en triangles
+  avant de les plonger dans l'huile chaude pour les faire saisir.
+- Dès que les brick sont dorés, retirez-les du bain de friture et égouttez-les.
+source:
+  titre: Bestels à la viande
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bestels_%C3%A0_la_viande&oldid=522577
+  revision: 522577
+  date: '2016-08-17'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bestels_%C3%A0_la_viande&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

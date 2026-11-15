@@ -1,0 +1,47 @@
+id: macarons-parisiens
+titre: Macarons Parisiens
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 42
+  repos: 0
+ingredients:
+- 125 g sucre en poudre
+- 125 g sucre glace
+- 125 g poudre d'amande tamisée
+- 90 g blancs d'œufs (3 blancs d'œufs)
+- colorant alimentaire.
+etapes:
+- Mélanger la poudre d'amande et le sucre glace. Réserver.
+- Ajouter le sucre en poudre aux blancs.
+- Monter les blancs en neige ferme.
+- Ajouter le colorant aux blancs et continuer de battre.
+- Verser le mélange sucre glace-poudre d'amande en 3 fois sur les blancs, en mélangeant délicatement avec une cuillère
+  en bois pour obtenir un appareil homogène, épais et brillant. Le terme consacré est "macaronner".
+- À l'aide d'une corne ou d'une maryse, verser l'appareil à macaron dans une poche de pâtisserie munie d'une douille
+  unie de 8 mm.
+- Dresser des boules de 3 cm de diamètre en quinconces sur une plaque de pâtisserie recouverte d'une feuille de
+  papier sulfurisé.
+- En fin de dressage, taper légèrement la plaque sur la table pour étaler l'appareil.
+- Laisser sécher 30 minutes à l'air libre.
+- Puis enfourner 12 minutes dans un four ventilé à 150°C.
+- En sortie de four, transférer la feuille de macarons sur le plan de travail.
+- Laisser refroidir totalement avant de décoller les coques de macarons.
+- Trier les coques par paire de taille égale et garnir avec de la confiture, une crème au beurre parfumée, ou une
+  ganache.
+source:
+  titre: Macarons Parisiens
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Macarons_Parisiens&oldid=662358
+  revision: 662358
+  date: '2021-08-27'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Macarons_Parisiens&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Macarons.jpg
+  auteur: Cantabilis at English Wikipedia
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Macarons.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

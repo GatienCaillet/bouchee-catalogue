@@ -1,0 +1,46 @@
+id: sauce-arachide-poulet
+titre: Sauce arachide poulet
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 50
+  repos: 0
+ingredients:
+- Un demi poulet, nettoyé et coupé en morceaux
+- Trois cuillerées à soupe de pâte d'arachide
+- 100 ml d'huile végétale ou d'huile d'arachide
+- Deux tomates fraîches, écrasées
+- Une cuillerée à soupe de concentré de tomate
+- Deux oignons, hachés
+- Un bouquet d'oignon vert, émincé
+- Deux gousses d'ail
+- Du poivre noir
+- Un litre d'eau (eau chaude recommandée)
+- Pommes de terre, carottes ou potiron (au choix)
+- Un piment rouge frais (facultatif)
+etapes:
+- Assaisonner le poulet avec le poivre noir et le sel
+- Faire chauffer l'huile végétale dans une casserole et frire le poulet jusqu'à ce qu'il soit brun. Retirer puis
+  réserver
+- Dans la casserole, ajouter la tomate en purée, le concentré de tomate, les oignons, l'oignon vert, l'ail et le
+  poivre noir puis sauter pendant 10 minutes
+- Ajouter l'eau et la pâte d'arachide. Laisser mijoter pendant 20 minutes
+- Retourner le poulet frit dans la sauce et, au besoin, ajouter le piment et les légumes
+- Laisser cuire pendant encore 20 minutes
+- Ajouter du sel et du poivre à votre goût.
+source:
+  titre: Sauce arachide poulet
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_arachide_poulet&oldid=647612
+  revision: 647612
+  date: '2020-10-11'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_arachide_poulet&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Poulet sauce arachide - Chicken on peanut sauce.jpg
+  auteur: Jburgos
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Poulet_sauce_arachide_-_Chicken_on_peanut_sauce.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

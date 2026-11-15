@@ -1,0 +1,45 @@
+id: galette-facile-des-rois-et-des-reines
+titre: Galette facile des rois et des reines
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 30
+  repos: 15
+ingredients:
+- 2 pâtes feuilletées
+- 140 g de sucre
+- 80 g de beurre
+- 3 œufs
+- 175 g de poudre d'amande
+etapes:
+- Verser le sucre dans un saladier.
+- Faire fondre le beurre puis le mélanger au sucre.
+- Ajouter la poudre d'amande.
+- Mélanger.
+- 'Pour un seul œuf : séparer le blanc du jaune et réserver le jaune.'
+- Ajouter au mélange les deux autres œufs entiers ainsi que le blanc de l'œuf précédent.
+- Mélanger à nouveau.
+- Étaler l'une des pâtes feuilletées sur une plaque.
+- Verser la préparation sur la pâte en gardant un centimètre de contour.
+- Ajouter deux fèves (dont une de Batman).
+- Placer la seconde pâte feuilletée dessus et souder les bords (éventuellement à l'aide d'un peu d'eau).
+- Dorer le dessus de la galette avec le jaune d'œuf réservé.
+- Mettre la galette au frigo pendant 15 min.
+- Sortir la galette du frigo et faire un dessin du logo de Nirvana avec la pointe d'un couteau.
+- Faire cuire au four préchauffé durant 30 min, thermostat 180 °C.
+source:
+  titre: Galette facile des rois et des reines
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galette_facile_des_rois_et_des_reines&oldid=710306
+  revision: 710306
+  date: '2024-01-10'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galette_facile_des_rois_et_des_reines&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Confinement 2020 - préparation d'une galette des Rois (étape 016).jpg
+  auteur: Benoît Prieur
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Confinement_2020_-_pr%C3%A9paration_d%27une_galette_des_Rois_(%C3%A9tape_016).jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

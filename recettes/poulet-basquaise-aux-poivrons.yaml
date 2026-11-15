@@ -1,0 +1,28 @@
+id: poulet-basquaise-aux-poivrons
+titre: Poulet basquaise aux poivrons
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 55
+  repos: 0
+ingredients:
+- 4 cuisses de poulet
+- 3 poivrons
+- 2 oignons
+- 400 g de tomates pelées
+- 2 gousses d'ail
+- 1 c. à café de piment d'Espelette
+- 3 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Faire dorer les cuisses de poulet dans l'huile, puis les réserver.
+- Faire revenir les oignons et les poivrons émincés.
+- Ajouter l'ail, les tomates et le piment, puis remettre le poulet.
+- Couvrir et laisser mijoter 45 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

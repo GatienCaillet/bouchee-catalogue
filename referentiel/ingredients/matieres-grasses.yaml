@@ -4,7 +4,7 @@ famille: matieres-grasses
 ingredients:
   - {id: matiere_grasse, nom: matière grasse, alias_fr: [matières grasses], alias_en: [fat, cooking fat]}
   - {id: huile, nom: huile, parent: matiere_grasse, alias_en: [oil]}
-  - {id: huile_d_olive, nom: huile d'olive, parent: huile, alias_fr: [huile d'olive vierge extra, filet d'huile d'olive], alias_en: [olive oil, extra virgin olive oil], ciqual: 17270}
+  - {id: huile_d_olive, nom: huile d'olive, parent: huile, alias_fr: [filet d'huile d'olive], alias_en: [olive oil], ciqual: 17270}
   - {id: huile_de_tournesol, nom: huile de tournesol, parent: huile, alias_en: [sunflower oil], ciqual: 17440}
   - {id: huile_de_colza, nom: huile de colza, parent: huile, alias_en: [rapeseed oil, canola oil], ciqual: 17130}
   - {id: huile_de_palme, nom: huile de palme, parent: huile, alias_fr: [graisse de palme], alias_en: [palm oil, palm fat], ciqual: 16129}
@@ -24,8 +24,8 @@ ingredients:
     nom: huile végétale
     ciqual: 17001
     parent: huile
-    alias_fr: [huile neutre, huile de friture]
-    alias_en: [vegetable oil, neutral oil]
+   
+    alias_en: [vegetable oil]
     composants: [huile_de_tournesol, huile_de_colza, huile_de_palme, huile_d_arachide, huile_de_soja]
     composition_variable: true
     note: Huile non précisée. Union des huiles courantes, arachide et soja compris. Préférer une huile précise dans les recettes.
@@ -33,8 +33,26 @@ ingredients:
     nom: margarine
     ciqual: 16615
     parent: matiere_grasse
-    alias_fr: [matière grasse végétale, matière grasse à tartiner]
+   
     alias_en: [margarine spread]
     composants: [huile_de_colza, huile_de_tournesol, huile_de_palme, huile_de_coco, sel, lait, lecithine_de_soja]
     composition_variable: true
     note: Certaines margarines contiennent du lactosérum ou du babeurre (lait) et de la lécithine de soja.
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  - {id: huile_de_friture, nom: huile de friture, parent: huile_vegetale, alias_fr: [huile végétale pour friture, huile pour friture, huile pour friture, bain de friture, huile de cuisson, huile neutre, huile végétale neutre, huile pour la friture, huile à frire], alias_en: [frying oil, cooking oil, neutral oil], ciqual: 16128}
+  - {id: huile_de_mais, nom: huile de maïs, parent: huile, alias_en: [corn oil], ciqual: 17190}
+  - {id: huile_d_argan, nom: huile d'argan, parent: huile, alias_en: [argan oil], ciqual: 17900}
+  - {id: huile_de_noisette, nom: huile de noisette, parent: huile, alias_en: [hazelnut oil], composants: [noisette], ciqual: 17210}
+  - {id: huile_d_amande, nom: huile d'amande douce, parent: huile, alias_fr: [huile d'amande], alias_en: [almond oil], composants: [amande], ciqual: 17030}
+  - {id: huile_de_lin, nom: huile de lin, parent: huile, alias_en: [linseed oil, flaxseed oil], ciqual: 17180}
+  - {id: huile_de_cameline, nom: huile de cameline, parent: huile, alias_fr: [huile de chanvre, huile de germe de blé], alias_en: [camelina oil, hemp oil], ciqual: 17110}
+  - {id: huile_d_olive_vierge, nom: huile d'olive vierge extra, parent: huile_d_olive, alias_fr: [huile d'olive extravierge, huile d'olive extra-vierge, huile d'olive vierge, huile d'olive de première pression], alias_en: [extra virgin olive oil], ciqual: 17270}
+  - {id: huile_pimentee, nom: huile pimentée, parent: huile, alias_fr: [huile rouge, huile de piment, huile piquante], alias_en: [chili oil], composants: [huile_vegetale, piment], composition_variable: true, ciqual: 17001, ciqual_approche: true}
+  - {id: huile_de_truffe, nom: huile de truffe, parent: huile, alias_fr: [huile à la truffe], alias_en: [truffle oil], composants: [huile_d_olive, truffe], composition_variable: true, ciqual: 17270, ciqual_approche: true}
+  - {id: huile_d_olive_aromatisee, nom: huile aromatisée, alias_fr: [huile au basilic, huile à l'ail, huile aux herbes], alias_en: [infused oil], composants: [huile_d_olive, ail, basilic, herbe_aromatique], composition_variable: true, ciqual: 17270, ciqual_approche: true}
+  - {id: graisse_vegetale, nom: graisse végétale, parent: matiere_grasse, alias_fr: [Végétaline, shortening, graisse végétale solide], alias_en: [vegetable shortening, crisco], composants: [huile_de_coco, huile_de_palme, huile_de_colza], composition_variable: true, ciqual: 16080}
+  - {id: graisse_de_boeuf, nom: graisse de bœuf, parent: matiere_grasse, alias_fr: [suif, blanc de bœuf, graisse de rognon, graisse de bison, graisse de bison fondue], alias_en: [beef dripping, suet, tallow], composants: [boeuf], ciqual: 6270, ciqual_approche: true}
+  - {id: beurre_de_cacao, nom: beurre de cacao, parent: matiere_grasse, alias_fr: [beurre de cacao en pastilles, mycryo], alias_en: [cocoa butter], composants: [cacao], ciqual: 16030}
+  - {id: matiere_grasse_vegetale_tartiner, nom: margarine végétale, parent: margarine, alias_fr: [beurre végétal, margarine végétale, matière grasse végétale, matière grasse à tartiner], alias_en: [vegan butter, plant butter], ciqual: 16616}
+  - {id: spray_de_cuisson, nom: spray de cuisson, parent: huile_vegetale, alias_fr: [huile en spray, aérosol de cuisson], alias_en: [cooking spray], ciqual: 17001, ciqual_approche: true}

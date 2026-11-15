@@ -1,0 +1,25 @@
+id: galettes-de-carottes-au-cumin
+titre: Galettes de carottes au cumin
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 15
+  repos: 0
+ingredients:
+- 500 g de carottes
+- 2 œufs
+- 60 g de farine
+- 1 c. à café de cumin en poudre
+- 3 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Râper finement les carottes.
+- Les mélanger avec les œufs, la farine et le cumin ; saler.
+- Cuire des galettes 3 minutes de chaque côté dans l'huile chaude.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

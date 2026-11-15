@@ -1,0 +1,39 @@
+id: tarator
+titre: Tarator
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 0
+  repos: 0
+ingredients:
+- Un concombre
+- 500g de yaourt
+- Eau
+- Ail
+- Noix
+- Aneth
+- Sel
+- texte: Huile
+  ingredients:
+  - huile
+  categorie: true
+- texte: Vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+etapes:
+- '* Un concombre * 500g de yaourt * Eau * Ail * Noix * Aneth * Sel * Huile * Vinaigre'
+- Couper ou raper le concombre en petits morceaux. Diluer les 500g de yaourt dans environ 30 cl d'eau. Râper l'ail,
+  les noix et l'aneth, et mélanger le tout. Rajouter le sel, l'huile et le vinaigre selon votre goût.
+- Catégorie:Soupes Catégorie:Recettes végétariennes
+source:
+  titre: Tarator
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarator&oldid=452234
+  revision: 452234
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarator&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile, vinaigre.'

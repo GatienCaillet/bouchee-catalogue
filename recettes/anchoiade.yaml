@@ -1,0 +1,41 @@
+id: anchoiade
+titre: Anchoïade
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- anchois
+- huile d'olive
+- crudités de saison.
+etapes:
+- Mettre les filets d'anchois à chauffer avec un filet d'huile d'olive en mélangeant au fouet
+- si le mélange obtenu n'est pas assez homogène, on peut le lier avec un tout petit peu de farine que l'on ferra
+  cuire avec.
+- Présentez les crudités de saison autour de l'anchoïade.
+- Œufs dur
+- céleri
+- choux fleur
+- choux rouge
+- carottes
+- endives
+- tomate
+- poivron
+- concombre.
+source:
+  titre: Anchoïade
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ancho%C3%AFade&oldid=685106
+  revision: 685106
+  date: '2022-09-20'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ancho%C3%AFade&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Image-Ingrédients de l'anchoïade.jpg
+  auteur: No machine-readable author provided. Fred.th assumed (based on copyright claims).
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Image-Ingr%C3%A9dients_de_l%27ancho%C3%AFade.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

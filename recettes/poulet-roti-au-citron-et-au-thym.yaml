@@ -1,0 +1,26 @@
+id: poulet-roti-au-citron-et-au-thym
+titre: Poulet rôti au citron et au thym
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 75
+  repos: 0
+ingredients:
+- 1 poulet entier
+- 2 citrons
+- 1 bouquet de thym
+- 4 gousses d'ail
+- 30 g de beurre
+- sel, poivre
+etapes:
+- Préchauffer le four à 200 °C.
+- Glisser un citron coupé en deux, l'ail et la moitié du thym dans le poulet.
+- Badigeonner le poulet de beurre, saler, poivrer et ajouter le reste du thym autour.
+- Rôtir 1 heure 15 en arrosant régulièrement avec le jus, puis arroser du jus du second citron.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

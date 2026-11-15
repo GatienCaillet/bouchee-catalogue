@@ -1,0 +1,38 @@
+id: macarons-de-montmorillon
+titre: Macarons de Montmorillon
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 12
+  repos: 0
+ingredients:
+- 40 g de sucre glace
+- 40 g de sucre en poudre (la quantité peut être ajustée selon les goûts personnels)
+- 60 g blancs d'œufs (2 blancs d'œufs)
+- 100 g de poudre d'amande tamisée.
+etapes:
+- Mélanger le sucre glace et la poudre d'amande, passer à travers un tamis à poudre dans un autre bol et réserver
+  pour une utilisation ultérieure.
+- Ajouter lentement le sucre en poudre aux blancs d'œufs et battre avec un fouet électrique jusqu'à ce qu'il mousse,
+  en faisant un glaçage à la meringue.
+- Ajouter le mélange de sucre glace et de farine d'amande au glaçage meringué en deux portions, tout en remuant
+  continuellement pour assurer un mélange homogène.
+- Mettre le mélange final dans une poche à douille et pressez-la pour former une petite boule de pâte sur une plaque
+  à pâtisserie recouverte de papier sulfurisé.
+- Mettre la plaque de cuisson au four à 180°C pendant 12 minutes.
+source:
+  titre: Macarons de Montmorillon
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Macarons_de_Montmorillon&oldid=682114
+  revision: 682114
+  date: '2022-07-21'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Macarons_de_Montmorillon&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Montmorillon Macaron 02.jpg
+  auteur: 胡蘿蔔
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Montmorillon_Macaron_02.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

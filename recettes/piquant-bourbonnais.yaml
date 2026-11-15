@@ -1,0 +1,30 @@
+id: piquant-bourbonnais
+titre: Piquant Bourbonnais
+portions: 10
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 0
+ingredients:
+- 500 g de farine
+- 2 œufs
+- 100 g de beurre fondu
+- 20 g de sucre en poudre
+- 8 g de sel
+- 1/2 verre d'eau chaude
+- 600 g de pommes.
+etapes:
+- Délayer la farine avec les œufs, le beurre fondu, le sucre en poudre, le sel et l'eau, jusqu'à obtention d'une
+  pâte épaisse et collante, un peu plus molle qu'une pâte à pain.
+- Couper les pommes en petits cubes et les ajouter en mélangeant bien.
+- Verser le tout en boule sur papier ou tôle beurrée. Aplatir la boule pour lui donner 8 cm d'épaisseur environ.
+source:
+  titre: Piquant Bourbonnais
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Piquant_Bourbonnais&oldid=675177
+  revision: 675177
+  date: '2022-04-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Piquant_Bourbonnais&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

@@ -1,0 +1,26 @@
+id: creme-brulee-a-la-vanille
+titre: Crème brûlée à la vanille
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 60
+  repos: 60
+ingredients:
+- 50 cl de crème liquide
+- 5 jaunes d'œufs
+- 80 g de sucre
+- 1 gousse de vanille
+- 4 c. à soupe de sucre roux
+etapes:
+- Préchauffer le four à 100 °C.
+- Chauffer la crème avec la vanille fendue.
+- Fouetter les jaunes avec le sucre, puis verser la crème chaude dessus.
+- Répartir dans des ramequins et cuire 1 heure. Laisser refroidir.
+- Saupoudrer de sucre roux et caraméliser au chalumeau ou sous le gril.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

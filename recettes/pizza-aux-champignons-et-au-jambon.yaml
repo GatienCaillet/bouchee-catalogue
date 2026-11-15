@@ -1,0 +1,26 @@
+id: pizza-aux-champignons-et-au-jambon
+titre: Pizza aux champignons et au jambon
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 12
+  repos: 0
+ingredients:
+- 1 pâte à pizza
+- 200 g de coulis de tomate
+- 200 g de champignons de Paris
+- 150 g de jambon blanc
+- 1 boule de mozzarella
+- 1 c. à café d'origan
+etapes:
+- Préchauffer le four à 250 °C.
+- Étaler la pâte et la napper de coulis.
+- Garnir de champignons émincés, de jambon et de mozzarella, puis d'origan.
+- Enfourner 12 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'
