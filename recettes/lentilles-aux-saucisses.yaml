@@ -1,0 +1,26 @@
+id: lentilles-aux-saucisses
+titre: Lentilles aux saucisses
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 40
+  repos: 0
+ingredients:
+- 300 g de lentilles vertes
+- 4 saucisses de Toulouse
+- 2 carottes
+- 1 oignon
+- 1 bouquet garni
+- sel, poivre
+etapes:
+- Faire dorer les saucisses à la cocotte, puis les réserver.
+- Faire revenir l'oignon et les carottes en dés.
+- Ajouter les lentilles, le bouquet garni et 1 l d'eau, et cuire 25 minutes.
+- Remettre les saucisses et cuire encore 10 minutes ; saler en fin de cuisson.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

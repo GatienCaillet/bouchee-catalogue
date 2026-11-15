@@ -8,7 +8,7 @@ Produit, dans le dossier de sortie :
 - `CREDITS` : sources des recettes et des photos, licences ;
 - les fichiers statiques de `public/` (copiés tels quels).
 
-Les photos ne sont pas recopiées : l'app les charge à la demande depuis Wikimedia Commons, à
+Les photos (facultatives) ne sont pas recopiées : l'app les charge à la demande depuis Wikimedia Commons, à
 la taille voulue (`Special:FilePath?width=`), et les garde en cache. Toute recette non publiable
 bloque l'export.
 """
@@ -73,7 +73,7 @@ def exporter_recette(r: RecetteControlee) -> dict[str, Any]:
             ligne["facultatif"] = True
         lignes.append(ligne)
     temps = {k: v for k, v in d["temps"].items() if v}
-    photo = d["photo"]
+    photo = d.get("photo")
     sortie: dict[str, Any] = {
         "id": d["id"],
         "titre": d["titre"],
@@ -88,7 +88,7 @@ def exporter_recette(r: RecetteControlee) -> dict[str, Any]:
             "page": photo["url"],
             "auteur": photo["auteur"],
             "licence": photo["licence"],
-        },
+        } if photo else None,
         "source": {k: d["source"][k] for k in ("titre", "url", "auteurs", "licence", "modifications")},
     }
     if d.get("decouverte"):
@@ -101,21 +101,22 @@ def credits(recettes: list[RecetteControlee]) -> str:
         "Catalogue Bouchée : crédits",
         "",
         "Recettes : adaptations de pages du « Livre de cuisine » de Wikibooks (https://fr.wikibooks.org),",
-        "par les contributeurs de Wikibooks. Les adaptations sont publiées sous CC BY-SA 4.0.",
+        "par les contributeurs de Wikibooks, et recettes rédigées pour Bouchée. Tout est publié sous CC BY-SA 4.0.",
         "Photos : Wikimedia Commons ; chaque photo garde sa licence et son auteur.",
         "Données nutritionnelles de référence : Anses, table Ciqual 2020 (Licence Ouverte).",
         "",
     ]
     for r in sorted(recettes, key=lambda x: x.donnees["titre"]):
         d = r.donnees
-        s, p = d["source"], d["photo"]
+        s, p = d["source"], d.get("photo")
         lignes += [
             d["titre"],
             f"  Recette : « {s['titre']} », {s['auteurs']}, {s['licence']}, {s['url']}",
             f"  Modifications : {s['modifications']}",
-            f"  Photo : « {p['fichier']} », {p['auteur']}, {p['licence']}, {p['url']}",
-            "",
         ]
+        if p:
+            lignes.append(f"  Photo : « {p['fichier']} », {p['auteur']}, {p['licence']}, {p['url']}")
+        lignes.append("")
     return "\n".join(lignes)
 
 

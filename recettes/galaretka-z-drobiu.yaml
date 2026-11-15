@@ -1,0 +1,40 @@
+id: galaretka-z-drobiu
+titre: Galaretka z drobiu
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 0
+ingredients:
+- 4 ailes de poulet
+- 2 cuisses de poulet
+- Oignon
+- Carottes
+- texte: Cèleris
+  ingredients:
+  - celeri
+  categorie: true
+- sel, poivre, laurier, ail
+- Gélatine
+etapes:
+- Mettre les ailes et les cuisses de poulet dans une casserole et couvrir d'eau froide.
+- Ajouter les légumes, cuire à feu doux, jusqu'à ce que la viande se sépare des os.
+- Vérifier l'assaisonnement, passer le bouillon, séparer la viande des os et la couper en petits morceaux.
+- Couper les légumes en morceaux, ajouter de la gélatine dans le bouillon ; bien mélanger.
+- Préparer des ramequins; les mouiller avec un peu de bouillon et laisser prendre
+- Disposer au fond des ramequins, les carottes coupées en forme de fleurs, des petits pois, ou même un œuf dur coupé
+  en deux.
+- Ajouter les morceaux de viande et couvrir avec du bouillon.
+- Laisser reposer au réfrigérateur.
+- Avant de servir, démouler les portions sur une feuille de salade verte, décorer avec une rondelle de citron.
+source:
+  titre: Galaretka z drobiu
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galaretka_z_drobiu&oldid=451957
+  revision: 451957
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galaretka_z_drobiu&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : céleri.'

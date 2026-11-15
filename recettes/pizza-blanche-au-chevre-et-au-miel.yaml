@@ -1,0 +1,25 @@
+id: pizza-blanche-au-chevre-et-au-miel
+titre: Pizza blanche au chèvre et au miel
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 12
+  repos: 0
+ingredients:
+- 1 pâte à pizza
+- 15 cl de crème fraîche
+- 150 g de fromage de chèvre
+- 2 c. à soupe de miel
+- 1 c. à café de thym
+etapes:
+- Préchauffer le four à 250 °C.
+- Étaler la pâte et la napper de crème.
+- Ajouter le chèvre en rondelles et le thym.
+- Enfourner 12 minutes, puis arroser de miel.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

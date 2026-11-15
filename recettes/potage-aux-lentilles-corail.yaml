@@ -1,0 +1,28 @@
+id: potage-aux-lentilles-corail
+titre: Potage aux lentilles corail
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 30
+  repos: 0
+ingredients:
+- 300 g de lentilles corail
+- 2 l de bouillon de légumes
+- 1 oignon
+- 1 gousse d'ail
+- 3 carottes
+- sel, poivre, thym, huile d'olive
+etapes:
+- Rissoler l'oignon émincé, l'ail écrasé et les carottes en rondelles, leur ajouter les lentilles, le bouillon et
+  l'assaisonnement. Porter à ébullition, cuire 30 min à la casserole à pression
+- Servir chaud avec des croûtons de pain
+source:
+  titre: Potage aux lentilles corail
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Potage_aux_lentilles_corail&oldid=452095
+  revision: 452095
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Potage_aux_lentilles_corail&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

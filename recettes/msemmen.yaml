@@ -1,0 +1,49 @@
+id: msemmen
+titre: Msemmen
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 35
+  repos: 40
+ingredients:
+- 1 kg de semoule fine
+- 1 cuillerée à café de sel
+- 2 verres d'eau
+- du beurre pour pliage et cuisson
+etapes:
+- 'Temps de préparation : 25 minutes'
+- 'Cuisson : 10 minutes'
+- Pour une vingtaines de bricks
+- Faire un puits au centre de la semoule, y mettre le sel et ajouter peu à peu l'eau en pétrissant énergiquement
+  et longuement jusqu'à obtenir une pâte bien lisse.
+- Pétrir la pâte pendant 20mn environ en l'aspergeant de temps à autre d'eau. L'étirer, la couper, reformer une
+  boule jusqu'à ce que la pâte soit élastique et légèrement coulante. Couvrir à l'aide d'un linge en tissus et laisser
+  reposer 20mn dans un endroit à température ambiante.
+- Mettre une plaque ou une poêle de fonte sur le feu et l'enduire avec un tissu huilé.
+- Avec des mains huilées, faire des boules de la taille d'une mandarine et les ranger sur une surface huilée. Les
+  étaler une à une avec la paume de la main huilée en étirant doucement la pâte dans tous les sens jusqu'à ce qu'elle
+  soit très fine.
+- Rabattre les 4 côtés en les faisant se chevaucher de façon à obtenir un carré de 8 cm de côté avant chaque pliage,
+  passer un petit filet d'huile et saupoudrer de semoule sèche, pour accentuer le feuilletage. mettre le premier
+  carré plié de côté, et étaler une autre boule, avant de commencer le pliage de la seconde feuille, disposer au
+  centre de celle-ci le premier carré, sans oublier de toujours mettre un filet d'huile et de la semoule entre chaque
+  pâte et avant chaque pliage. La boule est cuite lorsqu'elle se détache de la plaque.
+- Les dorer sur les 2 faces dans une poêle beurrée et les servir accompagnées de miel ou de sucre.
+- On peut aussi les farcir avant de les plier et de les cuire, par exemple d'amandes pilées et de sucre, mais aussi
+  d'un mélange d'oignon, de persil, de morceaux de viande boucanées khlii et d'épices.
+source:
+  titre: Msemmen
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Msemmen&oldid=732896
+  revision: 732896
+  date: '2024-12-01'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Msemmen&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Msemmen-Ghrayef.jpg
+  auteur: Indif
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Msemmen-Ghrayef.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,35 @@
+id: bouillon-de-legumes
+titre: Bouillon de légumes
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 0
+  repos: 0
+ingredients:
+- 50 g de margarine
+- 2 oignons hachés
+- 6 carottes hachées
+- texte: 4 branches de céleri hachées
+  ingredients:
+  - celeri
+  categorie: true
+- 2 gousses d'ail écrasées
+- 500 g de tomates hachées
+- 2 cuillères à soupe de persil
+- 10 grains de poivre, 1 cuillère à thé de thym, 2 feuilles de laurier
+- 3L d'eau
+etapes:
+- Faire revenir les légumes (sauf les tomates) dans la margarine. Ajouter les tomates, les assaisonnements et l'eau.
+  Laisser mijoter jusqu'à ce qu'il y ai réduction de moitié du liquide.
+- Filtrer
+source:
+  titre: Bouillon de légumes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bouillon_de_l%C3%A9gumes&oldid=451867
+  revision: 451867
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bouillon_de_l%C3%A9gumes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : céleri.'

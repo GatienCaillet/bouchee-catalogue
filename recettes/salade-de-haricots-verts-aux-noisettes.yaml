@@ -1,0 +1,26 @@
+id: salade-de-haricots-verts-aux-noisettes
+titre: Salade de haricots verts aux noisettes
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 15
+ingredients:
+- 500 g de haricots verts
+- 40 g de noisettes
+- 1 échalote
+- 4 c. à soupe d'huile d'olive
+- 2 c. à soupe de vinaigre de vin
+- sel, poivre
+etapes:
+- Cuire les haricots verts 8 minutes à l'eau salée et les refroidir ; concasser les noisettes.
+- Préparer la vinaigrette en mélangeant l'huile, l'acidité, le sel et le poivre.
+- Réunir tous les ingrédients dans un saladier, arroser de vinaigrette et mélanger délicatement.
+- Laisser reposer 15 minutes au frais avant de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

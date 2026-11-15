@@ -1,0 +1,32 @@
+id: khinkali
+titre: Khinkali
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 6
+  repos: 0
+ingredients:
+- 300 g de bœuf haché
+- 200 g de porc haché
+- 3 oignons, 500 g de farine de blé
+- Sel, poivre.
+etapes:
+- '*300 g de bœuf haché, *200 g de porc haché, *3 oignons, 500 g de farine de blé, *Sel, poivre.'
+- Couper la viande en morceaux et la hacher avec les oignons. Ajouter du poivre noir moulu et du sel, environ une
+  demi tasse d'eau chaude, et bien mélanger. Tamiser la farine, saler, puis verser lentement une tasse d'eau et
+  pétrir jusqu'à obtenir une pâte ferme. Etaler la pâte afin d'obtenir une épaisseur très fine. Découper des ronds
+  de la taille d'une assiette à dessert. Garnir chaque rond de pâte d'une cuillerée à soupe de viande, ramener les
+  bords et les entortiller, aplatir légèrement les raviolis. Mettre les khinkali dans une casserole d'eau bouillante
+  salée. Remuer de temps en temps avec une cuillère en bois afin qu'ils n'attachent pas. Lorsqu'ils remontent à
+  la surface, laisser cuire encore 6 à 7 minutes. Sortir les khinkali de la casserole à l'aide d'une écumoire. Servir
+  chaud.
+source:
+  titre: Khinkali
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Khinkali&oldid=329823
+  revision: 329823
+  date: '2011-05-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Khinkali&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,31 @@
+id: ratatouille3
+titre: Ratatouille3
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 60
+  repos: 0
+ingredients:
+- 1 aubergine
+- 3 courgettes
+- 1 poivron jaune
+- 6 tomates
+- 1 oignon
+- 2 gousses d'ail
+- 2 branches de thym, 1 feuille de laurier
+- 10 cl d'huile d'olive, sel, poivre
+etapes:
+- Laver et couper tous les légumes.
+- Dans un faitout, chauffer l'huile d'olive, faire blondir l'oignon haché
+- Incorporer d'abord les tomates puis la totalité des légumes et des aromates
+- Cuire à feu doux durant 1 heure, en remuant
+source:
+  titre: Ratatouille3
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ratatouille3&oldid=452161
+  revision: 452161
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Ratatouille3&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,27 @@
+id: aubergines-roties-au-miel-et-au-thym
+titre: Aubergines rôties au miel et au thym
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 2 aubergines
+- 3 c. à soupe d'huile d'olive
+- 1 c. à soupe de miel
+- 1 c. à café de thym
+- sel
+etapes:
+- Couper les aubergines en tranches épaisses, les badigeonner d'huile.
+- Rôtir 25 minutes à 210 °C, puis arroser de miel et de thym.
+decouverte:
+  aliment: aubergine
+  niveau: 3
+  pourquoi: Bien dorée, l'aubergine devient fondante ; le miel arrondit son amertume.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

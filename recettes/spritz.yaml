@@ -1,0 +1,44 @@
+id: spritz
+titre: Spritz
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 80
+ingredients:
+- 500 g de farine
+- 250 g de sucre
+- 250 g de beurre
+- 2 œufs
+- 125 g de d'amandes moulues ou de la noix de coco râpée.
+etapes:
+- Mélanger le beurre fondu avec le sucre, puis ajouter les œufs entiers.
+- Incorporer ensuite la farine et enfin des amandes moulues ou de la noix de coco.
+- Faire une boule de pâte et la laisser reposer une heure.
+- Si on préfère, à la place des amandes moulues ou de la noix de coco râpée, on peut utiliser de la cannelle. Dans
+  ce cas, il faut utiliser une cuillère à café bombée de cannelle et ajouter 75 grammes de farine et 50 grammes
+  de sucre.
+- Former de longues bandes de pâte d'une trentaine de centimètres de long. Pour cela, il faut se servir d'un hachoir
+  à viande électrique ou à manivelle, muni d'un embout à la forme des spritz (ou une poche à douille, mais c'est
+  moins pratique).
+- Répartir ces formes sur une tôle à pâtisserie. Il est possible de les serrer, car les spritz ne gonflent quasiment
+  pas.
+- 'Cuire 20 minutes à 180°C et laisser refroidir dans une boîte en métal ouverte. Une fois enfermés dans la boîte,
+  les gâteaux peuvent se conserver toute une année. Attention : il faut absolument enlever les gâteaux de la tôle
+  lorsqu''ils sont encore chaud, car sinon ils vont coller.'
+source:
+  titre: Spritz
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spritz&oldid=744182
+  revision: 744182
+  date: '2025-06-05'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spritz&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Spritz canelle.jpg
+  auteur: Emmanuel BRUNNER, Manu25
+  licence: CC BY 3.0
+  url: https://commons.wikimedia.org/wiki/File:Spritz_canelle.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,47 @@
+id: soupe-d-asperges-champignons-mais-et-poulet
+titre: Soupe d'asperges, champignons, maïs et poulet
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 20
+  repos: 0
+ingredients:
+- 2 litres d'eau environ
+- 180 g d'asperges
+- 560 g de maïs
+- texte: 240 g de champignon
+  ingredients:
+  - champignon
+  categorie: true
+- 2 escalopes de poulet
+- 2 oignons
+- 2 à 3 gousses d'ail
+- sel, sucre, poivre.
+etapes:
+- Remplir la marmite de suffisamment d'eau pour que les escalopes de poulet soient immergées.
+- Chauffer le fond d'eau, lorsqu'il est suffisamment chaud, y plonger les escalopes.
+- Lorsque la translucidité des escalopes s'opacifie de blanc suffisamment en profondeur, les retirer et les placer
+  sur la planche à découper.
+- Émietter chacune des escalopes, pour ce faire maintenez une escalope plaquée contre la planche à découper avec
+  une fourchette, et avec l'autre fourchette émiettez sa chair finement.
+- Faire de même avec la seconde escalope.
+- Replonger ces miettes dans l'eau pour en finir la cuisson.
+- Couper les oignons, et les faire revenir dans du beurre.
+- Ajouter les oignons, l'ail haché, les champignons sans leur jus (pour éviter un goût amer), et le maïs.
+- Couper les asperges d'une taille appropriée à la taille d'une cuillère à soupe.
+- Ajouter un peu de bouillon d'une recette précédente, si vous en avez.
+- Saler, sucrer.
+- Assaisonner de beaucoup de poivre, un peu de concentré de tomate, quelques fines herbes éventuellement à votre
+  convenance ou autres épices.
+- Laisser mijoter environ 20 minutes.
+source:
+  titre: Soupe d'asperges, champignons, maïs et poulet
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_d%27asperges%2C_champignons%2C_ma%C3%AFs_et_poulet&oldid=749724
+  revision: 749724
+  date: '2025-09-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_d%27asperges%2C_champignons%2C_ma%C3%AFs_et_poulet&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : champignon.'

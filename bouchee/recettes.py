@@ -10,13 +10,16 @@ Format : un fichier YAML par recette dans `recettes/`, nommé d'après son ident
       - 800 g d'épinards frais                    # ligne normalisée automatiquement
       - texte: 1 c. à soupe de crème              # ligne résolue à la main, après relecture
         ingredients: [creme_fraiche]
+      - texte: 2 c. à soupe d'huile               # catégorie gardée telle quelle (import en lot) :
+        ingredients: [huile]                      # le validateur vérifie toutes les huiles
+        categorie: true
     etapes: [...]
     decouverte:                                   # facultatif : recette d'un parcours « Nouvel aliment »
       aliment: epinard
       niveau: 4                                   # 1 fondu, 2 discret, 3 identifiable, 4 accompagnement, 5 vedette
       pourquoi: La crème adoucit le goût de l'épinard.
       conseil: Bien presser les épinards pour éviter le côté aqueux.
-    photo: {fichier, auteur, licence, url}        # Wikimedia Commons, licence vérifiée
+    photo: {fichier, auteur, licence, url}        # facultatif ; Wikimedia Commons, licence vérifiée
     source: {titre, url, revision, date, auteurs, historique, licence, modifications}
 
 Une recette est publiable si toutes ses lignes sont résolues (automatiquement avec une
@@ -85,9 +88,10 @@ def _normaliser_ligne(ligne: Any, n: Normaliseur, ref: Referentiel) -> tuple[Lig
                     f"ligne « {ligne['texte']} » : identifiants inconnus {inconnus}"
                 )
             auto = n.normaliser(ligne["texte"])
+            motif = "catégorie acceptée" if ligne.get("categorie") else "résolue à la relecture"
             resultat = LigneNormalisee(
                 texte=ligne["texte"], quantite=auto.quantite, quantite_max=auto.quantite_max, unite=auto.unite,
-                nom=auto.nom, ingredients=list(ids), confiance=1.0, statut="resolue", motif="résolue à la relecture",
+                nom=auto.nom, ingredients=list(ids), confiance=1.0, statut="resolue", motif=motif,
             )
         resultat.facultatif = resultat.facultatif or bool(ligne.get("facultatif"))
         return resultat, None
@@ -128,9 +132,13 @@ def controler(fichier: str, d: dict[str, Any], n: Normaliseur, ref: Referentiel)
     if source.get("licence") and source["licence"] not in LICENCES_SOURCE:
         e.append(f"source.licence inattendue : {source['licence']}")
 
-    photo = d.get("photo") or {}
+    photo = d.get("photo")  # facultative : l'app affiche une illustration par défaut
+    if photo is not None and not isinstance(photo, dict):
+        e.append("photo : dictionnaire {fichier, auteur, licence, url} attendu")
+        photo = {}
+    photo = photo or {}
     for cle in ("fichier", "auteur", "licence", "url"):
-        if not photo.get(cle):
+        if photo and not photo.get(cle):
             e.append(f"photo.{cle} absent")
     if photo.get("licence") and not LICENCES_PHOTO.match(str(photo["licence"])):
         e.append(f"photo.licence non libre ou inconnue : {photo['licence']}")
@@ -163,8 +171,9 @@ def controler_tout(dossier: Path = DOSSIER_RECETTES) -> list[RecetteControlee]:
 def main() -> int:
     recettes = controler_tout()
     total_lignes = sum(len(r.lignes) for r in recettes)
-    auto = sum(1 for r in recettes for l in r.lignes if l.statut == "resolue" and l.motif != "résolue à la relecture")
+    auto = sum(1 for r in recettes for l in r.lignes if l.statut == "resolue" and l.motif not in ("résolue à la relecture", "catégorie acceptée"))
     manuelles = sum(1 for r in recettes for l in r.lignes if l.motif == "résolue à la relecture")
+    categories = sum(1 for r in recettes for l in r.lignes if l.motif == "catégorie acceptée")
     for r in recettes:
         for err in r.erreurs:
             print(f"ERREUR {r.fichier} : {err}")
@@ -174,7 +183,8 @@ def main() -> int:
     publiables = sum(1 for r in recettes if r.publiable)
     print(
         f"\n{len(recettes)} recettes, {publiables} publiables ; {total_lignes} lignes : "
-        f"{auto} résolues automatiquement, {manuelles} résolues à la relecture, {a_relire} à relire"
+        f"{auto} résolues automatiquement, {manuelles} résolues à la relecture, {categories} catégories acceptées, "
+        f"{a_relire} à relire"
     )
     return 0 if publiables == len(recettes) else 1
 

@@ -1,0 +1,30 @@
+id: boulettes-de-millet
+titre: Boulettes de millet
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 15
+  repos: 0
+ingredients:
+- 100 g de millet
+- 250 ml d'eau
+- 50 g de carottes râpées
+- 50 g de courgettes râpées
+- 1 oignon émincé
+- persil haché, sel, poivre, chapelure, huile de friture.
+etapes:
+- Porter l'eau à ébullition, y jeter le millet puis laisser mijoter pendant 15 min environ, en remuant régulièrement.
+- Laisser ensuite refroidir la préparation, puis lui ajouter les légumes râpés et hachés, ainsi que les épices.
+  Si la préparation est trop mouillée, ajouter suffisamment de chapelure pour pouvoir modeler de petites boulettes.
+  Plongez-les ensuite dans l'huile de friture pour qu'elles soient bien dorées.
+- Vous pouvez servir ces boulettes avec une salade verte garnie de noix, ou avec une sauce blanche aux champignons.
+source:
+  titre: Boulettes de millet
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Boulettes_de_millet&oldid=451870
+  revision: 451870
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Boulettes_de_millet&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

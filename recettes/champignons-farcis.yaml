@@ -1,0 +1,47 @@
+id: champignons-farcis
+titre: Champignons farcis
+portions: 2
+temps:
+  preparation: 45
+  cuisson: 20
+  repos: 0
+ingredients:
+- 2 échalotes
+- 25 g de beurre
+- 100 g de poireaux
+- huile d'olive
+- texte: 4 gros champignons
+  ingredients:
+  - champignon
+  categorie: true
+- 100 g lardons
+- 2 tomates
+- 1/6 bûchette de chèvre
+- 1 œuf
+- Sel
+- poivre noir
+- Une pointe de muscade
+- emmental.
+etapes:
+- Émincer les échalotes puis les faire dorer dans le beurre.
+- Ajouter ensuite les poireaux en tranches et de l'huile d'olive et laisser cuire environ 10 minutes tout en remuant
+  régulièrement.
+- Pendant ce temps-là, nettoyer les champignons, séparer les pieds des chapeaux et couper les pieds en petits cubes.
+- Faire frire les lardons à part sans matières grasses. Lorsqu'ils commencent à dorer, les ajouter aux poireaux.
+  Ajouter les tomates vidées et coupées en cubes, le fromage de chèvre, les pieds de champignons et l'œuf préalablement
+  battu. Bien mélanger, saler, poivrer, ajouter la muscade et mélanger encore. Laisser mijoter le tout jusqu'à évaporation
+  du liquide.
+- Disposer les champignons dans le plat huilé et huiler également l'extérieur et l'intérieur des champignons. Remplir
+  les champignons avec la préparation et ajouter de l'emmental râpé dessus.
+- Faire cuire 10 minutes à 180° (thermostat 6).
+source:
+  titre: Champignons farcis
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Champignons_farcis&oldid=647625
+  revision: 647625
+  date: '2020-10-11'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Champignons_farcis&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : champignon.'

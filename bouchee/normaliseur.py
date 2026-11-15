@@ -46,20 +46,23 @@ UNITES: dict[str, list[str]] = {
         "c. a soupe", "c.a soupe", "c a soupe", "c. a s.", "c.a.s.", "c.a.s", "cas", "cs", "c.s.", "c.s",
         "cuillere a soupe", "cuilleres a soupe", "cuil. a soupe", "cuill. a soupe", "cuillerees a soupe",
         "cuilleree a soupe", "grosse cuillere", "grosses cuilleres", "cuiller a soupe", "cuillers a soupe",
-        "c. soupe", "cuil. soupe",
+        "c. soupe", "cuil. soupe", "c a s", "c. a table", "c a table", "c.a.t.", "cuillere a table", "cuilleres a table",
+        "cuiller a table", "cuillers a table", "cuilleree a table", "cuillerees a table", "cuil.soupe", "a soupe", "a table",
     ],
     "c. à café": [
         "c. a cafe", "c.a cafe", "c a cafe", "c. a c.", "c.a.c.", "c.a.c", "cac", "cc", "c.c.", "c.c",
         "cuillere a cafe", "cuilleres a cafe", "cuil. a cafe", "cuill. a cafe", "cuilleree a cafe",
         "cuillerees a cafe", "petite cuillere", "petites cuilleres", "cuiller a cafe", "cuillers a cafe",
-        "cuillere a the", "cuilleres a the", "cuiller a the", "c. a the", "c. cafe",
+        "cuillere a the", "cuilleres a the", "cuiller a the", "c. a the", "c. cafe", "c a c", "c a the", "cuil.cafe", "a cafe", "a the",
     ],
+    "c. à dessert": ["c. a dessert", "c a dessert", "cuillere a dessert", "cuilleres a dessert", "cuiller a dessert",
+                     "cuillers a dessert", "cuilleree a dessert", "cuillerees a dessert", "a dessert"],
     "cuillère": ["cuillere", "cuilleres", "cuiller", "cuillers", "cuilleree", "cuillerees"],
     "plaque": ["plaque", "plaques"],
     "pied": ["pied", "pieds"],
     "goutte": ["goutte", "gouttes"],
     "barquette": ["barquette", "barquettes"],
-    "pincée": ["pincee", "pincees"],
+    "pincée": ["pincee", "pincees", "prise", "prises", "pointe de couteau", "pointe", "soupcon"],
     "gousse": ["gousse", "gousses"],
     "tranche": ["tranche", "tranches"],
     "boîte": ["boite", "boites"],
@@ -117,6 +120,16 @@ QUALIFICATIFS = sorted({
     "fume", "fumee", "fumes", "fumees", "sechee", "sechees", "vegetal", "vegetale",
     "a chair ferme", "a chair farineuse", "de taille moyenne", "du pays", "en lanieres", "multicolores",
     "eventuellement", "de preference",
+    "fraichement moulu", "fraichement moulue", "fraichement rape", "fraichement rapee", "du moulin", "au moulin",
+    "moulu fraichement", "denoyaute", "denoyautee", "denoyautes", "denoyautees", "non sale", "non salee", "non sales",
+    "non salees", "non sucre", "non sucree", "rassis", "rassie", "tamise", "tamisee", "tamises", "epluche", "epluchee",
+    "epluches", "epluchees", "ecrasees", "lyophilise", "lyophilisee", "emiette", "emiettee", "pile", "pilee", "piles",
+    "pilees", "roti", "roties", "rotis", "rince", "rinces", "rincee", "rincees", "cremeux", "cremeuse", "en feuilles",
+    "en languettes", "en morceau", "en lanieres", "en petits morceaux", "en gros morceaux", "decoupe", "decoupee",
+    "decoupes", "decoupees", "verte", "vertes", "bien mur", "bien mure", "bien murs", "bien mures", "de bonne taille",
+    "decongele", "decongelee", "precuit", "precuite", "precuits", "egrene", "egrenee", "effile", "effilee", "effilees",
+    "suivant gout", "suivant le gout", "a volonte", "pour decorer", "pour la decoration", "fondus", "fondues",
+    "grand", "grande", "grands", "grandes", "cru", "crue", "crus", "crues", "pressees", "presses", "menu",
 }, key=lambda x: -len(x))
 # Débuts de précisions d'usage : tout ce qui suit est retiré (« beurre pour le moule »)
 COUPURES = ("pour ", "+ ", "a peu pres", "plus ", "selon ")
@@ -126,7 +139,9 @@ PREFIXES_IGNORES = ("environ ", "eventuellement ", "pas plus d'", "pas plus de "
 TAILLES = ("grandes ", "grande ", "grands ", "grand ", "petites ", "petite ", "petits ", "petit ",
            "grosses ", "grosse ", "gros ", "belles ", "belle ", "beaux ", "beau ", "bonne ", "bonnes ")
 
-SEPARATEURS = re.compile(r"\s*(?:,|;|\bet\b|\bou\b|/|\s-\s)\s*")
+SEPARATEURS = re.compile(r"\s*(?:,|;|&|\bet\b|\bou\b|/|\s-\s)\s*")
+# « le jus d'un citron », « le zeste de 2 oranges » : le nombre de fruits ne change pas l'ingrédient
+JUS_DE = re.compile(r"^(?:le |la |les )?(jus|zeste|zestes|ecorce|pulpe) (?:d'un |d'une |de \d+(?:[.,]\d+)? |d'\d+ |d'(?=[aeiouy]))(?:demi-|demi )?")
 
 
 @dataclass
@@ -324,6 +339,8 @@ class Normaliseur:
         if any(m in t for m in ("facultatif", "facultative", "si vous aimez", "eventuellement", "si desire")):
             ligne.facultatif = True
         t = re.sub(r"\([^)]*\)", " ", t)
+        t = t.replace("[", " ").replace("]", " ").replace("®", "").replace("`", "'")
+        t = re.sub(r"^sel-poivre\b", "sel, poivre", t)
         t = re.sub(r"\s+", " ", t).strip(" .,;")
         for prefixe in PREFIXES_IGNORES:
             if t.startswith(prefixe):
@@ -333,7 +350,15 @@ class Normaliseur:
             return ligne
 
         quantite, quantite_max, reste = self._extraire_quantite(t)
+        reste = JUS_DE.sub(lambda m: m.group(1) + " de ", reste)
         unite, apres_unite = self._extraire_unite(reste)
+        if unite is None and quantite is not None:  # « 1/4 de litre de lait », « 1/2 d'une tasse »
+            for liaison in ("de ", "d'une ", "d'un ", "d'"):
+                if reste.startswith(liaison):
+                    u2, a2 = self._extraire_unite(reste[len(liaison):])
+                    if u2:
+                        unite, apres_unite = u2, a2
+                    break
         if unite == "un peu":  # « un peu de » : le « un » n'est pas une quantité
             quantite = quantite_max = None
         ligne.quantite, ligne.quantite_max = quantite, quantite_max

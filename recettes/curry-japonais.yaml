@@ -1,0 +1,55 @@
+id: curry-japonais
+titre: Curry japonais
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 90
+  repos: 0
+ingredients:
+- viande de porc pour quatre
+- 2,5 à 3 c.s. poudre de curry
+- 2 oignons
+- 2 pommes de terre
+- 4 carotte
+- 1 gousse d'ail
+- 1 c.c. de gingembre
+- bouillon de viande (2 cubes) et de dashi (bouillon d'algue, 1/2 verre)
+- 2 c.s. de ketchup (ou sauce tomate)
+- 1/2 c.s. de sucre
+- sel
+- poivre noir
+- laurier
+- texte: huile
+  ingredients:
+  - huile
+  categorie: true
+- 4 c.s. de farine
+- riz cuit pour quatre.
+etapes:
+- Couper la viande en dés (assez gros), saupoudrer légèrement de poudre de curry.
+- Couper les oignons, les carottes en biseau et les pommes de terre en dés (assez gros, afin qu'ils ne se dissolvent
+  pas dans le bouillon), rapper l'ail.
+- Faire revenir la viande dans un peu d'huile.
+- Ajouter les oignons, carottes, pommes de terre ail, gingembre, laurier, sel, puis recouvrir d'eau et ajouter les
+  bouillons. Porter à ébullition et laisser cuire une quinzaine de minutes (baisser le feu après ébullition).
+- À part, faire un roux avec la farine et environ 2 à 4 c.s. d'huile. Délayer avec le bouillon de la viande et incorporer
+  la poudre de curry. Mélanger énergiquement pour obtenir une sauce homogène et épaisse.
+- Incorporer la sauce au bouillon, ajouter le reste des condiments (ketchup, sucre, poivre, sel selon votre goût).
+  Laisser mijoter 30 minutes à une heure.
+source:
+  titre: Curry japonais
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Curry_japonais&oldid=677472
+  revision: 677472
+  date: '2022-05-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Curry_japonais&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : huile.'
+photo:
+  fichier: Beef curry rice 003.jpg
+  auteur: Ocdp
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Beef_curry_rice_003.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,26 @@
+id: poulet-teriyaki
+titre: Poulet teriyaki
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 0
+ingredients:
+- 600 g de cuisses de poulet
+- 4 c. à soupe de sauce soja
+- 2 c. à soupe de mirin
+- 1 c. à soupe de sucre
+- 1 c. à soupe de graines de sésame
+- 1 c. à soupe d'huile de colza
+etapes:
+- Mélanger la sauce soja, le mirin et le sucre.
+- Faire dorer le poulet en morceaux dans l'huile.
+- Ajouter la sauce et cuire jusqu'à ce qu'elle nappe le poulet.
+- Parsemer de sésame.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

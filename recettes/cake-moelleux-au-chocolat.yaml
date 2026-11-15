@@ -1,0 +1,45 @@
+id: cake-moelleux-au-chocolat
+titre: Cake moelleux au chocolat
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 8
+  repos: 0
+ingredients:
+- texte: 600 g de chocolat
+  ingredients:
+  - chocolat
+  categorie: true
+- 400 g de beurre
+- 120 g de sucre
+- 4 œufs extra frais.
+etapes:
+- Préchauffer le four à 180°C.
+- Mettre ensemble le chocolat et le beurre dans un grand bol. Faire fondre au bain marie.
+- Pendant ce temps, beurrer un moule de 24 cm environ.
+- Peser le sucre dans un bol de taille supérieure et y casser les œufs.
+- Fouetter les œufs et le sucre au fouet électrique à vitesse maximale pendant plusieurs minutes jusqu'à ce que
+  le mélange soit bien mousseux.
+- Verser la moitié du chocolat/beurre fondus dans les œufs et mélanger à l'aide d'une spatule jusqu'à ce que le
+  chocolat soit bien incorporé.
+- Verser le reste du chocolat et bien mélanger.
+- Verser le tout dans le moule et enfourner.
+- Cuire 5-8 minutes.
+- Sortir délicatement du four et laisser refroidir au frigidaire avant de démouler.
+source:
+  titre: Cake moelleux au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cake_moelleux_au_chocolat&oldid=647912
+  revision: 647912
+  date: '2020-10-17'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cake_moelleux_au_chocolat&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : chocolat.'
+photo:
+  fichier: Coupe de cake moelleux au chocolat décoré.jpg
+  auteur: Calimo
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Coupe_de_cake_moelleux_au_chocolat_d%C3%A9cor%C3%A9.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,37 @@
+id: tomate-a-la-provencale
+titre: Tomate à la provençale
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 25
+  repos: 0
+ingredients:
+- 8 tomates
+- 8 gousses d'ail
+- 3 c.c de persil haché
+- 3 c.s. de chapelure
+- huile d'olive
+- sel, poivre noir
+etapes:
+- Laver les tomates, enlever le trognon et les couper en deux dans le sens de la largeur.
+- Les faire dorer à l'huile d'olive dans une poêle, à feu doux 5 à 10 minutes, des deux côtés.
+- Disposer dans un plat les demi tomates.
+- Préparer un hachis avec l'ail, le persil et la chapelure. Répartir sur les demi tomates, saler et poivrer. Arroser
+  avec un filet d'huile d'olive le tout.
+- Enfourner 20 à 30 minutes, four préchauffé à 200/220 °C. Les tomates doivent être molles à cœur.
+source:
+  titre: Tomate à la provençale
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tomate_%C3%A0_la_proven%C3%A7ale&oldid=655433
+  revision: 655433
+  date: '2021-04-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tomate_%C3%A0_la_proven%C3%A7ale&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Tomate Provençale.JPG
+  auteur: Véronique PAGNIER
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Tomate_Proven%C3%A7ale.JPG
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

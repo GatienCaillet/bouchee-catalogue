@@ -1,0 +1,40 @@
+id: creme-anglaise
+titre: Crème Anglaise
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1/2 litre de lait
+- 6 jaunes d'œuf
+- 125 g de sucre
+- 1 gousse de vanille.
+- 1/2 litre de lait
+- 4 jaunes d'œuf
+- 200 g de sucre
+- une gousse de vanille ou un sachet de sucre vanillé.
+etapes:
+- Faites bouillir le lait avec une petite pincée de sel et la gousse de vanille (ou le sucre vanillé). Vous pouvez
+  éventuellement fendre la gousse et en extraire les graines.
+- Dans un saladier, battez longuement les jaunes d'œuf (réservez les blancs) avec le sucre. Le mélange doit blanchir
+  et devenir lisse et épais, on dit alors qu'il "forme ruban".
+- Arrêtez la cuisson du lait et retirez la gousse de vanille, puis, versez peu à peu le lait bouillant dans le saladier
+  de préparation et mélangez-le bien avec les jaunes d'œufs sucrés.
+- Reversez le tout dans la casserole et remettez à cuire sur feu doux, sans cesser de mélanger avec une cuillère
+  en bois en veillant à ce que le fond n'attache pas. Attention, il ne faut pas arriver à ébullition, car la crème
+  coagulerait et tournerait. Lorsque la crème épaissit et peut napper la cuillère en bois, elle est prête. Une méthode
+  pour déterminer la fin de la cuisson est que la crème, passée dans une cuillère, doit montrer un trouble (tout
+  petits fragments d'œuf cuit).
+- Mettez la crème à refroidir. Attention, ne mettez jamais une préparation chaude directement dans un frigidaire
+  avant qu'elle ne soit parvenue à la température ambiante.
+source:
+  titre: Crème Anglaise
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cr%C3%A8me_Anglaise&oldid=645007
+  revision: 645007
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cr%C3%A8me_Anglaise&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

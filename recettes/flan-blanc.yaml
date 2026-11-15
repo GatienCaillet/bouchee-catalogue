@@ -1,0 +1,40 @@
+id: flan-blanc
+titre: Flan blanc
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 18
+  repos: 125
+ingredients:
+- 1 à 2 blanc d'œufs (suivant le calibre)
+- 10 décilitres de lait
+- 150 grammes de sucre en poudre
+- 100 grammes de farine
+- 3 sachet de sucre vanillé (ou une gousse de vanille)
+- une pincée de sel
+- coulis de fruits rouges.
+etapes:
+- Faire bouillir le lait additionné du sucre vanillé.
+- Séparer le blanc et le jaune des œufs.
+- Mélanger les blancs d'œufs et le sucre dans un autre récipient.
+- Rajouter la farine.
+- Une fois le lait bouilli, le verser doucement sur le mélange blanc d'œufs/sucre/farine en remuant jusqu'à obtenir
+  un mélange homogène.
+- Laisser reposer 5 minutes.
+- Verser le mélange dans un grand bol ou plusieurs petits bols pouvant passer au micro-onde.
+- Placer le grand bol au micro-onde pendant 13 à 20 minutes suivant la puissance, ou 5 à 10 minutes par petit bol,
+  jusqu'à ce que l'ensemble paraisse consistant.
+- Recouvrir le(s) bol(s) et le(s) laisser reposer pendant au moins 2 heures au réfrigérateur (mais pas tant que
+  c'est encore chaud !).
+- Au moment de servir, démouler chaque bol à l'envers dans une assiette à dessert ou un plat.
+- Verser le coulis de fruits rouges.
+source:
+  titre: Flan blanc
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flan_blanc&oldid=766304
+  revision: 766304
+  date: '2026-05-09'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flan_blanc&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

@@ -1,0 +1,27 @@
+id: endives-braisees-au-jambon-et-a-la-bechamel
+titre: Endives braisées au jambon et à la béchamel
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 6 endives
+- 6 tranches de jambon blanc
+- 40 g de beurre
+- 40 g de farine
+- 50 cl de lait
+- 80 g d'emmental râpé
+- sel, poivre
+etapes:
+- Braiser les endives 20 minutes à couvert avec 20 g de beurre.
+- Préparer une béchamel avec le reste du beurre, la farine et le lait.
+- Rouler chaque endive dans une tranche de jambon, napper de béchamel, couvrir d'emmental et gratiner 20 minutes
+  à 200 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gratin »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

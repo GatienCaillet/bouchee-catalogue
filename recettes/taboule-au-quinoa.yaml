@@ -1,0 +1,29 @@
+id: taboule-au-quinoa
+titre: Taboulé au quinoa
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 13
+  repos: 0
+ingredients:
+- 200 g de quinoa
+- 2 carottes
+- 1 oignon
+- 1 poivrons rouge
+- Vinaigrette à l'huile d'olive
+- Ciboulette
+etapes:
+- Cuire 10 min le quinoa dans 2 fois son volume d'eau.
+- Couper en allumettes les carottes et le poivron. Cuire 3 min dans de l'eau bouillante.
+- Râper finement l'oignon et le mettre dans la vinaigrette, puis ajouter le tout au quinoa refroidi et aux légumes.
+- Mélanger et saupoudrer de ciboulette hachée.
+source:
+  titre: Taboulé au quinoa
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Taboul%C3%A9_au_quinoa&oldid=606093
+  revision: 606093
+  date: '2018-10-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Taboul%C3%A9_au_quinoa&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

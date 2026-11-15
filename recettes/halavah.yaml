@@ -1,0 +1,29 @@
+id: halavah
+titre: Halavah
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 4 tasses d'eau
+- 3 tasses de sucre
+- 2 tasses de semoule de blé
+- 1 tasse de beurre
+etapes:
+- Dans une grande casserole, mélanger l'eau et le sucre et porter à ébullition.
+- Pendant que l'eau chauffe, dorer la semoule avec le beurre dans une grande poêle.
+- Quand l'eau bout et que la semoule a pris une belle couleur dorée, verser le mélange sec dans l'eau en brassant
+  constamment pour que le mélange soit uniforme.
+- On obtient ainsi une pâte qu'on verse dans un moule et on laisse refroidir quelques heures au réfrigérateur.
+- Lorsque le halavah est bien ferme, on peut le couper en carrés.
+source:
+  titre: Halavah
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Halavah&oldid=372255
+  revision: 372255
+  date: '2012-07-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Halavah&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

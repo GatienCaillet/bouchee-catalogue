@@ -1,0 +1,32 @@
+id: galettes-d-avoine
+titre: Galettes d'avoine
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 oignon haché
+- 1 tomate en dés
+- 3 cuillères à soupe de levure maltée en paillettes
+- 200 g de flocons d'avoine
+- farine
+- chapelure
+- huile d'arachide
+- sel, poivre, paprika
+- eau
+etapes:
+- Mélanger les ingrédients secs en y ajoutant de l'eau, à fin d'obtenir une pâte. Laisser mariner au frigo quelques
+  heures.
+- Ajoutez un peu de farine pour sécher la pâte, déposez-la en petites boules dans la chapelure, les enrober et les
+  aplatir en galettes. Rissolez dans l'huile quelques instants de chaque côté.
+source:
+  titre: Galettes d'avoine
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galettes_d%27avoine&oldid=451962
+  revision: 451962
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galettes_d%27avoine&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

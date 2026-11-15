@@ -1,0 +1,33 @@
+id: clafoutis-aux-abricots
+titre: Clafoutis aux abricots
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 30
+  repos: 0
+ingredients:
+- 600 g d'abricots
+- 4 œufs
+- 50 g de beurre
+- 100 g de farine
+- 75 g de sucre
+- 20 cl de lait
+- un peu de gingembre en poudre
+- du sucre glace.
+etapes:
+- Mettre dans le mixer les œufs, le beurre fondu, la farine, le sucre, le lait et le gingembre, faire tourner.
+- Beurrer un plat à gratin.
+- Dénoyauter les abricots et les répartir au fond du plat, face bombée sur le dessus.
+- Verser dans le plat la préparation du mixer.
+- Faire cuire à four préchauffé à 210° pendant 10 minutes, baisser le four à 180° et faire cuire 20 minutes supplémentaires.
+- Saupoudrer de sucre glace.
+source:
+  titre: Clafoutis aux abricots
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Clafoutis_aux_abricots&oldid=516809
+  revision: 516809
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Clafoutis_aux_abricots&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

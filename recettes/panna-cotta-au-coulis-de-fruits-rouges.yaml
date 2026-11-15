@@ -1,0 +1,26 @@
+id: panna-cotta-au-coulis-de-fruits-rouges
+titre: Panna cotta au coulis de fruits rouges
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 5
+  repos: 240
+ingredients:
+- 50 cl de crème liquide
+- 60 g de sucre
+- 3 feuilles de gélatine
+- 1 gousse de vanille
+- 300 g de fruits rouges mélangés
+- 40 g de sucre glace
+etapes:
+- Ramollir la gélatine dans l'eau froide.
+- Chauffer la crème avec le sucre et la vanille, puis y faire fondre la gélatine essorée.
+- Verser dans des verrines et réserver 4 heures au frais.
+- Mixer les fruits rouges avec le sucre glace et napper au moment de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

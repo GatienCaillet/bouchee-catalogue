@@ -1,0 +1,27 @@
+id: creme-d-amande
+titre: Crème d'amande
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 120 g de sucre semoule.
+- 120 g de beurre.
+- 120 g d'amandes en poudre.
+- 2 œufs entiers.
+etapes:
+- Mettre le beurre (tempéré) en parcelles dans une calotte et le crémer vigoureusement avec le sucre à l'aide d'un
+  fouet.
+- Ajouter les œufs, et fouetter en tournant vigoureusement durant leur incorporation, l'appareil doit être lisse.
+- Incorporer la poudre d'amandes en une seule fois et mélanger l'ensemble à l'aide d'une spatule en bois.
+source:
+  titre: Crème d'amande
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cr%C3%A8me_d%27amande&oldid=452463
+  revision: 452463
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cr%C3%A8me_d%27amande&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

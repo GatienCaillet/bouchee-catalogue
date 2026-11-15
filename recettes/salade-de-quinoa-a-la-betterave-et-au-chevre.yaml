@@ -1,0 +1,27 @@
+id: salade-de-quinoa-a-la-betterave-et-au-chevre
+titre: Salade de quinoa à la betterave et au chèvre
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 15
+ingredients:
+- 200 g de quinoa
+- 2 betteraves cuites
+- 100 g de fromage de chèvre frais
+- 30 g de cerneaux de noix
+- 4 c. à soupe d'huile d'olive
+- 2 c. à soupe de vinaigre de vin
+- sel, poivre
+etapes:
+- Cuire le quinoa 12 minutes ; couper les betteraves en dés.
+- Préparer la vinaigrette en mélangeant l'huile, l'acidité, le sel et le poivre.
+- Réunir tous les ingrédients dans un saladier, arroser de vinaigrette et mélanger délicatement.
+- Laisser reposer 15 minutes au frais avant de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

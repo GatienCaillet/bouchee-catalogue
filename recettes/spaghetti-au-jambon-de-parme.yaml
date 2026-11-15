@@ -1,0 +1,30 @@
+id: spaghetti-au-jambon-de-parme
+titre: Spaghetti au jambon de Parme
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 10
+  repos: 0
+ingredients:
+- 400 g de spaghettis
+- 4 tranches de jambon de Parme
+- 2 tranches de jambon blanc
+- 4 petits oignons
+- 100 g de parmesan
+- huile d'olive
+etapes:
+- Couper les oignons et les faire roussir avec l'huile d'olive.
+- Dans une casseroles d'eau bouillante, faire cuire les spaghettis.
+- Couper en dés le jambon blanc et l'ajouter aux oignons. Laisser cuire pendant cinq minutes.
+- Ajouter les pâtes et le parmesan en copeaux. Mélanger, couvrir des tranches de jambon de Parme. Posez un couvercle
+  et laisser cinq minutes à feu éteint. Servir.
+source:
+  titre: Spaghetti au jambon de Parme
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spaghetti_au_jambon_de_Parme&oldid=452847
+  revision: 452847
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spaghetti_au_jambon_de_Parme&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

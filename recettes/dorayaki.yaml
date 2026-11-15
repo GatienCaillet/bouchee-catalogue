@@ -1,0 +1,39 @@
+id: dorayaki
+titre: Dorayaki
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 œufs
+- 90 g de farine
+- 20 g de sucre
+- de miel
+- d'eau ou de mirin
+- de levure chimique (poudre à lever).
+etapes:
+- Mélanger les œufs, le sucre, le miel et l'eau.
+- Ajouter la levure chimique puis la farine.
+- Faire chauffer une grande poêle plate.
+- Y déposer des paires de ronds de pâte d'environ 9 cm.
+- Dès que des bulles se forment sur toute la surface, les retourner pour quelques secondes.
+- Placer deux pancakes côte-à-côte sur la main gauche.
+- Déposer sur l'un d'eux une grosse noix de purée de haricots.
+- Refermer la main et presser légèrement sur les bords en faisant tourner le dorayaki.
+source:
+  titre: Dorayaki
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Dorayaki&oldid=644256
+  revision: 644256
+  date: '2020-07-20'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Dorayaki&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Dorayaki 002.jpg
+  auteur: Ocdp
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Dorayaki_002.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

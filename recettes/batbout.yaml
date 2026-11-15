@@ -1,0 +1,37 @@
+id: batbout
+titre: Batbout
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 10
+  repos: 90
+ingredients:
+- 100 g de farine
+- 250g g de semoule
+- texte: 1 cuillère à soupe de levure
+  ingredients:
+  - levure
+  categorie: true
+- Un verre d'eau tiède
+- 1/4 d'une cuillère à café de sel
+etapes:
+- Dans un bol, mettre la levure et le sucre avec un peau d'eau tiède
+- Laisser gonfler pendant 5 min
+- Dans un plat, mélanger la farine, la semoule, un peu de levure.
+- Rajouter petit à petit l'eau
+- Laisser reposer 30 min
+- Dégazer la pâte
+- Faire des boules de même taille puis les aplatir
+- Laissez reposer 1 heures
+- Faire cuire à feu moyen 5 minutes de chaque côté
+source:
+  titre: Batbout
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Batbout&oldid=657924
+  revision: 657924
+  date: '2021-06-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Batbout&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

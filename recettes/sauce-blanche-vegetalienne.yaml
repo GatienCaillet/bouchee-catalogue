@@ -1,0 +1,33 @@
+id: sauce-blanche-vegetalienne
+titre: Sauce blanche végétalienne
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 0
+ingredients:
+- texte: 15 cl d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 20 g de farine
+- 20 cl de bouillon de légumes
+- 20 cl de lait de soja
+- noix de muscade
+- sauce de soja
+- poivre
+etapes:
+- Chauffer l'huile dans une casserole, ajouter la farine et faire un roux.
+- En remuant sans cesse, ajouter le lait de soja en alternance avec le bouillon, pour obtenir une sauce lisse.
+- Assaisonner avec la sauce de soja, du poivre et de la noix de muscade.
+source:
+  titre: Sauce blanche végétalienne
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_blanche_v%C3%A9g%C3%A9talienne&oldid=452203
+  revision: 452203
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_blanche_v%C3%A9g%C3%A9talienne&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

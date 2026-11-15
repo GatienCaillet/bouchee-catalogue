@@ -1,0 +1,67 @@
+id: pierogi
+titre: Pierogi
+portions: 6
+temps:
+  preparation: 22
+  cuisson: 5
+  repos: 0
+ingredients:
+- 500 g de farine de blé
+- 1 œuf
+- 1 verre d'eau chaude
+- texte: 1 c à s d'huile
+  ingredients:
+  - huile
+  categorie: true
+etapes:
+- 'Temps de préparation :'
+- 'Temps de cuisson : 5 minutes dans l''eau bouillante'
+- Sur une planche préparer avec la farine un monticule.
+- Creuser un trou dans le monticule de farine
+- Casser l'œuf
+- ajouter l 'huile
+- Travailler rapidement en ajoutant l'eau tiède nécessaire
+- Travailler la pâte , elle doit être souple et ne plus coller aux doigts
+- Étendre au rouleau sur une planche farinée
+- Découper des disques avec un verre de table
+- Fermer le chausson
+- Hacher des restes de viandes
+- Ajouter un œuf, de la mie de pain rassis trempée dans le lait
+- Ajouter un oignon haché cuit au beurre, du persil haché, du sel et du poivre
+- Bien mélanger
+- Avec une cuillère mettre de la farce au milieu du rond de pâte
+- Plier la pâte et coller les extrémités
+- Cuire à l'eau comme des pâtes
+- On peut les manger nature ou nappés d'une sauce tomate parsemée de gruyère râpé
+- (Faire gratiner au four)
+- 800 g de choucroute
+- 2 oignons
+- 1 carré de fromage frais (gervais)
+- 1 cuillère de matière grasse
+- Faire cuire la choucroute avec une petite quantité d'eau
+- Couvrir jusqu'à ébullition
+- Faire ensuite cuire à découvert
+- Hacher et faire revenir l'oignon à la poêle
+- Égouter la choucroute et couper fin, assaisonner, saler, poivrer
+- 1 kg de pommes de terre cuites
+- 300 g de fromage blanc bien égoutté
+- 2 gros oignons
+- 2 cuillères de matière grasse
+- Sel, poivre
+- Passer les pommes de terre avec le fromage au presse-purée ou au hachoir à viande
+- Ajouter un oignon doré
+- Assaisonner avec du sel et du poivre, bien mélanger
+- Préparer la pâte (comme plus haut)
+- Faire cuire les pierogi en les déposant dans l'eau bouillante, ils sont cuits quand ils remontent à la surface,
+  les déposer dans un plat, arroser avec du beurre blond et de l'oignon doré et des lardons .
+source:
+  titre: Pierogi
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pierogi&oldid=631775
+  revision: 631775
+  date: '2020-03-14'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pierogi&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : huile.'

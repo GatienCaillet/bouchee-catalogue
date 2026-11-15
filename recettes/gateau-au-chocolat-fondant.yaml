@@ -1,0 +1,27 @@
+id: gateau-au-chocolat-fondant
+titre: Gâteau au chocolat fondant
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 200 g de chocolat noir
+- 150 g de beurre
+- 150 g de sucre
+- 4 œufs
+- 50 g de farine
+etapes:
+- Préchauffer le four à 180 °C et beurrer le moule.
+- Faire fondre le chocolat et le beurre, ajouter le sucre, les œufs un à un, puis la farine.
+- Verser dans le moule.
+- 'Enfourner 20 minutes pour les muffins, 35 à 40 minutes pour un gâteau : la lame d''un couteau doit ressortir
+  sèche.'
+- Laisser tiédir avant de démouler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gâteau »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,39 @@
+id: pate-brisee
+titre: Pâte brisée
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 250 g de farine
+- 125 g de beurre
+- 100 g de sucre en poudre (pour la variante douce)
+- 1 œuf, (si vous voulez)
+- 2 cl d'eau, (augmentez l'eau si manque l'œuf)
+- une pincée de sel.
+etapes:
+- Mettre la farine dans un récipient puis faire un puits
+- Versez dans le puits 2 cl d'eau
+- Mettre le beurre
+- Mettre 100g de sucre en poudre (pour la variante douce) et une pincée de sel
+- Puis pétrir de façon a former une boule
+- Étaler la pâte sur du papier sulfurisé puis mettre le papier sur le plat et mettre au four de façon à ce que la
+  pâte soit dure
+- Puis rajouter vos ingrédients et laissez cuire.
+source:
+  titre: Pâte brisée
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_bris%C3%A9e&oldid=759593
+  revision: 759593
+  date: '2026-02-06'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_bris%C3%A9e&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Recette pate brisee etape 8.jpg
+  auteur: Romain Behar
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Recette_pate_brisee_etape_8.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

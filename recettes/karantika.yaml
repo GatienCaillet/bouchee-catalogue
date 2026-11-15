@@ -1,0 +1,32 @@
+id: karantika
+titre: Karantika
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 35
+  repos: 10
+ingredients:
+- 250 g de farine de pois chiche (non grillé)
+- 1 œuf entier
+- 1 jaune d'œuf
+- 1/2 cuillère à café de cumin
+- 1/2 verre de beurre fondu
+- 3 verres d'eau tiède.
+etapes:
+- Verser la farine de pois chiche dans un grand saladier puis le jaune d'œuf et l'œuf entier puis le beurre et le
+  cumin et enfin l'eau
+- Remuer avec un fouet et laisser reposer 10 minutes pour qu'il n'y ait plus de grumeaux
+- Ensuite mettre le mélange dans un moule anti-adhésif et le mettre au four pendant 30 minutes surveiller de temps
+  en temps
+- La tarte doit être ferme et molle au milieu donc prendre un couteau et piquer pour vérifier la cuisson
+- Enfin mettre au gril 5 minutes pour brunir la tarte.
+source:
+  titre: Karantika
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Karantika&oldid=350139
+  revision: 350139
+  date: '2011-12-26'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Karantika&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

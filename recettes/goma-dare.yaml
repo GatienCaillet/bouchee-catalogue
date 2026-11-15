@@ -1,0 +1,33 @@
+id: goma-dare
+titre: Goma-dare
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 c.s. de graines de sésame
+- 4 c.s. de sauce de soja
+- 2 c.s. mirin
+- 1 c.s. de sucre
+- 1/2 tasse de dashi
+etapes:
+- Griller les graines de sésame en surveillant constamment, puis les piler finement jusqu'à obtenir la consistence
+  d'une pâte.
+- Ajouter le reste des ingrédients et bien mélanger.
+source:
+  titre: Goma-dare
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Goma-dare&oldid=517032
+  revision: 517032
+  date: '2016-07-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Goma-dare&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Udon goma-dare.jpg
+  auteur: kisocci
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Udon_goma-dare.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

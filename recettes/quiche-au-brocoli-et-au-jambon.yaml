@@ -1,0 +1,30 @@
+id: quiche-au-brocoli-et-au-jambon
+titre: Quiche au brocoli et au jambon
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 300 g de brocoli
+- 150 g de jambon blanc
+- 3 œufs
+- 20 cl de crème fraîche
+- sel, poivre
+etapes:
+- Cuire le brocoli 5 minutes à la vapeur.
+- Le répartir sur la pâte avec le jambon en dés.
+- Couvrir des œufs battus avec la crème et cuire 35 minutes à 180 °C.
+decouverte:
+  aliment: brocoli
+  niveau: 3
+  pourquoi: Des bouquets entiers, bien identifiables, adoucis par la crème et le jambon.
+  conseil: Une cuisson courte garde le brocoli vert et moins soufré.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

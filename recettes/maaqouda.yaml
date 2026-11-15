@@ -1,0 +1,33 @@
+id: maaqouda
+titre: Maaqouda
+portions: 2
+temps:
+  preparation: 37
+  cuisson: 0
+  repos: 0
+ingredients:
+- 250 g de pommes de terre
+- 1 œuf
+- 1 gousses d'ail ou 1 petit oignon
+- cumin ou curry
+- safran
+- persil
+- huile pour friture
+- farine
+- sel, poivre noir
+etapes:
+- Épluchez les pommes de terre, faites bouillir dans l'eau ; quand elles sont cuites, égouttez et écrasez-les avec
+  une fourchette.
+- Ajoutez un œuf, les herbes, les épices et l'ail ou les oignons hachés.
+- Mélangez bien et faites des boules.
+- Aplatissez-les, roulez-les dans la farine et faites les frire dans l'huile chaude.
+source:
+  titre: Maaqouda
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Maaqouda&oldid=655010
+  revision: 655010
+  date: '2021-03-18'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Maaqouda&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

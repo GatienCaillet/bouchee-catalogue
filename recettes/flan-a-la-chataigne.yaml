@@ -1,0 +1,33 @@
+id: flan-a-la-chataigne
+titre: Flan à la châtaigne
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 40
+  repos: 0
+ingredients:
+- 4 cuillères à soupe de farine de châtaignes
+- 2 œufs
+- 50 cl de lait
+- 10 cuillères à soupe de sucre en poudre
+- 10 cl d'eau.
+etapes:
+- Dans un saladier, délayez la farine et un verre de lait. Mettez le reste du lait à chauffer dans une casserole,
+  sur feu doux.
+- Versez la farine délayée dans cette casserole tout en mélangeant sans cesse jusqu'à ébullition. Ajoutez 3 cuillères
+  à soupe de sucre et enlevez du feu.
+- Dans un bol, battez les œufs comme pour une omelette. Incorporez-les au mélange précédent.
+- Dans un moule à flan, versez le reste de sucre et l'eau. Portez sur feu vif tout en remuant jusqu'à obtenir un
+  mélange caramélisé. Retirez du feu.
+- Versez le mélange farine-œufs dans le moule. Mettez à cuire au bain-marie dans le four préalablement chauffé à
+  thermostat 6-7 (200-220 °C) pendant 40 minutes. Laissez refroidir avant de servir.
+source:
+  titre: Flan à la châtaigne
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flan_%C3%A0_la_ch%C3%A2taigne&oldid=692911
+  revision: 692911
+  date: '2023-03-25'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Flan_%C3%A0_la_ch%C3%A2taigne&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

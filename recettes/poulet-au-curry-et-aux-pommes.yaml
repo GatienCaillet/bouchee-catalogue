@@ -1,0 +1,26 @@
+id: poulet-au-curry-et-aux-pommes
+titre: Poulet au curry et aux pommes
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 25
+  repos: 0
+ingredients:
+- 4 blancs de poulet
+- 2 pommes
+- 1 oignon
+- 1 c. à soupe de curry
+- 20 cl de crème fraîche
+- 2 c. à soupe d'huile de colza
+- sel
+etapes:
+- Faire dorer le poulet en morceaux dans l'huile avec l'oignon.
+- Ajouter le curry et les pommes en dés, puis la crème.
+- Laisser mijoter 15 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

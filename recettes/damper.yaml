@@ -1,0 +1,38 @@
+id: damper
+titre: Damper
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 45
+  repos: 0
+ingredients:
+- 525 g de farine
+- Un sachet de levure de boulanger
+- 125 cl de lait
+- 320 cl d'eau
+- une cuillerée à café de sel
+- une cuillerée à café de sucre
+- 40 g de beurre
+etapes:
+- Préchauffer le four à 210°C (thermostat 6).
+- Mélanger dans un saladier, la farine, la levure, le sel et le sucre avec les mains.
+- Ajouter le beurre puis mélanger avec les mains.
+- Ajouter progressivement le lait et l'eau puis mélanger.
+- Étaler la pâte sur la plaque de cuisson.
+- Faire cuire 45 minutes.
+source:
+  titre: Damper
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Damper&oldid=608253
+  revision: 608253
+  date: '2018-11-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Damper&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Damper (food).jpg
+  auteur: Nachoman-au
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Damper_(food).jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

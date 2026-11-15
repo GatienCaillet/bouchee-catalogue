@@ -2,33 +2,33 @@
 # Les allergènes sont portés par les catégories (poisson, crustace, mollusque) et hérités par leurs enfants.
 famille: poissons-fruits-de-mer
 ingredients:
-  - {id: poisson, nom: poisson, allergenes: [poissons], alias_fr: [poissons, poisson blanc, filet de poisson], alias_en: [fish, white fish]}
-  - {id: saumon, nom: saumon, parent: poisson, alias_fr: [pavé de saumon, filet de saumon], alias_en: [salmon], ciqual: 26036}
+  - {id: poisson, nom: poisson, allergenes: [poissons], alias_fr: [poissons, poisson blanc, filet de poisson, filets de poisson, filet de poisson blanc, filets de poisson blanc, poisson à chair blanche, poisson à chair ferme, poissons fermes, poissons tendres, poissons variés, poisson frais], alias_en: [fish, white fish, fish fillet]}
+  - {id: saumon, nom: saumon, parent: poisson, alias_en: [salmon], ciqual: 26036}
   - {id: saumon_fume, nom: saumon fumé, parent: saumon, alias_en: [smoked salmon], ciqual: 26037}
   - {id: cabillaud, nom: cabillaud, parent: poisson, alias_fr: [dos de cabillaud, morue fraîche], alias_en: [cod], ciqual: 26043}
   - {id: morue, nom: morue salée, parent: cabillaud, alias_fr: [morue, morue dessalée], alias_en: [salt cod], ciqual: 26098}
-  - {id: colin, nom: colin, parent: poisson, alias_fr: [lieu, lieu noir, merlu, colin d'Alaska], alias_en: [hake, pollock], ciqual: 26129}
-  - {id: thon, nom: thon, parent: poisson, alias_fr: [thon en boîte, thon au naturel, steak de thon], alias_en: [tuna, canned tuna], ciqual: 26053}
-  - {id: sardine, nom: sardine, parent: poisson, alias_fr: [sardines, sardines à l'huile], alias_en: [sardines], sensoriel: {odeur_forte: true}, ciqual: 26065}
+  - {id: colin, nom: colin, parent: poisson, alias_fr: [lieu noir, merlu, colin d'Alaska], alias_en: [hake, pollock], ciqual: 26129}
+  - {id: thon, nom: thon, parent: poisson, alias_en: [tuna], ciqual: 26053}
+  - {id: sardine, nom: sardine, parent: poisson, alias_fr: [sardines], alias_en: [sardines], sensoriel: {odeur_forte: true}, ciqual: 26065}
   - {id: maquereau, nom: maquereau, parent: poisson, alias_fr: [maquereaux], alias_en: [mackerel], sensoriel: {odeur_forte: true}, ciqual: 26051}
-  - {id: anchois, nom: anchois, parent: poisson, alias_fr: [filets d'anchois], alias_en: [anchovy, anchovies], sensoriel: {odeur_forte: true}, ciqual: 26079}
-  - {id: truite, nom: truite, parent: poisson, alias_fr: [truite fumée], alias_en: [trout], ciqual: 27008}
-  - {id: dorade, nom: dorade, parent: poisson, alias_fr: [daurade, bar, loup], alias_en: [sea bream, sea bass], ciqual: 26109}
+  - {id: anchois, nom: anchois, parent: poisson, alias_en: [anchovy, anchovies], sensoriel: {odeur_forte: true}, ciqual: 26079}
+  - {id: truite, nom: truite, parent: poisson, alias_en: [trout], ciqual: 27008}
+  - {id: dorade, nom: dorade, parent: poisson, alias_fr: [daurade, loup], alias_en: [sea bream, sea bass], ciqual: 26109}
 
   - {id: fruit_de_mer, nom: fruit de mer, alias_fr: [fruits de mer], alias_en: [seafood, shellfish]}
   - {id: crustace, nom: crustacé, parent: fruit_de_mer, allergenes: [crustaces], alias_fr: [crustacés], alias_en: [crustaceans]}
-  - {id: crevette, nom: crevette, parent: crustace, alias_fr: [crevettes, crevettes roses, gambas, crevettes grises], alias_en: [shrimp, prawn, prawns], ciqual: 10021}
+  - {id: crevette, nom: crevette, parent: crustace, alias_fr: [crevettes], alias_en: [shrimp, prawn], ciqual: 10021}
   - {id: langoustine, nom: langoustine, parent: crustace, alias_fr: [langoustines], alias_en: [scampi, dublin bay prawn], ciqual: 10024}
-  - {id: crabe, nom: crabe, parent: crustace, alias_fr: [chair de crabe, tourteau], alias_en: [crab, crab meat], ciqual: 10039}
-  - {id: homard, nom: homard, parent: crustace, alias_fr: [langouste], alias_en: [lobster], ciqual: 10010}
+  - {id: crabe, nom: crabe, parent: crustace, alias_en: [crab], ciqual: 10039}
+  - {id: homard, nom: homard, parent: crustace, alias_en: [lobster], ciqual: 10010}
   - {id: ecrevisse, nom: écrevisse, parent: crustace, alias_fr: [écrevisses], alias_en: [crayfish], ciqual: 10030}
 
   - {id: mollusque, nom: mollusque, parent: fruit_de_mer, allergenes: [mollusques], alias_fr: [mollusques, coquillages], alias_en: [molluscs, mollusks]}
   - {id: moule, nom: moule, parent: mollusque, alias_fr: [moules], alias_en: [mussel, mussels], ciqual: 10014}
   - {id: huitre, nom: huître, parent: mollusque, alias_fr: [huîtres], alias_en: [oyster, oysters], sensoriel: {odeur_forte: true, textures: [gluant]}, ciqual: 10011}
-  - {id: saint_jacques, nom: coquille Saint-Jacques, parent: mollusque, alias_fr: [noix de Saint-Jacques, Saint-Jacques, pétoncle], alias_en: [scallop, scallops], ciqual: 10045}
-  - {id: palourde, nom: palourde, parent: mollusque, alias_fr: [palourdes, coque, coques], alias_en: [clam, clams], ciqual: 10017}
-  - {id: calamar, nom: calamar, parent: mollusque, alias_fr: [calamars, encornet, seiche], alias_en: [squid, calamari, cuttlefish], sensoriel: {textures: [elastique]}, ciqual: 10001}
+  - {id: saint_jacques, nom: coquille Saint-Jacques, parent: mollusque, alias_fr: [Saint-Jacques], alias_en: [scallop], ciqual: 10045}
+  - {id: palourde, nom: palourde, parent: mollusque, alias_fr: [palourdes, coques], alias_en: [clam, clams], ciqual: 10017}
+  - {id: calamar, nom: calamar, parent: mollusque, alias_fr: [calmars, calmar, calamars, encornet], alias_en: [squid, calamari, cuttlefish], sensoriel: {textures: [elastique]}, ciqual: 10001}
   - {id: poulpe, nom: poulpe, parent: mollusque, alias_fr: [pieuvre], alias_en: [octopus], sensoriel: {textures: [elastique]}, ciqual: 10018}
 
   - id: surimi
@@ -40,3 +40,51 @@ ingredients:
     composants: [colin, blanc_d_oeuf, amidon_de_ble, crabe, sucre, sel, huile_de_colza]
     composition_variable: true
     note: Chair de poisson, blanc d'œuf, amidon de blé et souvent extrait de crabe (crustacés).
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  - {id: bar, nom: bar, parent: poisson, alias_fr: [loup de mer, bars, filet de bar, filets de bar], ciqual: 26001}
+  - {id: lieu, nom: lieu, parent: poisson, alias_fr: [lieu jaune, filet de lieu, filets de lieu, merlus, filet de merlu], alias_en: [coley], ciqual: 26134}
+  - {id: merlan, nom: merlan, parent: poisson, alias_fr: [merlans, filet de merlan, filets de merlan], alias_en: [whiting], ciqual: 26095}
+  - {id: sole, nom: sole, parent: poisson, alias_fr: [soles, filet de sole, filets de sole, limande, limande-sole, plie, carrelet], alias_en: [sole, plaice, flounder], ciqual: 26058}
+  - {id: turbot, nom: turbot, parent: poisson, alias_fr: [turbots, barbue], alias_en: [brill], ciqual: 26174}
+  - {id: raie, nom: raie, parent: poisson, alias_fr: [aile de raie, ailes de raie], alias_en: [skate, skate wing], ciqual: 26052}
+  - {id: lotte, nom: lotte, parent: poisson, alias_fr: [baudroie, queue de lotte, queues de lotte, joue de lotte], alias_en: [monkfish], ciqual: 26018}
+  - {id: rouget, nom: rouget, parent: poisson, alias_fr: [rougets, rouget barbet, rougets barbets, filet de rouget, filets de rouget, rouget de roche], alias_en: [red mullet], ciqual: 26085}
+  - {id: rascasse, nom: rascasse, parent: poisson, alias_fr: [rascasses, grondin, grondins, vive, congre, saint-pierre, poissons de roche, poisson de roche, poissons pour bouillabaisse], alias_en: [scorpion fish, gurnard, john dory, rockfish], ciqual: 26127}
+  - {id: hareng, nom: hareng, parent: poisson, alias_fr: [harengs, filet de hareng, filets de hareng, hareng fumé, harengs fumés, harengs saurs, rollmops, hareng mariné], alias_en: [herring, kipper, smoked herring], ciqual: 26011}
+  - {id: haddock, nom: haddock, parent: poisson, alias_fr: [églefin, aiglefin, haddock fumé], alias_en: [smoked haddock, haddock fillet], ciqual: 26122}
+  - {id: fletan, nom: flétan, parent: poisson, alias_fr: [flétans], alias_en: [halibut], ciqual: 26009}
+  - {id: espadon, nom: espadon, parent: poisson, alias_fr: [pavé d'espadon], alias_en: [swordfish], ciqual: 26082}
+  - {id: mulet, nom: mulet, parent: poisson, alias_fr: [muge], alias_en: [grey mullet], ciqual: 26091}
+  - {id: poisson_d_eau_douce, nom: poisson d'eau douce, parent: poisson, alias_fr: [poissons d'eau douce], alias_en: [freshwater fish]}
+  - {id: sandre, nom: sandre, parent: poisson_d_eau_douce, alias_fr: [perche, brochet, filet de sandre, filet de perche, filets de perche], alias_en: [pike-perch, perch, pike], ciqual: 27024}
+  - {id: carpe, nom: carpe, parent: poisson_d_eau_douce, alias_fr: [carpes], alias_en: [carp], ciqual: 27003}
+  - {id: anguille, nom: anguille, parent: poisson, alias_fr: [anguilles], alias_en: [eel], ciqual: 27016}
+  - {id: tilapia, nom: tilapia, parent: poisson_d_eau_douce, alias_fr: [panga, filet de panga, filets de panga, silure], alias_en: [catfish, pangasius], ciqual: 27019}
+  - {id: eperlan, nom: éperlan, parent: poisson, alias_fr: [éperlans, petite friture, friture de poissons, sprat, sprats, jols], alias_en: [smelt, whitebait], ciqual: 26173}
+  - {id: thon_en_boite, nom: thon en boîte, parent: thon, alias_fr: [thon au naturel, thon à l'huile, miettes de thon, boîte de thon, thon en conserve], alias_en: [canned tuna, tinned tuna], ciqual: 26039}
+  - {id: thon_frais, nom: thon frais, parent: thon, alias_fr: [steak de thon, pavé de thon, thon rouge, thon blanc, thon albacore], alias_en: [tuna steak, fresh tuna], ciqual: 26069}
+  - {id: sardine_a_l_huile, nom: sardine à l'huile, parent: sardine, alias_fr: [sardines à l'huile, sardines en boîte, boîte de sardines], alias_en: [canned sardines], ciqual: 26034}
+  - {id: anchois_a_l_huile, nom: anchois à l'huile, parent: anchois, alias_fr: [anchois dessalés, anchois dessalé, filets d'anchois, filets d'anchois à l'huile, anchois au sel, anchois marinés, filet d'anchois], alias_en: [anchovy fillets], ciqual: 26177}
+  - {id: maquereau_en_boite, nom: maquereau en boîte, parent: maquereau, alias_fr: [maquereaux au vin blanc, filets de maquereau, maquereau fumé, maquereaux fumés], alias_en: [smoked mackerel, canned mackerel], ciqual: 26087}
+  - {id: pave_de_saumon, nom: pavé de saumon, parent: saumon, alias_fr: [pavés de saumon, filet de saumon, filets de saumon, saumon frais, darne de saumon], alias_en: [salmon fillet, salmon steak], ciqual: 26036, ciqual_approche: true}
+  - {id: truite_fumee, nom: truite fumée, parent: truite, alias_fr: [truites fumées, filets de truite fumée], alias_en: [smoked trout], ciqual: 27029}
+  - {id: oeufs_de_poisson, nom: œufs de poisson, parent: poisson, alias_fr: [œufs de lump, oeufs de lump, œufs de saumon, oeufs de saumon, caviar, œufs de truite, poutargue, boutargue], alias_en: [fish roe, caviar, salmon roe, lumpfish roe], ciqual: 26005}
+  - {id: tarama, nom: tarama, alias_fr: [taramosalata], alias_en: [taramasalata], composants: [oeufs_de_poisson, huile_vegetale, pain, citron, lait], composition_variable: true, ciqual: 8293}
+  - {id: brandade, nom: brandade de morue, alias_fr: [brandade], alias_en: [salt cod brandade], composants: [morue, pomme_de_terre, huile_d_olive, lait, ail], composition_variable: true, ciqual: 25154}
+  - {id: fumet_de_poisson, nom: fumet de poisson, alias_fr: [fumet, bouillon de poisson, court-bouillon de poisson, soupe de poisson, soupe de poissons], alias_en: [fish stock, fish broth], composants: [poisson, oignon, carotte, celeri, vin_blanc, sel], composition_variable: true, note: "Fumet du commerce ; contient souvent céleri et vin blanc.", ciqual: 11172}
+  - {id: crevette_grise, nom: crevette grise, parent: crevette, alias_fr: [crevettes grises], alias_en: [brown shrimp], ciqual: 10006}
+  - {id: gambas, nom: gambas, parent: crevette, alias_fr: [gambas crues, grosses crevettes, crevettes tigrées, crevettes roses, queues de crevettes, crevettes décortiquées], alias_en: [king prawns, tiger prawns, prawns], ciqual: 10059}
+  - {id: crevette_sechee, nom: crevette séchée, parent: crevette, alias_fr: [crevettes séchées, poudre de crevette, poudre de crevettes, pâte de crevette, pâte de crevettes, belacan, kapi], alias_en: [dried shrimp, shrimp paste], ciqual: 10021, ciqual_approche: true}
+  - {id: langouste, nom: langouste, parent: crustace, alias_fr: [langoustes], alias_en: [spiny lobster, rock lobster], ciqual: 10015}
+  - {id: tourteau, nom: tourteau, parent: crabe, alias_fr: [tourteaux, araignée de mer, chair de crabe, crabe en boîte, petits crabes, étrille, étrilles], alias_en: [brown crab, crab meat], ciqual: 10057}
+  - {id: coque, nom: coque, parent: mollusque, alias_en: [cockles]}
+  - {id: bulot, nom: bulot, parent: mollusque, alias_fr: [bulots, bigorneau, bigorneaux], alias_en: [whelk, winkle], ciqual: 10000}
+  - {id: couteau, nom: couteau, parent: mollusque, alias_fr: [couteaux (coquillages)], alias_en: [razor clams]}
+  - {id: seiche, nom: seiche, parent: mollusque, alias_fr: [seiches, encre de seiche, encre de calamar, supions, chipirons, encornets, petits calamars], alias_en: [squid ink], ciqual: 10016}
+  - {id: noix_de_saint_jacques, nom: noix de Saint-Jacques, parent: saint_jacques, alias_fr: [noix de Saint Jacques, pétoncles, pétoncle], alias_en: [scallops, scallop meat, bay scallops], ciqual: 10045}
+  - {id: fruits_de_mer_melanges, nom: fruits de mer mélangés, parent: fruit_de_mer, alias_fr: [cocktail de fruits de mer, mélange de fruits de mer, poêlée de fruits de mer], alias_en: [seafood mix, mixed seafood], ciqual: 10043}
+  - {id: oursin, nom: oursin, parent: fruit_de_mer, alias_fr: [oursins, corail d'oursin], alias_en: [sea urchin], note: "Échinoderme : ni crustacé, ni mollusque au sens du règlement INCO."}
+  - {id: sauce_d_huitre, nom: sauce d'huître, alias_fr: [sauce aux huîtres, sauce d'huitre, sauce huître], alias_en: [oyster sauce], composants: [huitre, sucre, sel, amidon_de_ble, sauce_soja], composition_variable: true, note: "Certaines marques ajoutent de la sauce soja et de l'amidon de blé.", ciqual: 10011, ciqual_approche: true}
+  - {id: bonite_sechee, nom: bonite séchée, parent: poisson, alias_fr: [katsuobushi, copeaux de bonite], alias_en: [bonito flakes], ciqual: 26101, ciqual_approche: true}
+  - {id: dashi, nom: dashi, parent: poisson, alias_fr: [bouillon dashi, dashi en poudre], alias_en: [dashi stock], composants: [bonite_sechee, kombu, sel, sucre, extrait_de_levure], composition_variable: true, ciqual: 20991, ciqual_approche: true}

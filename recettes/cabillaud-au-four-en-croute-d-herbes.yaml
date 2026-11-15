@@ -1,0 +1,27 @@
+id: cabillaud-au-four-en-croute-d-herbes
+titre: Cabillaud au four en croûte d'herbes
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 15
+  repos: 0
+ingredients:
+- 4 dos de cabillaud
+- 50 g de chapelure
+- 1/2 botte de persil
+- 1 gousse d'ail
+- 30 g de beurre
+- 1 citron
+- sel, poivre
+etapes:
+- Préchauffer le four à 200 °C.
+- Mélanger la chapelure, le persil et l'ail hachés et le beurre mou.
+- Poser le cabillaud dans un plat, saler, poivrer et couvrir de ce mélange.
+- Enfourner 15 minutes et servir avec le citron.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

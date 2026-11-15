@@ -1,0 +1,26 @@
+id: sauce-a-l-arachide
+titre: Sauce à l'arachide
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1/3 tasse de sauce soja
+- 3 cuillerées à soupe de beurre d'arachide
+- 1 cuillerée à soupe de vinaigre de riz
+- 1 cuillerée à soupe de mirin
+- 3 cuillerées à soupe d'eau chaude
+- 1 cuillerée à thé de poivre de cayenne
+etapes:
+- Tout mélanger. Réfrigérer.
+source:
+  titre: Sauce à l'arachide
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_%C3%A0_l%27arachide&oldid=378889
+  revision: 378889
+  date: '2012-08-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_%C3%A0_l%27arachide&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

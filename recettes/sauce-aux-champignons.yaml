@@ -1,0 +1,31 @@
+id: sauce-aux-champignons
+titre: Sauce aux champignons
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- texte: 300 g de champignons
+  ingredients:
+  - champignon
+  categorie: true
+- 0,5 l d'eau
+- 40 g de farine
+- 5 cl d'huile de tournesol
+- sel, poivre
+etapes:
+- Couper les champignons en lamelles et faire revenir à la poêle.
+- Chauffer à feu doux l'huile de tournesol, ajouter la farine et mélanger afin d'obtenir une pâte lisse et épaisse.
+- Verser petit à petit l'eau tout en continuant de remuer, ajouter les champignons, assaisonner
+source:
+  titre: Sauce aux champignons
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_aux_champignons&oldid=452201
+  revision: 452201
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_aux_champignons&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : champignon.'

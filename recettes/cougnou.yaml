@@ -1,0 +1,55 @@
+id: cougnou
+titre: Cougnou
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 30
+  repos: 60
+ingredients:
+- 250 g de farine
+- texte: 15 g de levure
+  ingredients:
+  - levure
+  categorie: true
+- 15 cl de lait
+- un œuf et un jaune d'œuf
+- 50 g de sucre
+- du sel
+- et 75 g de beurre.
+- des raisins secs
+- du sucre perlé
+- et des pépites de chocolat.
+etapes:
+- Dans un grand plat, tamiser la farine et y réaliser une fontaine.
+- Tiédir le lait et y délayer la levure, puis verser le tout dans la fontaine et y ajouter le jaune d'œuf.
+- Saupoudrer du sel et du sucre sur le pourtour de la fontaine et mélanger petit à petit la farine à la levure en
+  y ajoutant progressivement le beurre ramolli.
+- Tra­vailler à la main jusqu'à l'obtention d'une boule de pâte lisse et élastique.
+- Couvrir la pâte d'une serviette et laisser reposer une heure à température ambi­ante. La pâte doit avoir augmenté
+  de vo­lume.
+- La retravailler rapidement en y in­corporant, le cas échéant, les raisins secs préalablement trempés, le sucre
+  perlé et les pépites de chocolat.
+- Retirer deux petites boules de la pâte, pour former les deux « têtes» du coug­nou.
+- Avec le reste de la pâte, confection­ner le corps ovale du cougnou, y ajouter les deux « têtes» en pinçant légèrement
+  aux jonctions, de manière à figurer les «cous».
+- Préchauffer le four à 210°C, en tenant compte de sa spécificité éventuelle.
+- Ba­digeonner le cougnou avec l'œuf battu.
+- Enfourner le cougnou sur une plaque gra­issée ou beurrée et le faire cuire pendant une demi heure à four chaud.
+- Retirer du four et laisser refroidir.
+source:
+  titre: Cougnou
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cougnou&oldid=650867
+  revision: 650867
+  date: '2020-12-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cougnou&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'
+photo:
+  fichier: cougnou.jpg
+  auteur: lb:User:Zinneke
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Cougnou.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,28 @@
+id: salade-de-pois-chiches-au-concombre
+titre: Salade de pois chiches au concombre
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 0
+  repos: 15
+ingredients:
+- 2 boîtes de pois chiches (800 g)
+- 1 concombre
+- 1 oignon rouge
+- 1/2 botte de coriandre fraîche
+- 1 citron
+- 4 c. à soupe d'huile d'olive
+- 1 c. à soupe de jus de citron
+- sel, poivre
+etapes:
+- Égoutter les pois chiches ; couper le concombre en dés.
+- Préparer la vinaigrette en mélangeant l'huile, l'acidité, le sel et le poivre.
+- Réunir tous les ingrédients dans un saladier, arroser de vinaigrette et mélanger délicatement.
+- Laisser reposer 15 minutes au frais avant de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

@@ -1,0 +1,32 @@
+id: curry-de-poulet-au-lait-de-coco-et-aux-courgettes
+titre: Curry de poulet au lait de coco et aux courgettes
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 500 g de blanc de poulet
+- 2 courgettes
+- 1 oignon
+- 2 gousses d'ail
+- 1 morceau de gingembre frais
+- 2 c. à soupe d'huile de colza
+- 1 c. à soupe de curry
+- 400 ml de lait de coco
+- 1/2 botte de coriandre fraîche
+- sel
+etapes:
+- Émincer l'oignon, hacher l'ail et râper le gingembre.
+- Faire revenir l'oignon dans l'huile 5 minutes, puis ajouter l'ail, le gingembre et le curry et cuire 1 minute
+  en remuant.
+- Couper le poulet en morceaux et le faire dorer 5 minutes.
+- Ajouter les courgettes en dés et le lait de coco ; saler, couvrir et laisser mijoter 20 minutes.
+- Parsemer de coriandre ciselée et servir avec du riz.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « curry au lait de coco »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

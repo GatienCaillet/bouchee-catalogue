@@ -1,0 +1,37 @@
+id: mousse-au-chocolat-aux-oeufs-cuits
+titre: Mousse au chocolat aux œufs cuits
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- texte: 100 g de chocolat
+  ingredients:
+  - chocolat
+  categorie: true
+- 50 g de beurre
+- 50 g de sucre
+- 3 œufs
+- texte: 1 dl de crème
+  ingredients:
+  - creme
+  categorie: true
+etapes:
+- Fondre le chocolat doucement avec le beurre et le sucre dans une casserole à feu doux
+- Pendant ce temps, casser les œufs dans un grand bol
+- Fouetter les œufs au fouet électrique à vitesse maximale pendant plusieurs minutes
+- Verser rapidement les œufs dans la casserole sur le mélange chocolat/beurre/sucre/crème
+- Fouetter énergiquement jusqu'à ce que la crème épaississe
+- Stopper la cuisson juste avant le premier bouillon. Verser immédiatement dans un récipient et laisser refroidir
+source:
+  titre: Mousse au chocolat aux œufs cuits
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_au_chocolat_aux_%C5%93ufs_cuits&oldid=644963
+  revision: 644963
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mousse_au_chocolat_aux_%C5%93ufs_cuits&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : chocolat, crème.'

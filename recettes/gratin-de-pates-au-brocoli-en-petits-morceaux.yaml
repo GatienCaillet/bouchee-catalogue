@@ -1,0 +1,27 @@
+id: gratin-de-pates-au-brocoli-en-petits-morceaux
+titre: Gratin de pâtes au brocoli en petits morceaux
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 400 g de coquillettes
+- 150 g de brocoli
+- 20 cl de crème fraîche
+- 100 g d'emmental râpé
+- sel, poivre
+etapes:
+- Cuire les pâtes avec le brocoli coupé en tout petits morceaux.
+- Mélanger avec la crème dans un plat, couvrir d'emmental et gratiner 20 minutes à 200 °C.
+decouverte:
+  aliment: brocoli
+  niveau: 2
+  pourquoi: 'De tout petits morceaux pris dans les pâtes et le fromage : on le voit, mais il se mêle au reste.'
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

@@ -1,0 +1,24 @@
+id: tartines-tomate-basilic-et-huile-d-olive
+titre: Tartines tomate, basilic et huile d'olive
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 5
+  repos: 0
+ingredients:
+- 8 tranches de pain de campagne
+- 4 tomates
+- 1 gousse d'ail
+- quelques feuilles de basilic
+- 4 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Griller les tranches de pain et les frotter d'ail.
+- Les garnir de tomates en dés, arroser d'huile, saler et parsemer de basilic.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tartine »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

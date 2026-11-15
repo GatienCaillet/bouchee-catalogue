@@ -1,0 +1,26 @@
+id: crumble-de-bananes
+titre: Crumble de bananes
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 35
+  repos: 0
+ingredients:
+- 4 bananes
+- 150 g de farine
+- 100 g de beurre
+- 100 g de sucre roux
+- 1 c. à café de cannelle
+etapes:
+- Préchauffer le four à 180 °C.
+- Peler les bananes et les couper en rondelles.
+- Disposer les bananes dans un plat beurré et saupoudrer de cannelle.
+- Mélanger du bout des doigts la farine, le sucre et le beurre froid en dés jusqu'à obtenir une pâte sableuse.
+- Répartir sur les bananes et enfourner 35 minutes, jusqu'à ce que le dessus soit doré.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « crumble »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

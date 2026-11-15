@@ -1,0 +1,29 @@
+id: gateau-creusois
+titre: Gâteau creusois
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 40
+  repos: 0
+ingredients:
+- 200 g de sucre
+- 100 g de farine
+- 100 g de noisettes
+- 100 g de beurre
+- 4 œufs.
+etapes:
+- Râper les noisettes au moulin julienne.
+- Mélanger les noisettes râpées avec le sucre.
+- Pour un démoulage facile, beurrer le plat et répartir 2 pincée de farine.
+- Ajouter les blancs d'œufs battus en neige, la farine et le beurre fondu.
+- Cuire 40 minutes à four moyen (thermostat 5-6).
+source:
+  titre: Gâteau creusois
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_creusois&oldid=675142
+  revision: 675142
+  date: '2022-04-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_creusois&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

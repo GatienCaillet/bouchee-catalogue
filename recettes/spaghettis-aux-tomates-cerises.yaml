@@ -1,0 +1,26 @@
+id: spaghettis-aux-tomates-cerises
+titre: Spaghettis aux tomates cerises
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 20
+  repos: 0
+ingredients:
+- 400 g de spaghettis
+- 500 g de tomates cerises
+- 2 gousses d'ail
+- 4 c. à soupe d'huile d'olive
+- quelques feuilles de basilic
+- sel, poivre
+etapes:
+- Porter une grande casserole d'eau salée à ébullition.
+- Faire éclater les tomates cerises dans l'huile avec l'ail 10 minutes.
+- Cuire les pâtes selon les indications du paquet, les égoutter en gardant un peu d'eau de cuisson.
+- Mélanger les pâtes à la sauce, détendre si besoin avec l'eau de cuisson, poivrer et servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « pâtes »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

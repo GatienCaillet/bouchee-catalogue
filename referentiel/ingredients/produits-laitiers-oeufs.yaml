@@ -5,26 +5,26 @@
 famille: produits-laitiers-oeufs
 ingredients:
   - {id: produit_laitier, nom: produit laitier, allergenes: [lait], alias_fr: [produits laitiers, laitage, laitages], alias_en: [dairy, dairy products]}
-  - {id: lait, nom: lait, parent: produit_laitier, alias_fr: [lait entier, lait demi-écrémé, lait écrémé, lait de vache], alias_en: [milk, whole milk], ciqual: 19041}
+  - {id: lait, nom: lait, parent: produit_laitier, alias_fr: [lait de vache], alias_en: [milk], ciqual: 19041}
   - {id: creme, nom: crème, parent: produit_laitier, alias_en: [cream]}
-  - {id: creme_fraiche, nom: crème fraîche, parent: creme, alias_fr: [crème fraîche épaisse, crème épaisse, crème fraîche légère], alias_en: [crème fraîche, sour cream], ciqual: 19410}
-  - {id: creme_liquide, nom: crème liquide, parent: creme, alias_fr: [crème fleurette, crème entière liquide, crème semi-épaisse], alias_en: [heavy cream, whipping cream, single cream, double cream], ciqual: 19415}
-  - {id: beurre, nom: beurre, parent: produit_laitier, alias_fr: [beurre doux, beurre demi-sel, beurre salé, beurre fondu], alias_en: [butter], ciqual: 16400}
-  - {id: yaourt, nom: yaourt, parent: produit_laitier, alias_fr: [yaourts, yogourt, yaourt nature, yaourt grec], alias_en: [yogurt, yoghurt, greek yogurt], ciqual: 19593}
-  - {id: fromage_blanc, nom: fromage blanc, parent: produit_laitier, alias_fr: [faisselle, petit-suisse], alias_en: [fromage frais, quark], ciqual: 19646}
+  - {id: creme_fraiche, nom: crème fraîche, parent: creme, alias_fr: [crème fraîche légère], alias_en: [crème fraîche, sour cream], ciqual: 19410}
+  - {id: creme_liquide, nom: crème liquide, parent: creme, alias_fr: [crème entière liquide, crème semi-épaisse], alias_en: [heavy cream, single cream, double cream], ciqual: 19415}
+  - {id: beurre, nom: beurre, parent: produit_laitier, alias_fr: [beurre fondu], alias_en: [butter], ciqual: 16400}
+  - {id: yaourt, nom: yaourt, parent: produit_laitier, alias_fr: [yaourts, yogourt], alias_en: [yogurt, yoghurt], ciqual: 19593}
+  - {id: fromage_blanc, nom: fromage blanc, parent: produit_laitier, alias_fr: [fromage blanc maigre], ciqual: 19646}
 
   - {id: fromage, nom: fromage, parent: produit_laitier, alias_fr: [fromages], alias_en: [cheese]}
-  - {id: parmesan, nom: parmesan, parent: fromage, alias_fr: [parmigiano reggiano, parmesan râpé, grana padano], alias_en: [parmigiano, parmesan cheese], sensoriel: {odeur_forte: true}, ciqual: 12120}
+  - {id: parmesan, nom: parmesan, parent: fromage, alias_fr: [copeaux de parmesan, parmigiano reggiano, parmesan râpé], alias_en: [parmigiano, parmesan cheese], sensoriel: {odeur_forte: true}, ciqual: 12120}
   - {id: pecorino, nom: pecorino, parent: fromage, alias_fr: [pecorino romano], alias_en: [pecorino cheese], sensoriel: {odeur_forte: true}, ciqual: 12122}
   - {id: emmental, nom: emmental, parent: fromage, alias_fr: [emmenthal], alias_en: [emmental cheese, swiss cheese], ciqual: 12115}
   - {id: comte, nom: comté, parent: fromage, alias_en: [comte cheese], ciqual: 12110}
-  - {id: gruyere, nom: gruyère, parent: fromage, alias_en: [gruyere cheese], ciqual: 12114}
-  - {id: mozzarella, nom: mozzarella, parent: fromage, alias_fr: [mozzarella di bufala, burrata], alias_en: [mozzarella cheese], sensoriel: {textures: [elastique]}, ciqual: 19590}
+  - {id: gruyere, nom: gruyère, parent: fromage, alias_fr: [fromage de gruyère, gruyère râpé], alias_en: [gruyere cheese], ciqual: 12114}
+  - {id: mozzarella, nom: mozzarella, parent: fromage, alias_en: [mozzarella cheese], sensoriel: {textures: [elastique]}, ciqual: 19590}
   - {id: cheddar, nom: cheddar, parent: fromage, alias_en: [cheddar cheese], ciqual: 12726}
-  - {id: chevre, nom: fromage de chèvre, parent: fromage, alias_fr: [chèvre, bûche de chèvre, crottin de chèvre, chèvre frais], alias_en: [goat cheese, goat's cheese], sensoriel: {odeur_forte: true}, ciqual: 12812}
+  - {id: chevre, nom: fromage de chèvre, parent: fromage, alias_fr: [chèvre], alias_en: [goat cheese, goat's cheese], sensoriel: {odeur_forte: true}, ciqual: 12812}
   - {id: feta, nom: feta, parent: fromage, alias_fr: [féta], alias_en: [feta cheese], ciqual: 12066}
-  - {id: roquefort, nom: roquefort, parent: fromage, alias_fr: [bleu, bleu d'Auvergne, fourme d'Ambert, gorgonzola], alias_en: [blue cheese], sensoriel: {odeur_forte: true, piquant: 1}, ciqual: 12500}
-  - {id: camembert, nom: camembert, parent: fromage, alias_fr: [brie], alias_en: [camembert cheese, brie cheese], sensoriel: {odeur_forte: true, textures: [cremeux]}, ciqual: 12001}
+  - {id: roquefort, nom: roquefort, parent: fromage, alias_fr: [bleu d'Auvergne, fourme d'Ambert], alias_en: [blue cheese], sensoriel: {odeur_forte: true, piquant: 1}, ciqual: 12500}
+  - {id: camembert, nom: camembert, parent: fromage, alias_en: [camembert cheese, brie cheese], sensoriel: {odeur_forte: true, textures: [cremeux]}, ciqual: 12001}
   - {id: reblochon, nom: reblochon, parent: fromage, alias_en: [reblochon cheese], sensoriel: {odeur_forte: true}, ciqual: 12045}
   - {id: ricotta, nom: ricotta, parent: fromage, alias_en: [ricotta cheese], sensoriel: {textures: [granuleux]}, ciqual: 19585}
   - {id: mascarpone, nom: mascarpone, parent: fromage, alias_en: [mascarpone cheese], sensoriel: {textures: [cremeux]}, ciqual: 19584}
@@ -41,3 +41,70 @@ ingredients:
   - {id: oeuf, nom: œuf, allergenes: [oeufs], alias_fr: [oeuf, œufs, oeufs, œuf entier, œuf de poule], alias_en: [egg, eggs], ciqual: 22000}
   - {id: jaune_d_oeuf, nom: jaune d'œuf, parent: oeuf, alias_fr: [jaune d'oeuf, jaunes d'œufs, jaunes d'oeufs], alias_en: [egg yolk, egg yolks], ciqual: 22002}
   - {id: blanc_d_oeuf, nom: blanc d'œuf, parent: oeuf, alias_fr: [blanc d'oeuf, blancs d'œufs, blancs d'oeufs], alias_en: [egg white, egg whites], ciqual: 22001}
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  # Laits
+  - {id: lait_entier, nom: lait entier, parent: lait, alias_fr: [lait entier cru, lait cru, lait frais entier], alias_en: [whole milk], ciqual: 19023}
+  - {id: lait_ecreme, nom: lait écrémé, parent: lait, alias_fr: [lait demi-écrémé, lait cru écrémé], alias_en: [skimmed milk, semi-skimmed milk], ciqual: 19050}
+  - {id: lait_concentre, nom: lait concentré, parent: lait, alias_fr: [lait concentré non sucré, lait évaporé], alias_en: [evaporated milk], ciqual: 19026}
+  - {id: lait_concentre_sucre, nom: lait concentré sucré, parent: lait, alias_fr: [lait condensé, lait concentré sucré, confiture de lait, dulce de leche], alias_en: [condensed milk, sweetened condensed milk], composants: [lait, sucre], ciqual: 31040}
+  - {id: lait_en_poudre, nom: lait en poudre, parent: lait, alias_fr: [poudre de lait], alias_en: [milk powder, powdered milk], ciqual: 19021}
+  - {id: lait_de_chevre, nom: lait de chèvre, parent: lait, alias_fr: [lait de brebis], alias_en: [goat milk, sheep milk], ciqual: 19202}
+  - {id: babeurre, nom: babeurre, parent: lait, alias_fr: [lait ribot, lait fermenté, petit-lait, lben, leben], alias_en: [buttermilk], ciqual: 19801}
+  - {id: kefir, nom: kéfir, parent: lait, alias_fr: [kéfir de lait], alias_en: [kefir], ciqual: 19865}
+  # Crèmes
+  - {id: creme_epaisse, nom: crème épaisse, parent: creme_fraiche, alias_fr: [crème fraîche crue, crème fermière, crème fraîche épaisse, crème double, crème entière, crème d'Isigny, crème crue], alias_en: [clotted cream], ciqual: 19411}
+  - {id: creme_legere, nom: crème légère, parent: creme, alias_fr: [crème allégée, crème liquide allégée], alias_en: [light cream]}
+  - {id: creme_aigre, nom: crème aigre, parent: creme, alias_fr: [crème acidulée, smetana]}
+  - {id: creme_fleurette, nom: crème fleurette, parent: creme_liquide, alias_fr: [crème liquide entière, crème à fouetter, crème liquide entière froide], alias_en: [whipping cream], ciqual: 19415, ciqual_approche: true}
+  - {id: chantilly, nom: crème chantilly, parent: creme, alias_fr: [chantilly, crème fouettée], alias_en: [whipped cream], composants: [creme_liquide, sucre, vanille], composition_variable: true, ciqual: 19420}
+  - {id: creme_glacee, nom: crème glacée, alias_fr: [glace, glace à la vanille, glace vanille, boule de glace, boules de glace, glace de votre choix], alias_en: [ice cream, vanilla ice cream], composants: [lait, creme, sucre, oeuf, vanille, sirop_de_glucose], composition_variable: true, note: "Les glaces du commerce contiennent souvent du jaune d'œuf.", ciqual: 39500}
+  - {id: creme_patissiere, nom: crème pâtissière, alias_en: [pastry cream, custard], composants: [lait, jaune_d_oeuf, sucre, farine_de_ble, fecule_de_mais, vanille], ciqual: 39710}
+  - {id: creme_anglaise, nom: crème anglaise, alias_en: [custard sauce], composants: [lait, jaune_d_oeuf, sucre, vanille], ciqual: 39700}
+  # Beurres
+  - {id: beurre_doux, nom: beurre doux, parent: beurre, alias_fr: [beurre doux pommade], alias_en: [unsalted butter], ciqual: 16400}
+  - {id: beurre_demi_sel, nom: beurre demi-sel, parent: beurre, alias_fr: [beurre salé, beurre demi sel], alias_en: [salted butter], ciqual: 16403}
+  - {id: beurre_clarifie, nom: beurre clarifié, parent: beurre, alias_fr: [ghee, ghî, beurre noisette, smen], alias_en: [ghee, clarified butter], ciqual: 16400, ciqual_approche: true}
+  # Yaourts et fromages frais
+  - {id: yaourt_grec, nom: yaourt grec, parent: yaourt, alias_fr: [yaourt à la grecque, yaourts grecs, skyr, labneh], alias_en: [greek yogurt, strained yogurt], ciqual: 19860}
+  - {id: yaourt_nature, nom: yaourt nature, parent: yaourt, alias_fr: [yaourts nature, yogourt nature, yaourt brassé, pot de yaourt, pots de yaourt], alias_en: [plain yogurt], ciqual: 19860}
+  - {id: petit_suisse, nom: petit-suisse, parent: fromage_blanc, alias_fr: [petits-suisses, petits suisses, faisselle, faisselles, quark], alias_en: [quark, curd cheese], ciqual: 19639}
+  - {id: fromage_frais, nom: fromage frais, parent: fromage, alias_fr: [fromage à tartiner, fromage frais à tartiner, cream cheese, Philadelphia, Saint-Moret, carré frais, Boursin, fromage frais aux herbes], alias_en: [cream cheese, soft cheese], ciqual: 19663, ciqual_approche: true}
+  - {id: brousse, nom: brousse, parent: fromage, alias_fr: [brocciu, broccio, sérac], alias_en: [brousse cheese]}
+  - {id: burrata, nom: burrata, parent: mozzarella, alias_fr: [stracciatella], alias_en: [burrata cheese], ciqual: 19590, ciqual_approche: true}
+  - {id: mozzarella_di_bufala, nom: mozzarella di bufala, parent: mozzarella, alias_fr: [mozzarella de bufflonne], alias_en: [buffalo mozzarella], ciqual: 19591}
+  - {id: halloumi, nom: halloumi, parent: fromage, alias_en: [halloumi cheese]}
+  - {id: cottage_cheese, nom: cottage cheese, parent: fromage, alias_fr: [cottage], alias_en: [cottage cheese]}
+  - {id: paneer, nom: paneer, parent: fromage, alias_en: [paneer cheese]}
+  # Fromages à pâte pressée
+  - {id: beaufort, nom: beaufort, parent: fromage, alias_en: [beaufort cheese], ciqual: 12105}
+  - {id: cantal, nom: cantal, parent: fromage, alias_fr: [salers, laguiole, tomme fraîche, tomme fraîche de Laguiole, tomme, tomme de Savoie, tomme de montagne], alias_en: [cantal cheese, tomme], ciqual: 12725}
+  - {id: morbier, nom: morbier, parent: fromage, alias_en: [morbier cheese], ciqual: 12743}
+  - {id: abondance, nom: abondance, parent: fromage, alias_fr: [fromage d'abondance], alias_en: [abondance cheese], ciqual: 12112}
+  - {id: raclette, nom: fromage à raclette, parent: fromage, alias_fr: [raclette, fromage raclette, fromage à raclette], alias_en: [raclette cheese], ciqual: 12749}
+  - {id: saint_nectaire, nom: saint-nectaire, parent: fromage, alias_fr: [saint nectaire, tomme d'Auvergne], alias_en: [saint-nectaire cheese], ciqual: 12748}
+  - {id: mimolette, nom: mimolette, parent: fromage, alias_en: [mimolette cheese], ciqual: 12740}
+  - {id: gouda, nom: gouda, parent: fromage, alias_fr: [edam, édam, maasdam, leerdammer], alias_en: [gouda cheese, edam cheese], ciqual: 12729}
+  - {id: ossau_iraty, nom: ossau-iraty, parent: fromage, alias_fr: [ossau iraty, tomme de brebis, fromage de brebis, manchego], alias_en: [sheep's milk cheese, manchego], ciqual: 12119}
+  - {id: grana_padano, nom: grana padano, parent: parmesan, alias_en: [grana padano cheese], ciqual: 12123}
+  - {id: provolone, nom: provolone, parent: fromage, alias_fr: [scamorza, scamorza fumée], alias_en: [provolone cheese, scamorza], ciqual: 12716}
+  - {id: fontina, nom: fontina, parent: fromage, alias_en: [fontina cheese], ciqual: 12121}
+  - {id: fromage_a_pate_dure, nom: fromage à pâte dure, parent: fromage, alias_fr: [fromage à pâte pressée, fromage d'alpage, fromage de montagne, fromage à pâte dure ou mi-dure], alias_en: [hard cheese], ciqual: 12827}
+  # Fromages à pâte molle et persillés
+  - {id: brie, nom: brie, parent: fromage, alias_fr: [brie de Meaux, coulommiers, chaource], ciqual: 12028}
+  - {id: munster, nom: munster, parent: fromage, alias_fr: [munster-géromé], alias_en: [munster cheese], sensoriel: {odeur_forte: true}, ciqual: 12039}
+  - {id: maroilles, nom: maroilles, parent: fromage, alias_fr: [livarot, pont-l'évêque, époisses, langres, vieux-lille], alias_en: [maroilles cheese], sensoriel: {odeur_forte: true}, ciqual: 12037}
+  - {id: mont_d_or, nom: mont-d'or, parent: fromage, alias_fr: [vacherin, vacherin Mont-d'Or, mont d'or], alias_en: [vacherin cheese]}
+  - {id: saint_marcellin, nom: saint-marcellin, parent: fromage, alias_fr: [saint marcellin, saint-félicien], alias_en: [saint-marcellin cheese], ciqual: 12052}
+  - {id: taleggio, nom: taleggio, parent: fromage, alias_en: [taleggio cheese]}
+  - {id: bleu, nom: bleu, parent: fromage, alias_fr: [bleu de Bresse, bleu des Causses, fromage bleu, fromage persillé], ciqual: 12521}
+  - {id: gorgonzola, nom: gorgonzola, parent: fromage, alias_fr: [stilton], alias_en: [gorgonzola cheese, stilton], ciqual: 12524}
+  - {id: chevre_frais, nom: chèvre frais, parent: chevre, alias_fr: [fromage de chèvre frais, chèvre frais], alias_en: [fresh goat cheese], ciqual: 12804}
+  - {id: buche_de_chevre, nom: bûche de chèvre, parent: chevre, alias_fr: [bûche de fromage de chèvre, bûchette de chèvre, bûche de chèvre, crottin de chèvre, crottin de Chavignol, crottins de chèvre, sainte-maure, picodon, rocamadour, chabichou, valençay], alias_en: [goat cheese log], ciqual: 12832}
+  - {id: cancoillotte, nom: cancoillotte, parent: fromage, alias_en: [cancoillotte cheese], ciqual: 12325}
+  - {id: fromage_fondu, nom: fromage fondu, parent: fromage, alias_fr: [crème de gruyère, fromage fondu en portions, Vache qui rit, fromage pour hamburger], alias_en: [processed cheese, cheese slices], composants: [fromage, lait, beurre, sel], composition_variable: true, ciqual: 12300}
+  # Œufs
+  - {id: oeuf_de_caille, nom: œuf de caille, parent: oeuf, alias_fr: [œufs de caille, oeufs de caille, oeuf de caille], alias_en: [quail eggs], ciqual: 22050}
+  - {id: oeuf_dur, nom: œuf dur, parent: oeuf, alias_fr: [œufs durs, oeufs durs, oeuf dur], alias_en: [hard-boiled egg, hard-boiled eggs], ciqual: 22010}
+  - {id: oeuf_de_cane, nom: œuf de cane, parent: oeuf, alias_fr: [œufs de cane, œuf de canard, œufs de canard], alias_en: [duck egg], ciqual: 22060}
+  - {id: presure, nom: présure, parent: produit_laitier, alias_fr: [flacon de présure], alias_en: [rennet], note: "Enzyme coagulante ; classée ici pour le filtrage végétarien (souvent d'origine animale)."}

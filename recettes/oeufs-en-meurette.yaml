@@ -1,0 +1,32 @@
+id: oeufs-en-meurette
+titre: Œufs en meurette
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 30
+  repos: 0
+ingredients:
+- 4 œufs
+- 1/2l de vin rouge (Bourgogne de préférence)
+- 50 g de beurre
+- 250 g de lardons
+- 2 oignons
+- 4 échalotes
+- bouquet garni
+- 1 morceau de sucre
+etapes:
+- faire dorer les lardons, éliminer le gras
+- dans le beurre faire dorer les oignons et échalotes
+- mélanger dans une casserole vin, le sucre, oignons, échalotes, lardons, bouquet garni et clou de girofle dans
+  une étamine.
+- faire réduire à découvert 30 minutes à feu moyen et ôter le bouquet garni
+source:
+  titre: Œufs en meurette
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C5%92ufs_en_meurette&oldid=352679
+  revision: 352679
+  date: '2012-01-29'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C5%92ufs_en_meurette&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

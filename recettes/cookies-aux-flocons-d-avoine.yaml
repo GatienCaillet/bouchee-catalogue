@@ -1,0 +1,26 @@
+id: cookies-aux-flocons-d-avoine
+titre: Cookies aux flocons d'avoine
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 12
+  repos: 0
+ingredients:
+- 150 g de flocons d'avoine
+- 100 g de farine
+- 100 g de beurre
+- 100 g de sucre roux
+- 1 œuf
+- 1/2 sachet de levure chimique
+- 50 g de raisins secs
+etapes:
+- Mélanger le beurre mou et le sucre, puis l'œuf.
+- Ajouter la farine, la levure, les flocons et les raisins.
+- Former des petits tas sur une plaque et cuire 12 minutes à 180 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

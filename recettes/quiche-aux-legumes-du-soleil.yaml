@@ -1,0 +1,28 @@
+id: quiche-aux-legumes-du-soleil
+titre: Quiche aux légumes du soleil
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 35
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 1 courgette
+- 1 poivron rouge
+- 1 tomate
+- 3 œufs
+- 20 cl de crème fraîche
+- 50 g de parmesan râpé
+- sel, poivre
+etapes:
+- Préchauffer le four à 180 °C et garnir un moule de pâte.
+- Faire revenir les légumes en dés 10 minutes.
+- Les répartir sur la pâte, couvrir des œufs battus avec la crème et le parmesan.
+- Enfourner 35 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « quiche »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

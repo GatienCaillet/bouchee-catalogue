@@ -1,0 +1,28 @@
+id: chili-con-carne-aux-haricots-rouges
+titre: Chili con carne aux haricots rouges
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 45
+  repos: 0
+ingredients:
+- 500 g de bœuf haché
+- 2 boîtes de haricots rouges (800 g)
+- 800 g de tomates pelées
+- 1 oignon
+- 1 poivron rouge
+- 1 c. à café de cumin en poudre
+- 1 c. à café de paprika
+- 2 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Faire revenir l'oignon et le poivron émincés dans l'huile.
+- Ajouter la viande et la faire dorer.
+- Ajouter les épices, les tomates et les haricots égouttés, et laisser mijoter 40 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,25 @@
+id: poireaux-vinaigrette
+titre: Poireaux vinaigrette
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 15
+  repos: 0
+ingredients:
+- 8 poireaux
+- 1 c. à soupe de moutarde de Dijon
+- 2 c. à soupe de vinaigre de vin
+- 6 c. à soupe d'huile de colza
+- 1 échalote
+- sel, poivre
+etapes:
+- Cuire les poireaux 15 minutes à l'eau bouillante salée et les égoutter.
+- Préparer la vinaigrette avec la moutarde, le vinaigre, l'huile et l'échalote hachée.
+- Napper les poireaux tièdes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « entrée »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

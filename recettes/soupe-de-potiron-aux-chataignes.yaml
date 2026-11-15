@@ -1,0 +1,24 @@
+id: soupe-de-potiron-aux-chataignes
+titre: Soupe de potiron aux châtaignes
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 1 kg de potiron
+- 200 g de marrons
+- 1 oignon
+- 1 l de bouillon de légumes
+- 10 cl de crème liquide
+- sel, poivre
+etapes:
+- Faire revenir l'oignon, ajouter le potiron en cubes, les marrons et le bouillon.
+- Cuire 25 minutes et mixer avec la crème.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « velouté »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

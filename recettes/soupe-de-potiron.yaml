@@ -1,0 +1,29 @@
+id: soupe-de-potiron
+titre: Soupe de potiron
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1/4 de potiron
+- 4 pommes de terre
+- 1l d'eau
+- sel, poivre
+- crème fraîche (facultatif)
+etapes:
+- Retirer la peau et les filaments du potiron. Couper la chair en petits cubes.
+- Éplucher et couper les pommes de terre.
+- Faire cuire potiron et pommes de terre dans une cocote.
+- Mixer le tout.
+- Servir accompagné de crème fraîche suivant les goûts.
+source:
+  titre: Soupe de potiron
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_de_potiron&oldid=359778
+  revision: 359778
+  date: '2012-03-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Soupe_de_potiron&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

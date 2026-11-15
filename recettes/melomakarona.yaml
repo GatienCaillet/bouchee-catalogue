@@ -1,0 +1,41 @@
+id: melomakarona
+titre: Melomakarona
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 25
+  repos: 0
+ingredients:
+- 1 300 g de farine
+- 200 g de sucre
+- 150 g de noix
+- texte: 150 cl d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 150 g de beurre
+- 10 dl de miel
+- 15 dl d'eau
+- 70 cl de jus d'orange
+- 20 cl de cognac
+- 10 g de cannelle
+- 6 g de bicarbonate de soude
+- 1 orange
+etapes:
+- Mélanger le beurre, l'huile et 50 g de sucre
+- Ajouter le bicarbonate dissout dans le jus d'orange, le cognac et le zeste d'orange râpés
+- Petit à petit, ajouter la farine
+- Former des bâtonnets de 7 cm sur 3
+- Enfourner a 180°C pendant 25 min
+- Bouillir l'eau, le sucre et le miel, versez le sirop sur les biscuits tièdes, saupoudrer de noix concassées
+source:
+  titre: Melomakarona
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Melomakarona&oldid=452032
+  revision: 452032
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Melomakarona&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

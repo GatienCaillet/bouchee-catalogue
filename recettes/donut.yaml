@@ -1,0 +1,45 @@
+id: donut
+titre: Donut
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 0
+  repos: 220
+ingredients:
+- 350 g de farine
+- 1,5 dl de lait
+- 25 g de beurre
+- 80 g de cassonade
+- 1 œuf
+- 1/2 cuillerée à café de sel
+- 1 sachet de levure de boulanger lyophilisée
+- 4 pincées de cannelle en poudre
+- 1/2 litre d'huile d'arachide
+- Sucre cristallisé.
+etapes:
+- Tiédir le lait, le verser dans un grand verre. Ajouter une cuillère à café de sucre et mélanger, ajouter la levure
+  en pluie et mélanger.
+- Laisser reposer dix minutes dans un endroit tiède jusqu'à ce que la levure gonfle et atteigne le bord du verre.
+- Tamiser la farine dans une terrine, creuser un puits au centre et ajouter le sel et la levure.
+- Mélanger à la spatule puis du bout des doigts, jusqu'à obtention d'une boule souple et élastique.
+- Laisser reposer 30 minutes, dans un endroit tiède, jusqu'à ce qu'elle double de volume.
+- Faire fondre le beurre dans une casserole, laisser refroidir.
+- Lorsque la pâte a levé, la mettre sur le plan de travail et l'écraser d'un coup sec.
+- Travailler la pâte en y incorporant le beurre, l'œuf battu, la cannelle, le sucre et de farine tamisée.
+- Couvrir d'un linge et laisser lever pendant 3 heures.
+- Travailler rapidement la pâte afin de la faire retomber puis la diviser en douze boules.
+- Prendre une boule dans la main gauche et la trouer en son centre avec l'index droit.
+- Faire tourner le beignet autour du doigt pendant 10 secondes. Procéder de même avec les autres boules de pâte.
+- Faire chauffer l'huile dans une casserole, à frémissement plonger les "boules" par trois.
+- Cuire deux minutes puis retourner et cuire une minute. Égoutter sur du papier absorbant.
+- Poudrer de sucre cristallisé avant de servir.
+source:
+  titre: Donut
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Donut&oldid=685322
+  revision: 685322
+  date: '2022-09-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Donut&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

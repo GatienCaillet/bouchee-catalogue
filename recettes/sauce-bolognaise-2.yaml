@@ -1,0 +1,30 @@
+id: sauce-bolognaise-2
+titre: Sauce bolognaise (2)
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 0
+ingredients:
+- 200 g de bœuf haché
+- 400 g de tomates concassées
+- 1 carotte
+- 1 oignon
+- 1 gousse d'ail
+- huile d'olive
+- basilic
+etapes:
+- Couper les carottes en petits dés. Les faire cuire dans une poêle avec un peu d'huile d'olive.
+- Avant la fin de cuisson des carottes, rajouter l'oignon et la gousse d'ail finement coupés.
+- Rajouter la viande hachée et le concassé de tomate.
+- Laisser cuire encore une dizaine de minutes en remuant.
+source:
+  titre: Sauce bolognaise (2)
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_bolognaise_%282%29&oldid=452831
+  revision: 452831
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_bolognaise_%282%29&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

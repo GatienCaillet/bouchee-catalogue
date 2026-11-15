@@ -1,0 +1,28 @@
+id: clafoutis-de-peches
+titre: Clafoutis de pêches
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 800 g de pêches
+- 3 œufs
+- 80 g de sucre
+- 60 g de farine
+- 30 cl de lait
+- 20 g de beurre
+- 1 sachet de sucre vanillé
+etapes:
+- Préchauffer le four à 180 °C et beurrer un plat.
+- Peler les pêches, les dénoyauter et les couper en quartiers.
+- Disposer les pêches dans le plat.
+- Fouetter les œufs avec le sucre et le sucre vanillé, ajouter la farine puis le lait petit à petit.
+- Verser sur les pêches et enfourner 40 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « clafoutis »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

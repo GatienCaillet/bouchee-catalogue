@@ -1,0 +1,26 @@
+id: salade-de-chou-rouge-a-la-pomme
+titre: Salade de chou rouge à la pomme
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 0
+  repos: 15
+ingredients:
+- 1/2 chou rouge
+- 2 pommes
+- 30 g de raisins secs
+- 4 c. à soupe d'huile d'olive
+- 2 c. à soupe de vinaigre de vin
+- sel, poivre
+etapes:
+- Émincer très finement le chou et râper les pommes.
+- Préparer la vinaigrette en mélangeant l'huile, l'acidité, le sel et le poivre.
+- Réunir tous les ingrédients dans un saladier, arroser de vinaigrette et mélanger délicatement.
+- Laisser reposer 15 minutes au frais avant de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

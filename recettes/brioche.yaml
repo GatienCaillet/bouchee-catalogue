@@ -1,0 +1,57 @@
+id: brioche
+titre: Brioche
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 20
+  repos: 1020
+ingredients:
+- 400 grammes de farine
+- 50 grammes de sucre en poudre
+- 1 cuiller à café de sel fin
+- 4 œufs
+- 180 grammes de beurre
+- 20 gramme de levure de boulanger
+- 1 cuiller à soupe d'eau froide
+- 500 g de farine (type 45)
+- 150 g de sucre
+- 1 pincée de sel
+- 4-6 œufs
+- 250 g de beurre à température ambiante ou ramolli (en pommade)
+- 10 cl de lait ou d'eau à température ambiante
+- 1 sachet de levure de boulangerie
+etapes:
+- Mélanger farine, sucre et sel dans un récipient.
+- Fouetter un œuf à la fois et le verser sur le mélange.
+- Soulever la pâte.
+- Faire fondre le beurre puis le verser.
+- Soulever la pâte à la cuiller.
+- Mélanger levure et eau.
+- soulever le tout à la cuiller.
+- Mettre le saladier dans le bas du frigo, couvrir le saladier une nuit ou 5 à 6 heures minimum.
+- Le lendemain matin, sortir la pâte, l'étaler, la plier, l'étaler à nouveau et ce quatre fois de suite.
+- Faire deux à huit boudins.
+- Beurrer les moules à cake (ou le gros moule à savarin).
+- Mettre sept ou huit boudins dans chaque moule.
+- Laisser lever 4 heure à température élevée et sans courant d'air.
+- Mettre dans un four froid, thermostat 6, grill n° 1, pendant 20 minutes.
+- Sortir la brioche puis la démouler.
+- Remplir un bol aux trois-quarts avec sucre glace.
+- Mélanger avec très peu d'eau afin que le sucre glace soit un liquide épais.
+- Le verser sur les brioches.
+source:
+  titre: Brioche
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Brioche&oldid=488858
+  revision: 488858
+  date: '2015-10-12'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Brioche&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Brioche des Rois dsc06781.jpg
+  auteur: David Monniaux
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Brioche_des_Rois_dsc06781.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

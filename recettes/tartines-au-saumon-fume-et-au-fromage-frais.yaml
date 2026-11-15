@@ -1,0 +1,23 @@
+id: tartines-au-saumon-fume-et-au-fromage-frais
+titre: Tartines au saumon fumé et au fromage frais
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 0
+  repos: 0
+ingredients:
+- 8 tranches de pain de seigle
+- 200 g de saumon fumé
+- 150 g de fromage frais
+- 1/2 botte d'aneth
+- 1 citron
+etapes:
+- Tartiner le pain de fromage frais.
+- Poser le saumon, l'aneth ciselé et quelques gouttes de citron.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tartine »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

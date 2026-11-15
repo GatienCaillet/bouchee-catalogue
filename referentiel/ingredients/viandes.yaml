@@ -4,19 +4,19 @@ famille: viandes
 ingredients:
   - {id: viande, nom: viande, alias_fr: [viandes], alias_en: [meat]}
 
-  - {id: boeuf, nom: bœuf, parent: viande, alias_fr: [boeuf, viande de bœuf, bœuf à braiser, paleron, macreuse, joue de bœuf], alias_en: [beef], ciqual: 6270}
-  - {id: steak_de_boeuf, nom: steak de bœuf, parent: boeuf, alias_fr: [steak, bifteck, rumsteck, entrecôte, faux-filet], alias_en: [beef steak, steak], ciqual: 6201}
+  - {id: boeuf, nom: bœuf, parent: viande, alias_fr: [boeuf, viande de bœuf], alias_en: [beef], ciqual: 6270}
+  - {id: steak_de_boeuf, nom: steak de bœuf, parent: boeuf, alias_fr: [steak, bifteck], alias_en: [beef steak, steak], ciqual: 6201}
   - {id: boeuf_hache, nom: bœuf haché, parent: boeuf, alias_fr: [viande hachée de bœuf, steak haché, steaks hachés], alias_en: [ground beef, minced beef], ciqual: 6254}
-  - {id: veau, nom: veau, parent: viande, alias_fr: [viande de veau, escalope de veau, blanquette de veau], alias_en: [veal], ciqual: 6521}
-  - {id: agneau, nom: agneau, parent: viande, alias_fr: [mouton, gigot d'agneau, épaule d'agneau, côtelette d'agneau, côtelettes d'agneau, côte d'agneau, côtes d'agneau], alias_en: [lamb, mutton], ciqual: 21502}
+  - {id: veau, nom: veau, parent: viande, alias_fr: [viande de veau, blanquette de veau], alias_en: [veal], ciqual: 6521}
+  - {id: agneau, nom: agneau, parent: viande, alias_fr: [viande de mouton, viande d'agneau, viande de mouton ou agneau, côte d'agneau], alias_en: [lamb], ciqual: 21502}
   - {id: lapin, nom: lapin, parent: viande, alias_en: [rabbit], ciqual: 34001}
 
   - {id: porc, nom: porc, parent: viande, alias_fr: [cochon, produits du porc], alias_en: [pork products]}
-  - {id: viande_de_porc, nom: viande de porc, parent: porc, alias_fr: [échine de porc, filet mignon de porc, rôti de porc, côte de porc, sauté de porc, travers de porc], alias_en: [pork, pork chop, pork loin], ciqual: 28300}
+  - {id: viande_de_porc, nom: viande de porc, parent: porc, alias_fr: [rôti de porc, sauté de porc], alias_en: [pork, pork chop, pork loin], ciqual: 28300}
   - {id: lardon, nom: lardon, parent: porc, alias_fr: [lardons, lardons fumés, lardons nature], alias_en: [bacon lardons], ciqual: 28720}
-  - {id: poitrine_de_porc, nom: poitrine de porc, parent: porc, alias_fr: [poitrine fumée, lard, bacon], alias_en: [pork belly, bacon], ciqual: 28002}
-  - {id: jambon_cuit, nom: jambon cuit, parent: porc, alias_fr: [jambon blanc, jambon de Paris, dés de jambon], alias_en: [cooked ham, ham], ciqual: 28900}
-  - {id: jambon_cru, nom: jambon cru, parent: porc, alias_fr: [jambon de Bayonne, jambon de Parme, prosciutto], alias_en: [cured ham], ciqual: 28800}
+  - {id: poitrine_de_porc, nom: poitrine de porc, parent: porc, alias_fr: [poitrine fumée], alias_en: [pork belly], ciqual: 28002}
+  - {id: jambon_cuit, nom: jambon cuit, parent: jambon, alias_fr: [jambon blanc, jambon de Paris, dés de jambon], alias_en: [cooked ham, ham], ciqual: 28900}
+  - {id: jambon_cru, nom: jambon cru, parent: jambon, alias_en: [cured ham], ciqual: 28800}
   - id: chorizo
     nom: chorizo
     ciqual: 30315
@@ -30,7 +30,7 @@ ingredients:
     nom: saucisse
     ciqual: 30110
     parent: porc
-    alias_fr: [saucisses, saucisse de Toulouse, chair à saucisse, saucisse de Strasbourg, knacki]
+    alias_fr: [saucisses, chair à saucisse, knacki]
     alias_en: [sausage, pork sausage]
     composants: [sel, poivre, lait, farine_de_ble, moutarde]
     composition_variable: true
@@ -46,9 +46,9 @@ ingredients:
     note: Gélatine animale, le plus souvent de porc, parfois de bœuf. À exclure pour un interdit sur le porc.
 
   - {id: volaille, nom: volaille, parent: viande, alias_fr: [volailles], alias_en: [poultry]}
-  - {id: poulet, nom: poulet, parent: volaille, alias_fr: [blanc de poulet, blancs de poulet, cuisse de poulet, filet de poulet, escalope de poulet, pilon de poulet], alias_en: [chicken, chicken breast, chicken thigh], ciqual: 36003}
-  - {id: dinde, nom: dinde, parent: volaille, alias_fr: [escalope de dinde, filet de dinde], alias_en: [turkey], ciqual: 36301}
-  - {id: canard, nom: canard, parent: volaille, alias_fr: [magret de canard, cuisse de canard, confit de canard], alias_en: [duck, duck breast], ciqual: 36201}
+  - {id: poulet, nom: poulet, parent: volaille, alias_fr: [pilon de poulet], alias_en: [chicken], ciqual: 36003}
+  - {id: dinde, nom: dinde, parent: volaille, alias_en: [turkey], ciqual: 36301}
+  - {id: canard, nom: canard, parent: volaille, alias_en: [duck], ciqual: 36201}
   - {id: graisse_de_canard, nom: graisse de canard, parent: canard, alias_en: [duck fat], ciqual: 16550}
 
   - id: merguez
@@ -59,3 +59,106 @@ ingredients:
     composants: [boeuf, agneau, piment, paprika, ail, cumin, sel]
     composition_variable: true
     sensoriel: {piquant: 2}
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  # Viande hachée (catégorie : n'importe quelle viande hachée)
+  - {id: viande_hachee, nom: viande hachée, parent: viande, alias_fr: [hachis, hachis de viande, viande hachée mélangée, farce, farce à légumes], alias_en: [minced meat, ground meat], ciqual: 30052}
+  - {id: porc_hache, nom: porc haché, parent: porc, alias_fr: [hachis de porc, viande de porc hachée, farce de porc], alias_en: [ground pork, sausage meat], ciqual: 30052}
+  - {id: veau_hache, nom: veau haché, parent: veau, alias_fr: [hachis de veau, viande de veau hachée], alias_en: [ground veal], ciqual: 6535}
+  - {id: agneau_hache, nom: agneau haché, parent: agneau, alias_fr: [viande d'agneau hachée, hachis d'agneau], alias_en: [ground lamb, minced lamb], ciqual: 21502, ciqual_approche: true}
+  # Bœuf
+  - {id: paleron, nom: paleron, parent: boeuf, alias_fr: [paleron de bœuf, paleron de boeuf], alias_en: [chuck], ciqual: 6270}
+  - {id: macreuse, nom: macreuse, parent: boeuf, alias_fr: [macreuse de bœuf, macreuse de boeuf], alias_en: [shoulder clod], ciqual: 6202}
+  - {id: joue_de_boeuf, nom: joue de bœuf, parent: boeuf, alias_fr: [joues de bœuf, joue de boeuf, joues de boeuf], alias_en: [beef cheek], ciqual: 6140}
+  - {id: gite_de_boeuf, nom: gîte de bœuf, parent: boeuf, alias_fr: [gîte, gite de boeuf, gîte à la noix], alias_en: [beef shank], ciqual: 6106}
+  - {id: jarret_de_boeuf, nom: jarret de bœuf, parent: boeuf, alias_fr: [jarret de boeuf], alias_en: [beef shin], ciqual: 6150}
+  - {id: plat_de_cotes, nom: plat de côtes, parent: boeuf, alias_fr: [plat de côte, tendron de bœuf], alias_en: [short ribs], ciqual: 6122}
+  - {id: queue_de_boeuf, nom: queue de bœuf, parent: boeuf, alias_fr: [queue de boeuf], alias_en: [oxtail], ciqual: 6311}
+  - {id: bavette, nom: bavette, parent: steak_de_boeuf, alias_fr: [bavette de bœuf, bavette de boeuf, onglet, hampe], alias_en: [flank steak, hanger steak], ciqual: 6204}
+  - {id: rumsteck, nom: rumsteck, parent: steak_de_boeuf, alias_fr: [romsteck, rumsteak], alias_en: [rump steak], ciqual: 6206}
+  - {id: entrecote, nom: entrecôte, parent: steak_de_boeuf, alias_fr: [entrecôtes, faux-filet, faux-filets, côte de bœuf, côte de boeuf], alias_en: [ribeye, sirloin, rib steak], ciqual: 6001}
+  - {id: filet_de_boeuf, nom: filet de bœuf, parent: steak_de_boeuf, alias_fr: [filet de boeuf, tournedos, chateaubriand, rôti de bœuf, rôti de boeuf], alias_en: [beef tenderloin, roast beef], ciqual: 6116}
+  - {id: boeuf_a_braiser, nom: bœuf à braiser, parent: boeuf, alias_fr: [bœuf à bourguignon, boeuf à bourguignon, bœuf à braiser, boeuf à braiser, viande à pot-au-feu, bœuf pour pot-au-feu, boeuf pour pot-au-feu, bœuf en morceaux, boeuf en morceaux, bœuf en cubes, boeuf en cubes], alias_en: [stewing beef, braising beef], ciqual: 6231}
+  - {id: os_a_moelle, nom: os à moelle, parent: boeuf, alias_fr: [os à moelle de bœuf, moelle], alias_en: [marrow bone, bone marrow], ciqual: 6270, ciqual_approche: true}
+  - {id: langue_de_boeuf, nom: langue de bœuf, parent: boeuf, alias_fr: [langue de boeuf], alias_en: [beef tongue], ciqual: 40202}
+  - {id: viande_sechee, nom: viande séchée, parent: boeuf, alias_fr: [viande des Grisons, bresaola, bœuf séché, boeuf séché, pastrami], alias_en: [dried beef, bresaola, jerky], ciqual: 28503}
+  - {id: corned_beef, nom: corned-beef, parent: boeuf, alias_fr: [corned beef], alias_en: [corned beef hash], composants: [boeuf, sel, sucre], composition_variable: true, ciqual: 28505}
+  # Veau
+  - {id: escalope_de_veau, nom: escalope de veau, parent: veau, alias_fr: [escalopes de veau, noix de veau], alias_en: [veal escalope, veal cutlet], ciqual: 6522}
+  - {id: blanquette_de_veau, nom: veau à blanquette, parent: veau, alias_fr: [épaule de veau, tendron de veau, tendrons de veau, poitrine de veau, veau à blanquette, veau en morceaux, collier de veau], alias_en: [veal stew meat, veal shoulder], ciqual: 6560}
+  - {id: jarret_de_veau, nom: jarret de veau, parent: veau, alias_fr: [jarrets de veau, osso buco, osso-buco], alias_en: [veal shank], ciqual: 25164}
+  - {id: cote_de_veau, nom: côte de veau, parent: veau, alias_fr: [côtes de veau, carré de veau, rôti de veau, quasi de veau, filet de veau], alias_en: [veal chop, veal roast], ciqual: 6550}
+  - {id: ris_de_veau, nom: ris de veau, parent: veau, alias_en: [sweetbreads], ciqual: 40304}
+  - {id: foie_de_veau, nom: foie de veau, parent: veau, alias_en: [calf liver], ciqual: 40106}
+  - {id: rognon, nom: rognon, parent: veau, alias_fr: [rognons, rognons de veau, rognon de veau], alias_en: [kidney, veal kidney], ciqual: 40404}
+  - {id: pied_de_veau, nom: pied de veau, parent: veau, alias_fr: [pieds de veau, tête de veau], alias_en: [calf's foot, calf's head], ciqual: 6580}
+  # Agneau
+  - {id: gigot_d_agneau, nom: gigot d'agneau, parent: agneau, alias_fr: [gigot, gigot d'agneau désossé, souris d'agneau, souris d'agneau], alias_en: [leg of lamb, lamb shank], ciqual: 21502}
+  - {id: epaule_d_agneau, nom: épaule d'agneau, parent: agneau, alias_fr: [collier d'agneau, sauté d'agneau, agneau en morceaux, épaule de mouton, mouton], alias_en: [lamb shoulder, mutton], ciqual: 21502, ciqual_approche: true}
+  - {id: cotelette_d_agneau, nom: côtelette d'agneau, parent: agneau, alias_fr: [côtelettes d'agneau, carré d'agneau, côtes d'agneau, noisettes d'agneau], alias_en: [lamb chops, rack of lamb], ciqual: 21500}
+  # Porc
+  - {id: echine_de_porc, nom: échine de porc, parent: viande_de_porc, alias_fr: [échine, palette de porc, épaule de porc, porc en morceaux, porc maigre, porc frais], alias_en: [pork shoulder, pork butt, pork roast], ciqual: 28911}
+  - {id: filet_mignon_de_porc, nom: filet mignon de porc, parent: viande_de_porc, alias_fr: [filet mignon, filet de porc, longe de porc], alias_en: [pork tenderloin], ciqual: 28003}
+  - {id: cote_de_porc, nom: côte de porc, parent: viande_de_porc, alias_fr: [côtes de porc, côtelette de porc, côtelettes de porc, côte de cochon], alias_en: [pork chops], ciqual: 28100}
+  - {id: travers_de_porc, nom: travers de porc, parent: viande_de_porc, alias_fr: [ribs, côtes levées, spare ribs], alias_en: [spare ribs, pork ribs], ciqual: 28400}
+  - {id: jarret_de_porc, nom: jarret de porc, parent: porc, alias_fr: [jarrets de porc, jambonneau, jambonneaux], alias_en: [pork knuckle, ham hock], ciqual: 28960}
+  - {id: pied_de_porc, nom: pied de porc, parent: porc, alias_fr: [pieds de porc, queue de porc, oreille de porc, oreilles de porc, tête de porc], alias_en: [pig's trotter, pig's ear], ciqual: 28540}
+  - {id: couenne, nom: couenne, parent: porc, alias_fr: [couennes, couenne de porc], alias_en: [pork rind], ciqual: 28912, ciqual_approche: true}
+  - {id: lard, nom: lard, parent: poitrine_de_porc, alias_fr: [lard gras, lard fumé, lard salé, lard paysan, ventrèche, panne, gorge de porc, bardes de lard, barde, lard maigre], alias_en: [lard, salt pork, fatback], ciqual: 16530}
+  - {id: bacon, nom: bacon, parent: poitrine_de_porc, alias_fr: [tranches de bacon, poitrine fumée en tranches], alias_en: [bacon, streaky bacon], ciqual: 28727}
+  - {id: pancetta, nom: pancetta, parent: porc, alias_fr: [guanciale], alias_en: [pancetta, guanciale], ciqual: 28858}
+  - {id: foie_de_porc, nom: foie de porc, parent: porc, alias_en: [pork liver], ciqual: 40119}
+  - {id: sang_de_porc, nom: sang de porc, parent: porc, alias_en: [pig's blood], ciqual: 40600, ciqual_approche: true}
+  - {id: crepine, nom: crépine de porc, parent: porc, alias_fr: [crépine, toilette], alias_en: [caul fat]}
+  - {id: boyau, nom: boyau naturel, parent: porc, alias_fr: [boyaux, boyau de porc, intestin de porc], alias_en: [sausage casing]}
+  - {id: jambon, nom: jambon, parent: porc, alias_fr: [tranches de jambon, allumettes de jambon, jambon fumé]}
+  - {id: jambon_de_bayonne, nom: jambon de Bayonne, parent: jambon_cru, alias_fr: [jambon de Parme, prosciutto, jambon serrano, jambon de pays, jambon sec, speck], alias_en: [parma ham, prosciutto, serrano ham], ciqual: 28812}
+  - {id: palette_fumee, nom: palette fumée, parent: porc, alias_fr: [palette fumée, épaule fumée, kassler, carré fumé], alias_en: [smoked pork shoulder], ciqual: 28009, ciqual_approche: true}
+  # Charcuterie (composition variable : union des recettes courantes)
+  - {id: saucisse_de_strasbourg, nom: saucisse de Strasbourg, alias_fr: [saucisses de Strasbourg, knack, knacks, saucisse de Francfort, saucisses de Francfort, saucisses knacks, hot-dog], alias_en: [frankfurter, wiener, hot dog sausage], composants: [porc, boeuf, sel, epice, lait], composition_variable: true, note: "Certaines contiennent des protéines de lait.", ciqual: 30134}
+  - {id: saucisse_de_toulouse, nom: saucisse de Toulouse, parent: saucisse, alias_fr: [saucisses de Toulouse], alias_en: [toulouse sausage], composants: [porc, sel, poivre], ciqual: 30110}
+  - {id: saucisse_de_morteau, nom: saucisse de Morteau, alias_fr: [saucisses de Morteau, saucisse de Montbéliard, saucisses de Montbéliard, saucisse fumée, saucisses fumées], alias_en: [smoked sausage], composants: [porc, sel, poivre, epice], composition_variable: true, ciqual: 30104}
+  - {id: saucisse_blanche, nom: saucisse blanche, alias_fr: [saucisses blanches, weisswurst, boudin blanc, boudins blancs], alias_en: [white sausage], composants: [porc, veau, lait, oeuf, sel, epice], composition_variable: true, note: "Boudin blanc et saucisse blanche contiennent souvent du lait et de l'œuf.", ciqual: 8801}
+  - {id: saucisse_de_volaille, nom: saucisse de volaille, alias_fr: [saucisses de volaille, chipolatas de volaille], alias_en: [chicken sausage], composants: [volaille, sel, epice], composition_variable: true, ciqual: 30131}
+  - {id: chipolata, nom: chipolata, alias_fr: [chipolatas], alias_en: [chipolata sausage], composants: [porc, sel, epice], composition_variable: true, ciqual: 30115}
+  - {id: saucisson, nom: saucisson sec, alias_fr: [saucisson, rosette, salami, saucisson à l'ail, coppa, lonzo], alias_en: [salami, dry sausage], composants: [porc, sel, lait, epice], composition_variable: true, note: "Le saucisson sec contient souvent du lactose ou du lait en poudre.", ciqual: 28850}
+  - {id: mortadelle, nom: mortadelle, alias_en: [mortadella], composants: [porc, pistache, sel, epice, lait], composition_variable: true, ciqual: 30789}
+  - {id: boudin_noir, nom: boudin noir, alias_fr: [boudins noirs, boudin antillais, boudin créole], alias_en: [black pudding, blood sausage], composants: [sang_de_porc, lard, oignon, lait, sel, epice], composition_variable: true, ciqual: 8703}
+  - {id: andouille, nom: andouille, alias_fr: [andouillette, andouillettes, andouilles], alias_en: [andouille sausage], composants: [porc, oignon, vin_blanc, moutarde, sel, epice], composition_variable: true, ciqual: 8500}
+  - {id: rillettes, nom: rillettes, parent: porc, alias_fr: [rillettes de porc, rillons], alias_en: [potted pork], composants: [porc, saindoux, sel, poivre], ciqual: 8030}
+  - {id: pate_de_campagne, nom: pâté de campagne, alias_fr: [pâté, terrine de campagne, mousse de foie], alias_en: [country pate, pate], composants: [porc, foie_de_porc, oeuf, lait, oignon, sel, epice, cognac], composition_variable: true, ciqual: 8332}
+  - {id: chorizo_doux, nom: chorizo doux, parent: chorizo, alias_fr: [chorizo fort, chorizo piquant], alias_en: [spanish chorizo], ciqual: 30316}
+  - {id: sobrasada, nom: sobrasada, parent: porc, alias_en: [sobrassada], composants: [porc, paprika, sel], ciqual: 11049, ciqual_approche: true}
+  - {id: nduja, nom: nduja, parent: porc, alias_fr: ["'nduja"], alias_en: [nduja paste], composants: [porc, piment, sel], ciqual: 20151, ciqual_approche: true}
+  - {id: lard_de_colonnata, nom: lardo, parent: porc, alias_fr: [lard de Colonnata, lardo di colonnata], alias_en: [lardo]}
+  # Volaille
+  - {id: blanc_de_poulet, nom: blanc de poulet, parent: poulet, alias_fr: [blancs de poulet, filet de poulet, filets de poulet, escalope de poulet, escalopes de poulet, suprême de poulet, poitrine de poulet], alias_en: [chicken breast, chicken breasts, chicken fillet], ciqual: 36017}
+  - {id: cuisse_de_poulet, nom: cuisse de poulet, parent: poulet, alias_fr: [cuisses de poulet, haut de cuisse, hauts de cuisse, pilon, pilons, pilons de poulet, cuisses de volaille, cuisse de volaille], alias_en: [chicken thigh, chicken legs, drumsticks], ciqual: 36022}
+  - {id: aile_de_poulet, nom: aile de poulet, parent: poulet, alias_fr: [ailes de poulet, ailerons, ailerons de poulet], alias_en: [chicken wings], ciqual: 36023}
+  - {id: poulet_entier, nom: poulet entier, parent: poulet, alias_fr: [poulet fermier, poulet de Bresse, poulet en morceaux, poulet découpé, coquelet, coquelets, chapon, poularde], alias_en: [whole chicken, capon], ciqual: 36050}
+  - {id: poule, nom: poule, parent: volaille, alias_fr: [poule au pot, vieille poule, grosse volaille], alias_en: [stewing hen, boiling fowl], ciqual: 36001}
+  - {id: foie_de_volaille, nom: foie de volaille, parent: volaille, alias_fr: [foies de volaille, foies de poulet, foie de poulet], alias_en: [chicken liver, chicken livers], ciqual: 40111}
+  - {id: gesier, nom: gésier, parent: volaille, alias_fr: [gésiers, gésiers confits, gésiers de canard], alias_en: [gizzards], ciqual: 40700}
+  - {id: carcasse_de_volaille, nom: carcasse de volaille, parent: volaille, alias_fr: [carcasses de volaille, carcasse de poulet], alias_en: [chicken carcass]}
+  - {id: escalope_de_dinde, nom: escalope de dinde, parent: dinde, alias_fr: [escalopes de dinde, filet de dinde, blanc de dinde, rôti de dinde, cuisse de dinde], alias_en: [turkey breast, turkey cutlet], ciqual: 36304}
+  - {id: pintade, nom: pintade, parent: volaille, alias_fr: [pintades, pintadeau], alias_en: [guinea fowl], ciqual: 36700}
+  - {id: caille, nom: caille, parent: volaille, alias_fr: [cailles], alias_en: [quail], ciqual: 36101}
+  - {id: oie, nom: oie, parent: volaille, alias_fr: [oies], alias_en: [goose], ciqual: 36500}
+  - {id: graisse_d_oie, nom: graisse d'oie, parent: volaille, composants: [oie], alias_en: [goose fat], ciqual: 16560}
+  - {id: pigeon, nom: pigeon, parent: volaille, alias_fr: [pigeons, pigeonneau, pigeonneaux], alias_en: [squab], ciqual: 36600}
+  - {id: magret_de_canard, nom: magret de canard, parent: canard, alias_fr: [magrets de canard, magret, filet de canard, aiguillettes de canard, magret fumé, magret de canard fumé], alias_en: [duck breast], ciqual: 36206}
+  - {id: cuisse_de_canard, nom: cuisse de canard, parent: canard, alias_fr: [cuisses de canard, confit de canard, cuisses de canard confites, manchons de canard], alias_en: [duck leg, duck confit], ciqual: 8110}
+  - {id: foie_gras, nom: foie gras, parent: volaille, alias_fr: [foie gras de canard, foie gras d'oie, bloc de foie gras, foie gras cru], alias_en: [foie gras], ciqual: 8328}
+  - {id: poulet_cuit, nom: poulet cuit, parent: poulet, alias_fr: [restes de poulet, poulet rôti, poulet effiloché], alias_en: [cooked chicken, rotisserie chicken], ciqual: 36003, ciqual_approche: true}
+  # Gibier et autres viandes
+  - {id: gibier, nom: gibier, parent: viande, alias_en: [game]}
+  - {id: lievre, nom: lièvre, parent: gibier, alias_fr: [lièvres, civet de lièvre], alias_en: [hare], ciqual: 14004}
+  - {id: chevreuil, nom: chevreuil, parent: gibier, alias_fr: [cerf, biche, gigue de chevreuil], alias_en: [venison, deer], ciqual: 14006}
+  - {id: sanglier, nom: sanglier, parent: gibier, alias_fr: [marcassin], alias_en: [wild boar], ciqual: 14002}
+  - {id: faisan, nom: faisan, parent: gibier, alias_fr: [faisans, perdrix, perdreau, perdreaux], alias_en: [pheasant, partridge], ciqual: 36401}
+  - {id: bison, nom: bison, parent: viande, alias_fr: [steak de bison, viande de bison], alias_en: [buffalo meat]}
+  - {id: cheval, nom: viande de cheval, parent: viande, alias_fr: [cheval], alias_en: [horse meat], ciqual: 6901}
+  - {id: chevreau, nom: chevreau, parent: viande, alias_fr: [cabri, chèvre (viande)], alias_en: [kid goat, goat meat], ciqual: 21800}
+  - {id: escargot, nom: escargot, parent: mollusque, alias_fr: [escargots, escargots de Bourgogne, petits-gris], alias_en: [snail, snails], ciqual: 10008}
+  - {id: grenouille, nom: cuisse de grenouille, parent: viande, alias_fr: [cuisses de grenouille, grenouilles], alias_en: [frog legs], ciqual: 34500}
+  - {id: bouillon_os, nom: os de veau, parent: veau, alias_fr: [os de veau, os, os de bœuf, os de boeuf], alias_en: [veal bones, beef bones], ciqual: 6521, ciqual_approche: true}

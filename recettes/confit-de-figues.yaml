@@ -1,0 +1,29 @@
+id: confit-de-figues
+titre: Confit de figues
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 30
+  repos: 0
+ingredients:
+- 250 g de figues fraîches
+- 100 g de sucre
+- un peu de sel
+- 50 g de beurre
+- sucre vanillé
+- 4 œufs.
+etapes:
+- Faire cuire au bain-marie le beurre et les figues
+- Mélanger le sucre et les œufs, puis mélanger avec les figues
+- Faire cuire la préparation au four pendant 30 minutes
+- Servir frais.
+source:
+  titre: Confit de figues
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Confit_de_figues&oldid=675192
+  revision: 675192
+  date: '2022-04-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Confit_de_figues&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

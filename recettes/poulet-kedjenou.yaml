@@ -1,0 +1,37 @@
+id: poulet-kedjenou
+titre: Poulet kédjénou
+portions: 4
+temps:
+  preparation: 43
+  cuisson: 45
+  repos: 0
+ingredients:
+- Un poulet entier, découpé en morceaux
+- Deux tomates fraiches, coupées en dés
+- Une aubergine épluchée et coupée en petit morceaux
+- Deux oignons, hachés
+- Quatre gousses d'ail, hachées
+- Deux feuilles de laurier
+- Une cuillère à café de thym
+- Une cuillère à soupe de gingembre râpé
+- Un piment rouge frais
+- 100 ml de huile d'arachide ou végétale
+- Sel et poivre
+etapes:
+- chauffer l'huile dans la cocotte minute, et faire revenir les morceaux de poulet
+- Ajouter l'oignon, le thym, les feuilles de laurier et le gingembre râpé, sauter quelques minutes
+- Puis ajouter l'aubergine, les dés de tomates, l'ail haché et le piment
+- Saler, poivrer, mélanger le tout et fermer la cocotte
+- Ne pas ajouter d'eau, réduire le feu à un niveau très doux
+- Puis laisser mijoter pendant 30 minutes, secouer la cocotte très fort toutes les 5 ou 10 minutes pour éviter que
+  la sauce ne brûle ou ne colle au fond de la marmite
+source:
+  titre: Poulet kédjénou
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_k%C3%A9dj%C3%A9nou&oldid=690618
+  revision: 690618
+  date: '2023-02-09'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_k%C3%A9dj%C3%A9nou&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

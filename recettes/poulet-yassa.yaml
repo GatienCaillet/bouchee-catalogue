@@ -1,0 +1,50 @@
+id: poulet-yassa
+titre: Poulet yassa
+portions: 5
+temps:
+  preparation: 37
+  cuisson: 5
+  repos: 30
+ingredients:
+- 1 poulet
+- 5 gros oignons
+- 1 gousse d'ail
+- texte: 1 verre de moutarde
+  ingredients:
+  - moutarde
+  categorie: true
+- sel
+- poivre
+- noix de muscade
+- 3 cubes de bouillon de volaille
+- huile d'arachide
+etapes:
+- Préparer tous les ingrédients
+- Découper le poulet en 10 morceaux.
+- Mettre les morceaux de poulet, 1 gousse d'ail haché, 1 cube de bouillon de volaille émietté, la moitié du verre
+  de moutarde, le sel, le poivre et la noix de muscade dans une casserole.
+- Bien mélanger et laisser mariner 30 minutes.
+- Placer les morceaux de poulet marinés sur une plaque allant au four et faire griller le poulet pendant une trentaine
+  de minutes sous le grill du four.
+- Émincer les oignons et hacher l'ail restant.
+- Les faire suer à l'huile d'arachide pendant quelques minutes.
+- Baisser le feu afin que les oignons ne colorent pas.
+- Ajouter les morceaux de poulet grillé.
+- Ajouter le restant de moutarde et mélanger.
+- Mouiller à l'eau froide jusqu'à hauteur du poulet.
+- Laisser mijoter une quinzaine de minutes.
+- Ajouter les deux cubes de bouillon de volaille restants.
+- Laisser cuire une trentaine de minutes à petit frémissement.
+- Au terme de la cuisson, rectifier l'assaisonnement.
+- Le Yassa se sert avec du riz blanc, de la banane ou de l'igname bouilli.
+source:
+  titre: Poulet yassa
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_yassa&oldid=744098
+  revision: 744098
+  date: '2025-06-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_yassa&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : moutarde.'

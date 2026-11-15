@@ -1,0 +1,31 @@
+id: mato-de-pedralbes
+titre: Mató de Pedralbes
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 5
+  repos: 0
+ingredients:
+- 1 litre de lait
+- 250g de sucre
+- 100g de farine de maïs
+- 10 jaunes d'œuf
+- 2 bâtons de cannelle
+etapes:
+- Dissoudre la farine de maïs en un verre de lait.
+- Porter à ébullition le reste du lait, la cannelle, le sucre et les jaunes d'œuf battus.
+- Ajouter le lait du verre et cuire encore quelques minutes sans arrêter de remuer.
+- Ôter du feu et filtrer.
+- Distribuer en moules.
+- Laisser refroidir.
+- Démouler en petites assiettes.
+source:
+  titre: Mató de Pedralbes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mat%C3%B3_de_Pedralbes&oldid=452030
+  revision: 452030
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Mat%C3%B3_de_Pedralbes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

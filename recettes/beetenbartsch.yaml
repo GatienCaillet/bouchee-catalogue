@@ -1,0 +1,33 @@
+id: beetenbartsch
+titre: Beetenbartsch
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 15
+  repos: 0
+ingredients:
+- 400 g de betteraves rouges cuites
+- 75 cl de bouillon de légumes
+- sel, poivre, marjolaine
+- texte: 12,5 cl de crème
+  ingredients:
+  - creme
+  categorie: true
+- 50 g de lardons
+- 1 oignon
+etapes:
+- Couper l'oignon en rondelles et le cuire avec la marjolaine dans le bouillon
+- Ajouter la betterave coupée en morceaux
+- Cuire 15 min, mixer la soupe
+- Assaisonner, ajouter la crème et les lardons, mélanger
+source:
+  titre: Beetenbartsch
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beetenbartsch&oldid=451696
+  revision: 451696
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Beetenbartsch&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : crème.'

@@ -1,0 +1,36 @@
+id: thon-a-la-catalane
+titre: Thon à la catalane
+portions: 6
+temps:
+  preparation: 34
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 kg de thon frais
+- 1 kg de tomates
+- 20 petits oignons
+- 200 g de cornichons
+- 1 dl de coulis de tomate
+- 15 cl d'huile d'olive
+- texte: 10 brins de persil, coriandre et origan frais
+  ingredients:
+  - persil
+  - coriandre
+  - origan
+  categorie: true
+- sel et piment de Cayenne, vinaigre d'alcool.
+etapes:
+- Trois jours avant, éplucher les petits oignons, les saler avec du gros sel, les laisser mariner, les essuyer,
+  les disposer dans un bocal, les recouvrir de vinaigre d'alcool chaud et les oublier deux jours (au moins) Peler,
+  épépiner et couper les tomates en dés.
+source:
+  titre: Thon à la catalane
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Thon_%C3%A0_la_catalane&oldid=452862
+  revision: 452862
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Thon_%C3%A0_la_catalane&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : coriandre, origan, persil.'

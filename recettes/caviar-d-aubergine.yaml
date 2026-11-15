@@ -1,0 +1,27 @@
+id: caviar-d-aubergine
+titre: Caviar d'aubergine
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 2 aubergines
+- 1 gousse d'ail
+- 1 citron
+- 3 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Rôtir les aubergines entières 40 minutes à 200 °C.
+- Récupérer la chair et la mixer avec l'ail, le jus du citron et l'huile.
+decouverte:
+  aliment: aubergine
+  niveau: 1
+  pourquoi: Rôtie puis mixée, l'aubergine devient une crème fumée, sans sa texture spongieuse.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

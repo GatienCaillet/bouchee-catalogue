@@ -1,0 +1,27 @@
+id: glace-a-la-banane
+titre: Glace à la banane
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 50
+  repos: 0
+ingredients:
+- 4 bananes
+- 100 g de sucre
+- 350 ml de lait
+- 100 g de crème fraîche épaisse
+etapes:
+- Placer les ingrédients dans un mixeur
+- Mixer jusqu'à obtenir un appareil ayant la consistance d'une crème
+- Verser dans une sorbetière
+- Turbiner au congélateur 50 min
+source:
+  titre: Glace à la banane
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Glace_%C3%A0_la_banane&oldid=333456
+  revision: 333456
+  date: '2011-05-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Glace_%C3%A0_la_banane&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

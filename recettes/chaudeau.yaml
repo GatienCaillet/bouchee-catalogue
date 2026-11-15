@@ -1,0 +1,31 @@
+id: chaudeau
+titre: Chaudeau
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 25
+  repos: 0
+ingredients:
+- 1 litre de lait.
+- 3 œufs.
+- 1 gousse de vanille.
+- Muscade
+- 1 zeste de citron vert.
+- Cannelle
+etapes:
+- Faire chauffer 1 litre de lait (lentement) avec la muscade, la vanille, la canelle râpées et 1 zeste de citron
+  vert. Le lait ne doit pas bouillir.
+- Ajouter 3 jaunes d'œufs un peu fouettés.
+- Remuer régulièrement pendant 10 à 15 min jusqu'à ce que cela prenne une consistance crémeuse.
+- Battre les blancs d'œufs en neige très ferme. Le mélanger lentement avec le lait, à feux doux, pendant 15 min
+  de plus pendant qu'on continue à remuer.
+source:
+  titre: Chaudeau
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chaudeau&oldid=569219
+  revision: 569219
+  date: '2017-09-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chaudeau&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

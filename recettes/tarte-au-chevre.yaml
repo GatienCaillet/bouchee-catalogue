@@ -1,0 +1,39 @@
+id: tarte-au-chevre
+titre: Tarte au chèvre
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 20
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 3 tomates
+- 1 bûche de fromage de chèvre
+- 3 œufs
+- 1 oignon
+- 40 cl de crème fraîche
+- 50 g de comté
+- Huile d'olive.
+etapes:
+- Émincer l'oignon et le faire revenir 5 minutes dans une poêle avec un filet d'huile d'olive, puis le laisser refroidir.
+- Épépiner et couper les tomates en petits dés.
+- Mélanger les œufs entiers, la crème fraîche, les tomates et l'oignon.
+- Étaler la pâte brisée sur un plat, étaler la préparation.
+- Couper le chèvre en rondelle et disposer sur la préparation, râper le comté et l'ajouter à la tarte.
+- Cuire la tarte au four à 180°C 15 à 20 minutes.
+source:
+  titre: Tarte au chèvre
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_ch%C3%A8vre&oldid=645024
+  revision: 645024
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_au_ch%C3%A8vre&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Tarte chèvre ap cuisson.jpg
+  auteur: Original uploader was Antoinel at fr.wikibooks
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Tarte_ch%C3%A8vre_ap_cuisson.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

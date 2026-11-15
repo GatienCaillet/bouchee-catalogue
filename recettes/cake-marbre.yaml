@@ -1,0 +1,29 @@
+id: cake-marbre
+titre: Cake marbré
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 200 g de farine
+- 180 g de sucre
+- 4 œufs
+- 180 g de beurre
+- 1 sachet de levure chimique
+- 2 c. à soupe de cacao amer
+etapes:
+- Préchauffer le four à 180 °C et beurrer le moule.
+- Préparer la pâte avec le beurre mou, le sucre, les œufs, la farine et la levure, puis ajouter le cacao à la moitié
+  de la pâte et alterner les deux pâtes dans le moule.
+- Verser dans le moule.
+- 'Enfourner 20 minutes pour les muffins, 35 à 40 minutes pour un gâteau : la lame d''un couteau doit ressortir
+  sèche.'
+- Laisser tiédir avant de démouler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gâteau »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

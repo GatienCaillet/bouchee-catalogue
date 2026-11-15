@@ -1,0 +1,24 @@
+id: tartines-aux-champignons-et-a-l-ail
+titre: Tartines aux champignons et à l'ail
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 10
+  repos: 0
+ingredients:
+- 8 tranches de pain de campagne
+- 400 g de champignons de Paris
+- 2 gousses d'ail
+- 1/2 botte de persil
+- 30 g de beurre
+- sel, poivre
+etapes:
+- Faire revenir les champignons émincés au beurre 8 minutes avec l'ail haché.
+- Ajouter le persil, saler, poivrer et répartir sur le pain grillé.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « tartine »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

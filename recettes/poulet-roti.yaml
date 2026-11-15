@@ -1,0 +1,42 @@
+id: poulet-roti
+titre: Poulet rôti
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 120
+  repos: 15
+ingredients:
+- 1 poulet (environ 1 kg)
+- 3 gousses d'ail
+- 2 gros oignons
+- bouquet garni
+- piment de Cayenne en poudre
+- sel et poivre
+- huile d'olive
+etapes:
+- Préchauffer le four à 200°C et préparer le poulet pendant ce temps.
+- Prendre 1 plat allant au four.
+- Éplucher les gousses d'ail et enlever le germe.
+- Éplucher les oignons et en enlever le germe.
+- Couper grossièrement les oignons.
+- Disposer le poulet dans le plat.
+- Arroser le poulet d'huile d'olive.
+- Saupoudrer le poulet d'une pincée ou deux de piment de Cayenne.
+- Saupoudrer le poulet de thym, marjolaine, romarin et basilic.
+- Enfourner le poulet sur les blancs dans le four pour 2 heures de cuisson.
+- 'À mi-cuisson : retourner le poulet.'
+- Pour vérifier si le poulet est cuit piquer le à la cuisse, qui est le morceau le plus *long à cuire, le jus doit
+  en sortir transparent et non rouge.
+- Une fois la cuisson terminer sortez le poulet du four
+- Mettre une feuille d'aluminium et laisser le reposer 15 min.
+- La chair en sera plus tendre.
+source:
+  titre: Poulet rôti
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_r%C3%B4ti&oldid=655720
+  revision: 655720
+  date: '2021-04-11'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_r%C3%B4ti&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

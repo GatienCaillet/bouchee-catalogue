@@ -1,0 +1,36 @@
+id: tortilla-de-ble
+titre: Tortilla de blé
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 10
+  repos: 30
+ingredients:
+- 200 g de farine de blé
+- 120g (12cl) d'eau
+- 2 cuillères à soupe d'huile d'olive
+- sel fin (environ 1 cuillère à café)
+etapes:
+- Mélanger la farine et le sel dans un saladier et former une
+- Verser l'huile au centre de la fontaine
+- Porter l'eau à ébullition puis la verser au centre de la fontaine
+- Mélanger à la spatule jusqu'à obtenir un pâte homogène et peu collante (Après quelques minutes, il est possible
+  de mélanger à la main mais attention à vérifier au préalable que la pâte à suffisamment refroidi pour ne pas se
+  bruler)
+- Couvrir la pâte d'un torchon et la laisser reposer 30mn à température ambiante
+- Séparer la pâte en 4 boules de taille similaire
+- Bien fariner le plan de travail et étaler chaque boule en un disque d'une 30aine de centimètres de côté, en farinant
+  également le dessus de la pâte. Même si le plan de travail ou le rouleau n'adhèrent pas, bien fariner la pâte
+  afin d'éviter qu'elle ne colle aux autres tortillas ou à la poêle par la suite
+- Cuire à feu moyen-fort dans une poêle pendant quelques minutes sur chaque face. Percer éventuellement les poches
+  d'air à la cuisson.
+source:
+  titre: Tortilla de blé
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tortilla_de_bl%C3%A9&oldid=642613
+  revision: 642613
+  date: '2020-06-12'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tortilla_de_bl%C3%A9&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

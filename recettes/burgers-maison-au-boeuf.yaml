@@ -1,0 +1,27 @@
+id: burgers-maison-au-boeuf
+titre: Burgers maison au bœuf
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 8
+  repos: 0
+ingredients:
+- 4 pains à burger
+- 500 g de bœuf haché
+- 4 tranches de cheddar
+- 1 tomate
+- 4 feuilles de laitue
+- 1 oignon rouge
+- 4 c. à soupe de ketchup
+- sel, poivre
+etapes:
+- Former 4 steaks avec le bœuf, saler et poivrer.
+- Les cuire 3 à 4 minutes de chaque côté, en posant le cheddar à la fin.
+- Garnir les pains toastés de ketchup, laitue, tomate, oignon et steak.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « burger »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

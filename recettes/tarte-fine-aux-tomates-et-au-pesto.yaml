@@ -1,0 +1,25 @@
+id: tarte-fine-aux-tomates-et-au-pesto
+titre: Tarte fine aux tomates et au pesto
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 25
+  repos: 0
+ingredients:
+- 1 pâte feuilletée
+- 4 tomates
+- 3 c. à soupe de pesto
+- 2 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Préchauffer le four à 200 °C.
+- Étaler la pâte sur une plaque et la tartiner de pesto.
+- Disposer les tomates en fines rondelles, arroser d'huile, saler et poivrer.
+- Enfourner 25 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

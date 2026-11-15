@@ -1,0 +1,43 @@
+id: avisances
+titre: Avisances
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 45
+  repos: 60
+ingredients:
+- 300 g de farine
+- 150 g de beurre
+- 1,5 dl d'eau (adapter selon que la farine absorbe plus ou moins d'eau)
+- ½ cuillerée à soupe de sel
+- 175 g de hachis de porc
+- 175 g de hachis de veau ou de bœuf
+- poivre, sel, noix de muscade
+- 50 g de mie de pain rassis
+etapes:
+- Préparer le hachis en y ajoutant la mie de pain trempée dans de l'eau et pressée pour en enlever l'excédent.
+- Former de petits rouleaux de hachis et les laisser reposer dans un endroit frais.
+- Tamiser la farine avec le sel.
+- Hacher dans la farine le beurre qui doit être froid et dur, à l'aide de deux couteaux, jusqu'à ce que les morceaux
+  de beurre aient la taille de petits pois.
+- Ajouter l'eau froide par petites quantités jusqu'à ce que la pâte soit homogène.
+- Former une boule avec la pâte et la laisser reposer dans un endroit frais une heure au moins.
+- Saupoudrer la table de cuisine de farine et y étendre la pâte au rouleau jusqu'à l'obtention d'une abaisse de
+  8 cm de largeur et de 2,5 mm d'épaisseur environ.
+- Couper l'abaisse en morceaux de ± 12 cm de longueur et poser au milieu de chacun de ces rectangles de pâte un
+  rouleau de hachis.
+- Emballer dans la pâte et coller les bords après les avoir humectés avec un peu d'eau.
+- Beurrer la tôle du four et y disposer les petits pains à la saucisse, le côté lisse vers le haut, après l'avoir
+  enduit de jaune d'œuf délayé avec un peu d'eau.
+- Faire cuire à four chaud pendant environ 45 minutes, jusqu'à ce que les petits pains soient cuits et aient pris
+  une couleur brun doré.
+source:
+  titre: Avisances
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Avisances&oldid=452464
+  revision: 452464
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Avisances&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

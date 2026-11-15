@@ -1,0 +1,30 @@
+id: poivrons-rotis-aux-herbes-de-provence
+titre: Poivrons rôtis aux herbes de Provence
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 35
+  repos: 0
+ingredients:
+- 4 poivrons
+- 3 c. à soupe d'huile d'olive
+- 1 c. à soupe d'herbes de Provence
+- 2 gousses d'ail
+- sel, poivre
+etapes:
+- Préchauffer le four à 210 °C.
+- Épépiner les poivrons et les couper en lanières.
+- Étaler les poivrons sur une plaque, arroser d'huile d'olive et ajouter les gousses d'ail entières.
+- Parsemer d'herbes de Provence, saler, poivrer et bien mélanger.
+- Enfourner 30 à 40 minutes en remuant à mi-cuisson, jusqu'à ce que les légumes soient dorés et tendres.
+decouverte:
+  aliment: poivron
+  niveau: 5
+  pourquoi: Le poivron seul, rôti, en plat de légumes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « légumes rôtis aux herbes »), pas encore testée en cuisine
+    : quantités et temps à confirmer.'

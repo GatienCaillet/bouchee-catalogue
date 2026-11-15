@@ -1,0 +1,30 @@
+id: gateau-au-yaourt-et-au-citron
+titre: Gâteau au yaourt et au citron
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 1 yaourt nature
+- 3 œufs
+- 150 g de sucre
+- 200 g de farine
+- 1 sachet de levure chimique
+- 5 cl d'huile de tournesol
+- 1 citron
+etapes:
+- Préchauffer le four à 180 °C et beurrer le moule.
+- Mélanger le yaourt, les œufs, le sucre et le zeste du citron, puis la farine, la levure, l'huile et le jus du
+  citron.
+- Verser dans le moule.
+- 'Enfourner 20 minutes pour les muffins, 35 à 40 minutes pour un gâteau : la lame d''un couteau doit ressortir
+  sèche.'
+- Laisser tiédir avant de démouler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gâteau »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

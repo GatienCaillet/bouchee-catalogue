@@ -1,0 +1,28 @@
+id: biscuit-congolais
+titre: Biscuit congolais
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 20
+  repos: 0
+ingredients:
+- 125 g de noix de coco
+- 150 g de sucre
+- 2 blancs d'œufs.
+etapes:
+- Mélanger les blancs d'œufs et le sucre
+- Les faire chauffer au
+- Lorsque le mélange est bien chaud, incorporer la noix de coco
+- Parfumer
+- Sur un support beurré, disposer la pâte en tas
+- Mettre dans le four à 175°C (environ 20 minutes).
+source:
+  titre: Biscuit congolais
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Biscuit_congolais&oldid=680858
+  revision: 680858
+  date: '2022-07-06'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Biscuit_congolais&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,31 @@
+id: chocolat-chaud-a-la-cannelle
+titre: Chocolat chaud à la cannelle
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 30
+  repos: 0
+ingredients:
+- 1/2 litre de lait entier
+- 100 cl de crème liquide
+- 100 g de sucre roux
+- 2 bâtons de cannelle
+- 150 g de chocolat noir à 70%
+etapes:
+- Mettez le chocolat noir à fondre dans une petite casserole au bain-marie.
+- Dans une casserole, faites bouillir le lait, le sucre roux et la crème liquide, puis ajoutez les bâtons de cannelle
+  et laissez infuser 20 minutes.
+- Enlevez la cannelle et faites bouillir une nouvelle fois la préparation, puis versez-la encore bouillante sur
+  le chocolat fondu, et remuez bien pour mélanger.
+- Remettez à cuire le mélange à feux doux pendant 10 minutes et servez chaud.
+- 'Petit plus : Râpez du chocolat noir puis rajouter le sur la préparation encore chaude, et dégustez.'
+source:
+  titre: Chocolat chaud à la cannelle
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chocolat_chaud_%C3%A0_la_cannelle&oldid=372236
+  revision: 372236
+  date: '2012-07-07'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chocolat_chaud_%C3%A0_la_cannelle&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

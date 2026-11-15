@@ -1,0 +1,27 @@
+id: quiche-aux-lardons-et-au-fromage
+titre: Quiche aux lardons et au fromage
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 35
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 200 g de lardons
+- 100 g de comté râpé
+- 3 œufs
+- 20 cl de crème fraîche
+- 10 cl de lait
+- sel, poivre
+etapes:
+- Préchauffer le four à 180 °C et garnir un moule de pâte.
+- Faire dorer les lardons à la poêle.
+- Répartir les lardons et le comté sur la pâte, couvrir des œufs battus avec la crème et le lait.
+- Enfourner 35 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « quiche »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

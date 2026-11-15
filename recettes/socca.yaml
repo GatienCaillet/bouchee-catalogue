@@ -1,0 +1,37 @@
+id: socca
+titre: Socca
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 5
+  repos: 0
+ingredients:
+- 250 g de farine de pois chiches
+- 50 cl d'eau
+- 2 cuillerées à soupe d'huile d'olive
+- 1 cuillerée à café de sel fin
+etapes:
+- Verser l'eau froide dans un récipient
+- Ajouter la farine, l'huile d'olive et le sel
+- Battre au fouet jusqu'à obtention d'un mélange lisse
+- Préchauffer le four à température maximale
+- Verser 2 à 3 mm de pâte sur les plaques huilées
+- Enfourner et allumer le grill
+- Cuire 5 minutes en perçant les cloques
+- La socca est cuite lorsque la croûte est dorée, voire brûlée par endroits
+source:
+  titre: Socca
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Socca&oldid=516858
+  revision: 516858
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Socca&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Socca a Nice.jpg
+  auteur: Myrabella
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Socca_a_Nice.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

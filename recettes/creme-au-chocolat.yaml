@@ -1,0 +1,25 @@
+id: creme-au-chocolat
+titre: Crème au chocolat
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 10
+  repos: 0
+ingredients:
+- 50 cl de lait
+- 100 g de chocolat noir
+- 3 jaunes d'œufs
+- 60 g de sucre
+- 20 g de fécule de maïs
+etapes:
+- Faire chauffer le lait et y faire fondre le chocolat.
+- Fouetter les jaunes avec le sucre et la fécule.
+- Verser le lait chocolaté dessus, remettre sur le feu et cuire en remuant jusqu'à épaississement.
+- Verser dans des ramequins et réserver au frais.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

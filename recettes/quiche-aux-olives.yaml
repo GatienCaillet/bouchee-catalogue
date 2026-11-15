@@ -1,0 +1,42 @@
+id: quiche-aux-olives
+titre: Quiche aux olives
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 30
+  repos: 0
+ingredients:
+- 1 tasse de farine
+- 1 tasse d'avoine moulue finement
+- texte: 1 cuillère à thé de levure
+  ingredients:
+  - levure
+  categorie: true
+- 1 cuillère à thé de bicarbonate de soude
+- 1 tasse d'huile d'olive ou de maïs
+- 1 tasse d'eau glacée
+- 1 tasse d'olives noires en rondelles
+- 2 gousses d'ail émincées
+- 2 échalotes émincées
+- 1 tasse de tomates fraîches en dés
+- 1 cuillère à thé de sirop d'érable (selon goût)
+- 1 tasse d'eau, sel.
+etapes:
+- 'Pâte : Mélanger farine, avoine moulue, poudre à pâte, bicarbonate de soude. Dans un autre bol, incorporer l''huile,
+  le jus de citron, l''eau et fouetter légèrement. Incorporer le liquide à l''aide d''une fourchette, mélanger et
+  former rapidement une boule. Rouler la pâte entre 2 feuilles de papier cuisson pour former un fond de tarte. Renverser
+  dans un plat à tarte.'
+- 'Farce : Dans une poêle faire revenir l''ail et les échalotes dans un peu d''huile. Ajouter les tomates, les olives
+  noires, le sel, le sirop et l''eau. Cuire pour réduire un peu.'
+- Verser sur la pâte. Mettre le tout 30 min au four th.7.
+source:
+  titre: Quiche aux olives
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Quiche_aux_olives&oldid=330272
+  revision: 330272
+  date: '2011-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Quiche_aux_olives&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

@@ -1,0 +1,44 @@
+id: boeuf-bourguignon
+titre: Bœuf bourguignon
+portions: 6
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 0
+ingredients:
+- 20 g de fond de veau déshydraté
+- 200 g de lardons
+- texte: 200 g de champignons
+  ingredients:
+  - champignon
+  categorie: true
+- 40 g de beurre
+- 12 petits oignons
+- 1 cuillère à soupe de sucre en poudre
+- 200 g de pain de campagne.
+etapes:
+- 1,4 kg de bœuf à braiser
+- 2 carottes
+- 2 oignons
+- 2 gousses d'ail
+- 2 cuillères à soupe d'huile
+- 2 cuillères à soupe de farine
+- 1 bouteille de vin de Bourgogne
+- 1 bouquet garni.
+source:
+  titre: Bœuf bourguignon
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/B%C5%93uf_bourguignon&oldid=709732
+  revision: 709732
+  date: '2023-12-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/B%C5%93uf_bourguignon&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : champignon.'
+photo:
+  fichier: Beef bourguignon-01.jpg
+  auteur: balise42
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Beef_bourguignon-01.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

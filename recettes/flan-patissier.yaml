@@ -1,0 +1,26 @@
+id: flan-patissier
+titre: Flan pâtissier
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 50
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 75 cl de lait
+- 4 œufs
+- 150 g de sucre
+- 80 g de fécule de maïs
+- 1 gousse de vanille
+etapes:
+- Préchauffer le four à 180 °C et garnir un moule de pâte.
+- Chauffer le lait avec la vanille.
+- Fouetter les œufs avec le sucre et la fécule, verser le lait dessus et cuire en remuant jusqu'à épaississement.
+- Verser sur la pâte et enfourner 45 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

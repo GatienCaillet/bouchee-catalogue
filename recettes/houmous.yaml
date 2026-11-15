@@ -1,0 +1,26 @@
+id: houmous
+titre: Houmous
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 boîte de pois chiches (400 g)
+- 2 c. à soupe de tahini
+- 1 citron
+- 1 gousse d'ail
+- 3 c. à soupe d'huile d'olive
+- 1 c. à café de cumin en poudre
+- sel
+etapes:
+- Égoutter les pois chiches en gardant un peu de liquide.
+- Les mixer avec le tahini, le jus du citron, l'ail, le cumin et le sel.
+- Ajouter l'huile en filet puis un peu de liquide jusqu'à obtenir une texture lisse.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

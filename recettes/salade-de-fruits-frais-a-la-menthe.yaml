@@ -1,0 +1,25 @@
+id: salade-de-fruits-frais-a-la-menthe
+titre: Salade de fruits frais à la menthe
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 0
+  repos: 30
+ingredients:
+- 2 oranges
+- 2 kiwis
+- 1 mangue
+- 250 g de fraises
+- 1 c. à soupe de miel
+- quelques feuilles de menthe
+etapes:
+- Peler et couper tous les fruits en morceaux.
+- Les mélanger avec le miel et la menthe ciselée.
+- Réserver 30 minutes au frais.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

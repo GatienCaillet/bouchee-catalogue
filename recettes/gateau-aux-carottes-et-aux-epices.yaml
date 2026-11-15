@@ -1,0 +1,45 @@
+id: gateau-aux-carottes-et-aux-epices
+titre: Gâteau aux carottes et aux épices
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 40
+  repos: 0
+ingredients:
+- 75 g de farine
+- 175 g de poudre d'amandes
+- 250 g de carottes rapées
+- 175 g de sucre blond ou roux
+- 4 œufs
+- texte: 1 sachet de levure
+  ingredients:
+  - levure
+  categorie: true
+- 1 cuillerée à café de cannelle
+- 1/2 cuillerée à café de gingembre
+- 1 pointe de couteau de muscade
+- 1 pincée de sel
+- 1 pincée de quatre épices (épice à pain d'épices)
+- Du beurre pour le moule
+etapes:
+- Préchauffez votre four à 180° en chaleur tournante
+- Dans un bol fouettez les jaunes d'œufs et le sucre jusqu'à ce que la préparation devienne mousseuse.
+- Ajoutez à la préparation la poudre d'amande, la farine, la levure, les épices et la pincée de sel et mélangez
+  le tout.
+- À côté râpez les carottes et incorporez les au premier mélange (vous verrez que la texture est assez ferme donc
+  allez y franchement au robot ou à la main directement)
+- Montez les blancs en neige et incorporez-les d'abord en petite quantité pour détendre le mélange et enfin ajoutez
+  le reste en soulevant doucement votre spatule pour ne pas trop casser les blancs.
+- Beurrez généreusement votre moule à cake (de préférence) et versez-y la préparation. Enfournez le tout pendant
+  40 à 50 minutes (en fonction des fours) et laissez refroidir sur une grille.
+source:
+  titre: Gâteau aux carottes et aux épices
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_aux_carottes_et_aux_%C3%A9pices&oldid=486178
+  revision: 486178
+  date: '2015-08-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_aux_carottes_et_aux_%C3%A9pices&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

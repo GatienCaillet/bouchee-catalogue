@@ -1,0 +1,31 @@
+id: bechamel-vegetalienne
+titre: Béchamel végétalienne
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 verres de lait de soja ou de lait de riz.
+- texte: 1 cuillère à soupe d'huile (mélange d'huiles pour la cuisson, de tournesol ou d'olive) ou de la margarine.
+  ingredients:
+  - huile
+  - margarine
+  categorie: true
+- 2 cuillères à soupe de farine (de blé ou d'épeautre).
+etapes:
+- Faire chauffer l'huile ou la margarine dans une casserole.
+- Verser la farine dès que l'huile est chaude.
+- Rajouter le lait et remuer jusqu'à épaississement (feu doux).
+- Saler et poivrer. Vous pouvez également rajouter une pincée de noix de muscade et du jus de citron.
+source:
+  titre: Béchamel végétalienne
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/B%C3%A9chamel_v%C3%A9g%C3%A9talienne&oldid=517136
+  revision: 517136
+  date: '2016-07-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/B%C3%A9chamel_v%C3%A9g%C3%A9talienne&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile, margarine.'

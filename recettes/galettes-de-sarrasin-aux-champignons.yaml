@@ -1,0 +1,28 @@
+id: galettes-de-sarrasin-aux-champignons
+titre: Galettes de sarrasin aux champignons
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 25
+  repos: 60
+ingredients:
+- 250 g de farine de sarrasin
+- 1 œuf
+- 50 cl d'eau
+- 300 g de champignons de Paris
+- 1 échalote
+- 10 cl de crème fraîche
+- 80 g d'emmental râpé
+- 20 g de beurre
+- sel
+etapes:
+- Préparer la pâte et la laisser reposer 1 heure.
+- Faire revenir l'échalote et les champignons au beurre, ajouter la crème.
+- Cuire les galettes, les garnir de champignons et d'emmental et les replier.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « galette garnie »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

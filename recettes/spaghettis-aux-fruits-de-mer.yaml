@@ -1,0 +1,39 @@
+id: spaghettis-aux-fruits-de-mer
+titre: Spaghettis aux fruits de mer
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 20
+  repos: 2
+ingredients:
+- texte: 500 g de fruits de mer
+  ingredients:
+  - fruit_de_mer
+  categorie: true
+- 400 g de spaghettis
+- 25 cl de vin blanc
+- 20 cl de crème liquide
+- 1 citron
+- 3 g de concentré de tomates
+- 2 gousses d'ail
+- 1 oignon
+- 5 cl d'huile d'olive
+- sel, poivre
+etapes:
+- Émincer l'oignon finement et hacher l'ail. Zester le citron et conserver le jus.
+- Faire blondir dans l'huile l'oignon et le zeste de citron, ajouter les fruits de mer, cuire 5 min
+- Ajouter l'ail, le concentré, le jus du citron, mouiller au vin blanc, assaisonner cuire 10 min
+- Cuire les pâtes « al dente », verser sur les fruits de mer, mélanger, ajouter la crème
+- Laisser reposer 2 min
+- Disposer la préparation sur du papier sulfurisé, faire une papillote, cuire au four 5 min à 200 °C
+source:
+  titre: Spaghettis aux fruits de mer
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spaghettis_aux_fruits_de_mer&oldid=452226
+  revision: 452226
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Spaghettis_aux_fruits_de_mer&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : fruit de mer.'

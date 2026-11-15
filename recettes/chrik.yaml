@@ -1,0 +1,33 @@
+id: chrik
+titre: Chrik
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 0
+  repos: 65
+ingredients:
+- 1 kg de farine
+- 250 g de sucre
+- 200 g de beurre fondu
+- 4 œufs + 1 jaune
+- 1 pincée de sel
+- 1 noix de levure de boulangerie
+- 200 g de graines de sésame
+- 10 cl de lait
+etapes:
+- Dans un grand saladier, mélanger la farine et le sucre, puis creuser un puits. Y verser le beurre fondu, les œufs
+  entiers, le sel et la levure préalablement diluée dans un peu d'eau. Bien mélanger puis incorporer 150 g des graines
+  de sésame. Ajouter le lait après l'avoir fait tiédir, puis pétrir jusqu'à l'obtention d'une pâte élastique et
+  malléable (15 minutes environ). Former des boules de la grosseur d'une mandarine et les disposer sur une plaque
+  de cuisson beurrée. Les badigeonner de jaune d'œuf et les saupoudrer des graines de sésames restantes. Laisser
+  reposer une demi-heure avant de mettre les brioches au four à 180 °C (thermostat 6) pendant 20 à 30 minutes.
+source:
+  titre: Chrik
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chrik&oldid=452666
+  revision: 452666
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chrik&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

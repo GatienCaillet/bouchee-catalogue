@@ -1,0 +1,28 @@
+id: quatre-quarts-au-citron
+titre: Quatre-quarts au citron
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 3 œufs
+- 150 g de sucre
+- 150 g de farine
+- 150 g de beurre
+- 1 citron
+- 1/2 sachet de levure chimique
+etapes:
+- Préchauffer le four à 180 °C et beurrer le moule.
+- Battre le beurre mou avec le sucre, ajouter les œufs un à un, le zeste du citron, puis la farine et la levure.
+- Verser dans le moule.
+- 'Enfourner 20 minutes pour les muffins, 35 à 40 minutes pour un gâteau : la lame d''un couteau doit ressortir
+  sèche.'
+- Laisser tiédir avant de démouler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gâteau »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

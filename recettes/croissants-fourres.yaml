@@ -1,0 +1,46 @@
+id: croissants-fourres
+titre: Croissants fourrés
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 35
+  repos: 60
+ingredients:
+- 300 g de farine blanche
+- 1 cuillerées à café de sel
+- 1 cuillerées à café de graines de cumin
+- texte: 1 dl d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 2 dl de lait de soja non sucré.
+- 3 oignons hachés
+- 1 tomate coupée en dés
+- 30 g de soja texturé
+- piment séché
+- sel-poivre
+- huile d'olive
+- 30 g de levure maltée en paillettes.
+etapes:
+- Dans une terrine, mélanger la farine, le sel, le cumin et pétrir avec l'huile et le lait de soja jusqu'à obtenir
+  une pâte lisse et brillante. Laisser reposer une heure.
+- Chauffer un peu d'huile d'olive dans une casserole et y faire revenir les oignons, la tomate et les épices. Faire
+  tremper le soja texturé, puis l'essorer soigneusement et l'ajouter dans la casserole. Laisser cuire à feu doux
+  un quart d'heure. Laisser refroidir et mélanger en dernier lieu la levure.
+- Étendre la pâte en un long rectangle et y découper des triangles. À la base de chaque triangle, déposer une boule
+  de farce et rouler pour former un croissant. Les déposer au fur et à mesure sur la plaque à pâtisserie chemisée
+  de papier sulfurisé.
+- Préchauffer le four à 200°C. Huiler les croissants et enfourner pendant 15 minutes. Allumer la fonction grill
+  et les faire dorer quelques minutes en surveillant constamment. Déguster tiède ou froid, accompagnés par exemple
+  d'une jardinière de légumes.
+source:
+  titre: Croissants fourrés
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Croissants_fourr%C3%A9s&oldid=679019
+  revision: 679019
+  date: '2022-06-17'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Croissants_fourr%C3%A9s&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : huile.'

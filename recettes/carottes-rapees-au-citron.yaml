@@ -1,0 +1,23 @@
+id: carottes-rapees-au-citron
+titre: Carottes râpées au citron
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 0
+  repos: 0
+ingredients:
+- 600 g de carottes
+- 1 citron
+- 3 c. à soupe d'huile d'olive
+- 1/2 botte de persil
+- sel
+etapes:
+- Râper finement les carottes.
+- Les assaisonner avec le jus du citron, l'huile, le sel et le persil ciselé.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « entrée »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

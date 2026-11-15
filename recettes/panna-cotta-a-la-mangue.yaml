@@ -1,0 +1,25 @@
+id: panna-cotta-a-la-mangue
+titre: Panna cotta à la mangue
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 5
+  repos: 240
+ingredients:
+- 50 cl de crème liquide
+- 60 g de sucre
+- 3 feuilles de gélatine
+- 1 mangue
+- 1 citron vert
+etapes:
+- Ramollir la gélatine dans l'eau froide.
+- Chauffer la crème avec le sucre, puis y faire fondre la gélatine essorée.
+- Verser dans des verrines et réserver 4 heures au frais.
+- Mixer la mangue avec le jus du citron vert et napper au moment de servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

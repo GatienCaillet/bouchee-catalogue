@@ -1,0 +1,26 @@
+id: soupe-de-pois-casses
+titre: Soupe de pois cassés
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 60
+  repos: 0
+ingredients:
+- 400 g de pois cassés
+- 1 oignon
+- 2 carottes
+- 100 g de lardons
+- 1 bouquet garni
+- sel, poivre
+etapes:
+- Rincer les pois cassés.
+- Faire revenir les lardons et l'oignon émincé.
+- Ajouter les pois, les carottes, le bouquet garni et 1,5 l d'eau, et cuire 1 heure à petits frémissements.
+- Retirer le bouquet garni, mixer et assaisonner.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

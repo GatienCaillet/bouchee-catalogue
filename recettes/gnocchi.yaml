@@ -1,0 +1,38 @@
+id: gnocchi
+titre: Gnocchi
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 2 kg de pommes de terre
+- 400 g de farine
+- 1 œuf
+- huile d'olive
+- sel
+- eau.
+etapes:
+- Faire bouillir les pommes de terre avec la peau, puis les éplucher et les écraser au presse-purée. On peut aussi
+  les faire cuire au four au lieu de les faire bouillir, ce qui donne une bouillie moins humide et donc moins collante
+  lors du découpage des gnocchis.
+- Mélanger à cette pâte la farine (1/5 du poids des pommes de terre), un œuf et un peu d'huile d'olive.
+- Faire une grosse boule, puis façonner de petits cylindres d'environ 2 cm de long et les allonger côte à côte.
+- Écraser ces cylindres avec une fourchette pour leur donner leur forme.
+- Faire cuire dans de l'eau salée. La cuisson est terminée lorsque les gnocchis remontent à la surface.
+source:
+  titre: Gnocchi
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gnocchi&oldid=681743
+  revision: 681743
+  date: '2022-07-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gnocchi&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Gnocchi di ricotta burro e salvia.jpg
+  auteur: Paoletta S.
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Gnocchi_di_ricotta_burro_e_salvia.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

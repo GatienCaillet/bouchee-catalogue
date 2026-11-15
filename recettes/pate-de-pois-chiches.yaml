@@ -1,0 +1,35 @@
+id: pate-de-pois-chiches
+titre: Pâté de pois chiches
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 30
+  repos: 0
+ingredients:
+- 125 g de pois chiches cuits
+- 3 oignons rouges hachés
+- 5 cuillères à soupe de farine
+- 5 cuillères à soupe de levure maltée en paillettes
+- texte: 1 càs de coriandre pilée
+  ingredients:
+  - coriandre
+  categorie: true
+- huile d'olive
+- sel, poivre.
+etapes:
+- Mixer les pois chiches avec un peu de leur eau de cuisson.
+- Faire blondir les oignons dans l'huile d'olive.
+- Les ajouter aux pois chiches, ainsi que les autres ingrédients.
+- Verser dans un moule huilé,dessiner un motif au sommet du pâté .
+- Cuire au moins 30 min à four chaud (une aiguille enfoncée au centre du pâté doit ressortir sèche).
+source:
+  titre: Pâté de pois chiches
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2t%C3%A9_de_pois_chiches&oldid=452145
+  revision: 452145
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2t%C3%A9_de_pois_chiches&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : coriandre.'

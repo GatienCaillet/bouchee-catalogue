@@ -1,0 +1,27 @@
+id: dahl-d-epinards
+titre: Dahl d'épinards
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 25
+  repos: 0
+ingredients:
+- 250 g de lentilles corail
+- 200 g d'épinards
+- 1 oignon
+- 2 gousses d'ail
+- 1 c. à café de garam masala
+- 1 c. à café de curcuma
+- 2 c. à soupe d'huile de colza
+- sel
+etapes:
+- Faire revenir l'oignon et l'ail dans l'huile avec les épices.
+- Ajouter les lentilles et 80 cl d'eau, et cuire 20 minutes.
+- Ajouter les épinards et cuire encore 3 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

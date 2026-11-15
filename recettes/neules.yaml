@@ -1,0 +1,28 @@
+id: neules
+titre: Neules
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 60
+ingredients:
+- 7 blancs d'œuf
+- 180g de beurre
+- 180g de sucre
+- 180g de farine
+- 1 citron
+etapes:
+- Laver le citron et râper en très fines zestes les épluchures. Mélanger les zestes avec le beurre, la farine, le
+  sucre et les blancs d'œuf. Laisser reposer pendant une heure. Sur un papier sulfurisé, étaler des cercles de masse
+  d'environ 20cm de diamètre. Les cuire au four préchauffé à 175ºC jusqu'à qu'elles commencent à être dorées. Prendre
+  rapidement une baguette et rouler les cercles un à un autour de la baguette. Laisser refroidir.
+source:
+  titre: Neules
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Neules&oldid=452747
+  revision: 452747
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Neules&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

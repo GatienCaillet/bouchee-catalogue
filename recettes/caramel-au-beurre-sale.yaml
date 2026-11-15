@@ -1,0 +1,26 @@
+id: caramel-au-beurre-sale
+titre: Caramel au beurre salé
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 5
+  repos: 0
+ingredients:
+- 240 g de sucre
+- 100 g de beurre salé
+- 20 cl de crème fraîche liquide
+- 80 g d'eau
+etapes:
+- Porter à ébullition le sucre, le beurre et l'eau dans une casserole jusqu'à une couleur caramel en brassant bien.
+- Ajouter alors la crème fraîche liquide.
+- Sans cesser de brasser, cuire encore quelques minutes suivant la consistance souhaitée.
+source:
+  titre: Caramel au beurre salé
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Caramel_au_beurre_sal%C3%A9&oldid=664849
+  revision: 664849
+  date: '2021-10-10'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Caramel_au_beurre_sal%C3%A9&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

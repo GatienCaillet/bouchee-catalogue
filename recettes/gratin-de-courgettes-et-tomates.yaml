@@ -1,0 +1,50 @@
+id: gratin-de-courgettes-et-tomates
+titre: Gratin de courgettes et tomates
+portions: 2
+temps:
+  preparation: 25
+  cuisson: 15
+  repos: 0
+ingredients:
+- 4 courgettes
+- 3 ou 4 tomates
+- 6 gousses d'ail
+- Un bouquet de basilic
+- 50 g de fromage râpé.
+etapes:
+- Première préparation (première sauteuse)
+- Émincer les courgettes en petits dés.
+- Les faire revenir à la sauteuse.
+- Écraser trois gousses d'ail.
+- Les ajouter aux courgettes.
+- Saler.
+- Émincer le basilic.
+- En fin de cuisson, ajouter la moitié du bouquet de basilic.
+- Deuxième préparation (deuxième sauteuse)
+- Peler et évider les tomates.
+- Émincer les tomates en petits dés.
+- Les faire revenir dans une seconde sauteuse.
+- Écraser trois gousses d'ail.
+- Les ajouter aux tomates.
+- Saler.
+- En fin de cuisson, ajouter la seconde moitié du bouquet de basilic.
+- Verser les deux préparations dans un plat.
+- Ajouter le fromage râpé.
+- Mélanger.
+- Mettre au four préchauffé, thermostat 180 °C, 15 min.
+source:
+  titre: Gratin de courgettes et tomates
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_de_courgettes_et_tomates&oldid=710472
+  revision: 710472
+  date: '2024-01-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_de_courgettes_et_tomates&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Préparation gratin de courgettes-tomates (017) - sortie du four.jpg
+  auteur: Benoît Prieur
+  licence: CC0
+  url: https://commons.wikimedia.org/wiki/File:Pr%C3%A9paration_gratin_de_courgettes-tomates_(017)_-_sortie_du_four.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

@@ -1,0 +1,31 @@
+id: vassilopita
+titre: Vassilopita
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 30
+  repos: 0
+ingredients:
+- 250 g de beurre
+- 250 g de farine
+- 6 œufs
+- 80 g de sucre
+- 3 oranges
+- 1/2 citrons
+- 5 g de bicarbonate de soude
+- 4 cl de cognac.
+etapes:
+- Ajouter le jus des agrumes au beurre fondu
+- Battre les jaunes avec le sucre, les ajouter au mélange
+- Ajouter le cognac, la soude et la farine
+- Cuire au four 30 min à 160°C.
+source:
+  titre: Vassilopita
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Vassilopita&oldid=674996
+  revision: 674996
+  date: '2022-04-22'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Vassilopita&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

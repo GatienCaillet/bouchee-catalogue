@@ -1,0 +1,42 @@
+id: gateau-de-pommes-a-la-poudre-d-amandes
+titre: Gâteau de pommes à la poudre d'amandes
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 25
+  repos: 0
+ingredients:
+- 2 pommes
+- 3 œufs
+- 100 g de sucre semoule
+- 170 g de poudre d'amandes
+- texte: Un peu d'huile pour graisser le moule à tarte
+  ingredients:
+  - huile
+  categorie: true
+- texte: 2 cuillères à soupe d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 25 cl de crème de soja (1 briquette)
+etapes:
+- Éplucher 2 pommes, les couper chacune en 8.
+- Faire chauffer les 2 cuillères à soupe d'huile dans une poêle, disposer ensuite les quartiers de pomme, les faire
+  blondir sur chaque face, puis les égoutter sur une grille.
+- Préchauffer le four à 180°C.
+- 'Préparation : Mélanger au fouet les 3 œufs avec 100 g de sucre semoule, puis incorporer délicatement et successivement
+  avec une spatule 170 g de poudre d''amandes et 25 cl de crème soja.'
+- Huiler généreusement 1 moule à tarte de 25 cm de diamètre environ. Le garnir ensuite de la moitié de la préparation,
+  disposer les morceaux de pomme, verser délicatement le restant de la préparation. Mettre le moule dans le four
+  préchauffé et cuire 25 à 30 minutes à 180°C.
+source:
+  titre: Gâteau de pommes à la poudre d'amandes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_de_pommes_%C3%A0_la_poudre_d%27amandes&oldid=640703
+  revision: 640703
+  date: '2020-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_de_pommes_%C3%A0_la_poudre_d%27amandes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : huile.'

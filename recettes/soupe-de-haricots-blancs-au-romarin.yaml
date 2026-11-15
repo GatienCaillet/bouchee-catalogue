@@ -1,0 +1,26 @@
+id: soupe-de-haricots-blancs-au-romarin
+titre: Soupe de haricots blancs au romarin
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 0
+ingredients:
+- 2 boîtes de haricots blancs (800 g)
+- 1 oignon
+- 2 gousses d'ail
+- 2 branches de romarin
+- 1 l de bouillon de légumes
+- 3 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Faire revenir l'oignon et l'ail émincés dans l'huile.
+- Ajouter les haricots égouttés, le romarin et le bouillon, et cuire 15 minutes.
+- Retirer le romarin et mixer la moitié de la soupe pour l'épaissir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

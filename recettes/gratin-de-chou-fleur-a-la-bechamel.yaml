@@ -1,0 +1,33 @@
+id: gratin-de-chou-fleur-a-la-bechamel
+titre: Gratin de chou-fleur à la béchamel
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 35
+  repos: 0
+ingredients:
+- 1 chou-fleur
+- 40 g de beurre
+- 40 g de farine
+- 50 cl de lait
+- 1 pincée de muscade
+- 80 g d'emmental râpé
+- sel, poivre
+etapes:
+- Détacher le chou-fleur en petits bouquets et les laver.
+- Cuire le chou-fleur 10 minutes à l'eau bouillante salée, puis bien égoutter.
+- 'Préparer la béchamel : faire fondre le beurre, ajouter la farine, puis verser le lait petit à petit en fouettant
+  jusqu''à épaississement. Saler, poivrer, ajouter la muscade.'
+- Disposer le chou-fleur dans un plat à gratin beurré, napper de béchamel et parsemer d'emmental.
+- Enfourner 25 minutes à 200 °C, jusqu'à ce que le dessus soit doré.
+decouverte:
+  aliment: chou_fleur
+  niveau: 5
+  pourquoi: 'Le grand classique : le chou-fleur en vedette.'
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gratin à la béchamel »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

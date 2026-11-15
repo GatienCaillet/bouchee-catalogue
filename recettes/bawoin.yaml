@@ -1,0 +1,48 @@
+id: bawoin
+titre: Bawoin
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 55
+  repos: 0
+ingredients:
+- Un bouquet de feuilles de manioc
+- Deux cuillères à soupe de pâte d'arachide
+- Un kilogramme de viande de bœuf
+- texte: Un demi litre d'huile
+  ingredients:
+  - huile
+  categorie: true
+- Deux oignons
+- Cinq piments frais
+- De la poudre de crevette
+- texte: Un bouillon d'assaisonnement
+  ingredients:
+  - bouillon
+  categorie: true
+- 1 kilogramme de riz non parfumé
+etapes:
+- Laver et écraser les feuilles de manioc jusqu'à obtenir une pâte
+- Découper la viande en morceaux et les laver avec de l'eau propre
+- Mettre une casserole au feu et ajouter les morceaux de viande
+- Ajouter les oignons coupés en dés
+- Ajouter de l'huile et laisser dorer pendant 15 minutes
+- Délayer la pâte d'arachide et renverser dans la casserole
+- Laisser bouillir pendant 30 minutes
+- Ajouter la pâte de feuilles de manioc et laisser bouillir
+- Ajouter du sel et le piment frais
+- Après 10 minutes, retirer le piment et l'écraser
+- Ajouter le bouillon d'assaisonnement et la poudre de crevette
+- Laisser cuire à feu doux jusqu'à obtenir une pâte
+- Remuer de temps en temps pour éviter que ça brûle
+source:
+  titre: Bawoin
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bawoin&oldid=517229
+  revision: 517229
+  date: '2016-07-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Bawoin&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : bouillon, huile.'

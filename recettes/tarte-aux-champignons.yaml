@@ -1,0 +1,33 @@
+id: tarte-aux-champignons
+titre: Tarte aux champignons
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 30
+  repos: 0
+ingredients:
+- 1 pâte feuilletée
+- texte: 600 g de champignons
+  ingredients:
+  - champignon
+  categorie: true
+- 2 œufs
+- 1/4 l de lait
+- Beurre
+- sel, poivre
+etapes:
+- Émincer les champignons, les cuire au beurre, assaisonner.
+- Disposer les champignons sur la pâte feuilletée.
+- Mélanger les œufs, le lait, assaisonner et verser ce mélange sur le champignons.
+- Cuire au four à 250°C 30 min.
+source:
+  titre: Tarte aux champignons
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_champignons&oldid=330358
+  revision: 330358
+  date: '2011-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_champignons&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : champignon.'

@@ -1,0 +1,40 @@
+id: chanfana
+titre: Chanfana
+portions: 6
+temps:
+  preparation: 28
+  cuisson: 120
+  repos: 1560
+ingredients:
+- 1 kg de viande de mouton ou agneau (gigot...)
+- texte: du vin rouge pour couvrir la viande
+  ingredients:
+  - vin
+  categorie: true
+- 4 gousses d'ail
+- 5 feuilles de laurier
+- 10 cl d'huile d'olive
+- sel, poivre
+etapes:
+- La veille, couper la viande en morceau. La disposer dans un plat creux, et la couvrir de vin rouge. Ajouter les
+  gousses d'ail écrasées, le laurier et l'huile d'olive. Saler et poivrer. Laisser mariner pendant 24 H. Le lendemain,
+  passer la marinade. Disposer la viande et les aromates dans un plat allant au four. Porter le vin rouge à ébullition.
+  Le verser sur la viande et les aromates. Cuire au four (th 7/8) pendant 2 heures. Rectifier l'assaisonnement.
+  Servir avec des pommes de terres cuites à la vapeur et des légumes de saison.
+- 'Cuisson : Th. 7/8 - 2 h'
+- 'Traditionnellement, la Chanfana est un plat à base de viande de chèvre (cabra). Elle est quelquefois remplacée
+  par du mouton, mais jamais de l''agneau ni du chevreau. Vous trouverez diverses recettes sur le sîte (en portugais)
+  : http://www.gastronomias.com'
+- '(Chanfana à Moda de Coimbra : http://www.gastronomias.com/receitas/rec1076.htm)'
+- Catégorie:Cuisine portugaise
+source:
+  titre: Chanfana
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chanfana&oldid=329364
+  revision: 329364
+  date: '2011-05-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chanfana&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : vin.'

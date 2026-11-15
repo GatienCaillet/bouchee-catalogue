@@ -1,0 +1,25 @@
+id: escalopes-de-dinde-a-la-creme-et-aux-champignons
+titre: Escalopes de dinde à la crème et aux champignons
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 0
+ingredients:
+- 4 escalopes de dinde
+- 300 g de champignons de Paris
+- 20 cl de crème fraîche
+- 1 échalote
+- 20 g de beurre
+- sel, poivre
+etapes:
+- Faire dorer les escalopes au beurre 4 minutes de chaque côté, puis les réserver.
+- Faire revenir l'échalote et les champignons émincés.
+- Ajouter la crème, laisser réduire, puis remettre les escalopes 2 minutes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

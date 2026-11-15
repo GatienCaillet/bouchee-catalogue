@@ -1,0 +1,31 @@
+id: poires-pochees
+titre: Poires pochées
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 300
+  repos: 0
+ingredients:
+- 1 l d'eau
+- 500 g de sucre
+- 1 kg de poires (4 ou 6 selon la taille)
+- le jus d'1 citron
+- 1 bâton de vanille.
+etapes:
+- Mettre bouillir l'eau avec le sucre.
+- Ouvrir la gousse de vanille en deux, gratter les grains et les mettre dans l'eau avec la gousse.
+- Peler les poires et les enrober du jus de citron pour éviter qu'elles ne brunissent.
+- Plonger les poires dans l'eau bouillante avec le jus de citron restant.
+- Faire revenir à ébullition. Laisser bouillir une ou deux minutes.
+- Retirer la casserole du feu, la couvrir et laisser infuser à température ambiante.
+- Une fois refroidies (quelques heures ou pendant la nuit), couper les poires en deux et les évider.
+source:
+  titre: Poires pochées
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poires_poch%C3%A9es&oldid=762103
+  revision: 762103
+  date: '2026-03-22'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poires_poch%C3%A9es&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

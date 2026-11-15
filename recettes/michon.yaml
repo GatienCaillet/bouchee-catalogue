@@ -1,0 +1,43 @@
+id: michon
+titre: Michon
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 13
+  repos: 30
+ingredients:
+- 200 g de comté râpé
+- 200 g de farine
+- 100 g de lait entier
+- 120 g d'eau
+- texte: sel, poivre, muscade, huile, beurre
+  ingredients:
+  - sel
+  - poivre
+  - muscade
+  - huile
+  - beurre
+  categorie: true
+etapes:
+- Mélanger la farine, le comté et assaisonner. Ajouter le lait et l'eau.
+- Lisser au fouet électrique et laisser reposer cette pâte 30 minutes à couvert.
+- Faire fondre une noix de beurre et une cuillère d'huile dans la poêle.
+- Verser la préparation précédente et avec la paume de la main mouillée ou une cuillère humide, étaler la masse
+  sur toute la surface de la poêle.
+- Baisser un peu le feu et laisser dorer doucement pendant 5 à 6 minutes.
+- Faire glisser la galette sur une feuille de papier à cuire et la retourner dans la poêle pour faire dorer la face
+  encore crue environ 7/8 minutes.
+- Le michon doit être doré, ferme au toucher et croustillant sur les bords.
+- Glisser sur un plat de service chaud et découper en parts devant les convives.
+- Servir à l'apéritif ou accompagné d'une belle salade mixte à l'huile de noix
+source:
+  titre: Michon
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Michon&oldid=516833
+  revision: 516833
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Michon&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : beurre, huile, noix muscade, poivre, sel.'

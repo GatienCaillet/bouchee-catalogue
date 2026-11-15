@@ -1,0 +1,26 @@
+id: poires-pochees-au-sirop-d-epices
+titre: Poires pochées au sirop d'épices
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 4 poires
+- 100 g de sucre
+- 1 bâton de cannelle
+- 2 étoiles de badiane
+- 1 gousse de vanille
+- 75 cl d'eau
+etapes:
+- Porter l'eau à ébullition avec le sucre et les épices.
+- Éplucher les poires en gardant la queue.
+- Les pocher 25 minutes dans le sirop frémissant.
+- Les laisser refroidir dans le sirop.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

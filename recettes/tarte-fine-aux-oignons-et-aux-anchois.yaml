@@ -1,0 +1,25 @@
+id: tarte-fine-aux-oignons-et-aux-anchois
+titre: Tarte fine aux oignons et aux anchois
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 55
+  repos: 0
+ingredients:
+- 1 pâte feuilletée
+- 6 oignons
+- 8 filets d'anchois
+- 50 g d'olives noires
+- 2 c. à soupe d'huile d'olive
+- 1 c. à café de thym
+etapes:
+- Faire fondre les oignons émincés 30 minutes dans l'huile à feu doux.
+- Étaler la pâte, la couvrir d'oignons, puis disposer les anchois et les olives.
+- Parsemer de thym et cuire 25 minutes à 200 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

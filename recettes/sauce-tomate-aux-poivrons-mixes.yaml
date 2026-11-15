@@ -1,0 +1,29 @@
+id: sauce-tomate-aux-poivrons-mixes
+titre: Sauce tomate aux poivrons mixés
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 400 g de penne
+- 1 poivron rouge
+- 800 g de tomates pelées
+- 1 oignon
+- 2 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Faire revenir l'oignon et le poivron émincés, ajouter les tomates et cuire 20 minutes.
+- Mixer finement la sauce et la servir avec les pâtes.
+decouverte:
+  aliment: poivron
+  niveau: 1
+  pourquoi: Mixé dans la tomate, le poivron rouge apporte de la douceur sans se voir.
+  conseil: Le poivron rouge est plus doux que le vert.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

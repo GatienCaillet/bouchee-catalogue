@@ -1,0 +1,41 @@
+id: risotto-au-noir
+titre: Risotto au noir
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 kg de seiches entières (ou 600 g de blanc de seiches et 2 sachets d'encre)
+- Fumet de poisson
+- 30 cl de vin blanc sec
+- 1 gousse d'ail
+- 1 pincée de curcuma
+- 1 feuille de laurier
+- 1 cuillère à soupe d'huile d'olive
+- sel
+- Poivre
+- Parmesan
+etapes:
+- Retirez la peau des seiches, les vider, ôter l'os et les yeux, conserver la poche à encre et la poche contenant
+  une substance jaune
+- Épluchez et hachez l'ail, coupez les seiches en rondelles ou en lanières
+- Faire blondir l'ail et le laurier émietté, ajouter les seiches qui vont d'abord rendre leur eau puis la réabsorber
+- Saupoudrez de curcuma, salez et mouillez avec la moitié du vin
+- À l'évaporation, poivrez et couvrir
+- Délayer l'encre dans le reste de vin blanc.
+- Préparer un risotto classique, au premier tiers de cuisson ajouter l'encre et le contenu de l'autre poche
+- Lorsqu'il est cuit, ajouter le beurre et le parmesan, versez-le dans un plat chauffé
+- Répartir dessus les seiches
+- Servir avec un flacon d'huile pimentée et du parmesan râpé (pour beaucoup le parmesan dans les plats avec des
+  produits de la mer est une erreur).
+source:
+  titre: Risotto au noir
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Risotto_au_noir&oldid=485049
+  revision: 485049
+  date: '2015-07-19'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Risotto_au_noir&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

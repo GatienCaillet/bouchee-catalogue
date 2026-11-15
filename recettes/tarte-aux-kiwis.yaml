@@ -1,0 +1,46 @@
+id: tarte-aux-kiwis
+titre: Tarte aux kiwis
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 50
+  repos: 0
+ingredients:
+- 10 kiwis
+- 250 g de pâte brisée ou pâte feuilletée
+- 1 œuf
+- texte: 1 dl de crème
+  ingredients:
+  - creme
+  categorie: true
+- 50 g de sucre
+- 3 cuillères à soupe de poudre d'amandes
+- 3 cuillères à soupe de sucre brun
+etapes:
+- la pâte dans un moule à tarte.
+- Saupoudrez le fond de tarte avec le sucre brun et la poudre d'amande
+- Épluchez les kiwis et découpez-les en rondelles de 5mm environ*.
+- Disposez les plus jolies rondelles sur la plaque et réservez les autres et les extrémités des kiwis.
+- Enfournez 10–15 minutes à 220°C.
+- Pendant que la tarte cuit, préparez la garniture. Battez la crème, le jaune d'œuf et le sucre en poudre.
+- Mixez les bouts des kiwis et ajoutez la purée à la garniture.
+- Après environ 10–15 minutes de cuisson, lorsque la pâte commence à dorer, sortez la tarte et recouvrez les kiwis
+  avec la garniture.
+- Enfournez et laissez cuire encore 15–20 minutes jusqu'à ce que la garniture soit bien dorée.
+source:
+  titre: Tarte aux kiwis
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_kiwis&oldid=758413
+  revision: 758413
+  date: '2026-01-18'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tarte_aux_kiwis&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : crème.'
+photo:
+  fichier: Tarte aux kiwis.jpg
+  auteur: Calimo
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Tarte_aux_kiwis.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

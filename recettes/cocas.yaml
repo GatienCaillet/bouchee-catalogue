@@ -1,0 +1,42 @@
+id: cocas
+titre: Cocas
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 300
+  repos: 30
+ingredients:
+- 300 g de farine
+- 1 œuf
+- 75 g de beurre
+- texte: 2 c.à.s d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 2 c.à.s de lait
+- Sel.
+etapes:
+- Mettre la farine dans une terrine. Saler, incorporer l'huile, le beurre en petits morceaux et mouiller avec le
+  lait.
+- Rouler la pâte en boule et laisser reposer 30 min.
+- Étaler au rouleau de la pâte sur la planche à pâtisserie ; elle doit être bien fine.
+- Découper des cercles de 15 cm. Mettre de la frita, de la soubressade ou de la chakchouka au milieu.
+- Refermer comme un chausson en appuyant bien sur les bords. Dorer avec un jaune d'œuf.
+- Déposer les cocas sur une plaque de cuisson préalablement couverte d'un papier d'aluminium.
+- Mettre au four chaud et faire cuire 20 à 30 min.
+- 'Le temps de cuisson exact nécessite une surveillance délicate : attendre qu''un parfum de pâte cuite se dégage,
+  puis observer la coloration. Les cocas ne doivent pas se colorer en foncé et le dessous (au contact du papier
+  d''aluminium) ne doit pas devenir noir. Dès que ça commence : ôter les cocas du four et les mettre sur une surface
+  de refroidissement.'
+- Se mange froid, ou légèrement tiède, dans un délai de 24 heures.
+source:
+  titre: Cocas
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cocas&oldid=648097
+  revision: 648097
+  date: '2020-10-24'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cocas&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

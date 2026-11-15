@@ -1,0 +1,54 @@
+id: sauce-chien
+titre: Sauce chien
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 10
+  repos: 0
+ingredients:
+- 1 oignon
+- 2 échalotes
+- 1 gousse d'ail
+- 1 cive
+- 1 piment oiseau
+- 1 citron
+- texte: 1 c à s d'huile
+  ingredients:
+  - huile
+  categorie: true
+- texte: 1 c à c de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- 2 verres d'eau
+- persil
+- thym
+- laurier
+- sel
+- poivre.
+etapes:
+- Porter l'eau à ébullition.
+- Retirer les grains du piment.
+- Hâcher finement oignons, échalotes, ail, cive, persil et piment.
+- Mélanger le tout dans un bol.
+- Presser le citron.
+- Mélanger l'huile, le jus de citron dans un bol.
+- Ajouter le vinaigre.
+- Mélanger activement.
+- Verser la mixture dans le bol des condiments.
+- Mélanger activement.
+- Ajouter le thym et le laurier si vous le souhaitez.
+- Verser par-dessus un verre d'eau bouillante.
+- Ajouter le sel, le poivre.
+- Laisser infuser 10 minutes.
+source:
+  titre: Sauce chien
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_chien&oldid=650199
+  revision: 650199
+  date: '2020-11-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_chien&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : huile, vinaigre.'

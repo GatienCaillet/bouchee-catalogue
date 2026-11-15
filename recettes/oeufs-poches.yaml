@@ -1,0 +1,38 @@
+id: oeufs-poches
+titre: Œufs pochés
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 4
+  repos: 0
+ingredients:
+- des œufs
+- 1 litre d'eau
+- texte: 25 cl de vin
+  ingredients:
+  - vin
+  categorie: true
+- texte: une cuillère de vinaigre.
+  ingredients:
+  - vinaigre
+  categorie: true
+etapes:
+- Porter à frémissement l'eau, le vin et le vinaigre dans une grande casserole.
+- Casser chaque œuf séparément dans une jatte.
+- Déposer délicatement un œuf dans l'eau frémissante et laisser pocher 3-4 minutes. Afin d'éviter de trop nombreux
+  filaments de blanc d'œuf, on peut faire tourbillonner le liquide dans la casserole en décrivant des cercles avec
+  une cuillère en bois. Cela fera en sorte que l'œuf restera bien compact au centre du liquide. On peut également
+  déposer l'œuf dans une louche qu'on plongera dans l'eau bouillante.
+- Retirer l'œuf et l'égoutter sur du papier absorbant.
+- Répéter l'opération pour chaque œuf séparément.
+source:
+  titre: Œufs pochés
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C5%92ufs_poch%C3%A9s&oldid=365585
+  revision: 365585
+  date: '2012-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C5%92ufs_poch%C3%A9s&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : vin, vinaigre.'

@@ -1,0 +1,43 @@
+id: claclo
+titre: Claclo
+portions: 8
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 6 bananes plantain moyennes
+- 1 pot de farine tamisée (mesurer avec un pot de yaourt)
+- Du sel
+- 1 cuillère à soupe d'oignon découpé
+- Du piment en poudre (facultatif)
+- texte: De l'huile
+  ingredients:
+  - huile
+  categorie: true
+etapes:
+- Enlevez la peau des bananes.
+- Écrasez-les dans un mortier, un talier ou dans un mixer.
+- Ajoutez un peu de sel, de piment en poudre, l'oignon découpé et mélangez bien le tout.
+- Chauffez l'huile dans une poêle et avec la pâte obtenue, formez des noix avec vos doigts ou à l'aide d'une cuillère
+  à soupe et laissez dorer de chaque côté.
+- Aidez-vous d'une fourchette pour ne pas que les noix se collent et pour les retirer facilement de l'huile avec
+  une écumoire. (pressez le claclo entre la fourchette et l'écumoire pour retirer le surplus d'huile).
+- Mettez du papier absorbant dans votre passoire pour ne pas que votre claclo soit plein d'huile et régalez-vous!
+source:
+  titre: Claclo
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Claclo&oldid=660789
+  revision: 660789
+  date: '2021-08-09'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Claclo&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : huile.'
+photo:
+  fichier: Claclo.JPG
+  auteur: Eltia Aimée
+  licence: CC BY-SA 4.0
+  url: https://commons.wikimedia.org/wiki/File:Claclo.JPG
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

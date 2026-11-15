@@ -1,0 +1,39 @@
+id: pakora
+titre: Pakora
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 0
+ingredients:
+- 250 g de farine de pois chiches
+- 1/3 cuillerée à thé de levure chimique
+- 3 oignons moyens coupés en rondelles
+- 2 cuillerées à thé de graines de nigelle
+- texte: sel, huile
+  ingredients:
+  - sel
+  - huile
+  categorie: true
+- 1 citron vert
+- 200 ml d'eau environ
+etapes:
+- Tamiser la farine de pois chiches, la verser dans un bol, ajouter la levure chimique, le sel et les graines de
+  nigelle.
+- Ajouter l'eau jusqu'à obtenir la consistance d'une pâte à beignets.
+- Faire chauffer 8 cuillerées à soupe d'huile dans une poêle anti-adhésive.
+- Passer les rondelles d'oignons dans la pâte en s'assurant qu'elles en sont bien enrobées.
+- Les faire dorer ensuite dans l'huile.
+- Laisser égoutter les beignets sur un papier absorbant avant de servir.
+- Pour plus de saveur ajouter un zeste de citron vert.
+source:
+  titre: Pakora
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pakora&oldid=452755
+  revision: 452755
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pakora&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile, sel.'

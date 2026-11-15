@@ -4,7 +4,7 @@
 famille: condiments-sauces
 ingredients:
   - {id: condiment, nom: condiment, alias_fr: [condiments, assaisonnement], alias_en: [condiment, seasoning]}
-  - {id: sel, nom: sel, parent: condiment, alias_fr: [sel fin, gros sel, fleur de sel, sel de Guérande], alias_en: [salt, sea salt], ciqual: 11017}
+  - {id: sel, nom: sel, parent: condiment, alias_fr: [sel marin, sel de table, sel de cuisine, sel gris, sel fin, gros sel, fleur de sel, sel de Guérande], alias_en: [salt, sea salt], ciqual: 11017}
   - {id: sel_de_celeri, nom: sel de céleri, parent: condiment, alias_en: [celery salt], composants: [sel, graine_de_celeri], ciqual: 11044}
   - {id: capre, nom: câpre, parent: condiment, alias_fr: [câpres], alias_en: [caper, capers], ciqual: 11040}
 
@@ -38,7 +38,7 @@ ingredients:
   - {id: vinaigre_de_malt, nom: vinaigre de malt, parent: vinaigre, alias_en: [malt vinegar], composants: [orge], ciqual: 11018}
 
   - {id: sauce, nom: sauce, alias_fr: [sauces], alias_en: [sauce]}
-  - {id: sauce_soja, nom: sauce soja, parent: sauce, alias_fr: [sauce soja salée, sauce soja sucrée, shoyu, sauce soya, sauce de soja], alias_en: [soy sauce, soya sauce], composants: [soja, ble, sel], sensoriel: {odeur_forte: true}, ciqual: 11104}
+  - {id: sauce_soja, nom: sauce soja, parent: sauce, alias_fr: [sauce soja épaisse, sauce soja vieillie, sauce soja ordinaire, sauce soja épaisse vieillie, sauce soja claire, sauce soja foncée, sauce soja salée, sauce soja sucrée, shoyu, sauce soya, sauce de soja], alias_en: [soy sauce, soya sauce], composants: [soja, ble, sel], sensoriel: {odeur_forte: true}, ciqual: 11104}
   - id: tamari
     nom: tamari
     ciqual: 11104
@@ -49,6 +49,8 @@ ingredients:
     composition_variable: true
     note: Le tamari est souvent sans blé, mais pas toujours ; on retient l'union.
   - id: sauce_worcestershire
+    ciqual: 11018
+    ciqual_approche: true
     nom: sauce Worcestershire
     parent: sauce
     alias_fr: [Worcestershire, sauce anglaise]
@@ -90,13 +92,14 @@ ingredients:
     composition_variable: true
     note: Le pesto du commerce remplace souvent une partie des pignons par des noix de cajou, et peut contenir du lactose.
   - id: sauce_tomate
+    ciqual: 20170
     nom: sauce tomate
     parent: sauce
     alias_fr: [coulis de tomate, purée de tomate, passata, tomates concassées, pulpe de tomate, tomates pelées]
     alias_en: [tomato sauce, passata, chopped tomatoes, crushed tomatoes]
     composants: [tomate, sel, sucre, huile_d_olive, oignon, ail, basilic]
     composition_variable: true
-  - {id: concentre_de_tomate, nom: concentré de tomate, parent: sauce, alias_fr: [double concentré de tomate], alias_en: [tomato paste, tomato puree], composants: [tomate, sel], ciqual: 20268}
+  - {id: concentre_de_tomate, nom: concentré de tomate, parent: sauce, alias_fr: [tomate concentrée, tomates concentrées, tomate concentré, tomates concentré, double concentré de tomate], alias_en: [tomato paste, tomato puree], composants: [tomate, sel], ciqual: 20268}
   - id: harissa
     nom: harissa
     ciqual: 11112
@@ -122,12 +125,12 @@ ingredients:
     composants: [pois_chiche, tahini, citron, ail, huile_d_olive, sel]
   - {id: tamarin, nom: tamarin, parent: condiment, alias_fr: [pâte de tamarin], alias_en: [tamarind], ciqual: 13080}
 
-  - {id: bouillon, nom: bouillon, alias_fr: [bouillon cube, cube de bouillon, bouillon en poudre], alias_en: [stock, broth, stock cube]}
+  - {id: bouillon, nom: bouillon, alias_fr: [cube d'assaisonnement, bouillon d'assaisonnement, cubes de bouillon, bouillon de cuisson, bouillon cube, cube de bouillon, bouillon en poudre], alias_en: [stock, broth, stock cube]}
   - id: bouillon_de_volaille
     nom: bouillon de volaille
     ciqual: 11174
     parent: bouillon
-    alias_fr: [bouillon de poulet, cube de bouillon de volaille, fond de volaille]
+    alias_fr: [bouillon de poule, bouillon de poulet, bouillon de poulet, cube de bouillon de volaille, fond de volaille]
     alias_en: [chicken stock, chicken broth, chicken stock cube]
     composants: [poulet, sel, celeri, oignon, carotte, poireau, persil, ail, farine_de_ble, lait, huile_de_palme, sucre, extrait_de_levure, curcuma, poivre]
     composition_variable: true
@@ -136,7 +139,7 @@ ingredients:
     nom: bouillon de légumes
     ciqual: 25948
     parent: bouillon
-    alias_fr: [cube de bouillon de légumes]
+    alias_fr: [bouillon végétal, bouillon de légumes déshydraté, cube de bouillon de légumes]
     alias_en: [vegetable stock, vegetable broth]
     composants: [sel, celeri, oignon, carotte, poireau, persil, ail, farine_de_ble, lait, huile_de_palme, sucre, extrait_de_levure, curcuma, poivre]
     composition_variable: true
@@ -152,8 +155,8 @@ ingredients:
     nom: fond de veau
     ciqual: 11169
     parent: bouillon
-    alias_fr: [fond brun]
-    alias_en: [veal stock, demi-glace]
+   
+    alias_en: [veal stock]
     composants: [veau, amidon_de_ble, farine_de_ble, fecule_de_pomme_de_terre, sel, oignon, carotte, celeri, tomate, vin_rouge, lait, huile_de_palme, extrait_de_levure, sucre]
     composition_variable: true
 
@@ -163,19 +166,83 @@ ingredients:
     nom: levure chimique
     ciqual: 11046
     parent: levure
-    alias_fr: [poudre à lever, sachet de levure chimique]
+    alias_fr: [levure pour pâtisserie, poudre à pâte, levure pâtissière, poudre à lever, sachet de levure chimique]
     alias_en: [baking powder]
     composants: [bicarbonate_de_soude, amidon_de_ble, fecule_de_mais]
     composition_variable: true
     note: L'amidon de la poudre à lever est souvent du blé.
-  - {id: bicarbonate_de_soude, nom: bicarbonate de soude, parent: levure, alias_fr: [bicarbonate alimentaire, bicarbonate de sodium], alias_en: [baking soda, bicarbonate of soda], ciqual: 11507}
+  - {id: bicarbonate_de_soude, nom: bicarbonate de soude, parent: levure, alias_fr: [soda à pâte, bicarbonate alimentaire, bicarbonate de sodium], alias_en: [baking soda, bicarbonate of soda], ciqual: 11507}
   - {id: extrait_de_levure, nom: extrait de levure, parent: levure, alias_en: [yeast extract], note: "À vérifier ; certains extraits de levure de bière proviennent de l'orge."}
   - id: sauce_pimentee
+    ciqual: 20151
+    ciqual_approche: true
     nom: sauce pimentée
     parent: sauce
-    alias_fr: [sauce au piment, sauce au piment fort, sauce piquante, tabasco, sriracha]
-    alias_en: [hot sauce, chili sauce, hot pepper sauce]
+    alias_fr: [sauce au piment, sauce au piment fort, sauce piquante, tabasco, Tabasco, quelques gouttes de tabasco, sriracha, sauce sriracha]
+    alias_en: [hot sauce, chili sauce, hot pepper sauce, tabasco sauce, sriracha sauce]
     composants: [piment, vinaigre_blanc, sel, ail, sucre]
     composition_variable: true
     sensoriel: {piquant: 3}
     note: "Union des sauces courantes (Tabasco : piment, vinaigre, sel ; sriracha : ail et sucre en plus)."
+
+  # --- Extension du référentiel (novembre 2026), à relire ---
+  - {id: sel_nitrite, nom: sel nitrité, parent: sel, alias_fr: [sel nitrité pour charcuterie, salpêtre, sel de mer nitrité], alias_en: [curing salt, pink salt], ciqual: 11017, ciqual_approche: true}
+  - {id: glutamate, nom: glutamate monosodique, parent: condiment, alias_fr: [glutamate, glutamate de sodium, ajinomoto, exhausteur de goût], alias_en: [msg, monosodium glutamate]}
+  - {id: levain, nom: levain, parent: levure, alias_fr: [levain naturel, levain de blé, levain de seigle, levain liquide, levain chef], alias_en: [sourdough starter], composants: [farine_de_ble, farine_de_seigle, eau], composition_variable: true, ciqual: 9436, ciqual_approche: true}
+  - {id: levure_maltee, nom: levure maltée en paillettes, parent: levure, alias_fr: [levure diététique, levure maltée, levure de bière en paillettes, levure de bière, levure alimentaire, levure nutritionnelle], alias_en: [nutritional yeast, brewer's yeast], composants: [levure_boulangere, extrait_de_malt_d_orge], composition_variable: true, note: "La levure maltée est cultivée sur un milieu à base d'orge maltée (gluten possible).", ciqual: 11009}
+  - {id: carbonate_d_ammonium, nom: carbonate d'ammonium, parent: levure_chimique, alias_fr: [carbonate d'ammoniaque, ammoniaque de boulanger, hirschhornsalz], alias_en: [baker's ammonia], ciqual: 11046, ciqual_approche: true}
+  - {id: creme_de_tartre, nom: crème de tartre, parent: levure_chimique, alias_fr: [bitartrate de potassium], alias_en: [cream of tartar], ciqual: 11046, ciqual_approche: true}
+  - {id: pectine, nom: pectine, parent: condiment, alias_fr: [pectine de fruits, sucre gélifiant, vitpris], alias_en: [pectin, jam sugar]}
+  - {id: gelee_alimentaire, nom: gélifiant, parent: condiment, alias_fr: [gélifiant alimentaire, gomme xanthane, gomme de guar, carraghénane], alias_en: [xanthan gum, guar gum, thickener], ciqual: 31047}
+  - {id: colorant_alimentaire, nom: colorant alimentaire, parent: condiment, alias_fr: [colorant, colorants alimentaires, colorant rouge, colorant vert], alias_en: [food coloring, food colouring]}
+  - {id: eau_de_fleur_d_oranger, nom: eau de fleur d'oranger, parent: condiment, alias_fr: [néroli, fleur d'oranger, eau de fleurs d'oranger], alias_en: [orange blossom water]}
+  - {id: eau_de_rose, nom: eau de rose, parent: condiment, alias_fr: [eau de roses, sirop de rose], alias_en: [rose water]}
+  - {id: arome_amande_amere, nom: arôme d'amande amère, alias_fr: [extrait d'amande amère, essence d'amande, arôme amande amère], alias_en: [almond extract], note: "Arôme de synthèse (benzaldéhyde) le plus souvent ; certaines marques utilisent de l'huile d'amande amère.", composants: [amande], composition_variable: true, ciqual: 15000, ciqual_approche: true}
+  - {id: arome_alimentaire, nom: arôme alimentaire, parent: condiment, alias_fr: [arôme, arômes, essence, arôme naturel], alias_en: [flavoring, flavouring]}
+  - {id: moutarde_a_l_ancienne, nom: moutarde à l'ancienne, parent: moutarde_de_dijon, alias_fr: [moutarde de Meaux, moutarde à l'ancienne en grains], allergenes: [sulfites], composition_variable: true, ciqual: 11021}
+  - {id: moutarde_douce, nom: moutarde douce, parent: moutarde_de_dijon, alias_fr: [moutarde américaine, moutarde jaune], alias_en: [yellow mustard, american mustard], ciqual: 11013, ciqual_approche: true}
+  - {id: sauce_bechamel, nom: béchamel, parent: sauce, alias_fr: [sauce béchamel, béchamel maison, sauce blanche], alias_en: [bechamel sauce, white sauce], composants: [lait, beurre, farine_de_ble, muscade, sel], ciqual: 11143}
+  - {id: sauce_hollandaise, nom: sauce hollandaise, parent: sauce, alias_fr: [hollandaise, sauce béarnaise, béarnaise], alias_en: [hollandaise sauce, bearnaise sauce], composants: [jaune_d_oeuf, beurre, citron, vinaigre_de_vin, echalote, estragon], composition_variable: true, ciqual: 11102}
+  - {id: sauce_barbecue, nom: sauce barbecue, parent: sauce, alias_fr: [sauce BBQ, sauce barbecue fumée], alias_en: [bbq sauce, barbecue sauce], composants: [concentre_de_tomate, sucre, vinaigre_blanc, melasse, sauce_worcestershire, moutarde, oignon, ail, paprika, sel], composition_variable: true, ciqual: 11100}
+  - {id: sauce_teriyaki, nom: sauce teriyaki, parent: sauce, alias_fr: [teriyaki], alias_en: [teriyaki sauce], composants: [sauce_soja, mirin, sucre, gingembre, ail], composition_variable: true, ciqual: 11301}
+  - {id: sauce_hoisin, nom: sauce hoisin, parent: sauce, alias_fr: [hoisin, sauce pour canard laqué, sauce pour nems, sauce pour nem], alias_en: [hoisin sauce], composants: [soja, ble, sucre, ail, sesame, piment, vinaigre_blanc, epice], composition_variable: true, ciqual: 20901, ciqual_approche: true}
+  - {id: sauce_aigre_douce, nom: sauce aigre-douce, parent: sauce, alias_fr: [sauce aigre douce], alias_en: [sweet and sour sauce], composants: [sucre, vinaigre_blanc, ketchup, ananas, fecule_de_mais, sauce_soja], composition_variable: true, ciqual: 11163}
+  - {id: sauce_chili_douce, nom: sauce chili douce, parent: sauce, alias_fr: [sauce chili thaï, sauce pimentée sucrée, sweet chili], alias_en: [sweet chili sauce], composants: [piment, sucre, ail, vinaigre_blanc, sel, fecule_de_mais], composition_variable: true, ciqual: 20151, ciqual_approche: true}
+  - {id: sambal, nom: sambal oelek, parent: sauce, alias_fr: [sambal, sambal oulek, pâte de piment, purée de piment, pâte de piments], alias_en: [chili paste, sambal oelek], composants: [piment, sel, vinaigre_blanc], composition_variable: true, sensoriel: {piquant: 3}, ciqual: 20151, ciqual_approche: true}
+  - {id: gochujang, nom: gochujang, parent: sauce, alias_fr: [pâte de piment coréenne], alias_en: [korean chili paste], composants: [piment, riz_gluant, soja, ble, sel, sucre], composition_variable: true, sensoriel: {piquant: 2}, ciqual: 20151, ciqual_approche: true}
+  - {id: wasabi, nom: wasabi, alias_fr: [pâte de wasabi], alias_en: [wasabi paste], composants: [raifort, moutarde, sel, sorbitol_ou_sucre], composition_variable: true, sensoriel: {piquant: 3}, note: "Les tubes de wasabi sont presque toujours du raifort et de la moutarde.", ciqual: 11016, ciqual_approche: true}
+  - {id: sorbitol_ou_sucre, nom: édulcorant, parent: condiment, alias_fr: [édulcorant, sorbitol, aspartame, stévia, sucralose], alias_en: [stevia], ciqual: 31064}
+  - {id: miso, nom: miso, alias_fr: [pâte de miso, miso blanc, miso rouge, shiro miso], alias_en: [miso paste, white miso], composants: [soja, riz, orge, sel], composition_variable: true, note: "Le miso d'orge (mugi) contient du gluten ; union de tous les misos.", ciqual: 20916}
+  - {id: mirin, nom: mirin, parent: condiment, alias_fr: [vin de riz doux, saké de cuisine], alias_en: [mirin, sweet rice wine], composants: [riz_gluant, sucre, alcool_ethylique], composition_variable: true, ciqual: 31016, ciqual_approche: true}
+  - {id: pate_de_curry, nom: pâte de curry, alias_fr: [pâte de curry rouge, pâte de curry vert, pâte de curry jaune, pâte de curry thaï, pâte korma, pâte tikka masala, pâte de massaman, pâte de curry indienne], alias_en: [curry paste, red curry paste, green curry paste], composants: [piment, citronnelle, galanga, ail, echalote, crevette_sechee, sel, epice, huile_vegetale, moutarde], composition_variable: true, sensoriel: {piquant: 2}, note: "Les pâtes thaïes contiennent souvent de la pâte de crevette, les pâtes indiennes de la moutarde ou des fruits à coque ; union.", ciqual: 20151, ciqual_approche: true}
+  - {id: pate_de_curry_noix, nom: pâte korma aux noix de cajou, alias_fr: [pâte korma aux noix, pâte de curry aux noix de cajou], alias_en: [korma paste], composants: [noix_de_cajou, epice, huile_vegetale], ciqual: 15054, ciqual_approche: true}
+  - {id: chutney, nom: chutney, alias_fr: [chutney de mangue, chutney aux fruits, relish], alias_en: [mango chutney, relish], composants: [mangue, sucre, vinaigre_de_vin, gingembre, epice, sel, oignon], composition_variable: true, ciqual: 13025, ciqual_approche: true}
+  - {id: pickles_oignon, nom: oignon au vinaigre, parent: condiment, alias_fr: [oignons au vinaigre, petits oignons au vinaigre, pickles d'oignons], alias_en: [pickled onions], composants: [oignon, vinaigre_blanc, sel, sucre], composition_variable: true, ciqual: 11055}
+  - {id: vinaigrette, nom: vinaigrette, alias_fr: [vinaigrette à l'huile d'olive, sauce vinaigrette, sauce salade, vinaigrette maison], alias_en: [salad dressing, french dressing], composants: [huile_vegetale, vinaigre_de_vin, moutarde, sel, poivre], composition_variable: true, ciqual: 11110}
+  - {id: aioli, nom: aïoli, alias_fr: [aïoli, aioli, sauce aïoli, rouille, sauce rouille], alias_en: [aioli, garlic mayonnaise], composants: [ail, huile_d_olive, jaune_d_oeuf, sel, safran, piment_de_cayenne, pain], composition_variable: true, note: "La rouille est souvent liée à la mie de pain.", ciqual: 11168}
+  - {id: sauce_tartare, nom: sauce tartare, parent: mayonnaise, alias_fr: [sauce gribiche, sauce rémoulade, rémoulade], alias_en: [tartar sauce, remoulade], composants: [mayonnaise, cornichon, capre, echalote, persil, moutarde, oeuf], composition_variable: true, ciqual: 11051}
+  - {id: sauce_cocktail, nom: sauce cocktail, alias_fr: [sauce burger, sauce samouraï, sauce andalouse, sauce américaine], alias_en: [cocktail sauce, burger sauce], composants: [mayonnaise, ketchup, cognac, sauce_worcestershire, piment_de_cayenne], composition_variable: true, ciqual: 11196}
+  - {id: guacamole, nom: guacamole, parent: sauce, alias_en: [guacamole dip], composants: [avocat, citron_vert, oignon, tomate, coriandre_feuille, piment, sel], composition_variable: true, ciqual: 25620}
+  - {id: tzatziki, nom: tzatziki, parent: sauce, alias_fr: [tzatzíki, raïta, raita], alias_en: [tzatziki sauce, raita], composants: [yaourt, concombre, ail, menthe, aneth, huile_d_olive, sel], composition_variable: true, ciqual: 19863}
+  - {id: salsa, nom: salsa, parent: sauce, alias_fr: [salsa mexicaine, pico de gallo, sauce salsa], alias_en: [salsa sauce, pico de gallo], composants: [tomate, oignon, piment, coriandre_feuille, citron_vert, sel], composition_variable: true, ciqual: 20047, ciqual_approche: true}
+  - {id: sauce_pour_salade_cesar, nom: sauce César, alias_fr: [sauce caesar, sauce césar], alias_en: [caesar dressing], composants: [huile_vegetale, jaune_d_oeuf, parmesan, anchois, ail, citron, moutarde, sauce_worcestershire], composition_variable: true, ciqual: 17001, ciqual_approche: true}
+  - {id: sauce_tomate_cuisinee, nom: sauce tomate cuisinée, parent: sauce, alias_fr: [sauce bolognaise, sauce arrabbiata, sauce napolitaine, sauce tomate basilic, sauce pour pâtes], alias_en: [pasta sauce, marinara, bolognese sauce], composants: [tomate, oignon, ail, huile_d_olive, sucre, sel, basilic, boeuf, celeri, carotte], composition_variable: true, note: "Union des sauces tomate du commerce, dont la bolognaise (bœuf, céleri).", ciqual: 11219}
+  - {id: coulis_de_fruits_rouges, nom: coulis de fruits rouges, parent: sauce, alias_fr: [coulis de framboise, coulis de framboises, coulis de fraise, coulis de fruits, coulis], alias_en: [berry coulis, raspberry coulis], composants: [fruit_rouge, sucre, citron], ciqual: 13998}
+  - {id: sauce_caramel, nom: sauce caramel, parent: sauce, alias_fr: [caramel liquide, caramel au beurre salé, sauce au caramel], alias_en: [caramel sauce, salted caramel], composants: [sucre, creme, beurre, sel], composition_variable: true, ciqual: 31046}
+  - {id: sauce_chocolat, nom: sauce chocolat, parent: sauce, alias_fr: [sauce au chocolat, nappage chocolat, ganache], alias_en: [chocolate sauce, ganache], composants: [chocolat_noir, creme, sucre, beurre], composition_variable: true, ciqual: 11300}
+  - {id: bouillon_de_viande, nom: bouillon de viande, parent: bouillon, alias_fr: [bouillon de pot-au-feu, bouillon gras, bouillon de veau, fond blanc, consommé], alias_en: [meat stock, meat broth], composants: [boeuf, veau, poulet, carotte, oignon, celeri, poireau, sel, ble], composition_variable: true, note: "Union des cubes et fonds courants : céleri et blé (maltodextrine ou farine) fréquents.", ciqual: 25918}
+  - {id: court_bouillon, nom: court-bouillon, parent: bouillon, alias_fr: [court bouillon, court-bouillon en sachet, bouillon de légumes en cube], alias_en: [court bouillon], composants: [sel, oignon, carotte, celeri, vin_blanc, vinaigre_de_vin, laurier, thym, poivre], composition_variable: true, ciqual: 11172}
+  - {id: gelee_de_viande, nom: gelée, alias_fr: [gelée en poudre, gelée au madère, aspic], alias_en: [aspic jelly], composants: [gelatine, sel, porto, sucre], composition_variable: true, ciqual: 11176}
+  - {id: fond_brun, nom: fond brun, parent: fond_de_veau, alias_fr: [fond de veau déshydraté, fond de volaille déshydraté, demi-glace, jus de viande, jus de rôti, fond de gibier], alias_en: [demi-glace, brown stock, gravy], composants: [veau, poulet, oignon, carotte, tomate, farine_de_ble, sel, vin_rouge, celeri], composition_variable: true, ciqual: 11169}
+  - {id: sauce_pesto_rosso, nom: pesto rouge, parent: pesto, alias_fr: [pesto rosso, pesto aux tomates séchées], alias_en: [red pesto, sun-dried tomato pesto], composants: [tomate_sechee, huile_d_olive, parmesan, noix_de_cajou, pignon, ail, basilic], composition_variable: true, ciqual: 11210}
+  - {id: anchoiade, nom: anchoïade, parent: sauce, alias_fr: [anchoïade, anchoiade], alias_en: [anchovy paste], composants: [anchois, huile_d_olive, ail, vinaigre_de_vin], ciqual: 26079, ciqual_approche: true}
+  - {id: confiture, nom: confiture, parent: condiment, alias_fr: [confitures, confiture de votre choix, gelée de fruits, marmelade, nappage, nappage de votre choix], alias_en: [jam, jelly, preserves, marmalade], composants: [fruit, sucre, pectine, citron], composition_variable: true}
+  - {id: confiture_d_abricot, nom: confiture d'abricots, parent: confiture, alias_fr: [confiture d'abricot, nappage abricot, gelée d'abricot], alias_en: [apricot jam], composants: [abricot, sucre, pectine], ciqual: 31037}
+  - {id: confiture_de_fraise, nom: confiture de fraises, parent: confiture, alias_fr: [confiture de fraise], alias_en: [strawberry jam], composants: [fraise, sucre, pectine], ciqual: 31024}
+  - {id: confiture_de_framboise, nom: confiture de framboises, parent: confiture, alias_fr: [confiture de framboise, gelée de framboise], alias_en: [raspberry jam], composants: [framboise, sucre, pectine], ciqual: 31062}
+  - {id: gelee_de_groseille, nom: gelée de groseilles, parent: confiture, alias_fr: [gelée de groseille, confiture de groseilles], alias_en: [redcurrant jelly], composants: [groseille, sucre, pectine], ciqual: 31095}
+  - {id: marmelade_d_orange, nom: marmelade d'oranges, parent: confiture, alias_fr: [marmelade d'orange, confiture d'oranges, confiture d'orange], alias_en: [orange marmalade], composants: [orange, sucre, citron], ciqual: 31039}
+  - {id: confiture_de_figue, nom: confiture de figues, parent: confiture, alias_fr: [confiture de figue], alias_en: [fig jam], composants: [figue, sucre, citron], ciqual: 13012, ciqual_approche: true}
+  - {id: confiture_de_cerise, nom: confiture de cerises, parent: confiture, alias_fr: [confiture de cerises noires, confiture de cerise noire], alias_en: [cherry jam], composants: [cerise, sucre, pectine], ciqual: 31038}
+  - {id: confiture_de_myrtille, nom: confiture de myrtilles, parent: confiture, alias_fr: [confiture de myrtille], alias_en: [blueberry jam], composants: [myrtille, sucre, pectine], ciqual: 31068}
+  - {id: sirop_de_fruits, nom: sirop de fruits, alias_fr: [sirop de grenadine, grenadine, sirop de menthe, sirop de fraise, sirop d'orgeat, sirop de citron, sirop de cassis], alias_en: [fruit syrup, grenadine], composants: [sucre, fruit, amande, colorant_alimentaire], composition_variable: true, note: "Le sirop d'orgeat contient de l'amande ; union.", ciqual: 31016, ciqual_approche: true}

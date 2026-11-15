@@ -1,0 +1,34 @@
+id: lait-de-poule
+titre: Lait de poule
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 6 jaunes d'œufs
+- 30 g de sucre
+- 20 cl d'eau de fleur d'oranger
+- 90 cl de lait demi-écrémé.
+etapes:
+- Chauffer le lait dans une casserole jusqu'à ce qu'il soit suffisamment chambré.
+- Mélanger dans un saladier les jaunes d'œufs, le sucre et l'eau de fleur d'oranger, en fouettant vivement jusqu'à
+  ce que le mélange s'éclaircisse et s'homogénéise.
+- Verser petit à petit le lait bouillant sur le mélange tout en continuant à fouetter.
+- Servir très chaud.
+source:
+  titre: Lait de poule
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Lait_de_poule&oldid=667922
+  revision: 667922
+  date: '2021-11-29'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Lait_de_poule&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Lait de poule.jpg
+  auteur: Raphaël Badawi
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Lait_de_poule.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

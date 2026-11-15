@@ -1,0 +1,32 @@
+id: cretons
+titre: Cretons
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 60
+  repos: 0
+ingredients:
+- 2 tasses de mie de pain
+- 1 tasse de lait
+- 450 grammes de porc haché
+- 1/4 cuillère à thé de cannelle et muscade
+- 1 oignon
+- 1 à 2 gousses d'ail
+- sel, poivre au goût
+etapes:
+- Couper la mie de pain en cube et tremper les morceaux avec le lait
+- Couper l'oignon finement et hacher l'ail finement
+- Dans une casserole faire revenir l'oignon et l'ail
+- Ajouter le porc à la préparation d'oignon et faire revenir jusqu'à ce que le porc ai perdu sa coloration rosée
+- Ajouter la mie de pain et le lait ainsi que le quart de cuillerée à thé de cannelle et muscade
+- Laisser cuire à basse température 1 heure en mélangeant régulièrement
+source:
+  titre: Cretons
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cretons&oldid=516811
+  revision: 516811
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Cretons&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

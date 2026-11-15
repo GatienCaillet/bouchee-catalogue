@@ -1,0 +1,40 @@
+id: galette-comtoise
+titre: Galette comtoise
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 30
+  repos: 0
+ingredients:
+- 15 morceaux de sucre
+- 60 g de beurre
+- 1/3 de litre d'eau
+- 300 g de farine
+- 4 œufs + 2 jaunes
+- 1-3 Cuillères à soupe de fleur d'oranger.
+etapes:
+- Porter à ébullition le sucre, l'eau et le beurre.
+- Hors du feu rajouter la farine en une seule fois, mélanger.
+- Incorporer les œufs un par un à votre pâte.
+- On peut sécher la pâte sur le feu une minute.
+- Laisser un peu refroidir et ajouter la fleur d'oranger.
+- Étaler la pâte dans un plat beurré à l'aide d'une cuillère.
+- Badigeonner le dessus avec le jaune d'œuf dilué dans un peu d'eau ou de lait.
+- Faire des stries avec une fourchette.
+- Préchauffer le four 180°C et laisser cuire 25-30 minutes.
+source:
+  titre: Galette comtoise
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galette_comtoise&oldid=670778
+  revision: 670778
+  date: '2022-02-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Galette_comtoise&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Galette comtoise.JPG
+  auteur: Arnaud 25
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Galette_comtoise.JPG
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

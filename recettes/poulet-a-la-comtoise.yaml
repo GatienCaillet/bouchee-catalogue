@@ -1,0 +1,40 @@
+id: poulet-a-la-comtoise
+titre: Poulet à la comtoise
+portions: 6
+temps:
+  preparation: 31
+  cuisson: 45
+  repos: 0
+ingredients:
+- 1 poulet de Bresse coupé en morceaux cru
+- 1 verre de vin blanc du Jura
+- 1 petit pot de crème fraîche
+- 150 g de comté râpé
+- De l'huile d'olive
+- noix de muscade
+- 2 jaunes d'œuf.
+etapes:
+- Préchauffez votre four à 240°C Thermostat 8.
+- Découpez le poulet en morceaux crus, faîtes revenir et dorer les morceaux de poulet dans de l'huile de tous les
+  côtés dans une cocotte. Salez et poivrez.
+- Déglacez la cocotte avec 1 verre de vin blanc du Jura et assaisonnez de noix de muscade râpée.
+- Récupérez du jus de cuisson et mettez la cocotte au four pendant environ 30 minutes toujours à 240°C.
+- Dans une casserole, mélangez avec un fouet le jus de cuisson du poulet, les 2 jaunes d'œufs, 1 petit pot de crème
+  fraîche, 150 g de Comté râpé et laissez le tout mijoter pendant 15 minutes.
+- Mettez la sauce dans une saucière.
+source:
+  titre: Poulet à la comtoise
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_%C3%A0_la_comtoise&oldid=660715
+  revision: 660715
+  date: '2021-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Poulet_%C3%A0_la_comtoise&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Poulet à la comtoise.jpg
+  auteur: Ludovic Péron
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Poulet_%C3%A0_la_comtoise.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

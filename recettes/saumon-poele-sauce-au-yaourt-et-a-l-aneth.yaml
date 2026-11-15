@@ -1,0 +1,25 @@
+id: saumon-poele-sauce-au-yaourt-et-a-l-aneth
+titre: Saumon poêlé, sauce au yaourt et à l'aneth
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 10
+  repos: 0
+ingredients:
+- 4 pavés de saumon
+- 2 yaourts nature
+- 1/2 botte d'aneth
+- 1 citron
+- 1 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Mélanger les yaourts, l'aneth ciselé et le jus de citron ; saler, poivrer.
+- Cuire les pavés de saumon côté peau 6 minutes dans l'huile, puis 2 minutes de l'autre côté.
+- Servir avec la sauce froide.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

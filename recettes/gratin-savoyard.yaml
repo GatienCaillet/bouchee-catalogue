@@ -1,0 +1,36 @@
+id: gratin-savoyard
+titre: Gratin savoyard
+portions: 6
+temps:
+  preparation: 25
+  cuisson: 60
+  repos: 0
+ingredients:
+- 1 kg de pommes de terre à chair ferme (Charlotte).
+- 150 g de gruyère râpé.
+- 25 g de beurre.
+- texte: 1/3 L de bouillon.
+  ingredients:
+  - bouillon
+  categorie: true
+- sel, poivre.
+etapes:
+- Épluchez, lavez et séchez les pommes de terre. Émincez-les finement.
+- Beurrez un plat allant au four.
+- Mettez une couche de pommes de terre dans le fond, assaisonnez, recouvrez de gruyère râpé, parsemez de noisettes
+  de beurre, recouvrez de pommes de terre et ainsi de suite jusqu'à épuisement des ingrédients.
+- Versez le bouillon.
+- Faites cuire à four chaud préchauffé (200° C) pendant 1 h. En fin de cuisson le bouillon doit être complètement
+  absorbé par les pommes de terre.
+- Servez dans le plat de cuisson en accompagnement d'une viande rôtie.
+source:
+  titre: Gratin savoyard
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_savoyard&oldid=452434
+  revision: 452434
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_savoyard&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : bouillon.'

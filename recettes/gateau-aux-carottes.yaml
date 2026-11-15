@@ -1,0 +1,31 @@
+id: gateau-aux-carottes
+titre: Gâteau aux carottes
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 300 g de carottes
+- 3 œufs
+- 150 g de sucre roux
+- 200 g de farine
+- 1 sachet de levure chimique
+- 10 cl d'huile de tournesol
+- 1 c. à café de cannelle
+- 50 g de cerneaux de noix
+etapes:
+- Préchauffer le four à 180 °C et beurrer le moule.
+- Râper les carottes ; mélanger les œufs, le sucre et l'huile, puis la farine, la levure, la cannelle, les carottes
+  et les noix.
+- Verser dans le moule.
+- 'Enfourner 20 minutes pour les muffins, 35 à 40 minutes pour un gâteau : la lame d''un couteau doit ressortir
+  sèche.'
+- Laisser tiédir avant de démouler.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gâteau »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

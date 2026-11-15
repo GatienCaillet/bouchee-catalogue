@@ -1,0 +1,23 @@
+id: mousse-au-chocolat
+titre: Mousse au chocolat
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 5
+  repos: 240
+ingredients:
+- 200 g de chocolat noir
+- 6 œufs
+- 1 pincée de sel
+etapes:
+- Faire fondre le chocolat au bain-marie.
+- Séparer les blancs des jaunes ; mélanger les jaunes au chocolat tiédi.
+- Monter les blancs en neige ferme avec le sel et les incorporer délicatement.
+- Réserver au moins 4 heures au frais.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

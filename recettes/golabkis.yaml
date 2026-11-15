@@ -1,0 +1,39 @@
+id: golabkis
+titre: Golabkis
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 45
+  repos: 0
+ingredients:
+- 1 chou vert
+- texte: 800 g de bœuf ou de porc
+  ingredients:
+  - boeuf
+  - porc
+  categorie: true
+- 200 g de riz
+- 200 g d'oignons
+- Sel, poivre.
+etapes:
+- Laver le chou, enlever le trognon
+- Le cuire à l'eau bouillante salée et le blanchir jusqu'à ce que les feuilles deviennent souples
+- Égoutter, refroidir, séparer les feuilles sans les briser
+- Écraser la grosse côte principale de chaque feuille avec un pilon
+- Laver le riz, le couvrir de deux fois son volume d'eau bouillante
+- Saler et cuire à petit feu tant que l'eau surnage
+- Hacher la viande, la mélanger avec le riz en ajoutant l'oignon finement haché, assaisonner
+- Mettre sur chaque feuille de chou de la farce, replier les deux bords et rouler la feuille sur elle-même
+- Disposer les golabki dans un plat allant au four
+- Arroser avec le bouillon et cuire à 180°C 45 minutes.
+source:
+  titre: Golabkis
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Golabkis&oldid=451983
+  revision: 451983
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Golabkis&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : bœuf, porc.'

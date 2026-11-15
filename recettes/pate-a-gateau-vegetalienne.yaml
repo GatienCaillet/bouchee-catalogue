@@ -1,0 +1,31 @@
+id: pate-a-gateau-vegetalienne
+titre: Pâte à gâteau végétalienne
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 250 g de farine
+- 180 g de sucre
+- 1 sachet de levure pour pâtisserie
+- 135 ml d'huile de tournesol
+- texte: 3 cuillères à soupe de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- de l'eau froide
+etapes:
+- Mélangez bien dans un saladier, la farine, le sucre en poudre et le sachet de levure.
+- Ajoutez l'huile, le vinaigre et mouillez d'eau jusqu'à obtention d'une pâte homogène.
+source:
+  titre: Pâte à gâteau végétalienne
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_%C3%A0_g%C3%A2teau_v%C3%A9g%C3%A9talienne&oldid=452127
+  revision: 452127
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2te_%C3%A0_g%C3%A2teau_v%C3%A9g%C3%A9talienne&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : vinaigre.'

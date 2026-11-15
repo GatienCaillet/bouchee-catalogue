@@ -1,0 +1,42 @@
+id: tarte-au-sucre
+titre: Tarte au sucre
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 20
+  repos: 30
+ingredients:
+- 200 g de farine
+- 15 g de levure fraîche
+- 50 g de beurre
+- 20 g de sucre
+- 3 œufs
+- 1 dl de lait
+- 10 cl de crème fraîche.
+etapes:
+- Délayer la levure dans le lait tiédi
+- Mettre la farine dans un plat, saler et faire une fontaine
+- Ajouter la levure délayée dans le lait, l'œuf battu et le sucre, mélanger le tout
+- Ajouter le beurre fondu petit à petit, pétrir la pâte, la laisser reposer 30 min
+- Saupoudrer la table de travail de farine et étaler la pâte au rouleau en lui donnant la forme de la platine à
+  tarte
+- Graisser la platine au beurre. Garnir la platine avec la pâte jusqu'à la partie supérieure du bord
+- Piquer la pâte avec une fourchette et étaler le sucre sur le fond de pâte ; arroser avec 2 œufs battus avec la
+  crème fraîche. Terminer avec quelques noisettes de beurre
+- Cuire la tarte +/- 20 à 25 min au four à 190°C.
+source:
+  titre: Tarte au sucre
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Desserts/Tarte_au_sucre&oldid=675042
+  revision: 675042
+  date: '2022-04-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Desserts/Tarte_au_sucre&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Jielbeaumadier tarte au sucre 2011.jpg
+  auteur: Jiel Beaumadier
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Jielbeaumadier_tarte_au_sucre_2011.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

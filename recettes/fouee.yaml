@@ -1,0 +1,37 @@
+id: fouee
+titre: Fouée
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 35
+  repos: 240
+ingredients:
+- 500 g de farine
+- 10 g de sel
+- 15 g de levure de boulanger
+- 30 cl d'eau tiède.
+etapes:
+- Mettre la farine dans une bassine avec le sel
+- Mélanger la levure avec de l'eau tiède dans une tasse à café
+- Verser la levure dans la bassine en brassant la farine
+- Ajouter l'eau progressivement, sans arrêter de brasser, jusqu'à ce que la pâte soit homogène
+- Laisser reposer la pâte pendant 4 heures
+- Faire des boules qui seront aplaties avec la paume de la main puis, avec un rouleau
+- Enfourner à 220°C 35 min
+- Servir chaud.
+source:
+  titre: Fouée
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fou%C3%A9e&oldid=659969
+  revision: 659969
+  date: '2021-07-25'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fou%C3%A9e&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Fouées angevines avec rillettes.JPG
+  auteur: Romain Bréget
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Fou%C3%A9es_angevines_avec_rillettes.JPG
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

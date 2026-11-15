@@ -1,0 +1,23 @@
+id: soupe-froide-de-melon-au-basilic
+titre: Soupe froide de melon au basilic
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 0
+  repos: 60
+ingredients:
+- 1 melon
+- quelques feuilles de basilic
+- 1 citron vert
+- 2 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Mixer la chair du melon avec le basilic et le jus du citron vert.
+- Ajouter l'huile, saler, poivrer et réserver 1 heure au frais.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe froide »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

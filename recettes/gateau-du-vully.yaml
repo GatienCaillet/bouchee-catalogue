@@ -1,0 +1,37 @@
+id: gateau-du-vully
+titre: Gâteau du Vully
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 28
+  repos: 60
+ingredients:
+- 1,2 kg farine
+- 4 g de sel
+- 1 cube de levain
+- 270 g de beurre
+- 1 l de lait
+- 5 g de saindoux
+- 1 œuf
+- 1 kg de sucre
+- Crème entière
+- 1 jaune d'œuf
+etapes:
+- Mélanger la farine, le sel, la levure délayée dans de l'eau tiède, 70 g de beurre fondu dans 1/3 du lait, ajouter
+  peu à peu le lait tiède et pétrir jusqu'à l'obtention d'une pâte légère, gonflée et aérée (20 min).
+- Ajouter le saindoux et l'œuf en cours de pétrissage.
+- Graisser les feuilles à gâteau ; répartir la pâte dans les feuilles et laisser lever (1h) dans une pièce chauffée.
+- Garnir en faisant de la dentelle sur les bords ; faire des trous avec les doigts (ou utiliser une roulette à pâtisserie
+  pour y strier des losanges) ; badigeonner du mélange crème et œuf ; placer des morceaux de beurre dans les trous
+  (à l'intersection des losanges) ; répartir le sucre concassé sur toute la surface.
+- Cuire au four à 300°C, 8 à 10 min.
+source:
+  titre: Gâteau du Vully
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_du_Vully&oldid=451999
+  revision: 451999
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_du_Vully&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

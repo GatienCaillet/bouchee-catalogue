@@ -1,0 +1,35 @@
+id: nouilles-fraiches
+titre: Nouilles fraîches
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 0
+  repos: 30
+ingredients:
+- 300 g de farine
+- texte: 1 cuillère à soupe d'huile
+  ingredients:
+  - huile
+  categorie: true
+- 1 petite cuillère à thé de sel.
+etapes:
+- Dans un saladier ou dans le bol d'un robot versez la farine, l'huile et le sel. Bien mélanger. Sortez la pâte
+  sur le plan de travail légèrement enfariné. Formez une boule et pétrissez-la plusieurs fois en repliant la pâte
+  sur elle-même et en ajoutant un peu de farine si la pâte est trop collante. Laissez reposer au frais pendant 30
+  min. Etalez la pâte au rouleau pour obtenir une épaisseur de 0,5 cm. Roulez la pâte sur elle-même pour former
+  un tube. Au couteau coupez des tranches fines de la largeur d'une nouille.
+- Laissez un peu sécher les nouilles déroulées.
+- Faites-les cuire dans une grande casserole d'eau bouillante légèrement salée.
+- 'Assaisonnez selon goût avec : huile d''olive ; sauce tomate ; persil ; ail ; basilic ; beurre ; brisures de noix
+  ; sauce aux champignons, etc.'
+source:
+  titre: Nouilles fraîches
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Nouilles_fra%C3%AEches&oldid=517036
+  revision: 517036
+  date: '2016-07-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Nouilles_fra%C3%AEches&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile.'

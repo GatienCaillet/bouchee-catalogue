@@ -1,0 +1,28 @@
+id: veloute-de-carottes-et-patate-douce
+titre: Velouté de carottes et patate douce
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 600 g de carottes
+- 1 patate douce
+- 1 oignon
+- 1 l de bouillon de légumes
+- 10 cl de crème liquide
+- sel
+etapes:
+- Cuire les légumes 25 minutes dans le bouillon avec l'oignon.
+- Mixer avec la crème.
+decouverte:
+  aliment: patate_douce
+  niveau: 1
+  pourquoi: Dans un velouté de carottes, la patate douce ajoute seulement de la douceur.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

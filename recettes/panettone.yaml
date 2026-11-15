@@ -1,0 +1,47 @@
+id: panettone
+titre: Panettone
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 80
+  repos: 0
+ingredients:
+- 6 jaunes d'œufs
+- 250 g de farine
+- 150 g de raisins secs de Corinthe
+- 125 g de beurre
+- 80 g de sucre
+- 50 g de fruits confits
+- 10 g d'écorce de citron et d'orange râpées
+- un sachet de levure de boulanger
+- 1 sachet de sucre vanillé
+- une pincée de sel.
+etapes:
+- Réhydrater la levure pendant 10 minutes dans une tasse d'eau tiède et attendre 15 minutes
+- Incorporer et mélanger les jaunes d'œufs, le sucre vanillé, les zestes râpés du citron et de l'orange, le sel
+  et le sucre
+- Ajouter la moitié de la farine puis le beurre ramolli en morceaux, puis le reste de la farine
+- Pétrir la pâte pendant 15 min
+- Rouler la pâte en boule et laisser gonfler dans un endroit tiède (la pâte doit avoir doublé de volume)
+- Pétrir en incorporant les fruits confits hachés très fins et les raisins secs
+- Reformer la boule, tracer une croix sur le dessus, la mettre dans un moule cylindrique beurré et laisser lever
+- Enduire le dessus de beurre fondu et le mettre au four
+- Cuire à four moyen (190° C) pendant 10 min, puis baisser un peu la chaleur et faire cuire de 30 à 40 min en badigeonnant
+  de beurre à mi-cuisson
+- Laisser refroidir.
+source:
+  titre: Panettone
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Panettone&oldid=683866
+  revision: 683866
+  date: '2022-08-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Panettone&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Panettone - Nicolettone 2017 - IMG 7085 (31752542285).jpg
+  auteur: N i c o l a from Fiumicino (Rome), Italy
+  licence: CC BY 2.0
+  url: https://commons.wikimedia.org/wiki/File:Panettone_-_Nicolettone_2017_-_IMG_7085_(31752542285).jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

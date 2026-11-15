@@ -1,0 +1,41 @@
+id: tourin
+titre: Tourin
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 15
+  repos: 0
+ingredients:
+- Gousses d'ail
+- 20 g de farine blanche
+- 3 cl d'huile d'olive
+- 1 œuf
+- texte: 1 cl de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- Poivre, sel
+- Des tranches de pain rassis
+- Eau
+etapes:
+- Dans une casserole, faire flétrir des gousses d'ail coupées dans de l'huile d'olive.
+- Ajouter la farine, cuire quelques instants après avoir bien mélangé, ajouter de l'eau bouillante salée, laisser
+  cuire 10 minutes.
+- Séparer le blanc du jaune d'œuf et réserver le blanc dans un bol.
+- Mettre le jaune dans un autre bol, poivrer, ajouter le vinaigre.
+- Dans le bouillon, verser le blanc d'œuf en remuant.
+- Cuire 5 minutes, avant de retirer la casserole du feu et d'ajouter la préparation (œuf, vinaigre, poivre). Remuer
+  au fouet pour éviter la coagulation.
+- Verser dans une soupière dans laquelle ont été placées les tranches fines de pain.
+- Servir chaud.
+source:
+  titre: Tourin
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tourin&oldid=516865
+  revision: 516865
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tourin&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : vinaigre.'

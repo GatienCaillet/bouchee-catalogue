@@ -1,0 +1,31 @@
+id: riz-cantonais-aux-petits-pois
+titre: Riz cantonais aux petits pois
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 15
+  repos: 0
+ingredients:
+- 300 g de riz
+- 3 œufs
+- 150 g de jambon blanc
+- 150 g de petits pois
+- 3 oignons nouveaux
+- 2 c. à soupe de sauce soja
+- 2 c. à soupe d'huile de colza
+etapes:
+- Cuire le riz la veille, ou le laisser bien refroidir.
+- Cuire les œufs battus en omelette fine, puis la couper en lanières.
+- Faire sauter le riz dans l'huile avec les petits pois, le jambon en dés et les oignons nouveaux.
+- Ajouter l'omelette et la sauce soja et mélanger.
+decouverte:
+  aliment: petit_pois
+  niveau: 2
+  pourquoi: Quelques petits pois dans le riz sauté, au milieu des autres ingrédients.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

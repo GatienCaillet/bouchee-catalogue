@@ -1,0 +1,25 @@
+id: pois-chiches-rotis-aux-epices
+titre: Pois chiches rôtis aux épices
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 30
+  repos: 0
+ingredients:
+- 2 boîtes de pois chiches (800 g)
+- 2 c. à soupe d'huile d'olive
+- 1 c. à café de paprika fumé
+- 1 c. à café de cumin en poudre
+- sel
+etapes:
+- Préchauffer le four à 200 °C.
+- Égoutter, rincer et bien sécher les pois chiches.
+- Les mélanger avec l'huile et les épices, et les étaler sur une plaque.
+- Rôtir 30 minutes en remuant à mi-cuisson, jusqu'à ce qu'ils soient croustillants.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

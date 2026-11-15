@@ -1,0 +1,30 @@
+id: shakshuka
+titre: Shakshuka
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 35
+  repos: 0
+ingredients:
+- 6 œufs
+- 800 g de tomates pelées
+- 2 poivrons rouges
+- 1 oignon
+- 2 gousses d'ail
+- 1 c. à café de cumin en poudre
+- 1 c. à café de paprika
+- 3 c. à soupe d'huile d'olive
+- 1/2 botte de coriandre fraîche
+- sel
+etapes:
+- Faire revenir l'oignon, l'ail et les poivrons émincés dans l'huile 10 minutes.
+- Ajouter les épices et les tomates, et laisser mijoter 15 minutes.
+- Creuser 6 puits, y casser les œufs, couvrir et cuire 6 à 8 minutes.
+- Parsemer de coriandre.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

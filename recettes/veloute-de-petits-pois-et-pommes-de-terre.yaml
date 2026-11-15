@@ -1,0 +1,28 @@
+id: veloute-de-petits-pois-et-pommes-de-terre
+titre: Velouté de petits pois et pommes de terre
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 300 g de petits pois
+- 2 pommes de terre
+- 1 oignon
+- 80 cl de bouillon de légumes
+- 10 cl de crème liquide
+- sel
+etapes:
+- Cuire les légumes 20 minutes dans le bouillon.
+- Mixer finement avec la crème.
+decouverte:
+  aliment: petit_pois
+  niveau: 1
+  pourquoi: Mixés avec les pommes de terre, les petits pois donnent une soupe douce et verte.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

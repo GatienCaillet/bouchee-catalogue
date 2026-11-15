@@ -1,0 +1,26 @@
+id: frites-de-patates-douces-au-four
+titre: Frites de patates douces au four
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 800 g de patates douces
+- 2 c. à soupe d'huile d'olive
+- 1 c. à café de paprika
+- sel
+etapes:
+- Couper les patates douces en bâtonnets, les mélanger à l'huile et au paprika.
+- Cuire 30 minutes à 220 °C en les retournant à mi-cuisson.
+decouverte:
+  aliment: patate_douce
+  niveau: 3
+  pourquoi: En frites, la patate douce garde une forme familière.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

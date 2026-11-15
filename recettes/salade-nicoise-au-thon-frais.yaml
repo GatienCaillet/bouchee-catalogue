@@ -1,0 +1,28 @@
+id: salade-nicoise-au-thon-frais
+titre: Salade niçoise au thon frais
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 15
+  repos: 0
+ingredients:
+- 2 steaks de thon
+- 4 tomates
+- 200 g de haricots verts
+- 4 œufs
+- 50 g d'olives noires
+- 8 filets d'anchois
+- 4 c. à soupe d'huile d'olive
+- 1 c. à soupe de vinaigre de vin
+- sel, poivre
+etapes:
+- Cuire les haricots verts 8 minutes et les œufs 10 minutes.
+- Saisir le thon 2 minutes de chaque côté et le couper en tranches.
+- Disposer tous les ingrédients et arroser de vinaigrette.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

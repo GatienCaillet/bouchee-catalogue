@@ -1,0 +1,42 @@
+id: coca-de-llanda
+titre: Coca de llanda
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 35
+  repos: 0
+ingredients:
+- 3 œufs
+- 400 g de farine
+- 250 ml de lait
+- 200 g de sucre cristallisé
+- 150 ml d'huile d'olive
+- 2 oranges
+- texte: 1 sachet de levure
+  ingredients:
+  - levure
+  categorie: true
+- sucre cristallisé pour la surface
+- cannelle en poudre pour la surface
+etapes:
+- Huiler un tian ou une plaque à four rectangulaire. Laver les oranges et râper finement les zestes, puis les presser.
+  On doit obtenir 150 ml de jus d'orange. Mélanger le jus, les zestes, les œufs, la farine, la levure, le lait,
+  le sucre et l'huile d'olive. Verser au moule, dessiner des rayures avec du sucre cristallisé mélangé avec de la
+  cannelle en poudre et cuire au four préchauffé à 180 ºC pendant 35 minutes.
+source:
+  titre: Coca de llanda
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Coca_de_llanda&oldid=517157
+  revision: 517157
+  date: '2016-07-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Coca_de_llanda&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'
+photo:
+  fichier: Coca de llanda (Ribera Alta).jpg
+  auteur: Espencat
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Coca_de_llanda_(Ribera_Alta).jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

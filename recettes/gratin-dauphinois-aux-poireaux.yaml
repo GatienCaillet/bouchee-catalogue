@@ -1,0 +1,26 @@
+id: gratin-dauphinois-aux-poireaux
+titre: Gratin dauphinois aux poireaux
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 70
+  repos: 0
+ingredients:
+- 1 kg de pommes de terre
+- 2 poireaux
+- 50 cl de lait
+- 20 cl de crème fraîche
+- 1 gousse d'ail
+- 1 pincée de muscade
+- sel, poivre
+etapes:
+- Éplucher les pommes de terre et les couper en fines rondelles ; émincer les poireaux.
+- Les cuire 10 minutes dans le lait avec l'ail, la muscade, le sel et le poivre.
+- Verser dans un plat, ajouter la crème et cuire 1 heure à 170 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

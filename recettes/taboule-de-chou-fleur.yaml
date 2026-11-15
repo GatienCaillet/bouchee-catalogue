@@ -1,0 +1,27 @@
+id: taboule-de-chou-fleur
+titre: Taboulé de chou-fleur
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1/2 chou-fleur
+- 2 tomates
+- 1/2 concombre
+- 1 botte de persil
+- 1/2 botte de menthe
+- 1 citron
+- 4 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Mixer le chou-fleur cru en semoule.
+- Ajouter les légumes en petits dés et les herbes ciselées.
+- Assaisonner de jus de citron, d'huile et de sel.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

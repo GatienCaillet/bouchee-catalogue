@@ -1,0 +1,49 @@
+id: axoa
+titre: Axoa
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 80
+  repos: 0
+ingredients:
+- 1 kg d'épaule de veau
+- 1 poivron rouge
+- 1 oignon
+- 8 piments verts
+- 1 gousse d'ail
+- texte: Huile, laurier, persil, thym, sel, piment d'Espelette
+  ingredients:
+  - huile
+  - laurier
+  - persil
+  - thym
+  - sel
+  - piment_d_espelette
+  categorie: true
+etapes:
+- Émincer l'oignon et l'ail.
+- Ôter les pépins des piments et des poivrons et les trancher en petits dés.
+- Faire revenir le tout dans l'huile à la poêle pendant dix bonnes minutes.
+- Ajouter la viande coupée en dés, les herbes, le sel et le piment d'Espelette.
+- Faire sauter le tout 5 minutes, puis mouiller avec un petit verre d'eau ou de bouillon.
+- Laisser mijoter à couvert 45 à 60 minutes dans une cocotte.
+- 10 minutes avant la fin de la cuisson ôter le couvercle.
+- Avant de servir, faire à nouveau mijoter 10 minutes à couvert puis 10 minutes à découvert.
+- Accompagner ce plat de pommes de terre cuites ou bouillies, ou de riz.
+source:
+  titre: Axoa
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Axoa&oldid=451691
+  revision: 451691
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Axoa&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile, laurier, persil, piment d''Espelette, sel, thym.'
+photo:
+  fichier: Axoa.jpg
+  auteur: Monster1000
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Axoa.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

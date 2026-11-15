@@ -1,0 +1,40 @@
+id: leche-frita
+titre: Leche frita
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 15
+  repos: 0
+ingredients:
+- 1 litre de lait
+- 5 œufs
+- 3 jaunes d'œuf
+- 180g de sucre
+- 100g de fécule de maïs
+- 1 citron
+- 1 bâton de cannelle
+- farine
+- huile d'olive
+- cannelle en poudre.
+etapes:
+- Infuser le lait dans une casserole avec la peau du citron et la cannelle, sans bouillir, pendant dix minutes.
+- Laisser tiédir et filtrer.
+- À part, mixer les œufs entiers, les jaunes, le sucre et la farine de maïs.
+- Mélanger au lait.
+- Porter à ébullition à feu moyen, sans arrêter de remuer.
+- Cuire encore cinq minutes, sans cesser de remuer.
+- Verser la crème dans une plaque à four huilée et la laisser refroidir au réfrigérateur.
+- Couper en morceaux carrés.
+- Mouiller les morceaux dans de l'œuf battu, puis les passer par la farine; les frire ensuite dans une poêle, dans
+  un bain d'huile d'olive très chaude.
+- Saupoudrer généreusement de sucre cristallisé mélangé à de la cannelle en poudre.
+source:
+  titre: Leche frita
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Leche_frita&oldid=658354
+  revision: 658354
+  date: '2021-06-26'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Leche_frita&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

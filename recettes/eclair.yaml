@@ -1,0 +1,51 @@
+id: eclair
+titre: Éclair
+portions: 6
+temps:
+  preparation: 45
+  cuisson: 28
+  repos: 0
+ingredients:
+- 1/4 de litre d'eau
+- 150 g de farine
+- 75 g de beurre + 20 g pour la plaque
+- 20 g de sucre en poudre
+- 4 œufs
+- 1 pincée de sel
+- 1/2 litre de lait
+- 5 cuillerées à soupe d'eau
+- 75 g de sucre en poudre
+- 60 g de farine
+- 3 œufs
+- 100 g de chocolat noir
+- 60 g de chocolat noir
+- 60 g de beurre
+- 2 œufs
+etapes:
+- 'Préparez la pâte: mettez l''eau dans une casserole avec le sucre, le beurre et la pincée de sel. Chauffez jusqu''à
+  ébullition. Retirez la casserole du feu et versez-y la farine en une seule fois, sans cesser de tourner avec une
+  cuillère en bois. Mélangez bien. Remettez la casserole sur feu doux et continuez à tourner sans vous interrompre
+  jusqu''à ce que la pâte se décolle des parois. Hors du feu, ajoutez les œufs un par un, en travaillant la préparation
+  pendant au moins 3 minutes avant d''incorporer un autre œuf.'
+- Avec cette pâte, façonnez 6 gros boudins. Faite-les cuire (thermostat 7) pendant 25 minutes environ.
+- 'Préparez la crème au chocolat: cassez le chocolat en morceaux et faites-le fondre dans l''eau sur feu doux. Lorsqu''il
+  forme une pâte lisse ajoutez la farine, les œufs et le sucre. Mélangez.'
+- Chauffez le lait. Lorsqu'il atteint l'ébullition, versez-le petit à petit dans la préparation, en tournant. Mettez
+  sur feu doux et tournez jusqu'au premier bouillon. Retirez du feu et laissez refroidir.
+- Lorsque les éclairs sont cuits, laissez-les refroidir puis fendez-les d'un côté, sur toute la longueur.
+- Remplissez-les délicatement de crème au chocolat en utilisant une poche à douille unie.
+- 'Préparez le glaçage au chocolat: cassez le chocolat en morceaux. Mettez-les dans un bol préchauffé avec le beurre
+  ramolli. Travaillez avec une spatule, jusqu''à obtention d''un mélange lisse. Séparez les blancs d''œufs des jaunes.
+  Incorporez d''abord les jaunes, puis les blancs battu en neige molle.'
+- Nappez les éclairs de ce glaçage en le lissant bien.
+- Mettez les éclairs au réfrigérateur jusqu'à ce que le glaçage ait durci.
+source:
+  titre: Éclair
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Desserts/%C3%89clair&oldid=451928
+  revision: 451928
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Desserts/%C3%89clair&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

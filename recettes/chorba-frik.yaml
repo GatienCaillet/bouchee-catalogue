@@ -1,0 +1,37 @@
+id: chorba-frik
+titre: Chorba frik
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 90
+  repos: 0
+ingredients:
+- 300 grammes de viande de bœuf hachée
+- 200 grammes de blé vert concassé
+- texte: 100 grammes de céleri haché
+  ingredients:
+  - celeri
+  categorie: true
+- 100 grammes de persil haché
+- 1 cuillère à soupe de purée de tomate
+- 1 cuillère à café de poivre rouge
+- 1 cuillère à café de poivre
+- 2 cuillères à café de sel
+- 2 cuillères à soupe d'huile d'olive
+- 2 litres d'eau
+- 1 citron
+- 100 grammes de pois chiches trempés (option)
+etapes:
+- Mélanger tous les ingrédients et faire cuire à feu doux (pendant une heure et demie) en remuant souvent
+- Servir avec du citron
+source:
+  titre: Chorba frik
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chorba_frik&oldid=545516
+  revision: 545516
+  date: '2017-04-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chorba_frik&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : céleri.'

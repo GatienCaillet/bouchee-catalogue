@@ -1,0 +1,37 @@
+id: epinards-a-la-creme-au-micro-ondes
+titre: Épinards à la crème au micro-ondes
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 9
+  repos: 0
+ingredients:
+- 500 g d'épinards surgelés
+- 10 cl de lait
+- une cuillère à café de farine
+- texte: 10 cl de crème
+  ingredients:
+  - creme
+  categorie: true
+- sel.
+etapes:
+- Placer les épinards surgelés dans une assiette creuse ou un plat allant au micro-ondes.
+- Ajouter le lait.
+- Assaisonner.
+- Faire cuire au micro-ondes 3 minutes environ.
+- Ajouter la farine et mélanger.
+- Faire cuire au micro-ondes 3 minutes environ.
+- Ajouter la crème fraîche.
+- Faire cuire au micro-ondes 3 minutes environ.
+- Mélanger et servir.
+source:
+  titre: Épinards à la crème au micro-ondes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C3%89pinards_%C3%A0_la_cr%C3%A8me_au_micro-ondes&oldid=675056
+  revision: 675056
+  date: '2022-04-23'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C3%89pinards_%C3%A0_la_cr%C3%A8me_au_micro-ondes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : crème.'

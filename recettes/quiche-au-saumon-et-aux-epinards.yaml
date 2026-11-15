@@ -1,0 +1,29 @@
+id: quiche-au-saumon-et-aux-epinards
+titre: Quiche au saumon et aux épinards
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 40
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 200 g de saumon fumé
+- 200 g d'épinards
+- 3 œufs
+- 20 cl de crème fraîche
+- 10 cl de lait
+- 1 pincée de muscade
+- sel, poivre
+etapes:
+- Préchauffer le four à 180 °C et garnir un moule à tarte de la pâte brisée.
+- Faire tomber les épinards à la poêle, les presser, puis les mélanger au saumon coupé en lanières.
+- Battre les œufs avec la crème et le lait ; saler, poivrer et ajouter la muscade.
+- Répartir la garniture sur la pâte et verser l'appareil par-dessus.
+- Enfourner 35 à 40 minutes, jusqu'à ce que la quiche soit dorée et prise.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « quiche »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

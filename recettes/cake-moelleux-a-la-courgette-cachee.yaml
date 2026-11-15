@@ -1,0 +1,30 @@
+id: cake-moelleux-a-la-courgette-cachee
+titre: Cake moelleux à la courgette cachée
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 1 courgette
+- 3 œufs
+- 150 g de farine
+- 1 sachet de levure chimique
+- 10 cl d'huile d'olive
+- 100 g d'emmental râpé
+- sel, poivre
+etapes:
+- Râper finement la courgette et bien la presser.
+- Mélanger les œufs, l'huile, la farine et la levure, puis la courgette et l'emmental.
+- Cuire 40 minutes à 180 °C dans un moule à cake.
+decouverte:
+  aliment: courgette
+  niveau: 1
+  pourquoi: 'Râpée et pressée, la courgette disparaît dans la pâte : elle apporte surtout du moelleux.'
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

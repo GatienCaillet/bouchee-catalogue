@@ -1,0 +1,49 @@
+id: kouglof
+titre: Kouglof
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 120
+  repos: 0
+ingredients:
+- 500 g de farine
+- 150 g de beurre
+- 150 g de sucre
+- 150 g de raisins de Corinthe
+- 20 g de levure de boulanger
+- 3 œufs
+- 20 cl de lait tiède
+- des amandes décortiquées
+- un peu de kirsch
+etapes:
+- Mettre les raisins dans un bol, arroser d'un peu de kirsch et d'eau tiède pour les recouvrir.
+- Délayer la levure dans la moitié du lait tiède, rajouter un peu de farine pour former le levain.
+- Dans une casserole fait tiédir le lait, y faire fondre le beurre et dissoudre le sucre.
+- Mettre la farine dans un grand saladier, faire un puits au milieu, y déposer le levain, recouvrir, laisser monter.
+- Une heure après, verser dans le saladier le mélange lait-sucre-beurre, puis les œufs un à un, mélanger la pâte
+  à la main en la soulevant pour l'aérer jusqu'à ce qu'elle se détache des bords du saladier (ça peut être long
+  et fatigant).
+- Laisser la pâte lever une première fois dans le saladier jusqu'à ce qu'elle ait doublé de volume.
+- Finir par les raisins égouttés, aérer (c'est-à-dire battre) une dernière fois.
+- Bien beurrer le moule, mettre des amandes au fond des cannelures, verser la pâte dans le moule jusqu'à la moitié
+  de la hauteur et laisser lever une seconde fois jusqu'à ce que la pâte déborde presque du moule.
+- Mettre au four (thermostat 6-7, 190°) pendant 1 h.
+- Le temps que mettra la pâte à lever varie énormément en fonction de la température et de l'humidité ambiante,
+  de même pour que la pâte se détache du saladier lorsqu'on l'aère. Mieux vaut s'armer de patience et avoir un bras
+  musclé et résistant.
+source:
+  titre: Kouglof
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Kouglof&oldid=644971
+  revision: 644971
+  date: '2020-08-08'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Kouglof&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Kouglof.png
+  auteur: No machine-readable author provided. Vargenau assumed (based on copyright claims).
+  licence: CC BY 2.5
+  url: https://commons.wikimedia.org/wiki/File:Kouglof.png
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

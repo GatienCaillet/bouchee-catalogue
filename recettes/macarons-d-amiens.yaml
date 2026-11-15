@@ -1,0 +1,32 @@
+id: macarons-d-amiens
+titre: Macarons d'Amiens
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 15
+  repos: 0
+ingredients:
+- 250 g de poudre d'amandes
+- 250 g de sucre glace
+- 4 blancs d'œufs
+- 35 g de farine
+- 2 cuillères à soupe de miel liquide
+- 1 sachet de sucre vanillé
+etapes:
+- Dans un récipient, mettre la poudre d'amandes, faire un puits, mettre le sucre glace, le sucre vanillé, et la
+  farine.
+- Mélanger, faire un puits pour incorporer petit à petit les blancs d'œuf, ajouter le miel (La pâte doit être souple).
+- Mettre l'appareil dans une poche, déposer sur une plaque recouverte d'une feuille de papier cuisson, des boules
+  de 3 cm de diamètre.
+- Cuire au four chaud 15 à 20 min à 180°C (Les macarons seront cuits lorsqu'ils seront légèrement dorés).
+- Conserver au sec.
+source:
+  titre: Macarons d'Amiens
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Macarons_d%27Amiens&oldid=516830
+  revision: 516830
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Macarons_d%27Amiens&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

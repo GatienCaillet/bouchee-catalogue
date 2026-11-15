@@ -1,0 +1,42 @@
+id: tarte-a-la-rhubarbe
+titre: Tarte à la rhubarbe
+portions: 8
+temps:
+  preparation: 25
+  cuisson: 40
+  repos: 0
+ingredients:
+- 1 pâte brisée
+- 500 g de rhubarbe
+- 2 œufs
+- 20 cl de crème fraîche
+- 200 g de sucre
+etapes:
+- Préparer la pâte brisée
+- Huiler un moule à tarte et y déposer la pâte brisée
+- Laver les tiges de rhubarbe
+- Éplucher la rhubarbe
+- Découper la rhubarbe en petits cubes
+- Préchauffer le four à 200 °C (thermostat 6-7)
+- Déposer les petits cubes de rhubarbe sur la pâte. La rhubarbe doit occuper le maximum d'espace ; s'il reste des
+  trous, éplucher et couper davantage de rhubarbe
+- Mélanger les œufs, le sucre et la crème fraiche jusqu'à obtenir un mélange homogène
+- Verser le mélange dans le moule au-dessus de la rhubarbe
+- Mettre la tarte au four pendant environ 30-40 minutes
+- La tarte se mange de préférence froide.
+source:
+  titre: Tarte à la rhubarbe
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Desserts/Tarte_%C3%A0_la_rhubarbe&oldid=451927
+  revision: 451927
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Desserts/Tarte_%C3%A0_la_rhubarbe&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'
+photo:
+  fichier: Tarte à la rhubarbe.jpg
+  auteur: Arria Belli ( Arria Belli )
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Tarte_%C3%A0_la_rhubarbe.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

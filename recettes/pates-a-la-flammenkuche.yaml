@@ -1,0 +1,32 @@
+id: pates-a-la-flammenkuche
+titre: Pâtes à la flammenkuche
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 5
+  repos: 0
+ingredients:
+- texte: 400 g de pâtes
+  ingredients:
+  - pates
+  categorie: true
+- 200 g de fromage blanc
+- 120 g de lardons
+- 2 gros oignons
+etapes:
+- Faire cuire les pâtes en suivant les instructions écrites sur le paquet.
+- Dans une casserole, faire revenir les lardons (nul besoin d'huile, le gras des lardons suffit). Ajouter les oignons
+  coupés en lamelles.
+- Lorsque les oignons sont translucides, ajouter le fromage blanc. Laisser à feu doux cinq minutes.
+- Servir les pâtes accompagnées de sauce.
+source:
+  titre: Pâtes à la flammenkuche
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_%C3%A0_la_flammenkuche&oldid=452787
+  revision: 452787
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/P%C3%A2tes_%C3%A0_la_flammenkuche&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : pâtes.'

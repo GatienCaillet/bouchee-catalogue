@@ -1,0 +1,32 @@
+id: chicken-supreme
+titre: Chicken supreme
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 45
+  repos: 0
+ingredients:
+- ¼ de tasse de beurre fondu.
+- ½ tasse de miel.
+- texte: ¼ de tasse de moutarde.
+  ingredients:
+  - moutarde
+  categorie: true
+- 1 cuiller à café de curry en poudre.
+- 4-5 blancs de poulet (ou de dinde, dans ce cas c'est un turkey supreme).
+etapes:
+- Dans une poêle, mélanger tous les ingrédients sauf la volaille.
+- Ajouter la volaille à la préparation pour qu'elle en soit recouverte. Faire cuire à feu moyen 45 minutes en arrosant
+  régulièrement et en tournant la volaille à mi-cuisson.
+- Servir avec une salade et des pommes de terre sautées.
+source:
+  titre: Chicken supreme
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chicken_supreme&oldid=451894
+  revision: 451894
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Chicken_supreme&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : moutarde.'

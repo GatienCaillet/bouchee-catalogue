@@ -1,0 +1,37 @@
+id: fondant-au-chocolat
+titre: Fondant au chocolat
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 300
+  repos: 0
+ingredients:
+- 4 œufs
+- 200 g de chocolat noir
+- 100 g de beurre
+- 50 g de sucre
+- 50 g de farine
+etapes:
+- Préchauffer le four à 200°C (Thermostat 6-7).
+- Faire fondre dans une casserole, à feu doux, le chocolat et le beurre en morceaux.
+- Pendant que le chocolat fond lentement, mélanger sucre, œufs et farine dans un saladier.
+- Puis y ajouter le chocolat et le beurre.
+- Beurrer et fariner un moule (ou des pots individuels) et y verser la pâte.
+- Enfourner pendant 10 à 15 minutes (en fonction de l'épaisseur du gâteau).
+- Laisser refroidir une nuit avant de démouler.
+source:
+  titre: Fondant au chocolat
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fondant_au_chocolat&oldid=716453
+  revision: 716453
+  date: '2024-04-04'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Fondant_au_chocolat&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Fondant au chocolat (250g de beurre).jpg
+  auteur: Mathieu MD
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Fondant_au_chocolat_(250g_de_beurre).jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

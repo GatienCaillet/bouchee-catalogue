@@ -1,0 +1,28 @@
+id: gratin-d-artichauts-au-parmesan
+titre: Gratin d'artichauts au parmesan
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 35
+  repos: 0
+ingredients:
+- 400 g de cœurs d'artichaut
+- 20 cl de crème fraîche
+- 2 œufs
+- 50 g de parmesan râpé
+- 1 gousse d'ail
+- sel, poivre
+etapes:
+- Égoutter les cœurs d'artichaut et les couper en quartiers.
+- Cuire les cœurs d'artichaut 10 minutes à la vapeur ou à l'eau bouillante salée, puis bien égoutter.
+- Frotter un plat à gratin avec la gousse d'ail coupée en deux.
+- Battre les œufs avec la crème, saler et poivrer.
+- Disposer les cœurs d'artichaut dans le plat, verser la crème aux œufs et parsemer de parmesan.
+- Enfourner 25 minutes à 190 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « gratin à la crème »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

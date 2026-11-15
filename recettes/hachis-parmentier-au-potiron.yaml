@@ -1,0 +1,27 @@
+id: hachis-parmentier-au-potiron
+titre: Hachis parmentier au potiron
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 40
+  repos: 0
+ingredients:
+- 400 g de bœuf haché
+- 600 g de potiron
+- 400 g de pommes de terre
+- 1 oignon
+- 30 g de beurre
+- 50 g d'emmental râpé
+- sel, poivre
+etapes:
+- Cuire le potiron et les pommes de terre 20 minutes à l'eau salée, puis les écraser avec le beurre.
+- Faire revenir l'oignon et le bœuf.
+- Étaler la viande dans un plat, couvrir de purée et d'emmental.
+- Gratiner 20 minutes à 200 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,25 @@
+id: parmentier-de-canard
+titre: Parmentier de canard
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 4 cuisses de canard confites
+- 1 kg de pommes de terre
+- 2 échalotes
+- 20 cl de lait
+- 30 g de beurre
+- sel, poivre
+etapes:
+- Cuire les pommes de terre 20 minutes et les écraser avec le lait et le beurre.
+- Effilocher le canard et le faire revenir avec les échalotes.
+- Monter le parmentier dans un plat et gratiner 20 minutes à 200 °C.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parmentier »), pas encore testée en cuisine : quantités et
+    temps à confirmer.'

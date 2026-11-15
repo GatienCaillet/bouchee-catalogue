@@ -1,0 +1,36 @@
+id: craquelin
+titre: Craquelin
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 20
+  repos: 80
+ingredients:
+- 300 g de farine
+- 10 à 20 cl d'eau
+- 2 jaunes d'œufs
+- 20 g de levure de boulanger
+- 25 g de beurre
+- 20 g de sucre
+- 4 g de sel
+- 100 g de sucre perlé (en gros grains)
+- cannelle (facultatif)
+etapes:
+- Tamisez la farine
+- Ajoutez l'eau, la levure et les jaunes d'œufs
+- Mélangez puis ajoutez le sucre, le sel et enfin le beurre fondu
+- Travaillez la pâte jusqu'à ce qu'elle soit souple et homogène, formez une boule et laissez reposer 20 minutes
+- Incorporez le sucre perlé et laisser reposer 1 heure sur une plaque graissée pour faire pousser la pâte
+- Dorez et faites cuire au four à 200 °C pendant environ 20 minutes
+- Site des Craquelins Margely
+- Le site des craquelins de Saint Malo
+source:
+  titre: Craquelin
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Craquelin&oldid=452675
+  revision: 452675
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Craquelin&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

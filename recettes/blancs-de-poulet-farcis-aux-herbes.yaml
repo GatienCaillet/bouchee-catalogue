@@ -1,0 +1,47 @@
+id: blancs-de-poulet-farcis-aux-herbes
+titre: Blancs de poulet farcis aux herbes
+portions: 4
+temps:
+  preparation: 40
+  cuisson: 25
+  repos: 0
+ingredients:
+- 4 blancs de poulet
+- 500 g. de courgettes
+- texte: 1 bouquet d'herbes mélangées (persil, ciboulette, menthe, aneth...), fraîches de préférence, et ciselées
+    finement et hachées
+  ingredients:
+  - herbe_aromatique
+  categorie: true
+- 1 gousse d'ail pressé
+- 1 jaune d'œuf
+- 10 cl de vin blanc sec
+- 3 cuillers à soupe de sauce soja
+- 3 cuillers à soupe d'huile d'olive
+- 2 cuillers à soupe de miel
+- sel et poivre du moulin
+etapes:
+- Dans un bol de préparation, mélangez la gousse d'ail pressée, les herbes fraîches hachées, et le jaune d'œuf,
+  salez et poivrez.
+- Fendez les blancs en deux dans l'épaisseur sans séparer les morceaux et garnissez-les avec la farce aux herbes,
+  roulez-les et ficelez-les fermement.
+- Faites chauffer la sauteuse avec l'huile d'olive, faites-y dorer les blancs de poulets et réservez-les quand ils
+  ont bien coloré.
+- Dans une petite casserole, faites tiédir le vin blanc sec et faites-y fondre le miel avant d'y ajouter la sauce
+  de soja. Versez la sauce dans sauteuse et laissez bouillir 5 minutes.
+- Remettez les blancs de poulet à cuire dans la sauteuse, couvrez et laissez mijoter pendant 15 minutes.
+- Pendant ce temps, rincez et épluchez les courgettes et à l'aide d'un couteau économe coupez des tagliatelles de
+  courgettes à faire cuire 5 minutes à la vapeur pour les garder croquantes.
+- Coupez en tranches les blancs de poulet farcis aux herbes et présentez-les sur un lit de tagliatelles de courgettes,
+  arrosées de jus de la cuisson, et décorées d'herbes fraîches.
+source:
+  titre: Blancs de poulet farcis aux herbes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Blancs_de_poulet_farcis_aux_herbes&oldid=640518
+  revision: 640518
+  date: '2020-05-14'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Blancs_de_poulet_farcis_aux_herbes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : herbe aromatique.'

@@ -1,0 +1,32 @@
+id: minestrone
+titre: Minestrone
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 40
+  repos: 0
+ingredients:
+- 1 oignon
+- 2 carottes
+- 150 g de céleri branche
+- 1 courgette
+- 400 g de tomates pelées
+- 1 boîte de haricots blancs (400 g)
+- 80 g de petites pâtes
+- 1,5 l de bouillon de légumes
+- 2 c. à soupe d'huile d'olive
+- 50 g de parmesan râpé
+- sel, poivre
+etapes:
+- Couper tous les légumes en petits dés.
+- Les faire revenir 5 minutes dans l'huile d'olive.
+- Ajouter les tomates et le bouillon, et cuire 20 minutes.
+- Ajouter les haricots et les pâtes et cuire encore 10 minutes.
+- Servir parsemé de parmesan.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

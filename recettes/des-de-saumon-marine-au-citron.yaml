@@ -1,0 +1,33 @@
+id: des-de-saumon-marine-au-citron
+titre: Dés de saumon mariné au citron
+portions: 6
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 1440
+ingredients:
+- 600 g de saumon frais coupé en dés
+- 6 citrons
+- gros sel
+- texte: herbes aromatiques (thym, aneth)
+  ingredients:
+  - herbe_aromatique
+  categorie: true
+etapes:
+- Saler abondamment les dés de saumon avec le gros sel.
+- Placer au réfrigérateur pendant 24 heures.
+- Jeter le sel et rincer rapidement les dés de saumon.
+- Presser les citrons et recouvrir les dés avec le jus.
+- Ajouter les herbes et placer au réfrigérateur encore une journée.
+- Servir avec de petits pics.
+source:
+  titre: Dés de saumon mariné au citron
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/D%C3%A9s_de_saumon_marin%C3%A9_au_citron&oldid=326438
+  revision: 326438
+  date: '2011-05-02'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/D%C3%A9s_de_saumon_marin%C3%A9_au_citron&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : herbe aromatique.'

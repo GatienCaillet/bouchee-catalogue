@@ -1,0 +1,27 @@
+id: puree-de-pommes-de-terre-au-chou-fleur
+titre: Purée de pommes de terre au chou-fleur
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 600 g de pommes de terre
+- 200 g de chou-fleur
+- 30 g de beurre
+- 10 cl de lait
+- sel, poivre
+etapes:
+- Cuire les pommes de terre et le chou-fleur 20 minutes à l'eau salée.
+- Les écraser finement avec le beurre et le lait chaud.
+decouverte:
+  aliment: chou_fleur
+  niveau: 1
+  pourquoi: Écrasé avec les pommes de terre, le chou-fleur passe inaperçu dans une purée classique.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

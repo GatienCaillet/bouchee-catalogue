@@ -1,0 +1,26 @@
+id: filet-mignon-de-porc-a-la-moutarde
+titre: Filet mignon de porc à la moutarde
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 25
+  repos: 0
+ingredients:
+- 2 filets mignons de porc
+- 2 c. à soupe de moutarde à l'ancienne
+- 20 cl de crème fraîche
+- 1 échalote
+- 20 g de beurre
+- sel, poivre
+etapes:
+- Faire dorer les filets mignons au beurre sur toutes les faces.
+- Ajouter l'échalote hachée, couvrir et cuire 20 minutes à feu doux.
+- Retirer la viande, ajouter la moutarde et la crème et faire réduire.
+- Trancher la viande et la napper de sauce.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

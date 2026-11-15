@@ -1,0 +1,26 @@
+id: puree-de-carottes
+titre: Purée de carottes
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 50
+  repos: 0
+ingredients:
+- 400 g de carottes
+- 100 g de pomme de terre
+- 10 g de beurre
+- sel
+etapes:
+- Éplucher et couper les légumes, cuire les carottes 20 min a l'eau salée
+- Ajouter les pommes de terre, cuire 30 min
+- Égoutter, écraser, ajouter 20 cl du jus de cuisson, le beurre, saler
+source:
+  titre: Purée de carottes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pur%C3%A9e_de_carottes&oldid=452439
+  revision: 452439
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pur%C3%A9e_de_carottes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,54 @@
+id: gulabjaman
+titre: Gulabjaman
+portions: 4
+temps:
+  preparation: 45
+  cuisson: 0
+  repos: 90
+ingredients:
+- 175 g de lait entier en poudre
+- 2 c. à soupe de farine
+- texte: 1 c. à café de levure
+  ingredients:
+  - levure
+  categorie: true
+- ¼ c. à café de bicarbonate de soude
+- 1 c. à soupe de beurre ramolli ou de ghee
+- ¼ c. à café de cardamome en poudre
+- 1 yaourt
+- texte: huile ou ghee
+  ingredients:
+  - huile
+  - beurre_clarifie
+  categorie: true
+- 350 g de sucre
+- 600 ml d' eau
+- eau de rose
+- quelques gousses de cardamome écrasées
+etapes:
+- Mélanger la farine, le lait, la levure et le bicarbonate de soude. Ajouter le beurre, la poudre de cardamome et
+  le yaourt. Travailler le tout pour former une boule de pâte souple. Diviser la pâte et façonner des boulettes
+  de la taille d'une grosse noix. Laissez reposer une demi-heure.
+- 'Préparer le sirop : verser l''eau, le sucre et les gousses de cardamome dans une casserole à fond épais. Faire
+  chauffer en remuant jusqu''à dissolution du sucre. Laisser épaissir. Ajouter l''eau de rose et maintenir chaud.'
+- Faire chauffer deux cm d'huile dans un wok. Mettre les boulettes à dorer à feu modéré pour permettre à l'intérieur
+  de cuire. Les mettre ensuite sur du papier absorbant de façon à éliminer le surplus de matière grasse. Couper
+  le feu sous le sirop et y mettre les boulettes à refroidir pour qu'elles s'imprègnent de liquide. Laisser reposer
+  une heure avant de servir. Servir tiède ou froid.
+- Avec une boule de glace de vanille et un gulab chaud c'est délicieux!
+- Avec le Gulab Jamun, vous pouvez vonlontié servir un Khun Sharbat qui est entre autre un mélange de sirop de fraise
+  et d'eau caramélisé.
+- Catégorie:Cuisine du monde indien Gulabjaman Gulabjaman
+- en:Cookbook:Gulab jamun
+source:
+  titre: Gulabjaman
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gulabjaman&oldid=330246
+  revision: 330246
+  date: '2011-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gulabjaman&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes, 2 ligne(s)
+    retirée(s) de la liste (ustensiles, titres de sous-section) ; catégories gardées telles quelles : beurre clarifié,
+    huile, levure.'

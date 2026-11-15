@@ -1,0 +1,38 @@
+id: pain-a-la-banane
+titre: Pain à la banane
+portions: 4
+temps:
+  preparation: 37
+  cuisson: 60
+  repos: 0
+ingredients:
+- 200g de sucre
+- 110g de beurre
+- 3 bananes
+- 2 œufs
+- 250g de farine
+- texte: 1 cuillère à café de levure
+  ingredients:
+  - levure
+  categorie: true
+- 100ml de lait
+- 1 cuillère à café de sel
+- Extrait de vanille.
+etapes:
+- Préchauffer le four à 175°C
+- Graisser un moule à pain
+- Mélanger l'ensemble des ingrédients dans un saladier. Bien mélanger
+- Verser le mélange dans le moule
+- Enfourner pendant 60 minutes. Vous pouvez insérer un couteau/cure-dent au centre du pain, si ce dernier ressort
+  propre, vous pouvez arrêter sortir le pain.
+source:
+  titre: Pain à la banane
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pain_%C3%A0_la_banane&oldid=733865
+  revision: 733865
+  date: '2025-01-07'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Pain_%C3%A0_la_banane&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : levure.'

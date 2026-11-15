@@ -1,0 +1,44 @@
+id: gratin-de-pates-et-viande-hachee
+titre: Gratin de pâtes et viande hachée
+portions: 4
+temps:
+  preparation: 43
+  cuisson: 30
+  repos: 0
+ingredients:
+- 250 g de tagliatelles
+- 250 g de bœuf haché
+- 100 g de fromage râpé
+- 50 g de lard maigre
+- 40 g de persil haché
+- 4 tomates
+- 2 œufs
+- 25 cl de lait
+- 12 g de beurre
+- 1 oignon
+- texte: 2 de romarin, huile, sel, poivre
+  ingredients:
+  - romarin
+  - huile
+  - sel
+  - poivre
+  categorie: true
+etapes:
+- Cuire les pâtes, les égoutter et les refroidir à l'eau froide
+- Émincer l'oignon, couper le lard en dés, faire revenir dans un peu d'huile. Ajouter la viande hachée, puis les
+  herbes aromatiques
+- Beurrer un moule, y déposer la moitié des pâtes. Recouvrir avec la viande hachée, puis de rondelles de tomates
+  et finir avec le reste de pâtes
+- Mélanger le lait, les œufs et assaisonner. Arroser le gratin avec ce mélange
+- Saupoudrer de fromage râpé. Cuire 30 min au four à 175 °C
+source:
+  titre: Gratin de pâtes et viande hachée
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_de_p%C3%A2tes_et_viande_hach%C3%A9e&oldid=451989
+  revision: 451989
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_de_p%C3%A2tes_et_viande_hach%C3%A9e&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile, poivre, romarin, sel.'

@@ -1,0 +1,29 @@
+id: tajine-de-poulet-au-citron-confit-et-aux-olives
+titre: Tajine de poulet au citron confit et aux olives
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 60
+  repos: 0
+ingredients:
+- 1 poulet en morceaux
+- 2 citrons confits
+- 100 g d'olives vertes
+- 2 oignons
+- 1 c. à café de gingembre en poudre
+- 1 dosette de safran
+- 1/2 botte de coriandre fraîche
+- 3 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Faire dorer les morceaux de poulet dans l'huile, puis les oignons émincés.
+- Ajouter les épices et 30 cl d'eau, couvrir et cuire 40 minutes.
+- Ajouter les citrons confits en quartiers et les olives, et cuire encore 15 minutes.
+- Parsemer de coriandre.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

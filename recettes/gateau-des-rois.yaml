@@ -1,0 +1,46 @@
+id: gateau-des-rois
+titre: Gâteau des Rois
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 35
+  repos: 480
+ingredients:
+- 500 g de farine
+- 5 œufs
+- 150 g de beurre
+- 75 g de sucre en poudre
+- 200 g de fruits confits
+- 20 g de levure de boulanger
+- une pincée de sel.
+etapes:
+- Sortir le beurre pour qu'il ramollisse.
+- Emietter la levure et délayez la dans un verre d'eau tiède.
+- Laisser 5 minutes à température ambiante.
+- Verser la farine dans le saladier. Ajoutez 4 jaunes d'œufs, 50 g de sucre et une pincée de sel.
+- Ajouter le beurre coupé en petits morceaux. Mélangez bien avec le bout des doigts.
+- Ajouter la levure, une partie des fruits confits hachés grossièrement et pétrissez longuement.
+- Rouler la pâte en boule. Laissez reposer 8 heures pour que la pâte lève.
+- Rouler la boule de pâte en forme de baguette, puis de couronne en attachant les deux bouts.
+- Décorer avec le restant de fruits confits entiers. Ajouter la fève et le sujet.
+- Délayer le cinquième jaune d'œuf dans le verre et dorez la couronne à l'aide du pinceau.
+- Saupoudrer de sucre.
+- Préchauffer le four à thermostat 5 (150°C).
+- Poser la couronne sur une feuille de papier sulfurisé.
+- Enfourner pour 30 à 40 minutes (variable selon les fours).
+source:
+  titre: Gâteau des Rois
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_des_Rois&oldid=452704
+  revision: 452704
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/G%C3%A2teau_des_Rois&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Gateau des rois1.JPG
+  auteur: No machine-readable author provided. David.Monniaux assumed (based on copyright claims).
+  licence: CC BY-SA 3.0
+  url: https://commons.wikimedia.org/wiki/File:Gateau_des_rois1.JPG
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

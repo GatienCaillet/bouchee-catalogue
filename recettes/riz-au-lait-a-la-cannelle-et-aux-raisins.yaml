@@ -1,0 +1,24 @@
+id: riz-au-lait-a-la-cannelle-et-aux-raisins
+titre: Riz au lait à la cannelle et aux raisins
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 40
+  repos: 0
+ingredients:
+- 150 g de riz rond
+- 1 l de lait
+- 100 g de sucre
+- 1 c. à café de cannelle
+- 50 g de raisins secs
+etapes:
+- Faire chauffer le lait avec la cannelle.
+- Ajouter le riz et cuire 40 minutes à feu très doux en remuant souvent.
+- Ajouter le sucre et les raisins en fin de cuisson.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

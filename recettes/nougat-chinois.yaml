@@ -1,0 +1,36 @@
+id: nougat-chinois
+titre: Nougat chinois
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 300
+  repos: 0
+ingredients:
+- 400 g de sucre en poudre
+- 100 g de graines de sésame
+- 1 jus de citron
+- 2 cuillerées à soupe de miel liquide
+- 50 g de cacahuètes
+etapes:
+- Mélanger le sucre, un demi litre d'eau et le jus de citron dans une casserole à fond épais.
+- Porter à frémissement, puis baisser le feu et laisser cuire 40 min, jusqu'à obtenir un sirop caramélisé épais
+  et doré.
+- Mélanger le miel au sirop obtenu avec les cacahouètes.
+- Laisser complètement refroidir et durcir pendant au moins 6 heures.
+- Découper le nougat en petits carrés et les rouler dans les graines de sésame.
+source:
+  titre: Nougat chinois
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Nougat_chinois&oldid=618684
+  revision: 618684
+  date: '2019-07-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Nougat_chinois&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Nougat Chinois.jpg
+  auteur: Arnaud 25
+  licence: Domaine public
+  url: https://commons.wikimedia.org/wiki/File:Nougat_Chinois.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

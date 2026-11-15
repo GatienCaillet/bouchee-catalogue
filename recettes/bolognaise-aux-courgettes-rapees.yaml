@@ -1,0 +1,30 @@
+id: bolognaise-aux-courgettes-rapees
+titre: Bolognaise aux courgettes râpées
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 400 g de spaghettis
+- 400 g de bœuf haché
+- 1 courgette
+- 1 oignon
+- 800 g de tomates pelées
+- 2 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Faire revenir l'oignon, puis le bœuf.
+- Ajouter la courgette râpée et les tomates, et laisser mijoter 30 minutes.
+- Servir avec les spaghettis.
+decouverte:
+  aliment: courgette
+  niveau: 2
+  pourquoi: Râpée dans une sauce tomate, la courgette fond presque complètement.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

@@ -1,0 +1,42 @@
+id: vitello-tonnato
+titre: Vitello tonnato
+portions: 6
+temps:
+  preparation: 43
+  cuisson: 0
+  repos: 1440
+ingredients:
+- 1 rôti de veau
+- quelques feuilles de laurier, de sauge
+- 3 clous de girofle
+- des câpres, des anchois
+- 3 œufs durs
+- 300 g de thon à l'huile
+- un jus de citron
+- huile d'olive
+- texte: une bouteille de vin blanc sec
+  ingredients:
+  - vin
+  categorie: true
+- sel
+- poivre
+etapes:
+- Faire mariner pendant 24 heures la viande dans le vin avec le laurier, les clous de girofle et la sauge.
+- Cuire la viande couverte par la marinade (compléter avec de l'eau). Ajouter les anchois. Laisser réduire jusqu'à
+  environ un demi-litre.
+- Mélanger et passer le bouillon avec les œufs, l'huile, le thon, le jus de citron de façon à créer une sorte de
+  mayonnaise. Réserver au réfrigérateur.
+- En napper la viande froide, découpée en fines tranches sur des assiettes de présentation.
+- Décorer avec des câpres. On peut ajouter un brin de coriandre ou de persil pour la couleur, voire une demi-rondelle
+  de citron ou d'orange, avec une demi-olive noire dénoyautée.
+source:
+  titre: Vitello tonnato
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Vitello_tonnato&oldid=452875
+  revision: 452875
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Vitello_tonnato&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : vin.'

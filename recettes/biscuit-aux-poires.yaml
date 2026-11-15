@@ -1,0 +1,37 @@
+id: biscuit-aux-poires
+titre: Biscuit aux poires
+portions: 10
+temps:
+  preparation: 34
+  cuisson: 60
+  repos: 0
+ingredients:
+- 4 œufs
+- 250 grammes de sucre
+- 125 grammes de beurre doux
+- 250 grammes de farine
+- ½ cuillère à café de cannelle
+- 1 paquet de levure chimique
+- 1 sachet de sucre vanillé
+- 3 à 4 poires
+etapes:
+- Dans un saladier, mélanger les œufs et le sucre, jusqu'à ce que le mélange soit liquide et mousseux.
+- Ajouter le beurre en pommade
+- Mélanger la farine, la cannelle et la levure.
+- Ajouter le mélange farine-canelle-levure dans le saladier, petit à petit, et mélanger jusqu'à disparition des
+  grumeaux.
+- Beurrer un moule, puis y verser la pâte.
+- Éplucher les poires, les évider et les couper en deux.
+- Déposer les demi-poires dans le moule, par dessus la pâte, sur une seule couche et dans tout le moule.
+- Sucrer la partie émergée des poires avec le sucre vanillé.
+- Faire cuire une heure au moins à 155°C (thermostat 5).
+source:
+  titre: Biscuit aux poires
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Biscuit_aux_poires&oldid=358469
+  revision: 358469
+  date: '2012-03-12'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Biscuit_aux_poires&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

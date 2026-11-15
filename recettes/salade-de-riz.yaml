@@ -1,0 +1,28 @@
+id: salade-de-riz
+titre: Salade de riz
+portions: 4
+temps:
+  preparation: 28
+  cuisson: 0
+  repos: 0
+ingredients:
+- 350 g de riz
+- 200 g de thon
+- 3 tomates
+- 100 g de maïs
+- 4 œufs durs
+- mayonnaise
+etapes:
+- Faire cuire le riz puis l'égoutter et le laisser refroidir.
+- Couper les œufs durs et les tomates en quartier.
+- Mélanger tous les ingrédients dans un saladier.
+source:
+  titre: Salade de riz
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_de_riz&oldid=330019
+  revision: 330019
+  date: '2011-05-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_de_riz&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes.'

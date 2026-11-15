@@ -1,0 +1,37 @@
+id: baghrir
+titre: Baghrir
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 0
+  repos: 60
+ingredients:
+- 1 bol de semoule fine
+- 1/2 bol de farine
+- 1 cuillère à café de sel
+- 1 sachet de levure chimique
+- 2 bols d'eau tiède
+- 2 cuillères à café de levure boulangère
+- 1 cuillère à café de sucre semoule.
+etapes:
+- Dans un récipient, mélanger la semoule, la farine, le sel et la levure chimique.
+- Mixer ce mélange avec de l'eau tiède en ajoutant la levure boulangère, diluée dans un peu d'eau tiède, et le sucre.
+- Réserver la pâte obtenue et laisser lever une heure.
+- Juste avant la cuisson, remuer la pâte avec une louche.
+- Verser la quantité d'une petite louche de pâte sur une poêle bien lisse et chaude.
+- Faire cuire la crêpe sur une seule face sans la retourner.
+- 'Servir les crêpes chaudes selon vos goûts. Traditionnellement selon les régions est sont servies :'
+- imbibées de miel et de beurre fondu, avec un thé à la menthe. A Sétif, on y fond dessus du beurre puis on saupoudre
+  de sucre fin
+- arrosée d'un sirop traditionnel à l'eau de fleur d'oranger et cannelle (appelé cherbet)
+- badigeonnée d'huile d'olive et saupoudrée de sucre.
+source:
+  titre: Baghrir
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Baghrir&oldid=738415
+  revision: 738415
+  date: '2025-02-16'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Baghrir&action=history
+  licence: CC BY-SA 4.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

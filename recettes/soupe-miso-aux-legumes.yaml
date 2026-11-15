@@ -1,0 +1,26 @@
+id: soupe-miso-aux-legumes
+titre: Soupe miso aux légumes
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 10
+  repos: 0
+ingredients:
+- 2 c. à soupe de miso
+- 100 g de tofu soyeux
+- 2 oignons nouveaux
+- 100 g de champignons shiitake
+- 1 c. à soupe de wakamé
+- 1 l d'eau
+etapes:
+- Réhydrater le wakamé 5 minutes dans de l'eau froide.
+- Faire frémir l'eau avec les champignons émincés 5 minutes.
+- Hors du feu, délayer le miso dans un peu de bouillon puis l'ajouter.
+- Ajouter le tofu en dés, le wakamé et les oignons nouveaux émincés.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

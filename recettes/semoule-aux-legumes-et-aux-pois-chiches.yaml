@@ -1,0 +1,26 @@
+id: semoule-aux-legumes-et-aux-pois-chiches
+titre: Semoule aux légumes et aux pois chiches
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 20
+  repos: 0
+ingredients:
+- 250 g de semoule de blé
+- 2 courgettes
+- 2 carottes
+- 1 boîte de pois chiches (400 g)
+- 1 c. à café de ras el hanout
+- 3 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Faire revenir les légumes en dés avec le ras el hanout dans l'huile 15 minutes.
+- Ajouter les pois chiches égouttés.
+- Faire gonfler la semoule dans 25 cl d'eau bouillante salée et servir avec les légumes.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

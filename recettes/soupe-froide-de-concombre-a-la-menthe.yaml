@@ -1,0 +1,26 @@
+id: soupe-froide-de-concombre-a-la-menthe
+titre: Soupe froide de concombre à la menthe
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 0
+  repos: 60
+ingredients:
+- 2 concombres
+- 2 yaourts nature
+- 1/2 botte de menthe
+- 1 gousse d'ail
+- 1 citron
+- 2 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Éplucher les concombres et les couper en morceaux.
+- Les mixer avec les yaourts, la menthe, l'ail, le jus du citron et l'huile.
+- Saler et réserver 1 heure au frais.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « soupe froide »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

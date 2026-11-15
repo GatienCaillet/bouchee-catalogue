@@ -1,0 +1,26 @@
+id: porc-au-caramel
+titre: Porc au caramel
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 45
+  repos: 0
+ingredients:
+- 600 g d'échine de porc
+- 4 c. à soupe de sucre
+- 3 c. à soupe de nuoc-mâm
+- 2 échalotes
+- 2 gousses d'ail
+- 1 c. à soupe d'huile de colza
+etapes:
+- Couper le porc en cubes.
+- Faire un caramel brun avec le sucre et 3 c. à soupe d'eau, puis ajouter 10 cl d'eau chaude.
+- Faire dorer le porc dans l'huile avec l'ail et les échalotes.
+- Ajouter le caramel et le nuoc-mâm, et cuire 40 minutes à feu doux, jusqu'à ce que la sauce soit sirupeuse.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

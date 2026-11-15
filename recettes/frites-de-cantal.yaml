@@ -1,0 +1,28 @@
+id: frites-de-cantal
+titre: Frites de cantal
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- Cantal
+- Farine
+- Œuf battu
+- Chapelure
+etapes:
+- Couper un morceau de cantal en forme de frites (d'un centimètre de large et six à dix centimètres de long environ).
+- Les rouler dans la farine, puis les plonger dans l'œuf battu, puis les rouler dans la chapelure.
+- Replonger les bâtonnets de cantal dans l'œuf battu puis de nouveau dans la chapelure pour renforcer la panure.
+- Faire frire dans l'huile chaude de trente à quarante-cinq secondes.
+- Égoutter sur du papier absorbant, saler légèrement, poivrer et apprécier chaud.
+source:
+  titre: Frites de cantal
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Frites_de_cantal&oldid=516822
+  revision: 516822
+  date: '2016-07-03'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Frites_de_cantal&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

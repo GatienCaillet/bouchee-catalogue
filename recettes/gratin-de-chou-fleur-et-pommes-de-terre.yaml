@@ -1,0 +1,27 @@
+id: gratin-de-chou-fleur-et-pommes-de-terre
+titre: Gratin de chou-fleur et pommes de terre
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 0
+ingredients:
+- 400 g de pommes de terre
+- 300 g de chou-fleur
+- 20 cl de crème fraîche
+- 80 g d'emmental râpé
+- sel, poivre
+etapes:
+- Cuire les légumes 15 minutes à l'eau salée.
+- Les mettre dans un plat avec la crème, couvrir d'emmental et gratiner 20 minutes à 200 °C.
+decouverte:
+  aliment: chou_fleur
+  niveau: 2
+  pourquoi: Mêlé aux pommes de terre sous le fromage, il se fait discret.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « parcours de découverte »), pas encore testée en cuisine :
+    quantités et temps à confirmer.'

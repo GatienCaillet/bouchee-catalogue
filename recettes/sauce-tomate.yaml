@@ -1,0 +1,32 @@
+id: sauce-tomate
+titre: Sauce tomate
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 20
+  repos: 0
+ingredients:
+- 300 g de tomates
+- 2 cl d'huile d'olive
+- 1 gousse d'ail
+- 1 échalote
+- 1 cuillère à café de concentré de tomate en boîte (pour le colorant)
+- 1 bouquet garni
+- 15 cl de fond de volaille
+- sel, poivre
+etapes:
+- Monder (retirer la peau) et épépiner les tomates.
+- Faire chauffer l'huile, et faire suer l'ail et l'échalote hachée sans coloration.
+- Ajouter les tomates, le concentré de tomates, le bouquet garni et le fond de volaille.
+- Faire cuire à feu moyen pendant 20 minutes.
+- Saler, poivrer et mixer.
+source:
+  titre: Sauce tomate
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_tomate&oldid=331074
+  revision: 331074
+  date: '2011-05-20'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Sauce_tomate&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

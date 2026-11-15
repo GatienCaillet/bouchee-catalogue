@@ -1,0 +1,26 @@
+id: puree-de-petits-pois-et-pommes-de-terre
+titre: Purée de petits pois et pommes de terre
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 25
+  repos: 0
+ingredients:
+- 600 g de petits pois
+- 400 g de pommes de terre
+- 30 g de beurre
+- 10 cl de lait
+- sel, poivre
+etapes:
+- Écosser les petits pois, ou les décongeler s'ils sont surgelés.
+- Éplucher les pommes de terre et les couper en morceaux.
+- Cuire les petits pois et les pommes de terre 20 à 25 minutes à l'eau bouillante salée.
+- Égoutter, puis écraser au presse-purée avec le beurre et le lait chaud.
+- Saler, poivrer et servir aussitôt.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « purée »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

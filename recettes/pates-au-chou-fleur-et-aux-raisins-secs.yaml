@@ -1,0 +1,26 @@
+id: pates-au-chou-fleur-et-aux-raisins-secs
+titre: Pâtes au chou-fleur et aux raisins secs
+portions: 4
+temps:
+  preparation: 10
+  cuisson: 20
+  repos: 0
+ingredients:
+- 400 g de penne
+- 1/2 chou-fleur
+- 40 g de raisins secs
+- 30 g de pignons de pin
+- 3 c. à soupe d'huile d'olive
+- sel, poivre
+etapes:
+- Porter une grande casserole d'eau salée à ébullition.
+- Faire dorer les bouquets de chou-fleur précuits dans l'huile avec les raisins et les pignons.
+- Cuire les pâtes selon les indications du paquet, les égoutter en gardant un peu d'eau de cuisson.
+- Mélanger les pâtes à la sauce, détendre si besoin avec l'eau de cuisson, poivrer et servir.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « pâtes »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

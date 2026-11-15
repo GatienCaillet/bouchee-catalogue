@@ -1,0 +1,26 @@
+id: salade-de-poulet-mangue-et-avocat
+titre: Salade de poulet, mangue et avocat
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 6
+  repos: 0
+ingredients:
+- 2 blancs de poulet
+- 1 mangue
+- 2 avocats
+- 150 g de mesclun
+- 1 citron vert
+- 3 c. à soupe d'huile d'olive
+- sel
+etapes:
+- Cuire le poulet en lanières à la poêle 6 minutes.
+- Couper la mangue et les avocats en dés.
+- Mélanger avec le mesclun et assaisonner de jus de citron vert et d'huile.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « salade composée »), pas encore testée en cuisine : quantités
+    et temps à confirmer.'

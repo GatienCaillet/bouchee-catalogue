@@ -1,0 +1,27 @@
+id: glace-a-la-framboise
+titre: Glace à la framboise
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 40
+  repos: 0
+ingredients:
+- 750 g de framboises
+- 300 g de sucre
+- 200 g de crème fraîche épaisse
+etapes:
+- Laver, écraser et tamiser les framboises dans une passoire fine
+- Mixer les framboise et 250 g de sucre
+- Monter la crème et le sucre
+- Réunir les deux préparations
+- Verser dans la sorbetière et turbiner 40 min au congélateur
+source:
+  titre: Glace à la framboise
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Glace_%C3%A0_la_framboise&oldid=333457
+  revision: 333457
+  date: '2011-05-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Glace_%C3%A0_la_framboise&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

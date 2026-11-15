@@ -1,0 +1,31 @@
+id: anchois-a-la-catalane
+titre: Anchois à la catalane
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 12 anchois
+- 4 œufs
+- 2 cuillères à soupe d'huile d'olive
+- texte: 1 cuillère à soupe de vinaigre
+  ingredients:
+  - vinaigre
+  categorie: true
+- quelques olives, poivre
+etapes:
+- Parer les anchois et lever les filets.
+- Faire durcir les œufs (les plonger dix minute dans l'eau bouillante) les écaler, les couper en deux, séparer les
+  blancs et les jaunes et les concasser séparément.
+source:
+  titre: Anchois à la catalane
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Anchois_%C3%A0_la_catalane&oldid=451688
+  revision: 451688
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Anchois_%C3%A0_la_catalane&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; temps estimés d''après les étapes ; catégories gardées telles quelles
+    : vinaigre.'

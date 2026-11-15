@@ -1,0 +1,25 @@
+id: crepes-sucrees
+titre: Crêpes sucrées
+portions: 4
+temps:
+  preparation: 15
+  cuisson: 30
+  repos: 60
+ingredients:
+- 250 g de farine
+- 4 œufs
+- 50 cl de lait
+- 50 g de beurre
+- 1 c. à soupe de sucre
+- 1 pincée de sel
+etapes:
+- Mélanger la farine, le sucre et le sel, puis ajouter les œufs et le lait petit à petit.
+- Ajouter le beurre fondu et laisser reposer 1 heure.
+- Cuire les crêpes une à une dans une poêle chaude légèrement beurrée.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « dessert »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

@@ -1,0 +1,26 @@
+id: milk-shake
+titre: Milk-shake
+portions: 4
+temps:
+  preparation: 22
+  cuisson: 0
+  repos: 0
+ingredients:
+- 25 cl de lait
+- Une banane
+- 30 g de cacao en poudre
+- Un sachet de sucre vanillé
+etapes:
+- Après avoir épluchée la banane, mettre les ingrédients dans un mixeur
+- Mixer
+- Servir frais
+source:
+  titre: Milk-shake
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Milk-shake&oldid=452436
+  revision: 452436
+  date: '2014-10-31'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Milk-shake&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

@@ -1,0 +1,31 @@
+id: gratin-de-cereales
+titre: Gratin de céréales
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 30
+  repos: 0
+ingredients:
+- 100 g de millet ou 150 g de boulgour
+- 300 ml de bouillon de légumes
+- 2 gousses d'ail hachées
+- 4 grosses tomates en rondelles
+- mie de pain
+- huile d'olive
+- thym, origan, sel, poivre
+etapes:
+- Griller la mie de pain à l'huile d'olive avec une gousse d'ail hachée. Dans un plat à four, disposer la mie de
+  pain, puis alternez des rondelles de tomates, de l'ail haché, du thym et de l'origan et la céréale (millet ou
+  boulgour). Terminer par des rondelles de tomates. Verser ensuite le bouillon de légumes assaisonné. Cuire 30 min
+  environ (moins s'il s'agit de boulgour) à 180 °C.
+- Déguster ce plat avec une salade verte garnie.
+source:
+  titre: Gratin de céréales
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_de_c%C3%A9r%C3%A9ales&oldid=451987
+  revision: 451987
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Gratin_de_c%C3%A9r%C3%A9ales&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

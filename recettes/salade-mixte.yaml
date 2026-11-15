@@ -1,0 +1,33 @@
+id: salade-mixte
+titre: Salade mixte
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 0
+  repos: 0
+ingredients:
+- 1 salade
+- 150 g de croûtons de pain
+- 1 pomme verte
+- 50 g de noix
+- texte: sel, poivre, huile, vinaigre
+  ingredients:
+  - sel
+  - poivre
+  - huile
+  - vinaigre
+  categorie: true
+etapes:
+- Nettoyer et préparer la salade, ajouter les croûtons de pain, la pomme verte en dés, les noix concassées
+- Assaisonner, servir frais
+source:
+  titre: Salade mixte
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_mixte&oldid=452198
+  revision: 452198
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Salade_mixte&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes ; catégories
+    gardées telles quelles : huile, poivre, sel, vinaigre.'

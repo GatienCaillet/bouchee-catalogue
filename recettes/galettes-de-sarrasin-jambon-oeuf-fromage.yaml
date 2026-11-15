@@ -1,0 +1,28 @@
+id: galettes-de-sarrasin-jambon-oeuf-fromage
+titre: Galettes de sarrasin jambon, œuf, fromage
+portions: 4
+temps:
+  preparation: 20
+  cuisson: 20
+  repos: 60
+ingredients:
+- 250 g de farine de sarrasin
+- 1 œuf
+- 50 cl d'eau
+- 4 tranches de jambon blanc
+- 4 œufs
+- 100 g d'emmental râpé
+- 20 g de beurre
+- sel
+etapes:
+- Mélanger la farine, l'œuf, l'eau et le sel ; laisser reposer 1 heure.
+- Cuire une galette fine dans une poêle beurrée.
+- Casser un œuf au centre, ajouter le jambon et l'emmental, et replier les bords.
+- Cuire jusqu'à ce que le blanc soit pris.
+source:
+  titre: Recette Bouchée
+  url: https://github.com/GatienCaillet/bouchee-catalogue
+  auteurs: Bouchée
+  licence: CC BY-SA 4.0 (Bouchée)
+  modifications: 'Recette rédigée pour Bouchée (base « plat »), pas encore testée en cuisine : quantités et temps
+    à confirmer.'

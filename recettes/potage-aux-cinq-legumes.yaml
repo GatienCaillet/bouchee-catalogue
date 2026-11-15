@@ -1,0 +1,31 @@
+id: potage-aux-cinq-legumes
+titre: Potage aux cinq légumes
+portions: 4
+temps:
+  preparation: 31
+  cuisson: 20
+  repos: 0
+ingredients:
+- 2 pommes de terre
+- 2 carottes
+- 1 navet
+- 1 oignon
+- 1 poireau
+- 1,5 litre d'eau
+- sel, poivre, crème fraîche
+etapes:
+- Éplucher les légumes, les laver, les couper en morceaux
+- Dans la cocotte, ajouter l'eau, saler et plonger les légumes
+- Porter à ébullition et cuire 20 min
+- Passer au mixeur avec 3/4 du bouillon
+- Ajuster en ajoutant du bouillon
+source:
+  titre: Potage aux cinq légumes
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Potage_aux_cinq_l%C3%A9gumes&oldid=452094
+  revision: 452094
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Potage_aux_cinq_l%C3%A9gumes&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

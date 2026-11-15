@@ -1,0 +1,41 @@
+id: penne-arrabbiata2
+titre: Penne arrabbiata2
+portions: 4
+temps:
+  preparation: 34
+  cuisson: 12
+  repos: 0
+ingredients:
+- 500 g de penne
+- Une cuillère à soupe d'huile d'olive
+- 3 tomates épluchées et grossièrement coupées
+- 2 dl de concentré de tomate
+- 4 gousses d'ail
+- Un oignon émincé
+- 2 piments rouges
+- sel & Poivre
+etapes:
+- Faites cuire les penne et laisser cuire 12 min.
+- Faites revenir dans une poêle, l'ail et l'oignon jusqu'à transparence.
+- Ajoutez les tomates et le concentré.
+- Ajoutez les piments très finements coupés et laissez mijoter jsuqu'à ce que les tomates perdent leur consistance
+  (Ajouter un peu d'eau si la sauce s'assèche trop)
+- Dès que les pâtes sont « al dente » (légèrement croquantes), passez-les et rincez-les à l'eau fraîche.
+- Mélangez le tout dans le tout, salez et poivrez.
+- Servez chaud accompagné ou non de parmesan.
+source:
+  titre: Penne arrabbiata2
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Penne_arrabbiata2&oldid=452079
+  revision: 452079
+  date: '2014-10-28'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Penne_arrabbiata2&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
+photo:
+  fichier: Spaghetti all' arrabbiata.jpg
+  auteur: Giovanni JL from Singapore
+  licence: CC BY-SA 2.0
+  url: https://commons.wikimedia.org/wiki/File:Spaghetti_all%27_arrabbiata.jpg
+  verification: licence et auteur lus par l'API de Wikimedia Commons ; image de la page source de la recette

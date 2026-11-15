@@ -1,0 +1,24 @@
+id: oeuf-dur
+titre: Œuf dur
+portions: 4
+temps:
+  preparation: 19
+  cuisson: 12
+  repos: 0
+ingredients:
+- Œuf
+- Eau
+- Sel
+etapes:
+- Placer l'œuf dans un récipient, saler, remplir d'eau
+- Porter à ébullition, cuire 12 min.
+source:
+  titre: Œuf dur
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C5%92uf_dur&oldid=644077
+  revision: 644077
+  date: '2020-07-15'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/%C5%92uf_dur&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'

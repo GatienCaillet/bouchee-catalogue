@@ -1,0 +1,34 @@
+id: tortilla
+titre: Tortilla
+portions: 4
+temps:
+  preparation: 25
+  cuisson: 20
+  repos: 0
+ingredients:
+- 6 œufs
+- 750 g de pomme de terre
+- 2 oignons frais hachés
+- 25 cl d'huile d'olive
+- Sel, poivre.
+etapes:
+- Laver, peler et couper les pommes de terre en tranches fines
+- Dans une poêle, faites chauffer l'huile d'olive, frire les pommes de terre
+- Ajouter les oignons hachés, saler, cuire 15 min
+- Lorsque les pommes de terre commencent à dorer, les ôter de l'huile et les égoutter sur un papier absorbant
+- Dans un récipient, battre les œufs, saler
+- Ajouter les pommes de terre et les oignons, mélanger
+- Faire chauffer de l'huile d'olive dans une poêle
+- Verser le mélange œufs et pommes de terre
+- Au bout de quelques minutes, lorsque l'omelette est encore baveuse sur le dessus, la retourner
+- Terminer la cuisson (la tortilla doit être ferme et épaisse).
+source:
+  titre: Tortilla
+  url: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tortilla&oldid=649862
+  revision: 649862
+  date: '2020-11-21'
+  auteurs: Contributeurs de Wikibooks
+  historique: https://fr.wikibooks.org/w/index.php?title=Livre_de_cuisine/Tortilla&action=history
+  licence: CC BY-SA 3.0
+  modifications: 'Import automatique pour Bouchée : balisage wiki retiré, lignes d''ingrédients résolues par le
+    normaliseur sans correction manuelle ; portions estimées à 4, temps estimés d''après les étapes.'
